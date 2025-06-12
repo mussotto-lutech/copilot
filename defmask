@@ -1,0 +1,149 @@
+# Struttura dei file `.mask`
+
+Questo documento definisce la struttura, la semantica e le regole interpretative dei file `.mask` utilizzati per la descrizione di scenari, test automatici e logiche di processo nei progetti gestiti dal team.
+
+## 1. Struttura generale
+
+Un file `.mask` è un file JSON (o JSON-like) composto da una lista di blocchi/scenari principali, ciascuno contenente tipicamente:
+
+- `titolo`: (stringa) nome logico dello scenario o della sezione.
+- `mascheraComune`: (boolean) indica se la maschera è condivisa.
+- `ambiente`: (intero) indice o codice ambiente.
+- `test`: (array) eventuali test associati (spesso vuoto).
+- `fill`: oggetto che contiene la parte principale delle istruzioni (azioni, punti mask).
+
+### Esempio semplificato
+
+```json
+[
+  {
+    "titolo": "INIZIO",
+    "mascheraComune": false,
+    "ambiente": 0,
+    "test": [],
+    "fill": {
+      "sheetName": "id-foglio",
+      "numberOfRow": 3,
+      "fillData": [
+        { ...punto mask 1... },
+        { ...punto mask 2... }
+      ],
+      "Records": null
+    },
+    "errori": []
+  }
+]
+```
+
+## 2. Punti mask (azioni)
+
+Ogni elemento di `fillData` è detto “punto mask” e rappresenta una singola azione, controllo o operazione. Un punto mask è composto da:
+
+- `test`: oggetto che definisce l’azione/controllo.
+  - `errore`: (stringa) descrizione errore (spesso vuoto).
+  - `element`: oggetto con la definizione dell’oggetto su cui agire.
+    - `test`: **TIPO DI OGGETTO** (vedi sezione 3)
+    - `label`: etichetta logica o visualizzata.
+    - `xPath`/`tmpxPath`: (opzionale) selettore xpath per oggetti web.
+    - altri campi: dipendono dal tipo di oggetto.
+  - `ready`: (boolean) se l’azione è pronta da eseguire.
+  - `input`: (string/oggetto) rappresentazione serializzata dell’input.
+  - `attributi`: (opzionale) attributi extra.
+- `commento`: (opzionale) descrizione o annotazione.
+- `values`: array di valori associati (es. valore da inserire, selezionare, aspettarsi).
+
+### Esempio di punto mask
+
+```json
+{
+  "test": {
+    "errore": "",
+    "element": {
+      "test": "input",
+      "label": "Username:",
+      "xPath": "//input[@id='user']"
+    },
+    "ready": true,
+    "input": "{ test:'input', label:'Username:' }"
+  },
+  "commento": null,
+  "values": ["utente_prova"]
+}
+```
+
+## 3. Tipi di oggetto (`element.test`)
+
+Il campo **`element.test`** è il discriminante principale del punto mask:
+- Se rappresenta un **oggetto HTML/web**, può essere ad esempio:
+  - `"input"`: campo di testo
+  - `"pulsante"`: button
+  - `"checkbox"`, `"select"`, `"dialog"`, ecc.
+  - `"url"`: verifica o impostazione URL
+  - `"massimizza"`: comando browser
+- Se rappresenta un **oggetto non web/logico**:
+  - `"variabililocali"`: variabile di scenario (per flag, dati, stato, ecc.)
+  - `"strutturadafontedati"`: operazioni su dati esterni (query, fonti dati)
+  - `"errore"`: gestione e verifica condizioni di errore
+  - `"Fase"`: stato/fase dello scenario
+  - `"NumeroPolizza"`, `"CESITOCASOTEST"`, ecc.: variabili custom di progetto
+
+### Regole di risoluzione degli oggetti
+
+- Se è presente `xPath` (o `tmpxPath`), la ricerca dell’oggetto nel DOM avviene direttamente tramite selettore.
+- Se assente, la ricerca avviene tramite `label` o altre regole custom.
+- Per gli oggetti non web, il campo `label` è usato come chiave logica, non per ricerca nel DOM.
+
+#### Esempio HTML con xpath
+
+```json
+{
+  "test": {
+    "element": {
+      "test": "pulsante",
+      "label": "Conferma",
+      "tmpxPath": "(//button[@type='submit'])[1]"
+    }
+  },
+  "values": ["click"]
+}
+```
+
+#### Esempio oggetto logico
+
+```json
+{
+  "test": {
+    "element": {
+      "test": "variabililocali",
+      "label": "AdeguataVerifica",
+      "dati": "{\"hidden\":true,\"globale\":false}"
+    }
+  },
+  "values": ["NO"]
+}
+```
+
+## 4. Valori, condizioni, input
+
+- **`values`**: array con i valori da impostare/applicare/attendere.
+- **`input`**: rappresentazione dell’input (serializzata o oggetto).
+- **Condizioni**: alcuni oggetti possono avere un array `condizioni`, che specificano logiche di attivazione/esecuzione (es. solo se una variabile è uguale a un certo valore).
+- **`guid`**: identificativo univoco dell’azione (facoltativo ma consigliato).
+
+## 5. Estendibilità
+
+Nuovi tipi di oggetto/azione possono essere aggiunti. Ogni nuovo tipo deve essere documentato in questa guida, specificando:
+- Regole di ricerca/identificazione (xpath, label, ecc.)
+- Semantica dei valori
+- Comportamento atteso
+
+## 6. Best practice
+
+- Usare sempre `guid` per identificare univocamente ogni punto mask.
+- Preferire `xPath` quando possibile per oggetti web.
+- Mantenere coerenza di nomenclatura per i label e i tipi di oggetto.
+- Aggiornare questa documentazione ogni volta che viene introdotto un nuovo tipo di oggetto o logica.
+
+---
+
+**Questo file è il riferimento principale per la comprensione e la manipolazione dei file `.mask` nel repository.**
