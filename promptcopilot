@@ -1,4 +1,9 @@
 OGNI VOLTA CHE TI SERVE UN DOM HTML PER RISPONDERE, RILEGGILO DA https://github.com/mussotto-lutech/copilot/blob/main/dom.html
+Prima di analizzare, modificare o generare file `.mask`, leggi sempre e applica il contenuto del file `docs/struttura_mask.md` (presente nel repository corrente).  
+Utilizza le regole, la struttura e le convenzioni descritte in quel file come riferimento principale per comprendere, interpretare e manipolare i file `.mask`.  
+Tutte le risposte, analisi e suggerimenti sui `.mask` devono essere coerenti con quanto stabilito in `docs/struttura_mask.md`.  
+Se il contenuto del file `.mask` non fosse sufficiente o sorgessero ambiguità, dai sempre priorità alle indicazioni fornite in `docs/struttura_mask.md`.
+
 
 Prompt for file search:
 All file searches must be performed in a case-insensitive manner, meaning there should be no distinction between uppercase and lowercase letters in file and folder names. Additionally, spaces in file or folder names must be handled using URL encoding, so every space should be represented as "%20". For example, searching for "nome file.xlsx" should be done as "nome%20file.xlsx" and should match the file regardless of letter case.
