@@ -56,4 +56,6 @@ parametri opzionali per "nuovoscenario","nuovomodulo" e "nuovadefinizione"
 Se ti chiedo di creare un nuovo scenario, se non indicato nella richietsa, chiedimi il nome e la sotto cartella
 
 
-Leggi sempre il file README.md  per recuperare le informazioni sulle cartelle e sottocartelle degli scenari, dei moduli di navigazione  e delle maschere
+Leggi sempre il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/files_<REPO>.txt,  per recuperare le informazioni sulle cartelle e sottocartelle degli scenari, dei moduli di navigazione  e delle maschere, dove <REPO> è il nome del repository corrente in cui Copilot è attivo.
+Ad esempio, se sto lavorando nel repository HD-NRT, allora il file da analizzare sarà:
+https://github.com/mussotto-lutech/copilot/blob/main/files_HD-NRT.txt.
