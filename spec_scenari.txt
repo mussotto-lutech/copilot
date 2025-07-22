@@ -1,0 +1,98 @@
+# SPECIFICA FILE DI CONFIGURAZIONE ESECUZIONE SCENARIO (.json)
+
+Questo file descrive la struttura del file JSON utilizzato per eseguire uno scenario applicativo.
+I campi elencati sono utilizzati dal motore di esecuzione per caricare moduli, dati, dipendenze e logica operativa.
+
+---
+
+### fileModulo : string
+OBBLIGATORIO.  
+Path che indica il modulo principale utilizzato dallo scenario. Il file è solitamente in formato `.json`.  
+Tutti i path possono iniziare con il token speciale `<<PATH>>`, che rappresenta la root del progetto e viene risolta dinamicamente.
+
+---
+
+### fileDefinizione : string
+OBBLIGATORIO.  
+File `.xlsx` che definisce tutte le maschere dello scenario, ognuna in un foglio separato.  
+La prima riga di ciascun foglio contiene i nomi dei campi della maschera.  
+A ogni file `.xlsx` corrisponde un file `.mask` che definisce struttura e azioni, come specificato in:  
+https://github.com/mussotto-lutech/copilot/blob/main/defmask
+
+---
+
+### fileDati : string|null
+Facoltativo.  
+Percorso a un file `.xls` contenente i dati di input.  
+Alternativa semplice a `fonteDati` + `queryDati`.
+
+---
+
+### fonteDati : string|null
+Facoltativo.  
+Definizione custom per la connessione a una fonte dati (JSON, Excel, DB, ecc.).  
+Utilizzato insieme a `queryDati` per generare la tabella di input principale per lo scenario.
+
+---
+
+### queryDati : string
+OBBLIGATORIO se è presente `fonteDati`.  
+Contiene l'istruzione SQL da eseguire sulla `fonteDati` per produrre la tabella di input.
+
+---
+
+### queryCache : string|null
+Facoltativo.  
+Percorso a un file `.cache` contenente il risultato pre-calcolato della `queryDati`.
+
+---
+
+### usaCache : boolean
+Facoltativo.  
+Se `true`, il contenuto di `queryCache` viene usato al posto dell'esecuzione della query.
+
+---
+
+### nomeScenario : string
+OBBLIGATORIO.  
+Percorso al file `.ibt` corrente (cioè sé stesso). Serve per identificazione, logging e gestione delle dipendenze.
+
+---
+
+### scenariUsati : object
+Facoltativo.  
+Mappa di file `.ibt` esterni utilizzati come dipendenze. Le chiavi e i valori coincidono.  
+Utilizzato per includere scenari comuni (es. login, lookup, validatori condivisi).
+
+---
+
+### interrompi : boolean
+Facoltativo.  
+Se `true`, interrompe l'esecuzione dello scenario in caso di errore nella riga corrente.
+
+---
+
+### reset : boolean
+Facoltativo.  
+Se `true`, il driver Selenium viene riavviato dopo ogni riga eseguita, garantendo isolamento completo.
+
+---
+
+### moduloIniziale : string|null
+Facoltativo.  
+Nome di una DLL o eseguibile da eseguire **prima** dell'avvio dello scenario.  
+Usato per setup, autenticazioni o step preliminari.
+
+---
+
+### moduloFinale : string|null
+Facoltativo.  
+Nome di una DLL o eseguibile da eseguire **dopo** la conclusione dello scenario.  
+Usato per cleanup, notifiche, export, ecc.
+
+---
+
+### guid : string|null
+Facoltativo.  
+Identificativo univoco dello scenario.  
+Formato atteso: GUID (es. 550e8400-e29b-41d4-a716-446655440000).
