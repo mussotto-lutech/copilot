@@ -1,0 +1,213 @@
+-Questo repository contiene principalmente i files utilizzati dal prodotto custom i-abat per eseguire degli script web utilizzando selenium.
+-I files principali degli script sono composti da :
+- file di navigazione tra le videate, files in formato json presenti nella cartella moduli e nelle sue sottocartelle.
+- file di definizione delle varie videate, vi sono files speculari, con lo stesso nome ma uno in formato xlsx e uno in formato json con estensione .mask
+per leggere le definizioni delle singole maschere usa i files .mask. I files delle maschere si trovano nella cartella Fogli Excel\DEFINIZIONI e neile sue sottocartelle
+
+-Gli script vengono definiti scenari
+-La definizione degli scenari è contenuta in files con estensione .ibt
+-I files ibt sono contenuti nella cartella scenari e nelle sue sottodirectory
+
+-il files ibt sono dei files strutturati json, le principali informazioni sono:
+-fileModulo = nome del files jspon che contiene le regole di navigazione tra le videate web
+-fileDefinizione = nome del file excel che contiene la definizione delle videate riferite dal filemodulo 
+-nomeScenario = il path del file .ibt
+-moduliUsati = eventuale elenco di altri moduli .json utilizzati dallo scenario
+-scenariUsati = eventuale elenco di altri scenari richiamati all'ineerno scenario , solitamente questi moduli si occupano di funzion icomuni come la login
+-file dati eventuale file .xlsx , contenente n fogli, uno per maschera, in cui è definito l'input da utilizzare durante uno scenario, ogni ria è un caso diverso
+
+per ogni maschera sono indicate gli oggetti web utili per riconoscerla ,  gli oggetti web con cu interagire, ed eventuali altre azioni custom
+per ogni file di definizione xls, esiste nello stesso path un file json di più semplice interpretazione con estensione .mask
+la voce <<PATH>> indica la root direcory del repository
+
+Principali cartelle:
+Scenari contiene i files ibt
+Moduli contiene i files .json di definizione delle videate
+Fogli Excel contiene i files di definizione .xls e i rispettivi .mask, contiene anche i files dati utilizzati dagli scenari 
+
+Prima di rispondere a domande riguardanti gli scenari o le loro cartelle, leggi sempre da questo files l’elenco delle sottocartelle degli scenari e utilizza queste informazioni per rispondere con precisione.
+
+
+Le sottocartelle della cartella Scenari sono:
+ Scenari/ELABORAZIONI_VARIE
+ Scenari/MIGRAZIONE
+ Scenari/POSTRIBALTAMENTO
+ Scenari/ROBOT
+ Scenari/SCENARI COMUNI
+ Scenari/STAMPE
+ Scenari/UEFA
+ Scenari/UNICO
+ Scenari/WSO2
+ Scenari/MIGRAZIONE/CAUZIONI
+ Scenari/MIGRAZIONE/MIG DANNI AUTO
+ Scenari/MIGRAZIONE/MIG DANNI RE
+ Scenari/ROBOT/PICO
+ Scenari/UEFA/ANAGRAFICA
+ Scenari/UEFA/CONTROLLI CONTABILI
+ Scenari/UEFA/DANNI
+ Scenari/UEFA/VITA
+ Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
+ Scenari/UEFA/CONTROLLI CONTABILI/INCASSI
+ Scenari/UEFA/DANNI/EMISSIONI
+ Scenari/UEFA/DANNI/EMISSIONI FAST
+ Scenari/UEFA/DANNI/POSTVENDITA
+ Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA
+ Scenari/UEFA/DANNI/SOSTITUZIONI
+ Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA
+ Scenari/UEFA/VITA/EMISSIONI
+ Scenari/UEFA/VITA/POSTVENDITA
+ Scenari/UEFA/VITA/EMISSIONI/HDI
+ Scenari/UNICO/ANAGRAFICA
+ Scenari/UNICO/CONTROLLI CONTABILI
+ Scenari/UNICO/DANNI
+ Scenari/UNICO/ELABORAZIONE MASSIVE
+ Scenari/UNICO/VITA
+ Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA
+ Scenari/UNICO/CONTROLLI CONTABILI/INCASSI
+ Scenari/UNICO/CONTROLLI CONTABILI/TITOLI
+ Scenari/UNICO/DANNI/EMISSIONI
+ Scenari/UNICO/DANNI/POSTVENDITA
+ Scenari/UNICO/DANNI/SOSTITUZIONI
+ Scenari/UNICO/VITA/EMISSIONI
+ Scenari/UNICO/VITA/POSTVENDITA
+ Scenari/UNICO/VITA/Supernova
+ Scenari/UNICO/VITA/XML BANCA SELLA
+ Scenari/UNICO/VITA/EMISSIONI/CBA
+ Scenari/UNICO/VITA/EMISSIONI/HDI
+ Scenari/WSO2/DANNI
+ Scenari/WSO2/VITA
+ Scenari/WSO2/DANNI/EMISSIONI
+ Scenari/WSO2/DANNI/POSTVENDITA
+ Scenari/WSO2/VITA/EMISSIONI
+ Scenari/WSO2/VITA/EMISSIONI/HDI
+
+Le sottocartelle della cartella moduli sono:
+ moduli/ELABORAZIONI_VARIE
+ moduli/MIGRAZIONE
+ moduli/MODULI COMUNI
+ moduli/Output
+ moduli/POSTRIBALTAMENTO
+ moduli/ROBOT
+ moduli/SCENARI COMUNI
+ moduli/STAMPE
+ moduli/UEFA
+ moduli/UNICO
+ moduli/WSO2
+ moduli/MIGRAZIONE/CAUZIONI
+ moduli/MIGRAZIONE/MIG DANNI AUTO
+ moduli/MIGRAZIONE/MIG DANNI RE
+ moduli/MODULI COMUNI/DANNI
+ moduli/MODULI COMUNI/ROBOT
+ moduli/MODULI COMUNI/VITA
+ moduli/ROBOT/PICO
+ moduli/ROBOT/PICO/ROBOT
+ moduli/ROBOT/PICO/ROBOT/PICO
+ moduli/UEFA/ANAGRAFICA
+ moduli/UEFA/CONTROLLI CONTABILI
+ moduli/UEFA/DANNI
+ moduli/UEFA/VITA
+ moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
+ moduli/UEFA/CONTROLLI CONTABILI/INCASSI
+ moduli/UEFA/DANNI/EMISSIONI
+ moduli/UEFA/DANNI/EMISSIONI FAST
+ moduli/UEFA/DANNI/POSTVENDITA
+ moduli/UEFA/DANNI/POSTVENDITA FULL UEFA
+ moduli/UEFA/DANNI/SOSTITUZIONI
+ moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA
+ moduli/UEFA/VITA/EMISSIONI
+ moduli/UEFA/VITA/POSTVENDITA
+ moduli/UEFA/VITA/EMISSIONI/HDI
+ moduli/UNICO/ANAGRAFICA
+ moduli/UNICO/CONTROLLI CONTABILI
+ moduli/UNICO/DANNI
+ moduli/UNICO/ELABORAZIONI MASSIVE
+ moduli/UNICO/VITA
+ moduli/UNICO/CONTROLLI CONTABILI/FOGLI CASSA
+ moduli/UNICO/CONTROLLI CONTABILI/INCASSI
+ moduli/UNICO/CONTROLLI CONTABILI/TITOLI
+ moduli/UNICO/DANNI/EMISSIONI
+ moduli/UNICO/DANNI/POSTVENDITA
+ moduli/UNICO/DANNI/SOSTITUZIONI
+ moduli/UNICO/VITA/EMISSIONI
+ moduli/UNICO/VITA/POSTVENDITA
+ moduli/UNICO/VITA/Supernova
+ moduli/UNICO/VITA/XML BANCA SELLA
+ moduli/UNICO/VITA/EMISSIONI/CBA
+ moduli/UNICO/VITA/EMISSIONI/HDI
+ moduli/WSO2/DANNI
+ moduli/WSO2/VITA
+ moduli/WSO2/DANNI/EMISSIONI
+ moduli/WSO2/DANNI/POSTVENDITA
+ moduli/WSO2/VITA/EMISSIONI
+ moduli/WSO2/VITA/EMISSIONI/HDI
+
+Le sottocartelle della cartella Fogli Excel sono:
+ Fogli Excel/DATI
+ Fogli Excel/Definizioni
+ Fogli Excel/DATI/ROBOT
+ Fogli Excel/DATI/STAMPE
+ Fogli Excel/DATI/UEFA
+ Fogli Excel/DATI/UNICO
+ Fogli Excel/DATI/UEFA/VITA
+ Fogli Excel/DATI/UEFA/VITA/POSTVENDITA
+ Fogli Excel/DATI/UNICO/DANNI
+ Fogli Excel/DATI/UNICO/VITA
+ Fogli Excel/DATI/UNICO/DANNI/EMISSIONI
+ Fogli Excel/DATI/UNICO/VITA/POSTVENDITA
+ Fogli Excel/Definizioni/DANNI
+ Fogli Excel/Definizioni/ELABORAZIONI_VARIE
+ Fogli Excel/Definizioni/MIGRAZIONE
+ Fogli Excel/Definizioni/MODULI COMUNI
+ Fogli Excel/Definizioni/POSTRIBALTAMENTO
+ Fogli Excel/Definizioni/ROBOT
+ Fogli Excel/Definizioni/SCENARI COMUNI
+ Fogli Excel/Definizioni/STAMPE
+ Fogli Excel/Definizioni/UEFA
+ Fogli Excel/Definizioni/UNICO
+ Fogli Excel/Definizioni/WSO2
+ Fogli Excel/Definizioni/DANNI/PostVendita
+ Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI
+ Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI AUTO
+ Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE
+ Fogli Excel/Definizioni/ROBOT/PICO
+ Fogli Excel/Definizioni/ROBOT/PICO/Definizioni
+ Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT
+ Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT/PICO
+ Fogli Excel/Definizioni/UEFA/ANAGRAFICA
+ Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI
+ Fogli Excel/Definizioni/UEFA/DANNI
+ Fogli Excel/Definizioni/UEFA/VITA
+ Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
+ Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI
+ Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI
+ Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST
+ Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA
+ Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA
+ Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI
+ Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA
+ Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI
+ Fogli Excel/Definizioni/UEFA/VITA/POSTVENDITA
+ Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI
+ Fogli Excel/Definizioni/UNICO/ANAGRAFICA
+ Fogli Excel/Definizioni/UNICO/CONTROLLI CONTABILI
+ Fogli Excel/Definizioni/UNICO/DANNI
+ Fogli Excel/Definizioni/UNICO/ELABORAZIONI MASSIVE
+ Fogli Excel/Definizioni/UNICO/VITA
+ Fogli Excel/Definizioni/UNICO/CONTROLLI CONTABILI/FOGLI CASSA
+ Fogli Excel/Definizioni/UNICO/CONTROLLI CONTABILI/INCASSI
+ Fogli Excel/Definizioni/UNICO/CONTROLLI CONTABILI/TITOLI
+ Fogli Excel/Definizioni/UNICO/DANNI/EMISSIONI
+ Fogli Excel/Definizioni/UNICO/DANNI/POSTVENDITA
+ Fogli Excel/Definizioni/UNICO/DANNI/SOSTITUZIONI
+ Fogli Excel/Definizioni/UNICO/VITA/EMISSIONI
+ Fogli Excel/Definizioni/UNICO/VITA/POSTVENDITA
+ Fogli Excel/Definizioni/UNICO/VITA/Supernova
+ Fogli Excel/Definizioni/UNICO/VITA/XML BANCA SELLA
+ Fogli Excel/Definizioni/UNICO/VITA/EMISSIONI/CBA
+ Fogli Excel/Definizioni/UNICO/VITA/EMISSIONI/HDI
+ Fogli Excel/Definizioni/WSO2/DANNI
+ Fogli Excel/Definizioni/WSO2/VITA
+ Fogli Excel/Definizioni/WSO2/DANNI/EMISSIONI
+ Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA
+ Fogli Excel/Definizioni/WSO2/VITA/EMISSIONI
+ Fogli Excel/Definizioni/WSO2/VITA/EMISSIONI/HDI
