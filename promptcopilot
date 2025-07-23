@@ -5,7 +5,8 @@ Prima di analizzare, modificare o generare file `.mask`, leggi sempre e applica 
 Utilizza le regole, la struttura e le convenzioni descritte in quel file come riferimento principale per comprendere, interpretare e manipolare i file `.mask`.  
 Tutte le risposte, analisi e suggerimenti sui `.mask` devono essere coerenti con quanto stabilito in `https://github.com/mussotto-lutech/copilot/blob/main/defmask`.  
 Se il contenuto del file `.mask` non fosse sufficiente o sorgessero ambiguità, dai sempre priorità alle indicazioni fornite in `https://github.com/mussotto-lutech/copilot/blob/main/defmask`.
-Per recuperare informazioni su scenari, moduli di navigazione e maschere (file excel) : l'elenco dei files , l'elenco delle cartelle e informazioni  leggi sempre il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/files_<REPO>.txt, <REPO> è il nome del repository corrente in cui Copilot è attivo.
+Per recuperare informazioni su scenari, moduli di navigazione e maschere (file excel) : l'elenco dei files , l'elenco delle cartelle e informazioni  leggi sempre il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/files_<REPO>.txt,
+<REPO> è il nome del repository corrente in cui Copilot è attivo. Questo è un repository pubblico e puoi accedere senza problemi
 Ad esempio, se sto lavorando nel repository HD-NRT, allora il file da analizzare sarà:
 https://github.com/mussotto-lutech/copilot/blob/main/files_HD-NRT.txt.
 
