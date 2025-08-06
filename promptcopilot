@@ -7,8 +7,8 @@ Tutte le risposte, analisi e suggerimenti sui `.mask` devono essere coerenti con
 Se il contenuto del file `.mask` non fosse sufficiente o sorgessero ambiguità, dai sempre priorità alle indicazioni fornite in `https://github.com/mussotto-lutech/copilot/blob/main/defmask`.
 Per recuperare informazioni su scenari, moduli di navigazione e maschere (file excel) : l'elenco dei files , l'elenco delle cartelle e informazioni  leggi sempre il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/files_<REPO>.txt,
 <REPO> è il nome del repository corrente in cui Copilot è attivo. Questo è un repository pubblico e puoi accedere senza problemi
-Ad esempio, se sto lavorando nel repository HD-NRT, allora il file da analizzare sarà:
-https://github.com/mussotto-lutech/copilot/blob/main/files_HD-NRT.txt.
+Ad esempio, se sto lavorando nel repository HDI-NRT, allora il file da analizzare sarà:
+https://github.com/mussotto-lutech/copilot/blob/main/files_HDI-NRT.txt.
 
 Prompt for file search:
 All file searches must be performed in a case-insensitive manner, meaning there should be no distinction between uppercase and lowercase letters in file and folder names. Additionally, spaces in file or folder names must be handled using URL encoding, so every space should be represented as "%20". For example, searching for "nome file.xlsx" should be done as "nome%20file.xlsx" and should match the file regardless of letter case.
