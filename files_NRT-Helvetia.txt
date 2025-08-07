@@ -1,0 +1,863 @@
+-Questo repository contiene principalmente i files utilizzati dal prodotto custom i-abat per eseguire degli script web utilizzando selenium.
+-I files principali degli script sono composti da :
+- file di navigazione tra le videate, files in formato json presenti nella cartella moduli e nelle sue sottocartelle.
+- file di definizione delle varie videate, vi sono files speculari, con lo stesso nome ma uno in formato xlsx e uno in formato json con estensione .mask
+per leggere le definizioni delle singole maschere usa i files .mask. I files delle maschere si trovano nella cartella Fogli Excel\DEFINIZIONI e neile sue sottocartelle
+
+-Gli script vengono definiti scenari
+-La definizione degli scenari è contenuta in files con estensione .ibt
+-I files ibt sono contenuti nella cartella scenari e nelle sue sottodirectory
+
+-il files ibt sono dei files strutturati json, le principali informazioni sono:
+-fileModulo = nome del files jspon che contiene le regole di navigazione tra le videate web
+-fileDefinizione = nome del file excel che contiene la definizione delle videate riferite dal filemodulo 
+-nomeScenario = il path del file .ibt
+-moduliUsati = eventuale elenco di altri moduli .json utilizzati dallo scenario
+-scenariUsati = eventuale elenco di altri scenari richiamati all'ineerno scenario , solitamente questi moduli si occupano di funzion icomuni come la login
+-file dati eventuale file .xlsx , contenente n fogli, uno per maschera, in cui è definito l'input da utilizzare durante uno scenario, ogni ria è un caso diverso
+
+per ogni maschera sono indicate gli oggetti web utili per riconoscerla ,  gli oggetti web con cu interagire, ed eventuali altre azioni custom
+per ogni file di definizione xls, esiste nello stesso path un file json di più semplice interpretazione con estensione .mask
+la voce <<PATH>> indica la root direcory del repository
+
+Principali cartelle:
+Scenari contiene i files ibt
+Moduli contiene i files .json di definizione delle videate
+Fogli Excel contiene i files di definizione .xls e i rispettivi .mask, contiene anche i files dati utilizzati dagli scenari 
+
+Prima di rispondere a domande riguardanti gli scenari o le loro cartelle, leggi sempre da questo files l’elenco delle sottocartelle degli scenari e utilizza queste informazioni per rispondere con precisione.
+
+
+Le sottocartelle della cartella Scenari sono:
+ [DIR] Scenari/NRT - HI
+ [DIR] Scenari/NRT - HR
+ [DIR] Scenari/OLD
+ [DIR] Scenari/NRT - HR/Nuovi Scenari
+ [DIR] Scenari/OLD/hi
+ [DIR] Scenari/OLD/NRT
+ [DIR] Scenari/OLD/Padauto
+
+I file presenti nella cartella Scenari e sottocartelle sono:
+ [FILE] Scenari/ambienteDiSviluppo.ibt
+ [FILE] Scenari/Login - Test.ibt
+ [FILE] Scenari/Login - TestDirezione.ibt
+ [FILE] Scenari/Login - TestPadauto.ibt
+ [FILE] Scenari/NRT - HI/01 - AnagraficaConvenzioneHI - Nodo 90020.ibt
+ [FILE] Scenari/NRT - HI/04 - Anagrafica - Prevalorizzazione campi Trattenuta.ibt
+ [FILE] Scenari/NRT - HI/07 - Anagrafica - Controllo Codice Licenziamento.ibt
+ [FILE] Scenari/NRT - HI/09 - Anagrafica - Legame 1-2.ibt
+ [FILE] Scenari/NRT - HI/12 - Emissione Polizza - Soggetto Pagatore - Nodo 90300.ibt
+ [FILE] Scenari/NRT - HI/20 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/NRT - HI/21 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/NRT - HI/25 - Titolo - Emissione Polizza.ibt
+ [FILE] Scenari/NRT - HI/28 - Incasso Cliente - Emissione Polizza.ibt
+ [FILE] Scenari/NRT - HI/31 - Generazione Rate - Emissione Polizza RE.ibt
+ [FILE] Scenari/NRT - HI/33 - Generazione RataUnica - Emissione PolizzaRE.ibt
+ [FILE] Scenari/NRT - HI/38 - Generazione Rate RE- SostituzioneInCorso.ibt
+ [FILE] Scenari/NRT - HI/40 - Generazione Rate RE- Variazione in Corso.ibt
+ [FILE] Scenari/NRT - HI/42 - Sospensione PolizzaRE.ibt
+ [FILE] Scenari/NRT - HI/44 - Riattivazione PolizzaRE.ibt
+ [FILE] Scenari/NRT - HI/45 - Variazione Forma Pagamento.ibt
+ [FILE] Scenari/NRT - HI/46 - Storno Variazione Forma Pagamento.ibt
+ [FILE] Scenari/NRT - HR/01- Settore I Auto.ibt
+ [FILE] Scenari/NRT - HR/02 - Settore III Autobus.ibt
+ [FILE] Scenari/NRT - HR/03 - Settore IV Autocarri.ibt
+ [FILE] Scenari/NRT - HR/04 - Settore IV Autocarri-rimorchio.ibt
+ [FILE] Scenari/NRT - HR/05 - Settore V Motocicli.ibt
+ [FILE] Scenari/NRT - HR/06 - Settore V Ciclomotori.ibt
+ [FILE] Scenari/NRT - HR/07 - Settore VII Agricole.ibt
+ [FILE] Scenari/NRT - HR/08 - Settore VIII Natanti.ibt
+ [FILE] Scenari/NRT - HR/09 - CU Famiglia - Autovettura.ibt
+ [FILE] Scenari/NRT - HR/1-Emissione polizza con garanzia eventi socio-politici e forma assicurativa a valore intero.ibt
+ [FILE] Scenari/NRT - HR/10 - CU Famiglia - Autocarro.ibt
+ [FILE] Scenari/NRT - HR/11 - CU Famiglia - Moto.ibt
+ [FILE] Scenari/NRT - HR/12 - RE - LaMiaCasa Full.ibt
+ [FILE] Scenari/NRT - HR/13 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/13 - Provv.72 - Auto.rpt.ibt
+ [FILE] Scenari/NRT - HR/14 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/15 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/16 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/17 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/18 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/19 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/2-Sostituzione a scadenza con garanzia eventi socio-politici e forma assicurativa a valore intero.ibt
+ [FILE] Scenari/NRT - HR/20 - Provv.72 - Auto.ibt
+ [FILE] Scenari/NRT - HR/21 - Riclassificazione ATR.ibt
+ [FILE] Scenari/NRT - HR/22 - Sostituzione a Scadenza Auto.ibt
+ [FILE] Scenari/NRT - HR/23 - Sostituzione in Corso Auto.ibt
+ [FILE] Scenari/NRT - HR/24 - Sostituzione a Scadenza Autocarro.ibt
+ [FILE] Scenari/NRT - HR/25 - Sostituzione Autocarro - MerciPericolose.ibt
+ [FILE] Scenari/NRT - HR/26 - Sostituzione in Corso Autocarro.ibt
+ [FILE] Scenari/NRT - HR/27 - Sostituzione a Scadenza Motociclo.ibt
+ [FILE] Scenari/NRT - HR/28 - Sostituzione in Corso Motociclo.ibt
+ [FILE] Scenari/NRT - HR/29 - Incasso Multiplo.ibt
+ [FILE] Scenari/NRT - HR/3-Sostituzione con cambio targa con garanzia eventi socio-politici e forma assicurativa a valore intero.ibt
+ [FILE] Scenari/NRT - HR/30 - Sospensione Auto.ibt
+ [FILE] Scenari/NRT - HR/31 - RiattavazioneAuto.ibt
+ [FILE] Scenari/NRT - HR/32 - RiattivazioneMotociclo.ibt
+ [FILE] Scenari/NRT - HR/33 - RiattivazioneAuto - Provv.72.ibt
+ [FILE] Scenari/NRT - HR/34 - Annullo Auto.ibt
+ [FILE] Scenari/NRT - HR/35 - Annullo Autocarro.ibt
+ [FILE] Scenari/NRT - HR/36 - RE - MyCondominium PropostaVeloce.ibt
+ [FILE] Scenari/NRT - HR/37 - RE - EmissionePolizza.ibt
+ [FILE] Scenari/NRT - HR/38 - RE - Car+Decennale.ibt
+ [FILE] Scenari/NRT - HR/39 - RE - App testo libero senza premio.ibt
+ [FILE] Scenari/NRT - HR/4-Emissione con garanzia Fenomeni naturali e forma assicurativa a valore intero.ibt
+ [FILE] Scenari/NRT - HR/40 - RE - App testo libero con premio.ibt
+ [FILE] Scenari/NRT - HR/41 - RE - Sostituzione in Corso.ibt
+ [FILE] Scenari/NRT - HR/42 - RE - Sostituzione a Scadenza.ibt
+ [FILE] Scenari/NRT - HR/43 - RE - CambioVeicolo.ibt
+ [FILE] Scenari/NRT - HR/44 - RE - AnnulloPolizza.ibt
+ [FILE] Scenari/NRT - HR/45 - RE - CambioUbicazione.ibt
+ [FILE] Scenari/NRT - HR/46 - Auto - Incasso Titolo.ibt
+ [FILE] Scenari/NRT - HR/47 - RE - Incasso Titolo.ibt
+ [FILE] Scenari/NRT - HR/48 - Chiusura Foglio Cassa.ibt
+ [FILE] Scenari/NRT - HR/49 - RE - Proposta PolizzaMadre.ibt
+ [FILE] Scenari/NRT - HR/50 - RE - Inclusione LibroMatricola.ibt
+ [FILE] Scenari/NRT - HR/51 - RE - Escluzione LibroMatricola.ibt
+ [FILE] Scenari/NRT - HR/52 - Riclassificazione CU FAMIGLIA.ibt
+ [FILE] Scenari/NRT - HR/53 - Sospeso Broker.ibt
+ [FILE] Scenari/NRT - HR/54 - Cauzioni.ibt
+ [FILE] Scenari/NRT - HR/55 - Quietanza Variazione dati Auto.ibt
+ [FILE] Scenari/NRT - HR/56 - Auto - Ristampa Documenti.ibt
+ [FILE] Scenari/NRT - HR/57 - RE - Ristampa Documenti.ibt
+ [FILE] Scenari/NRT - HR/Anagrafica - Persona Fisica.ibt
+ [FILE] Scenari/NRT - HR/Anagrafica - Persona Giuridica.ibt
+ [FILE] Scenari/NRT - HR/BLACK LIST - Gestione Fidi.ibt
+ [FILE] Scenari/NRT - HR/Cruscotto Autorizzazioni - Indicatore Semaforo.ibt
+ [FILE] Scenari/NRT - HR/Direzione - Helvetia Protezione Oggi - assenza op variazione generica.ibt
+ [FILE] Scenari/NRT - HR/Gestione Vincoli Direzione.ibt
+ [FILE] Scenari/NRT - HR/Helvetia Protezione Oggi - assenza op variazione generica.ibt
+ [FILE] Scenari/NRT - HR/LaMiaCasa Full - Upload Documentale MUP.ibt
+ [FILE] Scenari/NRT - HR/Mensilizzazione Premi - Helvetia Esercio Commerciale.ibt
+ [FILE] Scenari/NRT - HR/Mensilizzazione Premi - LaMiaCasaFull.ibt
+ [FILE] Scenari/NRT - HR/Mensilizzazione Premi - MultiOffice.ibt
+ [FILE] Scenari/NRT - HR/old38 - RE - Car+Decennale.ibt
+ [FILE] Scenari/NRT - HR/RE - CarPrivati e CarMerloni.ibt
+ [FILE] Scenari/NRT - HR/RE - DecennalePostuma.ibt
+ [FILE] Scenari/NRT - HR/RE - Tailor Made Property Leasing Immobiliare.ibt
+ [FILE] Scenari/NRT - HR/RE - Tailor Made Property Rischi Agricoli.ibt
+ [FILE] Scenari/NRT - HR/RE - Tailor Made Property Rischi Nominati.ibt
+ [FILE] Scenari/NRT - HR/RE Direzione - Tailor Made Property Leasing Immobiliare.ibt
+ [FILE] Scenari/NRT - HR/RE Direzione - Tailor Made Property Rischi Agricoli.ibt
+ [FILE] Scenari/NRT - HR/RE Direzione - Tailor Made Property Rischi Nominati.ibt
+ [FILE] Scenari/NRT - HR/Nuovi Scenari/Veicoli d'epoca - Upload Documentale MUP.ibt
+ [FILE] Scenari/NRT - HR/Nuovi Scenari/Veicoli d'epoca - Upload Documentale MUP.rpt
+ [FILE] Scenari/OLD/hi/02 - AnagraficaConvenzioneHI - Nodo 90300.ibt
+ [FILE] Scenari/OLD/hi/03 - AnagraficaConvenzioneHI - Nodo 00388.ibt
+ [FILE] Scenari/OLD/hi/05 - AnagraficaConvenzioneITALC.ibt
+ [FILE] Scenari/OLD/hi/06 - Anagrafica - Trattenuta Cedolino Non Selezionabile per soggetti GIURIDICI.ibt
+ [FILE] Scenari/OLD/hi/08 - Anagrafica - Controllo Codice Licenziamento + Elimina.ibt
+ [FILE] Scenari/OLD/hi/10 - Anagrafica - Legame 2-1.ibt
+ [FILE] Scenari/OLD/hi/11 - Emissione Polizza - Soggetto Pagatore - Nodo 90020.ibt
+ [FILE] Scenari/OLD/hi/13 - Emissione Polizza - Soggetto Pagatore - Nodo 00388.ibt
+ [FILE] Scenari/OLD/hi/14 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/hi/15 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/hi/16 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/hi/17 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/hi/18 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/hi/19 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/hi/22 - Dati Tecnici di Polizza - Forma di Pagamento.ibt
+ [FILE] Scenari/OLD/hi/23 - Dati Tecnici di Polizza - Forma di Pagamento.ibt
+ [FILE] Scenari/OLD/hi/24 - Dati Tecnici di Polizza - Forma di Pagamento.ibt
+ [FILE] Scenari/OLD/hi/26 - Titolo - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/hi/27 - Titolo - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/hi/29 - Incasso Cliente - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/hi/30 - Incasso Cliente - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/hi/32 - Generazione Rate - Emissione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/hi/34 - Generazione RataUnica - Emissione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/hi/35 - Generazione Rate RE- SostituzioneScadenza.ibt
+ [FILE] Scenari/OLD/hi/36 - Generazione Rate RE- Variazione a Scadenza.ibt
+ [FILE] Scenari/OLD/hi/37 - Generazione Rate AUTO - SostituzioneScadenza.ibt
+ [FILE] Scenari/OLD/hi/39 - Generazione Rate AUTO - SostituzioneInCorso.ibt
+ [FILE] Scenari/OLD/hi/41 - Sospensione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/hi/43 - Riattivazione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/NRT/01- Settore I Auto.ibt
+ [FILE] Scenari/OLD/NRT/02 - Settore III Autobus.ibt
+ [FILE] Scenari/OLD/NRT/03 - Settore IV Autocarri.ibt
+ [FILE] Scenari/OLD/NRT/04 - Settore IV Autocarri-rimorchio.ibt
+ [FILE] Scenari/OLD/NRT/05 - Settore V Motocicli.ibt
+ [FILE] Scenari/OLD/NRT/06 - Settore V Ciclomotori.ibt
+ [FILE] Scenari/OLD/NRT/07 - Settore VII Agricole.ibt
+ [FILE] Scenari/OLD/NRT/08 - Settore VIII Natanti.ibt
+ [FILE] Scenari/OLD/NRT/09 - CU Famiglia - Autovettura.ibt
+ [FILE] Scenari/OLD/NRT/10 - CU Famiglia - Autocarro.ibt
+ [FILE] Scenari/OLD/NRT/11 - CU Famiglia - Moto.ibt
+ [FILE] Scenari/OLD/NRT/12 - RE - LaMiaCasa Full.ibt
+ [FILE] Scenari/OLD/NRT/14 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/16 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/17 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/18 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/19 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/20 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/21 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/22 - Provv.72 - Auto.ibt
+ [FILE] Scenari/OLD/NRT/24 - Riclassificazione ATR.ibt
+ [FILE] Scenari/OLD/NRT/25 - Sostituzione a Scadenza Auto.ibt
+ [FILE] Scenari/OLD/NRT/26 - Sostituzione in Corso Auto.ibt
+ [FILE] Scenari/OLD/NRT/27 - Sostituzione a Scadenza Autocarro.ibt
+ [FILE] Scenari/OLD/NRT/28 - Sostituzione Autocarro - MerciPericolose.ibt
+ [FILE] Scenari/OLD/NRT/29 - Sostituzione in Corso Autocarro.ibt
+ [FILE] Scenari/OLD/NRT/30 - Sostituzione a Scadenza Motociclo.ibt
+ [FILE] Scenari/OLD/NRT/31 - Sostituzione in Corso Motociclo.ibt
+ [FILE] Scenari/OLD/NRT/32 - SostituzioneProvv.72 - Modifica intestatario al PRA.ibt
+ [FILE] Scenari/OLD/NRT/33 - SostituzioneProvv.72 - CambioSettore I-II - StessaTarga.ibt
+ [FILE] Scenari/OLD/NRT/34 - SostituzioneProvv.72 - CambioSettore I-II - TargaDiversa.ibt
+ [FILE] Scenari/OLD/NRT/35 - SostituzioneProvv.72 - CambioSettore - StessaTarga.ibt
+ [FILE] Scenari/OLD/NRT/36 - SostituzioneProvv.72 - Cambiosettore - TargaDiversa.ibt
+ [FILE] Scenari/OLD/NRT/37 - SostituzioneAuto - CambioSettore.ibt
+ [FILE] Scenari/OLD/NRT/39 - Auto - Ristampa Documenti.ibt
+ [FILE] Scenari/OLD/NRT/40 - Incasso Multiplo.ibt
+ [FILE] Scenari/OLD/NRT/41 - Sospensione Auto.ibt
+ [FILE] Scenari/OLD/NRT/42 - RiattavazioneAuto.ibt
+ [FILE] Scenari/OLD/NRT/43 - RiattivazioneMotociclo.ibt
+ [FILE] Scenari/OLD/NRT/44 - RiattivazioneAuto - Provv.72.ibt
+ [FILE] Scenari/OLD/NRT/45 - Annullo Auto.ibt
+ [FILE] Scenari/OLD/NRT/46 - Annullo Autocarro.ibt
+ [FILE] Scenari/OLD/NRT/57 - RE - MyCondominium PropostaVeloce.ibt
+ [FILE] Scenari/OLD/NRT/58 - RE - EmissionePolizza.ibt
+ [FILE] Scenari/OLD/NRT/59 - RE - Car+Decennale.ibt
+ [FILE] Scenari/OLD/NRT/61 - RE - App testo libero senza premio.ibt
+ [FILE] Scenari/OLD/NRT/62 - RE - App testo libero con premio.ibt
+ [FILE] Scenari/OLD/NRT/63 - RE - Cambio Frazionamento.ibt
+ [FILE] Scenari/OLD/NRT/64 - RE - Sostituzione in Corso.ibt
+ [FILE] Scenari/OLD/NRT/65 - RE - Sostituzione a Scadenza.ibt
+ [FILE] Scenari/OLD/NRT/66 - RE - CambioVeicolo.ibt
+ [FILE] Scenari/OLD/NRT/67 - RE - Ristampa Documenti.ibt
+ [FILE] Scenari/OLD/NRT/68 - RE - AnnulloPolizza.ibt
+ [FILE] Scenari/OLD/NRT/69 - RE - CambioUbicazione.ibt
+ [FILE] Scenari/OLD/NRT/72 - Auto - Incasso Titolo.ibt
+ [FILE] Scenari/OLD/NRT/73 - RE - Incasso Titolo.ibt
+ [FILE] Scenari/OLD/NRT/74 - Chiusura Foglio Cassa.ibt
+ [FILE] Scenari/OLD/NRT/75 - RE - Proposta PolizzaMadre.ibt
+ [FILE] Scenari/OLD/NRT/76 - RE - Inclusione LibroMatricola.ibt
+ [FILE] Scenari/OLD/NRT/77 - RE - Escluzione LibroMatricola.ibt
+ [FILE] Scenari/OLD/NRT/79 - Riclassificazione CU FAMIGLIA.ibt
+ [FILE] Scenari/OLD/NRT/80 - Sospeso Broker.ibt
+ [FILE] Scenari/OLD/NRT/81 - Cauzioni.ibt
+ [FILE] Scenari/OLD/NRT/82 - Quietanza Variazione dati Auto.ibt
+ [FILE] Scenari/OLD/NRT/RE - CarPrivati e CarMerloni.ibt
+ [FILE] Scenari/OLD/NRT/RE - DecennalePostuma.ibt
+ [FILE] Scenari/OLD/Padauto/01 - AnagraficaConvenzioneHI - Nodo 90020.ibt
+ [FILE] Scenari/OLD/Padauto/02 - AnagraficaConvenzioneHI - Nodo 90300.ibt
+ [FILE] Scenari/OLD/Padauto/03 - AnagraficaConvenzioneHI - Nodo 00388.ibt
+ [FILE] Scenari/OLD/Padauto/04 - Anagrafica - Prevalorizzazione campi Trattenuta.ibt
+ [FILE] Scenari/OLD/Padauto/05 - AnagraficaConvenzioneITALC.ibt
+ [FILE] Scenari/OLD/Padauto/06 - Anagrafica - Trattenuta Cedolino Non Selezionabile per soggetti GIURIDICI.ibt
+ [FILE] Scenari/OLD/Padauto/07 - Anagrafica - Controllo Codice Licenziamento.ibt
+ [FILE] Scenari/OLD/Padauto/08 - Anagrafica - Controllo Codice Licenziamento + Elimina.ibt
+ [FILE] Scenari/OLD/Padauto/10 - Anagrafica - Legame 1-2.ibt
+ [FILE] Scenari/OLD/Padauto/11 - Anagrafica - Legame 2-1.ibt
+ [FILE] Scenari/OLD/Padauto/12 - Emissione Polizza - Soggetto Pagatore - Nodo 90020.ibt
+ [FILE] Scenari/OLD/Padauto/13 - Emissione Polizza - Soggetto Pagatore - Nodo 90300.ibt
+ [FILE] Scenari/OLD/Padauto/14 - Emissione Polizza - Soggetto Pagatore - Nodo 00388.ibt
+ [FILE] Scenari/OLD/Padauto/21 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/Padauto/22 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/Padauto/23 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/Padauto/24 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/Padauto/25 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/Padauto/26 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/Padauto/27 - Data Scadenza Polizza - Emissione.ibt
+ [FILE] Scenari/OLD/Padauto/28 - Data Scadenza Polizza - Riattivazione.ibt
+ [FILE] Scenari/OLD/Padauto/29 - Dati Tecnici di Polizza - Forma di Pagamento.ibt
+ [FILE] Scenari/OLD/Padauto/30 - Dati Tecnici di Polizza - Forma di Pagamento.ibt
+ [FILE] Scenari/OLD/Padauto/31 - Dati Tecnici di Polizza - Forma di Pagamento.ibt
+ [FILE] Scenari/OLD/Padauto/32 - Titolo - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/Padauto/33 - Titolo - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/Padauto/34 - Titolo - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/Padauto/35 - Incasso Cliente - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/Padauto/36 - Incasso Cliente - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/Padauto/37 - Incasso Cliente - Emissione Polizza.ibt
+ [FILE] Scenari/OLD/Padauto/39 - Generazione Rate - Emissione Polizza RE.ibt
+ [FILE] Scenari/OLD/Padauto/40 - Generazione Rate - Emissione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/Padauto/57 - Generazione RataUnica - Emissione PolizzaRE.ibt
+ [FILE] Scenari/OLD/Padauto/58 - Generazione RataUnica - Emissione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/Padauto/61 - Generazione Rate RE- SostituzioneScadenza.ibt
+ [FILE] Scenari/OLD/Padauto/62 - Generazione Rate RE- Variazione a Scadenza.ibt
+ [FILE] Scenari/OLD/Padauto/63 - Generazione Rate AUTO - SostituzioneScadenza.ibt
+ [FILE] Scenari/OLD/Padauto/64 - Generazione Rate AUTO - Variazione a Scadenza.ibt
+ [FILE] Scenari/OLD/Padauto/65 - Generazione Rate RE- SostituzioneInCorso.ibt
+ [FILE] Scenari/OLD/Padauto/66 - Generazione Rate AUTO - SostituzioneInCorso.ibt
+ [FILE] Scenari/OLD/Padauto/67 - Generazione Rate RE- Variazione in Corso.ibt
+ [FILE] Scenari/OLD/Padauto/68 - Sospensione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/Padauto/69 - Sospensione PolizzaRE.ibt
+ [FILE] Scenari/OLD/Padauto/70 - Riattivazione Polizza AUTO.ibt
+ [FILE] Scenari/OLD/Padauto/71 - Riattivazione PolizzaRE.ibt
+ [FILE] Scenari/OLD/Padauto/71 - Riattivazione PolizzaRE.json
+ [FILE] Scenari/OLD/Padauto/72 - Annullo Post Sospensione AUTO.ibt
+ [FILE] Scenari/OLD/Padauto/73 - Variazione Forma Pagamento.ibt
+ [FILE] Scenari/OLD/Padauto/74 - Storno Variazione Forma Pagamento.ibt
+
+
+Le sottocartelle della cartella Moduli sono:
+ [DIR] Moduli/Padauto
+
+I file presenti nella cartella Moduli e sottocartelle sono:
+ [FILE] Moduli/16 - Provv.72 - Auto.json
+ [FILE] Moduli/17 - Provv.72 - Auto.json
+ [FILE] Moduli/18 - Provv.72 - Auto.json
+ [FILE] Moduli/19 - Provv.72 - Auto.json
+ [FILE] Moduli/20 - Provv.72 - Auto.json
+ [FILE] Moduli/21 - Provv.72 - Auto.json
+ [FILE] Moduli/22 - Provv.72 - Auto.json
+ [FILE] Moduli/2sostituzione a scadenza con garanzia eventi socio-politici e forma assicurativa a valore intero.json
+ [FILE] Moduli/3sostituzione con cambio targa con garanzia eventi socio-politici e forma assicurativa a valore intero.json
+ [FILE] Moduli/4emissione con garanzia fenomeni naturali e forma assicurativa a valore intero.json
+ [FILE] Moduli/ambientedisviluppo.json
+ [FILE] Moduli/Anagrafica - Persona Fisica.json
+ [FILE] Moduli/Anagrafica - Persona Giuridica.json
+ [FILE] Moduli/Annullo Auto.json
+ [FILE] Moduli/Annullo Autocarro.json
+ [FILE] Moduli/Auto - Incasso Titolo.json
+ [FILE] Moduli/Auto - Ristampa Documenti.json
+ [FILE] Moduli/black list - gestione fidi.json
+ [FILE] Moduli/Cauzioni.json
+ [FILE] Moduli/Chiusura Foglio Cassa.json
+ [FILE] Moduli/cruscotto autorizzazioni - indicatore semaforo.json
+ [FILE] Moduli/CU Famiglia - Autocarro.json
+ [FILE] Moduli/CU Famiglia - Autovettura.json
+ [FILE] Moduli/CU Famiglia - Moto.json
+ [FILE] Moduli/direzione - helvetia protezione oggi - assenza op variazione generica.json
+ [FILE] Moduli/emissione polizza con garanzia eventi socio-politici e forma assicurativa a valore intero.json
+ [FILE] Moduli/gestione vincoli direzione.json
+ [FILE] Moduli/helvetia protezione oggi - assenza op variazione generica.json
+ [FILE] Moduli/Incasso Multiplo.json
+ [FILE] Moduli/lamiacasa full - upload documentale mup.json
+ [FILE] Moduli/Login - Test.json
+ [FILE] Moduli/Login - TestDirezione.json
+ [FILE] Moduli/Login - TestPadauto.json
+ [FILE] Moduli/mensilizzazione premi - helvetia esercio commerciale.json
+ [FILE] Moduli/mensilizzazione premi - lamiacasafull.json
+ [FILE] Moduli/mensilizzazione premi - multioffice.json
+ [FILE] Moduli/Provv.72 - Auto.json
+ [FILE] Moduli/Quietanza Variazione dati Auto.json
+ [FILE] Moduli/RE - AnnulloPolizza.json
+ [FILE] Moduli/RE - App testo libero con premio.json
+ [FILE] Moduli/RE - App testo libero senza premio.json
+ [FILE] Moduli/RE - Cambio Frazionamento.json
+ [FILE] Moduli/RE - CambioUbicazione.json
+ [FILE] Moduli/RE - CambioVeicolo.json
+ [FILE] Moduli/RE - Car+Decennale.json
+ [FILE] Moduli/RE - CarPrivati e CarMerloni.json
+ [FILE] Moduli/RE - DecennalePostuma.json
+ [FILE] Moduli/RE - EmissionePolizza.json
+ [FILE] Moduli/RE - Escluzione LibroMatricola.json
+ [FILE] Moduli/RE - Incasso Titolo.json
+ [FILE] Moduli/RE - Inclusione LibroMatricola.json
+ [FILE] Moduli/RE - LaMiaCasa Full.json
+ [FILE] Moduli/RE - MyCondominium PropostaVeloce.json
+ [FILE] Moduli/RE - Proposta PolizzaMadre.json
+ [FILE] Moduli/RE - Ristampa Documenti.json
+ [FILE] Moduli/RE - Sostituzione a Scadenza.json
+ [FILE] Moduli/RE - Sostituzione in Corso.json
+ [FILE] Moduli/re -tailor made property leasing immobiliare.json
+ [FILE] Moduli/re -tailor made property rischi agricoli.json
+ [FILE] Moduli/re -tailor made property rischi nominati.json
+ [FILE] Moduli/re direzione - tailor made property leasing immobiliare.json
+ [FILE] Moduli/re direzione - tailor made property rischi agricoli.json
+ [FILE] Moduli/re direzione - tailor made property rischi nominati.json
+ [FILE] Moduli/RiattivazioneAuto - Provv.72.json
+ [FILE] Moduli/RiattivazioneAuto.json
+ [FILE] Moduli/RiattivazioneMotociclo.json
+ [FILE] Moduli/Riclassificazione ATR.json
+ [FILE] Moduli/Riclassificazione CU FAMIGLIA.json
+ [FILE] Moduli/Settore I Auto.json
+ [FILE] Moduli/Settore III Autobus.json
+ [FILE] Moduli/Settore IV Autocarri-rimorchio.json
+ [FILE] Moduli/Settore IV Autocarri.json
+ [FILE] Moduli/Settore V Ciclomotori.json
+ [FILE] Moduli/Settore V Motocicli.json
+ [FILE] Moduli/Settore VII Agricole.json
+ [FILE] Moduli/Settore VIII Natanti.json
+ [FILE] Moduli/Sospensione Auto.json
+ [FILE] Moduli/Sospeso Broker.json
+ [FILE] Moduli/Sostituzione a Scadenza Auto.json
+ [FILE] Moduli/Sostituzione a Scadenza Autocarro.json
+ [FILE] Moduli/Sostituzione a Scadenza Motociclo.json
+ [FILE] Moduli/Sostituzione Autocarro - MerciPericolose.json
+ [FILE] Moduli/Sostituzione in Corso Auto.json
+ [FILE] Moduli/Sostituzione in Corso Autocarro.json
+ [FILE] Moduli/Sostituzione in Corso Motociclo.json
+ [FILE] Moduli/SostituzioneAuto - CambioSettore.json
+ [FILE] Moduli/SostituzioneProvv.72 - CambioSettore - StessaTarga.json
+ [FILE] Moduli/SostituzioneProvv.72 - Cambiosettore - TargaDiversa.json
+ [FILE] Moduli/SostituzioneProvv.72 - CambioSettore I-II - StessaTarga.json
+ [FILE] Moduli/SostituzioneProvv.72 - CambioSettore I-II - TargaDiversa.json
+ [FILE] Moduli/SostituzioneProvv.72 - Modifica intestatario al PRA.json
+ [FILE] Moduli/test.json
+ [FILE] Moduli/veicoli d'epoca - upload documentale mup.json
+ [FILE] Moduli/Padauto/21 - Data Scadenza Polizza - Emissione.json
+ [FILE] Moduli/Padauto/22 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Moduli/Padauto/23 - Data Scadenza Polizza - Emissione.json
+ [FILE] Moduli/Padauto/24 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Moduli/Padauto/25 - Data Scadenza Polizza - Emissione.json
+ [FILE] Moduli/Padauto/26 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Moduli/Padauto/27 - Data Scadenza Polizza - Emissione.json
+ [FILE] Moduli/Padauto/28 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Moduli/Padauto/29 - Dati Tecnici di Polizza - Forma di Pagamento.json
+ [FILE] Moduli/Padauto/30 - Dati Tecnici di Polizza - Forma di Pagamento.json
+ [FILE] Moduli/Padauto/31 - Dati Tecnici di Polizza - Forma di Pagamento.json
+ [FILE] Moduli/Padauto/32 - Titolo - Emissione Polizza.json
+ [FILE] Moduli/Padauto/33 - Titolo - Emissione Polizza.json
+ [FILE] Moduli/Padauto/34 - Titolo - Emissione Polizza.json
+ [FILE] Moduli/Padauto/35 - Incasso Cliente - Emissione Polizza.json
+ [FILE] Moduli/Padauto/36 - Incasso Cliente - Emissione Polizza.json
+ [FILE] Moduli/Padauto/37 - Incasso Cliente - Emissione Polizza.json
+ [FILE] Moduli/Padauto/39 - Generazione Rate - Emissione Polizza.json
+ [FILE] Moduli/Padauto/40 - Generazione Rate - Emissione Polizza AUTO.json
+ [FILE] Moduli/Padauto/57 - Generazione RataUnica - Emissione PolizzaRE.json
+ [FILE] Moduli/Padauto/58 - Generazione RataUnica - Emissione Polizza AUTO.json
+ [FILE] Moduli/Padauto/61 - Generazione Rate RE- SostituzioneScadenza.json
+ [FILE] Moduli/Padauto/62 - Generazione Rate RE- Variazione a Scadenza.json
+ [FILE] Moduli/Padauto/63 - Generazione Rate AUTO - SostituzioneScadenza.json
+ [FILE] Moduli/Padauto/64 - Generazione Rate AUTO - Variazione a Scadenza.json
+ [FILE] Moduli/Padauto/65 - Generazione Rate RE- SostituzioneInCorso.json
+ [FILE] Moduli/Padauto/66 - Generazione Rate AUTO - SostituzioneInCorso.json
+ [FILE] Moduli/Padauto/67 - Generazione Rate RE- Variazione in Corso.json
+ [FILE] Moduli/Padauto/68 - Sospensione Polizza AUTO.json
+ [FILE] Moduli/Padauto/69 - Sospensione PolizzaRE.json
+ [FILE] Moduli/Padauto/70 - Riattivazione Polizza AUTO.json
+ [FILE] Moduli/Padauto/71 - Riattivazione PolizzaRE.json
+ [FILE] Moduli/Padauto/72 - Annullo Post Sospensione AUTO.json
+ [FILE] Moduli/Padauto/73 - Variazione Forma Pagamento.json
+ [FILE] Moduli/Padauto/74 - Storno Variazione Forma Pagamento.json
+ [FILE] Moduli/Padauto/Anagrafica - Controllo Codice Licenziamento + Elimina.json
+ [FILE] Moduli/Padauto/Anagrafica - Controllo Codice Licenziamento.json
+ [FILE] Moduli/Padauto/Anagrafica - Convenzione Hi - Nodo 00388.json
+ [FILE] Moduli/Padauto/Anagrafica - Convenzione Hi - Nodo 90020.json
+ [FILE] Moduli/Padauto/Anagrafica - Convenzione Hi - Nodo 90300.json
+ [FILE] Moduli/Padauto/Anagrafica - Convenzione ITALC.json
+ [FILE] Moduli/Padauto/Anagrafica - Legame 1-2.json
+ [FILE] Moduli/Padauto/Anagrafica - Legame 2-1.json
+ [FILE] Moduli/Padauto/Anagrafica - Prevalorizzazione campi Trattenuta.json
+ [FILE] Moduli/Padauto/Anagrafica - Trattenuta Cedolino Non Selezionabile per soggetti GIURIDICI.json
+ [FILE] Moduli/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 00388.json
+ [FILE] Moduli/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90020.json
+ [FILE] Moduli/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90300.json
+ [FILE] Moduli/Padauto/pippo.json
+
+
+Le sottocartelle della cartella Fogli Excel sono:
+ [DIR] Fogli Excel/DATI
+ [DIR] Fogli Excel/Padauto
+
+I file presenti nella cartella Fogli Excel e sottocartelle sono:
+ [FILE] Fogli Excel/16 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/16 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/16 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/17 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/17 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/17 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/18 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/18 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/18 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/19 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/19 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/19 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/20 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/20 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/20 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/21 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/21 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/21 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/22 - Provv.72 - Auto.json
+ [FILE] Fogli Excel/22 - Provv.72 - Auto.mask
+ [FILE] Fogli Excel/22 - Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/2sostituzione a scadenza con garanzia eventi socio-politici e forma assicurativa a valore intero.json
+ [FILE] Fogli Excel/2sostituzione a scadenza con garanzia eventi socio-politici e forma assicurativa a valore intero.mask
+ [FILE] Fogli Excel/2sostituzione a scadenza con garanzia eventi socio-politici e forma assicurativa a valore intero.xlsx
+ [FILE] Fogli Excel/3sostituzione con cambio targa con garanzia eventi socio-politici e forma assicurativa a valore intero.json
+ [FILE] Fogli Excel/3sostituzione con cambio targa con garanzia eventi socio-politici e forma assicurativa a valore intero.mask
+ [FILE] Fogli Excel/3sostituzione con cambio targa con garanzia eventi socio-politici e forma assicurativa a valore intero.xlsx
+ [FILE] Fogli Excel/4emissione con garanzia fenomeni naturali e forma assicurativa a valore intero.json
+ [FILE] Fogli Excel/4emissione con garanzia fenomeni naturali e forma assicurativa a valore intero.mask
+ [FILE] Fogli Excel/4emissione con garanzia fenomeni naturali e forma assicurativa a valore intero.xlsx
+ [FILE] Fogli Excel/ambientedisviluppo.xlsx
+ [FILE] Fogli Excel/Anagrafica - Persona Fisica.json
+ [FILE] Fogli Excel/Anagrafica - Persona Fisica.mask
+ [FILE] Fogli Excel/Anagrafica - Persona Fisica.xlsx
+ [FILE] Fogli Excel/Anagrafica - Persona Giuridica.json
+ [FILE] Fogli Excel/Anagrafica - Persona Giuridica.mask
+ [FILE] Fogli Excel/Anagrafica - Persona Giuridica.xlsx
+ [FILE] Fogli Excel/Annullo Auto.json
+ [FILE] Fogli Excel/Annullo Auto.mask
+ [FILE] Fogli Excel/Annullo Auto.xlsx
+ [FILE] Fogli Excel/Annullo Autocarro.json
+ [FILE] Fogli Excel/Annullo Autocarro.mask
+ [FILE] Fogli Excel/Annullo Autocarro.xlsx
+ [FILE] Fogli Excel/Auto - Incasso Titolo.json
+ [FILE] Fogli Excel/Auto - Incasso Titolo.mask
+ [FILE] Fogli Excel/Auto - Incasso Titolo.xlsx
+ [FILE] Fogli Excel/Auto - Ristampa Documenti.json
+ [FILE] Fogli Excel/Auto - Ristampa Documenti.mask
+ [FILE] Fogli Excel/Auto - Ristampa Documenti.xlsx
+ [FILE] Fogli Excel/black list - gestione fidi.json
+ [FILE] Fogli Excel/black list - gestione fidi.mask
+ [FILE] Fogli Excel/black list - gestione fidi.xlsx
+ [FILE] Fogli Excel/Cauzioni.json
+ [FILE] Fogli Excel/Cauzioni.mask
+ [FILE] Fogli Excel/Cauzioni.xlsx
+ [FILE] Fogli Excel/Chiusura Foglio Cassa.json
+ [FILE] Fogli Excel/Chiusura Foglio Cassa.mask
+ [FILE] Fogli Excel/Chiusura Foglio Cassa.xlsx
+ [FILE] Fogli Excel/cruscotto autorizzazioni - indicatore semaforo.json
+ [FILE] Fogli Excel/cruscotto autorizzazioni - indicatore semaforo.mask
+ [FILE] Fogli Excel/cruscotto autorizzazioni - indicatore semaforo.xlsx
+ [FILE] Fogli Excel/CU Famiglia - Autocarro.json
+ [FILE] Fogli Excel/CU Famiglia - Autocarro.mask
+ [FILE] Fogli Excel/CU Famiglia - Autocarro.xlsx
+ [FILE] Fogli Excel/CU Famiglia - Autovettura.json
+ [FILE] Fogli Excel/CU Famiglia - Autovettura.mask
+ [FILE] Fogli Excel/CU Famiglia - Autovettura.xlsx
+ [FILE] Fogli Excel/CU Famiglia - Moto.json
+ [FILE] Fogli Excel/CU Famiglia - Moto.mask
+ [FILE] Fogli Excel/CU Famiglia - Moto.xlsx
+ [FILE] Fogli Excel/direzione - helvetia protezione oggi - assenza op variazione generica.json
+ [FILE] Fogli Excel/direzione - helvetia protezione oggi - assenza op variazione generica.mask
+ [FILE] Fogli Excel/direzione - helvetia protezione oggi - assenza op variazione generica.xlsx
+ [FILE] Fogli Excel/emissione polizza con garanzia eventi socio-politici e forma assicurativa a valore intero.json
+ [FILE] Fogli Excel/emissione polizza con garanzia eventi socio-politici e forma assicurativa a valore intero.mask
+ [FILE] Fogli Excel/emissione polizza con garanzia eventi socio-politici e forma assicurativa a valore intero.xlsx
+ [FILE] Fogli Excel/gestione vincoli direzione.json
+ [FILE] Fogli Excel/gestione vincoli direzione.mask
+ [FILE] Fogli Excel/gestione vincoli direzione.xlsx
+ [FILE] Fogli Excel/helvetia protezione oggi - assenza op variazione generica.xlsx
+ [FILE] Fogli Excel/Incasso Multiplo.json
+ [FILE] Fogli Excel/Incasso Multiplo.mask
+ [FILE] Fogli Excel/Incasso Multiplo.xlsx
+ [FILE] Fogli Excel/lamiacasa full - upload documentale mup.json
+ [FILE] Fogli Excel/lamiacasa full - upload documentale mup.mask
+ [FILE] Fogli Excel/lamiacasa full - upload documentale mup.xlsx
+ [FILE] Fogli Excel/Login - Test.json
+ [FILE] Fogli Excel/Login - Test.mask
+ [FILE] Fogli Excel/Login - Test.xlsx
+ [FILE] Fogli Excel/Login - TestDirezione.json
+ [FILE] Fogli Excel/Login - TestDirezione.mask
+ [FILE] Fogli Excel/Login - TestDirezione.xlsx
+ [FILE] Fogli Excel/Login - TestPadauto.json
+ [FILE] Fogli Excel/Login - TestPadauto.mask
+ [FILE] Fogli Excel/Login - TestPadauto.xlsx
+ [FILE] Fogli Excel/mensilizzazione premi - helvetia esercio commerciale.json
+ [FILE] Fogli Excel/mensilizzazione premi - helvetia esercio commerciale.mask
+ [FILE] Fogli Excel/mensilizzazione premi - helvetia esercio commerciale.xlsx
+ [FILE] Fogli Excel/mensilizzazione premi - lamiacasafull.json
+ [FILE] Fogli Excel/mensilizzazione premi - lamiacasafull.mask
+ [FILE] Fogli Excel/mensilizzazione premi - lamiacasafull.xlsx
+ [FILE] Fogli Excel/mensilizzazione premi - multioffice.json
+ [FILE] Fogli Excel/mensilizzazione premi - multioffice.mask
+ [FILE] Fogli Excel/mensilizzazione premi - multioffice.xlsx
+ [FILE] Fogli Excel/Provv.72 - Auto.json
+ [FILE] Fogli Excel/Provv.72 - Auto.mask
+ [FILE] Fogli Excel/Provv.72 - Auto.xlsx
+ [FILE] Fogli Excel/Quietanza Variazione dati Auto.json
+ [FILE] Fogli Excel/Quietanza Variazione dati Auto.mask
+ [FILE] Fogli Excel/Quietanza Variazione dati Auto.xlsx
+ [FILE] Fogli Excel/RE - AnnulloPolizza.json
+ [FILE] Fogli Excel/RE - AnnulloPolizza.mask
+ [FILE] Fogli Excel/RE - AnnulloPolizza.xlsx
+ [FILE] Fogli Excel/RE - App testo libero con premio.json
+ [FILE] Fogli Excel/RE - App testo libero con premio.mask
+ [FILE] Fogli Excel/RE - App testo libero con premio.xlsx
+ [FILE] Fogli Excel/RE - App testo libero senza premio.json
+ [FILE] Fogli Excel/RE - App testo libero senza premio.mask
+ [FILE] Fogli Excel/RE - App testo libero senza premio.xlsx
+ [FILE] Fogli Excel/RE - Cambio Frazionamento.json
+ [FILE] Fogli Excel/RE - Cambio Frazionamento.mask
+ [FILE] Fogli Excel/RE - Cambio Frazionamento.xlsx
+ [FILE] Fogli Excel/RE - CambioUbicazione.json
+ [FILE] Fogli Excel/RE - CambioUbicazione.mask
+ [FILE] Fogli Excel/RE - CambioUbicazione.xlsx
+ [FILE] Fogli Excel/RE - CambioVeicolo.json
+ [FILE] Fogli Excel/RE - CambioVeicolo.mask
+ [FILE] Fogli Excel/RE - CambioVeicolo.xlsx
+ [FILE] Fogli Excel/RE - Car+Decennale.json
+ [FILE] Fogli Excel/RE - Car+Decennale.mask
+ [FILE] Fogli Excel/RE - Car+Decennale.xlsx
+ [FILE] Fogli Excel/RE - CarPrivati e CarMerloni.json
+ [FILE] Fogli Excel/RE - CarPrivati e CarMerloni.mask
+ [FILE] Fogli Excel/RE - CarPrivati e CarMerloni.xlsx
+ [FILE] Fogli Excel/RE - DecennalePostuma.json
+ [FILE] Fogli Excel/RE - DecennalePostuma.mask
+ [FILE] Fogli Excel/RE - DecennalePostuma.xlsx
+ [FILE] Fogli Excel/RE - EmissionePolizza.json
+ [FILE] Fogli Excel/RE - EmissionePolizza.mask
+ [FILE] Fogli Excel/RE - EmissionePolizza.xlsx
+ [FILE] Fogli Excel/RE - Escluzione LibroMatricola.json
+ [FILE] Fogli Excel/RE - Escluzione LibroMatricola.mask
+ [FILE] Fogli Excel/RE - Escluzione LibroMatricola.xlsx
+ [FILE] Fogli Excel/RE - Incasso Titolo.json
+ [FILE] Fogli Excel/RE - Incasso Titolo.mask
+ [FILE] Fogli Excel/RE - Incasso Titolo.xlsx
+ [FILE] Fogli Excel/RE - Inclusione LibroMatricola.json
+ [FILE] Fogli Excel/RE - Inclusione LibroMatricola.mask
+ [FILE] Fogli Excel/RE - Inclusione LibroMatricola.xlsx
+ [FILE] Fogli Excel/RE - LaMiaCasa Full.json
+ [FILE] Fogli Excel/RE - LaMiaCasa Full.mask
+ [FILE] Fogli Excel/RE - LaMiaCasa Full.xlsx
+ [FILE] Fogli Excel/RE - MyCondominium PropostaVeloce.json
+ [FILE] Fogli Excel/RE - MyCondominium PropostaVeloce.mask
+ [FILE] Fogli Excel/RE - MyCondominium PropostaVeloce.xlsx
+ [FILE] Fogli Excel/RE - Proposta PolizzaMadre.json
+ [FILE] Fogli Excel/RE - Proposta PolizzaMadre.mask
+ [FILE] Fogli Excel/RE - Proposta PolizzaMadre.xlsx
+ [FILE] Fogli Excel/RE - Ristampa Documenti.json
+ [FILE] Fogli Excel/RE - Ristampa Documenti.mask
+ [FILE] Fogli Excel/RE - Ristampa Documenti.xlsx
+ [FILE] Fogli Excel/RE - Sostituzione a Scadenza.json
+ [FILE] Fogli Excel/RE - Sostituzione a Scadenza.mask
+ [FILE] Fogli Excel/RE - Sostituzione a Scadenza.xlsx
+ [FILE] Fogli Excel/RE - Sostituzione in Corso.json
+ [FILE] Fogli Excel/RE - Sostituzione in Corso.mask
+ [FILE] Fogli Excel/RE - Sostituzione in Corso.xlsx
+ [FILE] Fogli Excel/re -tailor made property leasing immobiliare.json
+ [FILE] Fogli Excel/re -tailor made property leasing immobiliare.mask
+ [FILE] Fogli Excel/re -tailor made property leasing immobiliare.xlsx
+ [FILE] Fogli Excel/re -tailor made property rischi agricoli.json
+ [FILE] Fogli Excel/re -tailor made property rischi agricoli.mask
+ [FILE] Fogli Excel/re -tailor made property rischi agricoli.xlsx
+ [FILE] Fogli Excel/re -tailor made property rischi nominati.json
+ [FILE] Fogli Excel/re -tailor made property rischi nominati.mask
+ [FILE] Fogli Excel/re -tailor made property rischi nominati.xlsx
+ [FILE] Fogli Excel/re direzione - tailor made property leasing immobiliare.json
+ [FILE] Fogli Excel/re direzione - tailor made property leasing immobiliare.mask
+ [FILE] Fogli Excel/re direzione - tailor made property leasing immobiliare.xlsx
+ [FILE] Fogli Excel/re direzione - tailor made property rischi agricoli.json
+ [FILE] Fogli Excel/re direzione - tailor made property rischi agricoli.mask
+ [FILE] Fogli Excel/re direzione - tailor made property rischi agricoli.xlsx
+ [FILE] Fogli Excel/re direzione - tailor made property rischi nominati.json
+ [FILE] Fogli Excel/re direzione - tailor made property rischi nominati.mask
+ [FILE] Fogli Excel/re direzione - tailor made property rischi nominati.xlsx
+ [FILE] Fogli Excel/RiattivazioneAuto - Provv.72.json
+ [FILE] Fogli Excel/RiattivazioneAuto - Provv.72.mask
+ [FILE] Fogli Excel/RiattivazioneAuto - Provv.72.xlsx
+ [FILE] Fogli Excel/RiattivazioneAuto.json
+ [FILE] Fogli Excel/RiattivazioneAuto.mask
+ [FILE] Fogli Excel/RiattivazioneAuto.xlsx
+ [FILE] Fogli Excel/RiattivazioneMotociclo.json
+ [FILE] Fogli Excel/RiattivazioneMotociclo.mask
+ [FILE] Fogli Excel/RiattivazioneMotociclo.xlsx
+ [FILE] Fogli Excel/Riclassificazione ATR.json
+ [FILE] Fogli Excel/Riclassificazione ATR.mask
+ [FILE] Fogli Excel/Riclassificazione ATR.xlsx
+ [FILE] Fogli Excel/Riclassificazione CU FAMIGLIA.json
+ [FILE] Fogli Excel/Riclassificazione CU FAMIGLIA.mask
+ [FILE] Fogli Excel/Riclassificazione CU FAMIGLIA.xlsx
+ [FILE] Fogli Excel/Settore I Auto.json
+ [FILE] Fogli Excel/Settore I Auto.mask
+ [FILE] Fogli Excel/Settore I Auto.xlsx
+ [FILE] Fogli Excel/Settore III Autobus.json
+ [FILE] Fogli Excel/Settore III Autobus.mask
+ [FILE] Fogli Excel/Settore III Autobus.xlsx
+ [FILE] Fogli Excel/Settore IV Autocarri-rimorchio.json
+ [FILE] Fogli Excel/Settore IV Autocarri-rimorchio.mask
+ [FILE] Fogli Excel/Settore IV Autocarri-rimorchio.xlsx
+ [FILE] Fogli Excel/Settore IV Autocarri.json
+ [FILE] Fogli Excel/Settore IV Autocarri.mask
+ [FILE] Fogli Excel/Settore IV Autocarri.xlsx
+ [FILE] Fogli Excel/Settore V Ciclomotori.json
+ [FILE] Fogli Excel/Settore V Ciclomotori.mask
+ [FILE] Fogli Excel/Settore V Ciclomotori.xlsx
+ [FILE] Fogli Excel/Settore V Motocicli.json
+ [FILE] Fogli Excel/Settore V Motocicli.mask
+ [FILE] Fogli Excel/Settore V Motocicli.xlsx
+ [FILE] Fogli Excel/Settore VII Agricole.json
+ [FILE] Fogli Excel/Settore VII Agricole.mask
+ [FILE] Fogli Excel/Settore VII Agricole.xlsx
+ [FILE] Fogli Excel/Settore VIII Natanti.json
+ [FILE] Fogli Excel/Settore VIII Natanti.mask
+ [FILE] Fogli Excel/Settore VIII Natanti.xlsx
+ [FILE] Fogli Excel/Sospensione Auto.json
+ [FILE] Fogli Excel/Sospensione Auto.mask
+ [FILE] Fogli Excel/Sospensione Auto.xlsx
+ [FILE] Fogli Excel/Sospeso Broker.json
+ [FILE] Fogli Excel/Sospeso Broker.mask
+ [FILE] Fogli Excel/Sospeso Broker.xlsx
+ [FILE] Fogli Excel/Sostituzione a Scadenza Auto.json
+ [FILE] Fogli Excel/Sostituzione a Scadenza Auto.mask
+ [FILE] Fogli Excel/Sostituzione a Scadenza Auto.xlsx
+ [FILE] Fogli Excel/Sostituzione a Scadenza Autocarro.json
+ [FILE] Fogli Excel/Sostituzione a Scadenza Autocarro.mask
+ [FILE] Fogli Excel/Sostituzione a Scadenza Autocarro.xlsx
+ [FILE] Fogli Excel/Sostituzione a Scadenza Motociclo.json
+ [FILE] Fogli Excel/Sostituzione a Scadenza Motociclo.mask
+ [FILE] Fogli Excel/Sostituzione a Scadenza Motociclo.xlsx
+ [FILE] Fogli Excel/Sostituzione Autocarro - MerciPericolose.json
+ [FILE] Fogli Excel/Sostituzione Autocarro - MerciPericolose.mask
+ [FILE] Fogli Excel/Sostituzione Autocarro - MerciPericolose.xlsx
+ [FILE] Fogli Excel/Sostituzione in Corso Auto.json
+ [FILE] Fogli Excel/Sostituzione in Corso Auto.mask
+ [FILE] Fogli Excel/Sostituzione in Corso Auto.xlsx
+ [FILE] Fogli Excel/Sostituzione in Corso Autocarro.json
+ [FILE] Fogli Excel/Sostituzione in Corso Autocarro.mask
+ [FILE] Fogli Excel/Sostituzione in Corso Autocarro.xlsx
+ [FILE] Fogli Excel/Sostituzione in Corso Motociclo.json
+ [FILE] Fogli Excel/Sostituzione in Corso Motociclo.mask
+ [FILE] Fogli Excel/Sostituzione in Corso Motociclo.xlsx
+ [FILE] Fogli Excel/SostituzioneAuto - CambioSettore.json
+ [FILE] Fogli Excel/SostituzioneAuto - CambioSettore.mask
+ [FILE] Fogli Excel/SostituzioneAuto - CambioSettore.xlsx
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore - StessaTarga.json
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore - StessaTarga.mask
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore - StessaTarga.xlsx
+ [FILE] Fogli Excel/SostituzioneProvv.72 - Cambiosettore - TargaDiversa.json
+ [FILE] Fogli Excel/SostituzioneProvv.72 - Cambiosettore - TargaDiversa.mask
+ [FILE] Fogli Excel/SostituzioneProvv.72 - Cambiosettore - TargaDiversa.xlsx
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore I-II - StessaTarga.json
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore I-II - StessaTarga.mask
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore I-II - StessaTarga.xlsx
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore I-II - TargaDiversa.json
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore I-II - TargaDiversa.mask
+ [FILE] Fogli Excel/SostituzioneProvv.72 - CambioSettore I-II - TargaDiversa.xlsx
+ [FILE] Fogli Excel/SostituzioneProvv.72 - Modifica intestatario al PRA.json
+ [FILE] Fogli Excel/SostituzioneProvv.72 - Modifica intestatario al PRA.mask
+ [FILE] Fogli Excel/SostituzioneProvv.72 - Modifica intestatario al PRA.xlsx
+ [FILE] Fogli Excel/test.xlsx
+ [FILE] Fogli Excel/veicoli d'epoca - upload documentale mup.json
+ [FILE] Fogli Excel/veicoli d'epoca - upload documentale mup.mask
+ [FILE] Fogli Excel/veicoli d'epoca - upload documentale mup.xlsx
+ [FILE] Fogli Excel/Padauto/21 - Data Scadenza Polizza - Emissione.json
+ [FILE] Fogli Excel/Padauto/21 - Data Scadenza Polizza - Emissione.mask
+ [FILE] Fogli Excel/Padauto/21 - Data Scadenza Polizza - Emissione.xlsx
+ [FILE] Fogli Excel/Padauto/22 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Fogli Excel/Padauto/22 - Data Scadenza Polizza - Riattivazione.mask
+ [FILE] Fogli Excel/Padauto/22 - Data Scadenza Polizza - Riattivazione.xlsx
+ [FILE] Fogli Excel/Padauto/23 - Data Scadenza Polizza - Emissione.json
+ [FILE] Fogli Excel/Padauto/23 - Data Scadenza Polizza - Emissione.mask
+ [FILE] Fogli Excel/Padauto/23 - Data Scadenza Polizza - Emissione.xlsx
+ [FILE] Fogli Excel/Padauto/24 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Fogli Excel/Padauto/24 - Data Scadenza Polizza - Riattivazione.mask
+ [FILE] Fogli Excel/Padauto/24 - Data Scadenza Polizza - Riattivazione.xlsx
+ [FILE] Fogli Excel/Padauto/25 - Data Scadenza Polizza - Emissione.json
+ [FILE] Fogli Excel/Padauto/25 - Data Scadenza Polizza - Emissione.mask
+ [FILE] Fogli Excel/Padauto/25 - Data Scadenza Polizza - Emissione.xlsx
+ [FILE] Fogli Excel/Padauto/26 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Fogli Excel/Padauto/26 - Data Scadenza Polizza - Riattivazione.mask
+ [FILE] Fogli Excel/Padauto/26 - Data Scadenza Polizza - Riattivazione.xlsx
+ [FILE] Fogli Excel/Padauto/27 - Data Scadenza Polizza - Emissione.json
+ [FILE] Fogli Excel/Padauto/27 - Data Scadenza Polizza - Emissione.mask
+ [FILE] Fogli Excel/Padauto/27 - Data Scadenza Polizza - Emissione.xlsx
+ [FILE] Fogli Excel/Padauto/28 - Data Scadenza Polizza - Riattivazione.json
+ [FILE] Fogli Excel/Padauto/28 - Data Scadenza Polizza - Riattivazione.mask
+ [FILE] Fogli Excel/Padauto/28 - Data Scadenza Polizza - Riattivazione.xlsx
+ [FILE] Fogli Excel/Padauto/29 - Dati Tecnici di Polizza - Forma di Pagamento.json
+ [FILE] Fogli Excel/Padauto/29 - Dati Tecnici di Polizza - Forma di Pagamento.mask
+ [FILE] Fogli Excel/Padauto/29 - Dati Tecnici di Polizza - Forma di Pagamento.xlsx
+ [FILE] Fogli Excel/Padauto/30 - Dati Tecnici di Polizza - Forma di Pagamento.json
+ [FILE] Fogli Excel/Padauto/30 - Dati Tecnici di Polizza - Forma di Pagamento.mask
+ [FILE] Fogli Excel/Padauto/30 - Dati Tecnici di Polizza - Forma di Pagamento.xlsx
+ [FILE] Fogli Excel/Padauto/31 - Dati Tecnici di Polizza - Forma di Pagamento.json
+ [FILE] Fogli Excel/Padauto/31 - Dati Tecnici di Polizza - Forma di Pagamento.mask
+ [FILE] Fogli Excel/Padauto/31 - Dati Tecnici di Polizza - Forma di Pagamento.xlsx
+ [FILE] Fogli Excel/Padauto/32 - Titolo - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/32 - Titolo - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/32 - Titolo - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/33 - Titolo - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/33 - Titolo - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/33 - Titolo - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/34 - Titolo - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/34 - Titolo - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/34 - Titolo - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/35 - Incasso Cliente - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/35 - Incasso Cliente - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/35 - Incasso Cliente - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/36 - Incasso Cliente - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/36 - Incasso Cliente - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/36 - Incasso Cliente - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/37 - Incasso Cliente - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/37 - Incasso Cliente - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/37 - Incasso Cliente - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/39 - Generazione Rate - Emissione Polizza.json
+ [FILE] Fogli Excel/Padauto/39 - Generazione Rate - Emissione Polizza.mask
+ [FILE] Fogli Excel/Padauto/39 - Generazione Rate - Emissione Polizza.xlsx
+ [FILE] Fogli Excel/Padauto/40 - Generazione Rate - Emissione Polizza AUTO.json
+ [FILE] Fogli Excel/Padauto/40 - Generazione Rate - Emissione Polizza AUTO.mask
+ [FILE] Fogli Excel/Padauto/40 - Generazione Rate - Emissione Polizza AUTO.xlsx
+ [FILE] Fogli Excel/Padauto/57 - Generazione RataUnica - Emissione PolizzaRE.json
+ [FILE] Fogli Excel/Padauto/57 - Generazione RataUnica - Emissione PolizzaRE.mask
+ [FILE] Fogli Excel/Padauto/57 - Generazione RataUnica - Emissione PolizzaRE.xlsx
+ [FILE] Fogli Excel/Padauto/58 - Generazione RataUnica - Emissione Polizza AUTO.json
+ [FILE] Fogli Excel/Padauto/58 - Generazione RataUnica - Emissione Polizza AUTO.mask
+ [FILE] Fogli Excel/Padauto/58 - Generazione RataUnica - Emissione Polizza AUTO.xlsx
+ [FILE] Fogli Excel/Padauto/61 - Generazione Rate RE- SostituzioneScadenza.json
+ [FILE] Fogli Excel/Padauto/61 - Generazione Rate RE- SostituzioneScadenza.mask
+ [FILE] Fogli Excel/Padauto/61 - Generazione Rate RE- SostituzioneScadenza.xlsx
+ [FILE] Fogli Excel/Padauto/62 - Generazione Rate RE- Variazione a Scadenza.json
+ [FILE] Fogli Excel/Padauto/62 - Generazione Rate RE- Variazione a Scadenza.mask
+ [FILE] Fogli Excel/Padauto/62 - Generazione Rate RE- Variazione a Scadenza.xlsx
+ [FILE] Fogli Excel/Padauto/63 - Generazione Rate AUTO - SostituzioneScadenza.json
+ [FILE] Fogli Excel/Padauto/63 - Generazione Rate AUTO - SostituzioneScadenza.mask
+ [FILE] Fogli Excel/Padauto/63 - Generazione Rate AUTO - SostituzioneScadenza.xlsx
+ [FILE] Fogli Excel/Padauto/64 - Generazione Rate AUTO - Variazione a Scadenza.json
+ [FILE] Fogli Excel/Padauto/64 - Generazione Rate AUTO - Variazione a Scadenza.mask
+ [FILE] Fogli Excel/Padauto/64 - Generazione Rate AUTO - Variazione a Scadenza.xlsx
+ [FILE] Fogli Excel/Padauto/65 - Generazione Rate RE- SostituzioneInCorso.json
+ [FILE] Fogli Excel/Padauto/65 - Generazione Rate RE- SostituzioneInCorso.mask
+ [FILE] Fogli Excel/Padauto/65 - Generazione Rate RE- SostituzioneInCorso.xlsx
+ [FILE] Fogli Excel/Padauto/66 - Generazione Rate AUTO - SostituzioneInCorso.json
+ [FILE] Fogli Excel/Padauto/66 - Generazione Rate AUTO - SostituzioneInCorso.mask
+ [FILE] Fogli Excel/Padauto/66 - Generazione Rate AUTO - SostituzioneInCorso.xlsx
+ [FILE] Fogli Excel/Padauto/67 - Generazione Rate RE- Variazione in Corso.json
+ [FILE] Fogli Excel/Padauto/67 - Generazione Rate RE- Variazione in Corso.mask
+ [FILE] Fogli Excel/Padauto/67 - Generazione Rate RE- Variazione in Corso.xlsx
+ [FILE] Fogli Excel/Padauto/68 - Sospensione Polizza AUTO.json
+ [FILE] Fogli Excel/Padauto/68 - Sospensione Polizza AUTO.mask
+ [FILE] Fogli Excel/Padauto/68 - Sospensione Polizza AUTO.xlsx
+ [FILE] Fogli Excel/Padauto/69 - Sospensione PolizzaRE.json
+ [FILE] Fogli Excel/Padauto/69 - Sospensione PolizzaRE.mask
+ [FILE] Fogli Excel/Padauto/69 - Sospensione PolizzaRE.xlsx
+ [FILE] Fogli Excel/Padauto/70 - Riattivazione Polizza AUTO.json
+ [FILE] Fogli Excel/Padauto/70 - Riattivazione Polizza AUTO.mask
+ [FILE] Fogli Excel/Padauto/70 - Riattivazione Polizza AUTO.xlsx
+ [FILE] Fogli Excel/Padauto/71 - Riattivazione PolizzaRE.json
+ [FILE] Fogli Excel/Padauto/71 - Riattivazione PolizzaRE.mask
+ [FILE] Fogli Excel/Padauto/71 - Riattivazione PolizzaRE.xlsx
+ [FILE] Fogli Excel/Padauto/72 - Annullo Post Sospensione AUTO.json
+ [FILE] Fogli Excel/Padauto/72 - Annullo Post Sospensione AUTO.mask
+ [FILE] Fogli Excel/Padauto/72 - Annullo Post Sospensione AUTO.xlsx
+ [FILE] Fogli Excel/Padauto/73 - Variazione Forma Pagamento.json
+ [FILE] Fogli Excel/Padauto/73 - Variazione Forma Pagamento.mask
+ [FILE] Fogli Excel/Padauto/73 - Variazione Forma Pagamento.xlsx
+ [FILE] Fogli Excel/Padauto/74 - Storno Variazione Forma Pagamento.json
+ [FILE] Fogli Excel/Padauto/74 - Storno Variazione Forma Pagamento.mask
+ [FILE] Fogli Excel/Padauto/74 - Storno Variazione Forma Pagamento.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Controllo Codice Licenziamento + Elimina.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Controllo Codice Licenziamento + Elimina.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Controllo Codice Licenziamento + Elimina.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Controllo Codice Licenziamento.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Controllo Codice Licenziamento.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Controllo Codice Licenziamento.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 00388.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 00388.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 00388.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 90020.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 90020.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 90020.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 90300.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 90300.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione Hi - Nodo 90300.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione ITALC.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione ITALC.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Convenzione ITALC.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Legame 1-2.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Legame 1-2.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Legame 1-2.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Legame 2-1.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Legame 2-1.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Legame 2-1.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Prevalorizzazione campi Trattenuta.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Prevalorizzazione campi Trattenuta.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Prevalorizzazione campi Trattenuta.xlsx
+ [FILE] Fogli Excel/Padauto/Anagrafica - Trattenuta Cedolino Non Selezionabile per soggetti GIURIDICI.json
+ [FILE] Fogli Excel/Padauto/Anagrafica - Trattenuta Cedolino Non Selezionabile per soggetti GIURIDICI.mask
+ [FILE] Fogli Excel/Padauto/Anagrafica - Trattenuta Cedolino Non Selezionabile per soggetti GIURIDICI.xlsx
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 00388.json
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 00388.mask
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 00388.xlsx
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90020.json
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90020.mask
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90020.xlsx
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90300.json
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90300.mask
+ [FILE] Fogli Excel/Padauto/Emissione Polizza - Soggetto Pagatore - Nodo 90300.xlsx
+ [FILE] Fogli Excel/Padauto/pippo.xlsx
+
