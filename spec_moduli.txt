@@ -1,0 +1,91 @@
+# SPECIFICA FILE MODULO (.json)
+
+Questo file descrive la struttura logica di un modulo eseguibile all'interno di uno scenario.
+È espresso in formato JSON e rappresenta un albero di maschere, ognuna associata a un'azione, un ambiente e un eventuale flusso discendente.
+
+---
+
+### maschera : string
+OBBLIGATORIO.
+Indica il nome della maschera da agganciare. La maschera corretta è quella che soddisfa i criteri di test (se presenti) nel file .mask.
+"Qualsiasi" può essere usato come wildcard.
+
+---
+
+### ambiente : string
+OBBLIGATORIO.
+Determina quale libreria custom usare per interagire con il DOM e i campi della maschera.
+Ambienti supportati: Unico, Assimoco, Portal, Gianos, Fatca, Generale.
+
+---
+
+### azione : int
+OBBLIGATORIO.
+Codice numerico che specifica il comportamento da eseguire sulla maschera.  
+Valori supportati:
+
+0 = Compila (esegue le azioni della maschera)  
+1 = Termina con successo (senza compilare)  
+2 = Termina con errore (senza compilare, messaggio in `errore`)  
+3 = Richiama un modulo esterno (.json), poi riprende il flusso  
+4 = Cambia la finestra attiva (usando `indiceFinestra`, base 1)  
+5 = Apre la home page dello scenario (se configurata)  
+6 = Compila e termina con successo  
+7 = Backtracking: risale l’albero delle maschere finché non trova una compatibile  
+8 = Compila una maschera specificata nel campo `modulo`  
+9 = Richiama uno scenario esterno (.ibt), poi riprende il flusso
+
+---
+
+### modulo : string|null
+Facoltativo.
+Usato quando:
+- azione = 3 → path di un modulo esterno (.json)
+- azione = 8 → nome di una maschera specifica
+- azione = 9 → path di uno scenario esterno (.ibt)
+
+---
+
+### indiceFinestra : int
+Facoltativo.
+Usato solo con azione = 4.
+Indica, in base 1, quale finestra Selenium deve diventare attiva.
+
+---
+
+### maschereAttese : array
+Facoltativo ma consigliato.
+Contiene i figli (nodi successivi) da attivare dopo l’esecuzione della maschera corrente.
+La struttura è ricorsiva e costruisce il flusso completo del modulo.
+
+---
+
+### errore : string|null
+Facoltativo.
+Messaggio da registrare come errore se azione = 2.
+
+---
+
+### secondiAttesa : int
+OBBLIGATORIO.
+Tempo massimo (in secondi) da attendere, dopo la compilazione della maschera corrente,
+per trovare una maschera compatibile tra quelle presenti in `maschereAttese`.
+Se nessuna viene trovata entro questo tempo, la riga termina con errore.
+
+---
+
+### breakPoint : boolean
+Facoltativo.
+Se true, l’esecuzione si ferma in debug prima di eseguire la maschera.
+
+---
+
+### commento : string|null
+Facoltativo.
+Nota interna o descrizione della maschera. Non influisce sull’esecuzione.
+
+---
+
+### treeNode : string|null
+Facoltativo.
+UUID che identifica il nodo per la visualizzazione grafica ad albero.
