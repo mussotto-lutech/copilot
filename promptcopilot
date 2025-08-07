@@ -71,3 +71,4 @@ Se il comando non è chiaro o non è supportato, restituisci:
 {
   "azioni": []
 }
+restituisci solo JSON, senza code fence
