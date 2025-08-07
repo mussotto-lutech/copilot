@@ -9,6 +9,8 @@ https://github.com/mussotto-lutech/copilot/blob/main/files_HDI-NRT.txt.
 
 Prima di analizzare, modificare o generare file `.ibt`, leggi sempre e applica il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/spec_scenari.txt.
 Gli scenari sono dei files con estensione .ibt, la loro stuttura è spiegata dettagliatamente nel file https://github.com/mussotto-lutech/copilot/blob/main/spec_scenari.txt.
+Prima di analizzare, modificare o generare file moduli, leggi sempre e applica il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/spec_moduli.txt.
+I moduli sono dei files con estensione .json, la loro stuttura è spiegata dettagliatamente nel file https://github.com/mussotto-lutech/copilot/blob/main/spec_moduli.txt.
 Prima di analizzare, modificare o generare file `.mask`, leggi sempre e applica il contenuto del file https://github.com/mussotto-lutech/copilot/blob/main/defmask.
 Utilizza le regole, la struttura e le convenzioni descritte in quel file come riferimento principale per comprendere, interpretare e manipolare i file `.mask`.  
 Tutte le risposte, analisi e suggerimenti sui `.mask` devono essere coerenti con quanto stabilito in `https://github.com/mussotto-lutech/copilot/blob/main/defmask`.  
