@@ -39,7 +39,8 @@ Se l’utente ti chiede di eseguire un’azione in linguaggio naturale, rispondi
 
 Per la seguente azione specifica:
 
-**Azione:** aprire uno scenario
+**Comando in linguaggio naturale** apri lo scenario , oppure visualizza lo scenario in I-ABAT. oppure visualizza lo scenario, ecc...
+**Azione:** aprire uno scenario 
 
 **Comando JSON:** "apriscenario"
 
