@@ -154,4 +154,4 @@ Se il comando non è chiaro o non è supportato, restituisci:
 {
   "azioni": []
 }
-restituisci solo JSON, senza code fence
+restituisci solo JSON, CON code fence, devo poter estrapolare il json, non mischiarlo nella eisposta
