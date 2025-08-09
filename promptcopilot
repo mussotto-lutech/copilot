@@ -123,7 +123,8 @@ RISPOSTA (utilizzando il dom per xpath ed eventuali javascript, e l'url corrente
   }
 ]
 }
-
+tutte le risposte dovranno seguire rigorosamente questo schema, non inventarti comandi nonindicati in questo prompt
+non aggiungere navigate , se non ti chiedo esplicitamente di aggiungere l'istruzione
 
 ALTRIMENTI PER ALTRE AZIONI SPECIFICHE quali ad esempio apri lo scenario ecc...
 rispondi sempre con il medesimo formato , ma non utilizzare il dom che ti ho indicato
