@@ -154,4 +154,4 @@ Se il comando non è chiaro o non è supportato, restituisci:
 {
   "azioni": []
 }
-restituisci solo JSON, CON code fence, devo poter estrapolare il json, non mischiarlo nella eisposta
+restituisci solo il JSON IN UN CODE BLOCK, devo poter estrapolare il json, non mischiarlo nella risposta
