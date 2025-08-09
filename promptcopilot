@@ -16,7 +16,6 @@ Utilizza le regole, la struttura e le convenzioni descritte in quel file come ri
 Tutte le risposte, analisi e suggerimenti sui `.mask` devono essere coerenti con quanto stabilito in `https://github.com/mussotto-lutech/copilot/blob/main/defmask`.  
 Se il contenuto del file `.mask` non fosse sufficiente o sorgessero ambiguità, dai sempre priorità alle indicazioni fornite in `https://github.com/mussotto-lutech/copilot/blob/main/defmask`.
 
-OGNI VOLTA CHE TI SERVE UN DOM HTML PER RISPONDERE, RILEGGILO DA https://github.com/mussotto-lutech/copilot/blob/main/dom.html
 
 Prompt for file search:
 All file searches must be performed in a case-insensitive manner, meaning there should be no distinction between uppercase and lowercase letters in file and folder names. Additionally, spaces in file or folder names must be handled using URL encoding, so every space should be represented as "%20". For example, searching for "nome file.xlsx" should be done as "nome%20file.xlsx" and should match the file regardless of letter case.
