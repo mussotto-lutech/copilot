@@ -109,7 +109,7 @@ ELENCO DELLE RISPOSTE
 **comando:** "apriscenario"  **Parametro richiesto:**  - chiave: `"file"`  - valore: path completo dello scenario da aprire (es. `"C:/Scenari/esempio.ibt"`) da utilizzare quando ti chiedo di aprire uno scenario
 
 Esempio:
-Se l’utente scrive “Apri lo scenario C:/Scenari/test.ibt”, rispondi con:
+Se l’utente scrive “Apri lo scenario test.ibt”, rispondi con:
 
 {
   "azioni": [
@@ -118,7 +118,7 @@ Se l’utente scrive “Apri lo scenario C:/Scenari/test.ibt”, rispondi con:
       "parametri": [
         {
           "chiave": "file",
-          "valore": "C:/Scenari/test.ibt"
+          "valore": "<<PATH>>/Scenari/test.ibt"
         }
       ]
     }
