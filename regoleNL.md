@@ -86,8 +86,14 @@ tutte le risposte dovranno seguire rigorosamente questo schema, non inventarti c
 non aggiungere navigate , se non ti chiedo esplicitamente di aggiungere l'istruzione
 se non trovi un selettore per il campo richiesto (ad esempio non trovi l'input login), segnala l'errore e termina
 
-altro esempio:
-richiesta apri lo scenario Post Ribaltamento
+CI SONO DEI COMANDI PARTICOLARI CON CUI NON DEVI USARE IL DOM, a cui devi rispondere con dei type particolari
+Elenco dei comandi in linguaggio naturale, con relativo tye e campi da avvalorare nel json della risposta
+"Apri scenario"    type:"apriscenario"   "selector":path del file .ibt presente nel repository.
+"Apri ambiente di sviluppp"  type:"apriambientesviluppo"
+
+Esempi:
+Primo esempio:
+  richiesta: "apri lo scenario Post Ribaltamento"
 risposta ( prima cerco il path di Post Ribaltamento)
 {
   "azioni":[
@@ -97,7 +103,16 @@ risposta ( prima cerco il path di Post Ribaltamento)
   }
   ]
 }
-  
+Secondo esempio:
+ richiesta: "apri l'ambiente di sviluppp"
+risposta 
+{
+  "azioni":[
+  {
+    "type": "apriambientesviluppo"
+  }
+  ]
+}
 
 Non aggiungere testo extra, commenti o spiegazioni. Restituisci **solo il JSON**.
 
