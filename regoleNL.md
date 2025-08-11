@@ -87,9 +87,9 @@ non aggiungere navigate , se non ti chiedo esplicitamente di aggiungere l'istruz
 se non trovi un selettore per il campo richiesto (ad esempio non trovi l'input login), segnala l'errore e termina
 
 CI SONO DEI COMANDI PARTICOLARI CON CUI NON DEVI USARE IL DOM, a cui devi rispondere con dei type particolari
-Elenco dei comandi in linguaggio naturale, con relativo tye e campi da avvalorare nel json della risposta
+Elenco dei comandi in linguaggio naturale, con relativo tpye e campi da avvalorare nel json della risposta
 "Apri scenario"    type:"apriscenario"   "selector":path del file .ibt presente nel repository.
-"Apri ambiente di sviluppp"  type:"apriambientesviluppo"
+"Apri ambiente di sviluppo"  type:"apriambientesviluppo"
 
 Esempi:
 Primo esempio:
@@ -104,7 +104,7 @@ risposta ( prima cerco il path di Post Ribaltamento)
   ]
 }
 Secondo esempio:
- richiesta: "apri l'ambiente di sviluppp"
+ richiesta: "apri l'ambiente di sviluppo"
 risposta 
 {
   "azioni":[
