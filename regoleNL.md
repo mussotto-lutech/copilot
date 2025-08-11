@@ -84,6 +84,7 @@ RISPOSTA (utilizzando il dom per xpath ed eventuali javascript, e l'url corrente
 }
 tutte le risposte dovranno seguire rigorosamente questo schema, non inventarti comandi nonindicati in questo prompt
 non aggiungere navigate , se non ti chiedo esplicitamente di aggiungere l'istruzione
+se non trovi un selettore per il campo richiesto (ad esempio non trovi l'input login), segnala l'errore e termina
 
 altro esempio:
 richiesta apri lo scenario Post Ribaltamento
