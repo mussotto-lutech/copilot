@@ -14,7 +14,7 @@ esempio di risposta per questo caso  { ""type"": ""click"", ""selector"": ""jsco
 Se non conosci il value , metti XXX
 - maschera , videate o pagina sono sinomini di 'pagina' e non di 'navigazione', se ti chiedo di identificare una maschera, cerca un xpath univoco e 
   restituiscilo come  'click' a seconda del caso e con value=off, se non riesci a trovarlo restituisci un errore
-- se ti indico quale identifativo utilizzare, usa quello se lo trovi, altrimenti cerca di trovarne uno univoco, se non lo trovi restituisci errore
+- se ti indico quale identificativo utilizzare, usa quello se lo trovi, altrimenti cerca di trovarne uno univoco, se non lo trovi restituisci errore
 - crea, registra, inserici sono sinonimi di crea  se ti viene chiesto di creare una nuova videata, restituisci 'new' nel type, e se riesci a trovare un xpath univoco e restituisci xpath in selector, altrimenti se ti è stato indicato un identificatore usa quello , se ti viene indicato un nome per la maschera indicalo in value 
 - se ti viene richiesto di navigare sul sito , e dopo ci sono delle istruzioni successivi, prima restituisci il codice per navigare e poi il codice per eseguire le istruzioni esempio: 'connettiti al sito corrente dopo effettua la login e verifica che non ci siano errori, in caso di errore riportarlo e termina' m prima mandi l'istruzione di navigazione e poi il codice per eseguire il login e infine il codice per verificare gli errori
 - se ti viene richiesto di creare un codice javascript, metti type jscript , il codice in value e 'esegui javascript' come  descrizione generica, se riesci genera una descirizione sintetica della funzione 
