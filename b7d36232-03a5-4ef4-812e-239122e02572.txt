@@ -1,56 +1,56 @@
 
 
- <div>
- <div>Attendere</div>
- <div>
+<div>
+<div>Attendere</div>
+<div>
 </div>
- 
- </div>
- <div>
- <table>
- <tbody><tr>
- <td>
- <table>
- <tbody>
+
+</div>
+<div>
+<table>
+<tbody><tr>
+<td>
+<table>
+<tbody><tr>
+
+<td>
+
+</td><td>
+</td></tr><tr>
+</tr></tbody></table>
+</td>
+<td>
+<table>
+<tbody><tr>
+<td>
+<span>I-ABAT (PreProduzione)</span>
+
+&nbsp;
+
+</td>
+</tr>
 <tr>
- <td>
- 
- </td><td>
- </td></tr><tr>
- </tr></tbody></table>
- </td>
- <td>
- <table>
- <tbody><tr>
- <td>
- <span>I-ABAT (PreProduzione)</span>
+<td>
+<span>Versione: 3.9.7.0</span>
+</td>
+</tr>
+<tr>
+<td>
 
- &nbsp;
- 
- </td>
- </tr>
- <tr>
- <td>
- <span>Versione: 3.9.7.0</span>
- </td>
- </tr>
- <tr>
- <td>
+<span>Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d36232-03a5-4ef4-812e-239122e02572</span></td>
+</tr>
+</tbody></table>
 
- <span>Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d36232-03a5-4ef4-812e-239122e02572</span></td>
- </tr>
- </tbody>
-</table>
- </td>
- </tr>
- </tbody></table>
- <table>
- <tbody><tr>
- <td>
+</td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr>
+<td>
 
- <div>
+<div>
 
- <div>
+<div>
 <div>
 <div>
 <span>
@@ -58,12 +58,12 @@
 <div>
 </div></div></div>
 </div>
- </td>
- <td>
+</td>
+<td>
 
- <div>
+<div>
 
- <div>
+<div>
 <div>
 <div>
 <span>
@@ -71,19 +71,19 @@
 <div>
 </div></div></div>
 </div>
- </td>
- <td>
+</td>
+<td>
 
- <div>
- <span>Download Excel grid report</span>
- </div>
- </td>
- </tr>
- </tbody></table>
- </div>
- <div>
+<div>
+<span>Download Excel grid report</span>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
 
- <div><ul>
+<div><ul>
 <li>
 <span>Esegui scenario</span></li>
 <li>
@@ -92,13 +92,13 @@
 <span>Report scenari</span></li>
 <li>
 <span>Dati scenari</span></li></ul></div>
- </div>
- <div>
+</div>
+<div>
 
- 
- </div>
 
- <div>
+</div>
+
+<div>
 <div>
 <div>
 <div>
@@ -477,28 +477,28 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 
 <div></div></div></div></div>
 </div></div></div></div><div>
- <div><div><div>
- <span>
+<div><div><div>
+<span>
 <label>Elenco report</label></span>
- </div>
+</div>
 <div>
 </div>
 <div>
 </div></div>
 <div>
 
- 
- </div></div></div>
+
+</div></div></div>
 <div>
- <div><div><div>
- <span><label>Errore</label></span>
- </div>
+<div><div><div>
+<span><label>Errore</label></span>
+</div>
 <div>
 </div>
 <div>
 </div></div>
 <div>
- </div></div></div><div><div><ul><li>
+</div></div></div><div><div><ul><li>
 <span>ANAGRAFICA</span></li>
 <li>
 
@@ -1115,7 +1115,6 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 <a>saucedemo</a></span></div></li></ul></div></div></div>
 <div><div>
 <ul><li>
-
 <span>Prova</span></li>
 <li>
 <div>
@@ -1571,6 +1570,7 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 <a>saucedemo</a></span></div></li></ul></div></div></div>
 <div><div>
 <ul><li>
+
 <span>ANAGRAFICA</span></li>
 <li><span>Assicredit</span></li><li>
 <span>Assimoco-generici</span></li>
