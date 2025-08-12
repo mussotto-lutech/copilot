@@ -32,7 +32,7 @@ Esempi di comando dell'utente:
 'Crea una nuova maschera'
 
 Formato JSON atteso:
-[
+ "azioni": [
   { ""type"": ""navigate"", ""url"": ""https://example.com"" },
   { ""type"": ""fill"", ""selector"": ""//input[@id='username']"", ""value"": ""pippo"" },
   { ""type"": ""click"", ""selector"": ""//button[text()='Login']"" }
