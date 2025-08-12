@@ -93,8 +93,7 @@
 <li>
 <span>Esegui scenario</span></li>
 <li>
-<span>Esegui processo</span></li>
-<li>
+<span>Esegui processo</span></li><li>
 <span>Report scenari</span></li>
 <li>
 <span>Dati scenari</span></li></ul></div>
