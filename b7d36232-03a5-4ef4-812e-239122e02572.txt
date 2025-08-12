@@ -27,10 +27,8 @@
 
  &nbsp;
  
-
  </td>
  </tr>
-
  <tr>
  <td>
  <span>Versione: 3.9.7.0</span>
@@ -52,7 +50,6 @@
 
  <div>
 
-
  <div>
 <div>
 <div>
@@ -66,7 +63,6 @@
 
  <div>
 
-
  <div>
 <div>
 <div>
@@ -75,7 +71,6 @@
 <div>
 </div></div></div>
 </div>
-
  </td>
  <td>
 
@@ -86,24 +81,22 @@
  </tr>
  </tbody></table>
  </div>
-
  <div>
 
  <div><ul>
 <li>
 <span>Esegui scenario</span></li>
 <li>
-<span>Esegui processo</span></li><li>
+<span>Esegui processo</span></li>
+<li>
 <span>Report scenari</span></li>
 <li>
 <span>Dati scenari</span></li></ul></div>
  </div>
-
  <div>
 
  
  </div>
-
 
  <div>
 <div>
@@ -410,7 +403,6 @@
 <div>
 <div>10</div><div></div></div></div></div><div>Numero righe:</div><div></div><div>Vai alla pagina:</div></div></div></div></div></div>
 
-
 <div><div><ul>
 <li>
 <div>HDI</div></li><li><div>assimoco</div></li>
@@ -485,7 +477,6 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 
 <div></div></div></div></div>
 </div></div></div></div><div>
-
  <div><div><div>
  <span>
 <label>Elenco report</label></span>
@@ -499,7 +490,6 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
  
  </div></div></div>
 <div>
-
  <div><div><div>
  <span><label>Errore</label></span>
  </div>
@@ -508,7 +498,6 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 <div>
 </div></div>
 <div>
-
  </div></div></div><div><div><ul><li>
 <span>ANAGRAFICA</span></li>
 <li>
@@ -1126,6 +1115,7 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 <a>saucedemo</a></span></div></li></ul></div></div></div>
 <div><div>
 <ul><li>
+
 <span>Prova</span></li>
 <li>
 <div>
@@ -1581,7 +1571,6 @@ Browser I-ABAT 1.2.0.0</div></li></ul></div></div>
 <a>saucedemo</a></span></div></li></ul></div></div></div>
 <div><div>
 <ul><li>
-
 <span>ANAGRAFICA</span></li>
 <li><span>Assicredit</span></li><li>
 <span>Assimoco-generici</span></li>
