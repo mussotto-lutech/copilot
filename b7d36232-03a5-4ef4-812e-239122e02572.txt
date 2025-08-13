@@ -53,16 +53,22 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <span><a>test assimoco</a></span></div></li><li><div><span><a>testplugin</a></span></div></li>
 <li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>WebServerInterno_DemoRicercaAvanzata</a></span></div></li><li><div><span>
 <a>Xlayer</a></span></div></li><li><div><span><a>XlayerKO</a></span></div></li><li><div><span><a>Yolo</a></span></div></li></ul></div><div><div><ul>
-<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li><li><div><span><a>Assicredit Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>MultiAssimoco</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li><li><div><span><a>
+Assicredit Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>MultiAssimoco</a></span></div></li></ul></div></div><div><div><ul><li><div>
 <span><a>Valore Auto (AS)</a></span></div></li><li><div><span><a>Valore auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>passinsurance</a></span></div></li>
 <li><div><span><a>portal</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>campus</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>Flow_auto_garanzie_accessorie_cristalli</a></span></div></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div><div><div><ul>
 <li><div><span><a>Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109</a></span></div></li></ul></div></div></div><div><div><ul><li><span>Emissioni</span></li><li>
 <span>PostVendita</span></li></ul></div><div><div><ul>
-<li><div><span><a>C.A.R. Merloni - IDD</a></span></div></li><li><div><span><a>C.A.R. Merloni - TF-606</a></span></div></li><li><div><span><a>Gestione provvisoria nuovo front end Unico</a></span></div></li><li><div><span><a>Globale Casa 2019 - I-ACAD</a></span></div></li><li><div><span><a>Globale Casa 2019 - IDD - NFE</a></span></div></li><li><div><span><a>Globale Casa 2019</a></span></div></li><li><div><span><a>Globale Fabbricati Controllo Montesconti</a></span></div></li><li><div>
+<li><div><span><a>C.A.R. Merloni - IDD</a></span></div></li><li><div><span><a>C.A.R. Merloni - TF-606</a></span></div></li><li><div><span><a>Gestione provvisoria nuovo front end Unico</a></span>
+</div></li><li><div><span><a>Globale Casa 2019 - I-ACAD</a></span></div></li><li><div><span><a>Globale Casa 2019 - IDD - NFE</a></span></div></li><li><div><span><a>Globale Casa 2019</a></span>
+</div></li><li><div><span><a>Globale Fabbricati Controllo Montesconti</a></span></div></li><li><div>
 <span><a>Prova</a></span></div></li>
-<li><div><span><a>Telefono ed email - PN Vodafone</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - Settore 4</a></span></div></li><li><div><span><a>Valore Auto - FastMotor Settore 1</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor - NFE</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor</a></span></div></li><li><div><span><a>Valore Auto - IDD - NFE</a></span></div></li><li><div><span><a>Valore Auto - NFE - FastMotor</a></span></div></li><li><div>
-<span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span></div></li><li><div><span><a>Servlet Stampe Firma Digitale</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
+<li><div><span><a>Telefono ed email - PN Vodafone</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - Settore 4</a></span></div></li><li><div><span><a>
+Valore Auto - FastMotor Settore 1</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor - NFE</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor</a></span></div>
+</li><li><div><span><a>Valore Auto - IDD - NFE</a></span></div></li><li><div><span><a>Valore Auto - NFE - FastMotor</a></span></div></li><li><div>
+<span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span>
+</div></li><li><div><span><a>Servlet Stampe Firma Digitale</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
 <span><a>bene</a></span></div></li><li><div><span><a>debug_mhtml</a></span></div></li><li><div><span><a>testrecord</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>CBA MONETA - Totale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div>
 <span><a>I-ACAD_PDF_EMBED</a></span></div></li><li><div><span><a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
@@ -72,27 +78,47 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <span><a>produzione</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Aumenta le visualizzazioni di raffa</a></span></div></li><li><div><span>
 <a>garmin</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span><a>sara</a></span></div></li><li><div><span><a>strava</a></span></div></li></ul></div></div>
 <div><div><ul>
-<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span></div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a></span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div><span><a>storno polizza</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>DatiTecniciValoreAuto</a></span></div></li><li><div><span><a>HawkPersonaFisica</a></span></div></li><li><div><span><a>Login UEFA_WSO2</a></span></div></li><li><div><span><a>PortafoglioIDD - UEFA</a></span></div></li><li><div><span><a>PortafoglioIDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>connessione pagina demo</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Ristampa Polizza auto</a></span></div></li><li><div>
+<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>
+Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span>
+</div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a>
+</span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div><span><a>storno polizza</a>
+</span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+Estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>
+Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+DatiTecniciValoreAuto</a></span></div></li><li><div><span><a>HawkPersonaFisica</a></span></div></li><li><div><span><a>Login UEFA_WSO2</a></span></div></li><li><div><span><a>PortafoglioIDD - UEFA
+</a></span></div></li><li><div><span><a>PortafoglioIDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>connessione pagina demo</a></span></div></li></ul></div></div><div>
+<div><ul><li><div><span><a>Ristampa Polizza auto</a></span></div></li><li><div>
 <span><a>Ristampe DANNI</a></span></div></li><li><div><span><a>SHORT Ristampe VITA</a></span></div></li></ul></div></div><div><div><ul><li><div>
 <span><a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
 <span>VITA</span></li></ul></div><div><div><ul><li><div><span><a>Controllo Obbligatorieta Stampa e Upload Documento - UEFA</a></span></div></li></ul></div></div><div><div><ul><li>
 <span>FOGLI CASSA</span></li></ul></div><div><div><ul><li><div><span><a>Incasso e Storno Titolo a foglio cassa aperto - UEFA</a></span></div></li></ul></div></div></div><div><div><ul><li>
 <span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
-<li><div><span><a>Professionista HDI - UEFA</a></span></div></li><li><div><span><a>Valore Auto - UEFA</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Globale Casa 2019 - Fast</a></span></div></li><li><div><span><a>Globale PMI Autorizzazione - Fast</a></span></div></li><li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Variazione Quietanza - Autorizzazione - Full Uefa</a></span></div></li></ul></div></div><div>
+<li><div><span><a>Professionista HDI - UEFA</a></span></div></li><li><div><span><a>Valore Auto - UEFA</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+Globale Casa 2019 - Fast</a></span></div></li><li><div><span><a>Globale PMI Autorizzazione - Fast</a></span></div></li><li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li>
+</ul></div></div><div><div><ul><li><div><span><a>Variazione Quietanza - Autorizzazione - Full Uefa</a></span></div></li></ul></div></div><div>
 <div>
-<ul><li><div><span><a>Globale Casa 2019 - Sostituzione - Full Uefa</a></span></div></li><li><div><span><a>Infortuni e IPM - Sostituzione - Full Uefa</a></span></div></li></ul></div></div></div><div>
+<ul><li><div><span><a>Globale Casa 2019 - Sostituzione - Full Uefa</a></span></div></li><li><div><span><a>Infortuni e IPM - Sostituzione - Full Uefa</a></span></div></li></ul></div></div></div>
+<div>
 <div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div><div><div><ul>
 <li><div><span><a>HDI Capitale Protetto Agenzia Autorizzazione - UEFA</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li>
 <span>VITA</span></li></ul></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div><div><div><ul>
-<li><div><span><a>A2A - Emissione polizza - IDD</a></span></div></li><li><div><span><a>Short Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Sospensione Valore Auto</a></span></div></li></ul></div></div></div><div><div><ul><li>
+<li><div><span><a>A2A - Emissione polizza - IDD</a></span></div></li><li><div><span><a>Short Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+Sospensione Valore Auto</a></span></div></li></ul></div></div></div><div><div><ul><li>
 <span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>CBA</span></li></ul></div><div><div><ul>
 <li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li><li>
 <span>Emissioni CBA</span></li><li><span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><div>
 <span><a>Cambio Contraenza</a></span></div></li><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Valore Capitale</a></span></div></li><li><div>
-<span><a>CBA Valore Cedola</a></span></div></li><li><div><span><a>CBA Valore Cedola_new</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div><div><div><ul><li><div><span><a>CBA - Riscatto Parziale</a></span></div></li><li><div><span><a>CBA - Riscatto totale</a></span></div></li><li><div><span><a>CBA Moneta a premi periodici</a></span></div></li><li><div>
-<span><a>CBA Tuo Valore</a></span></div></li><li><div><span><a>CBA Valore Capital</a></span></div></li><li><div><span><a>CBA Valore Capitale Top</a></span></div></li><li><div><span><a>CBA Valore Capitale</a></span></div></li><li><div><span><a>CBA Valore Cedola</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>Conferma e autorizzazione Cedole</a></span></div></li><li><div>
+<span><a>CBA Valore Cedola</a></span></div></li><li><div><span><a>CBA Valore Cedola_new</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div>
+<span><a>Versamento Aggiuntivo</a></span></div></li></ul></div><div><div><ul><li><div><span><a>CBA - Riscatto Parziale</a></span></div></li><li><div><span><a>CBA - Riscatto totale</a></span>
+</div></li><li><div><span><a>CBA Moneta a premi periodici</a></span></div></li><li><div>
+<span><a>CBA Tuo Valore</a></span></div></li><li><div><span><a>CBA Valore Capital</a></span></div></li><li><div><span><a>CBA Valore Capitale Top</a></span></div></li><li><div><span><a>
+CBA Valore Capitale</a></span></div></li><li><div><span><a>CBA Valore Cedola</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Autorizza cedole</a></span></div></li><li><div>
+<span><a>Conferma e autorizzazione Cedole</a></span></div></li><li><div>
 <span><a>Pre Verifica</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Sostegno Finanziamento PA TF-577</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>F81 - Obiettivo Futuro PAR - PF</a></span></div></li><li><div><span><a>F81 - Obiettivo Futuro PAR - PF - IDD</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Agenzia</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Direzione - IDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Riscatto Totale Garanzia - NFE</a></span></div></li><li><div><span><a>Scelta Opzione Scadenza</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Sostegno Finanziamento PA TF-577</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+F81 - Obiettivo Futuro PAR - PF</a></span></div></li><li><div><span><a>F81 - Obiettivo Futuro PAR - PF - IDD</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Agenzia</a></span>
+</div></li><li><div><span><a>F95 - Obiettivo Crescita Direzione - IDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Riscatto Totale Garanzia - NFE</a></span></div></li>
+<li><div><span><a>Scelta Opzione Scadenza</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div></div><div><div><ul><li><div>
 <span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span><a>github</a></span></div></li><li><div><span><a>hdiassicurazioni</a></span></div></li><li><div>
 <span><a>I-ACAD</a></span></div></li><li><div><span><a>OrangeHrm</a></span></div></li><li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li>
 <span>Prova</span></li><li><div><span><a>Assicomo SERVIZIO</a></span></div></li><li><div><span><a>Assicomo SERVIZIO2</a></span></div></li><li><div><span>
@@ -110,20 +136,27 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <a>monitor</a></span></div></li><li><div><span><a>RistampaPolizza</a></span></div></li><li><div><span><a>test assimoco</a></span></div></li><li><div><span><a>testplugin</a></span></div></li>
 <li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>WebServerInterno_DemoRicercaAvanzata</a></span></div></li><li><div><span>
 <a>Xlayer</a></span></div></li><li><div><span><a>XlayerKO</a></span></div></li></ul></div><div><div><ul>
-<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li></ul></div></div><div>
+<div><ul><li><div>
 <span><a>Valore Auto (AS)</a></span></div></li><li><div><span><a>Valore auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
 <a>portal</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>campus</a></span></div></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
 <div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><div><span><a>Globale Casa 2019</a></span></div></li><li><div>
 <span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
+<li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul>
+</div></div></div><div><div><ul><li><div>
 <span><a>debug_mhtml</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div><span><a>I-ACAD</a></span></div></li><li><div><span>
 <a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul>
 <li><div><span><a>Aumenta le visualizzazioni di raffa</a></span></div></li><li><div><span><a>garmin</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span>
 <a>Strava</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span></div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a></span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div>
-<span><a>storno polizza</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>
+Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span>
+</div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a>
+</span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div>
+<span><a>storno polizza</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>
+Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div>
 <span><a>Autorizza</a></span></div></li><li><div><span><a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li>
 <span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li></ul></div></div><div><div><ul><li>
 <span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
@@ -133,7 +166,8 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <div><div><ul><li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li>
 <li><span>Emissioni CBA</span></li><li><span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><div>
 <span><a>Cambio Contraenza</a></span></div></li><li><div>
-<span><a>CBA Valore Capitale</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div>
+<span><a>CBA Valore Capitale</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul>
+</div>
 <div><div><ul><li><div><span><a>CBA - Riscatto totale</a></span></div></li><li><div><span><a>CBA Tuo Valore</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>Liquidazione Cedole - solo autorizzazione</a></span></div></li></ul></div></div><div><div>
 <ul><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul>
@@ -143,7 +177,8 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <span>HDI-GENERICI</span></li><li><span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li>
 <span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li><span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li>
 <span>UNICO</span></li><li><span>VITA</span></li><li><span>WEBTEST</span></li></ul></div><div><div><ul><li><span>
-Inserimento Anagrafica Persona Fisica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Valore Auto (AS)<a></a><a></a></span></li><li><span>Valore auto<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>campus<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
+Inserimento Anagrafica Persona Fisica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Valore Auto (AS)<a></a><a></a></span></li><li><span>Valore auto<a></a><a></a></span></li>
+</ul></div></div><div><div><ul><li><span>campus<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
 <div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><span>Globale Casa 2019<a></a><a></a></span></li><li><span>
 Globale Fabbricati Controllo Montesconti<a></a><a></a></span></li><li><span>
 Valore Auto - IDD - NFE<a></a><a></a></span></li><li><span>Valore Auto<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
@@ -157,7 +192,8 @@ Servlet Stampe Firma Digitale<a></a><a></a></span></li></ul></div></div></div><d
 <span>CBA</span></li></ul></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li><li><span>Emissioni CBA</span></li><li>
 <span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><span>Versamenti aggiuntivi premi periodici<a>
 </a><a></a></span></li></ul></div><div><div><ul><li><span>
-CBA - Riscatto Parziale<a></a><a></a></span></li><li><span>CBA - Riscatto totale<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Autorizza cedole<a></a><a></a></span></li><li><span>
+CBA - Riscatto Parziale<a></a><a></a></span></li><li><span>CBA - Riscatto totale<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Autorizza cedole<a></a><a></a></span></li><li>
+<span>
 Conferma e autorizzazione Cedole<a></a><a></a></span></li><li><span>Pre Verifica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
 CBA Moneta a Premi Periodici<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
 Scelta Opzione Scadenza<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Scadenze<a></a><a></a></span></li></ul></div></div></div></div><div><div><div><div><div></div><div>
