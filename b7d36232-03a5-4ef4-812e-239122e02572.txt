@@ -138,11 +138,11 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>Liquidazione Cedole - solo autorizzazione</a></span></div></li></ul></div></div><div><div>
 <ul><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul>
 <li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li><span>Assimoco-generici</span></li>
-<li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li>
-<span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li>
-<span>HDI-GENERICI</span></li><li><span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li>
-<span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li><span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li>
-<span>UNICO</span></li><li><span>VITA</span></li><li><span>WEBTEST</span></li></ul></div><div><div><ul><li><span>
+<li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li>
+<span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li><span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li>
+<span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>VITA</span></li><li>
+<span>WEBTEST</span></li></ul></div><div><div><ul><li><span>
 Inserimento Anagrafica Persona Fisica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Valore Auto (AS)<a></a><a></a></span></li><li><span>Valore auto<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>campus<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
 <div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><span>Globale Casa 2019<a></a><a></a></span></li><li><span>
 Globale Fabbricati Controllo Montesconti<a></a><a></a></span></li><li><span>
