@@ -1,8 +1,8 @@
 <div><div>Attendere</div><div></div></div><div><table><tbody><tr><td><table><tbody><tr><td></td></tr></tbody></table></td><td><table><tbody><tr><td><span>I-ABAT (PreProduzione)</span>&nbsp;
 </td></tr><tr><td><span>Versione: 3.9.7.0</span></td></tr><tr><td><span>
 Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d36232-03a5-4ef4-812e-239122e02572</span></td></tr></tbody></table></td></tr></tbody></table><table><tbody><tr>
-<td><div><div><div><div><span><span>HDI</span></span> </div><div></div></div></div></div></td><td><div><div><div><div><span><span>Google Chrome 139.0.7258.67</span></span> </div><div></div>
-</div></div></div></td><td><div><span>Download Excel grid report</span></div></td></tr></tbody></table></div><div><div><ul><li><span>Esegui scenario</span></li><li>
+<td><div><div><div><div><span><span>HDI-NRT</span></span> </div><div></div></div></div></div></td><td><div><div><div><div><span><span>Google Chrome 139.0.7258.67</span></span> </div><div>
+</div></div></div></div></td><td><div><span>Download Excel grid report</span></div></td></tr></tbody></table></div><div><div><ul><li><span>Esegui scenario</span></li><li>
 <span>Esegui processo</span></li><li><span>Report scenari</span></li><li><span>Dati scenari</span></li></ul></div></div><div></div><div><div><div><div><div><div>
 <span>Loading...</span></div></div></div><div><div><div><div><div><div><span>Scenario</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div>
 <div><span>Chiamante</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div><span>Stato</span></div><div><div></div><div></div><div></div>
@@ -10,196 +10,288 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <span>Data inizio</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div><span>Data fine</span></div><div><div></div><div></div><div></div>
 <div></div></div><div></div></div></div><div><div><div><span>Tempo esecuzione</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div>
 <span>Success</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div><span>Failed</span></div><div><div></div><div></div><div></div><div>
-</div></div><div></div></div></div><div><div><div><span>Dettagli</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div></div></div><div><div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 18:08:26</div></div><div>
-<div>03-Giugno-2025 18:08:38</div></div><div><div>00:00:11</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 17:22:59</div></div>
-<div><div>03-Giugno-2025 17:23:09</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 16:41:23</div></div><div>
-<div>03-Giugno-2025 16:41:32</div></div><div><div>00:00:08</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 16:39:48</div></div>
-<div><div>03-Giugno-2025 16:39:57</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>28-Maggio-2025 16:11:04</div></div><div>
-<div>28-Maggio-2025 16:11:13</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>28-Maggio-2025 13:22:41</div></div>
-<div><div>28-Maggio-2025 13:22:51</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>28-Maggio-2025 13:22:05</div></div><div>
-<div>28-Maggio-2025 13:22:14</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>21-Maggio-2025 14:31:56</div></div>
-<div><div>21-Maggio-2025 14:32:05</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>21-Maggio-2025 10:22:16</div></div><div>
-<div>21-Maggio-2025 10:22:25</div></div><div><div>00:00:08</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
-<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div>
-<div><div>21-Maggio-2025 10:21:34</div></div><div><div>21-Maggio-2025 10:21:44</div></div><div><div>00:00:10</div></div><div><div>1</div></div><div><div>0</div></div>
-<div>&nbsp;&nbsp;</div></div></div></div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div><div><div><div></div><div>
-</div><div>1-10 di 1000</div><div><div><div><div>10</div><div></div></div></div></div><div>Numero righe:</div><div></div><div>Vai alla pagina:</div></div></div></div></div></div><div>
-<div><ul><li><div>HDI</div></li><li><div>assimoco</div></li><li><div>BENE</div></li><li><div>demo</div></li><li><div>robot</div></li><li><div>DAS</div></li><li><div>Tresalti</div></li><li>
-<div>HDI-ROBOT</div></li><li><div>HDI-NRT</div></li><li><div>Helvetia</div></li></ul></div></div><div><div><ul><li><div>Google Chrome 139.0.7258.67</div></li><li>
-<div>Google Chrome canale Beta 135.0.7049.17</div></li><li><div>Google Chrome canale Dev 136.0.7052.2</div></li><li><div>Google Chrome canale Canary 139.0.7205.0</div></li>
-<li><div>Microsoft Edge 139.0.3405.86</div></li><li><div>Microsoft Edge canale Beta 106.0.1370.26</div></li><li><div>Microsoft Edge canale Dev 120.0.2186.2</div></li>
-<li><div>Microsoft Edge canale Canary 120.0.2187.0</div></li><li><div>Mozilla Firefox 127.0 (x64 it)</div></li><li><div>Internet Explorer 11.3636.19041.0</div></li>
-<li><div>Browser I-ABAT 1.2.0.0</div></li></ul></div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div>
-<div></div></div></div></div></div></div></div></div><div><div><div><div><span><label>Elenco report</label></span></div><div></div><div></div></div><div></div></div></div>
-<div><div><div><div><span><label>Errore</label></span></div><div></div><div></div></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li>
-<span>Assimoco-generici</span></li><li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li>
-<li><span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li>
-<span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li><span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li>
-<span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>VITA</span></li><li>
-<span>WEBTEST</span></li><li><div><span><a>ambienteDiSviluppo</a></span></div></li><li><div><span><a>debug</a></span></div></li><li><div><span><a>demoI_ACAD</a></span></div></li><li><div>
-<span><a>embed pdf</a></span></div></li><li><div><span><a>estinzione polizza - Collaudo</a></span></div></li><li><div>
-<span><a>estinzione polizza</a></span></div></li><li><div><span><a>estinzione polizze cumulative - Collaudo</a></span></div></li><li><div><span><a>loginFlow</a></span></div></li><li><div>
-<span><a>mockdettaglio</a></span></div></li><li><div><span><a>monitor</a></span></div></li><li><div><span><a>OS2</a></span></div></li><li><div><span><a>outlook</a></span></div></li><li><div>
-<span><a>outlook2</a></span></div></li><li><div><span><a>RistampaPolizza ASSIMOCO</a></span></div></li><li><div><span><a>RistampaPolizza</a></span></div></li><li><div>
-<span><a>test assimoco</a></span></div></li><li><div><span><a>testplugin</a></span></div></li>
-<li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>WebServerInterno_DemoRicercaAvanzata</a></span></div></li><li><div><span>
-<a>Xlayer</a></span></div></li><li><div><span><a>XlayerKO</a></span></div></li><li><div><span><a>Yolo</a></span></div></li></ul></div><div><div><ul>
-<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li><li><div><span><a>
-Assicredit Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>MultiAssimoco</a></span></div></li></ul></div></div><div><div><ul><li><div>
-<span><a>Valore Auto (AS)</a></span></div></li><li><div><span><a>Valore auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>passinsurance</a></span></div></li>
-<li><div><span><a>portal</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>campus</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>Flow_auto_garanzie_accessorie_cristalli</a></span></div></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div><div><div><ul>
-<li><div><span><a>Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109</a></span></div></li></ul></div></div></div><div><div><ul><li><span>Emissioni</span></li><li>
-<span>PostVendita</span></li></ul></div><div><div><ul>
-<li><div><span><a>C.A.R. Merloni - IDD</a></span></div></li><li><div><span><a>C.A.R. Merloni - TF-606</a></span></div></li><li><div><span><a>Gestione provvisoria nuovo front end Unico</a></span>
-</div></li><li><div><span><a>Globale Casa 2019 - I-ACAD</a></span></div></li><li><div><span><a>Globale Casa 2019 - IDD - NFE</a></span></div></li><li><div><span><a>Globale Casa 2019</a></span>
-</div></li><li><div><span><a>Globale Fabbricati Controllo Montesconti</a></span></div></li><li><div>
-<span><a>Prova</a></span></div></li>
-<li><div><span><a>Telefono ed email - PN Vodafone</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - Settore 4</a></span></div></li><li><div><span><a>
-Valore Auto - FastMotor Settore 1</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor - NFE</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor</a></span></div>
-</li><li><div><span><a>Valore Auto - IDD - NFE</a></span></div></li><li><div><span><a>Valore Auto - NFE - FastMotor</a></span></div></li><li><div>
-<span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span>
-</div></li><li><div><span><a>Servlet Stampe Firma Digitale</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
-<span><a>bene</a></span></div></li><li><div><span><a>debug_mhtml</a></span></div></li><li><div><span><a>testrecord</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>CBA MONETA - Totale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div>
-<span><a>I-ACAD_PDF_EMBED</a></span></div></li><li><div><span><a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>CyberMail</a></span></div></li><li><div><span><a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div>
-<div><div><ul><li><div><span><a>Inserimento anagrafica fisico</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span><a>FastMotor</a></span></div></li><li><div>
-<span><a>MENU PASS</a></span></div></li><li><div>
-<span><a>produzione</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Aumenta le visualizzazioni di raffa</a></span></div></li><li><div><span>
-<a>garmin</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span><a>sara</a></span></div></li><li><div><span><a>strava</a></span></div></li></ul></div></div>
-<div><div><ul>
-<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>
-Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span>
-</div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a>
-</span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div><span><a>storno polizza</a>
-</span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
-Estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>
-Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
-DatiTecniciValoreAuto</a></span></div></li><li><div><span><a>HawkPersonaFisica</a></span></div></li><li><div><span><a>Login UEFA_WSO2</a></span></div></li><li><div><span><a>PortafoglioIDD - UEFA
-</a></span></div></li><li><div><span><a>PortafoglioIDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>connessione pagina demo</a></span></div></li></ul></div></div><div>
-<div><ul><li><div><span><a>Ristampa Polizza auto</a></span></div></li><li><div>
-<span><a>Ristampe DANNI</a></span></div></li><li><div><span><a>SHORT Ristampe VITA</a></span></div></li></ul></div></div><div><div><ul><li><div>
-<span><a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
-<span>VITA</span></li></ul></div><div><div><ul><li><div><span><a>Controllo Obbligatorieta Stampa e Upload Documento - UEFA</a></span></div></li></ul></div></div><div><div><ul><li>
-<span>FOGLI CASSA</span></li></ul></div><div><div><ul><li><div><span><a>Incasso e Storno Titolo a foglio cassa aperto - UEFA</a></span></div></li></ul></div></div></div><div><div><ul><li>
-<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
-<li><div><span><a>Professionista HDI - UEFA</a></span></div></li><li><div><span><a>Valore Auto - UEFA</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
-Globale Casa 2019 - Fast</a></span></div></li><li><div><span><a>Globale PMI Autorizzazione - Fast</a></span></div></li><li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li>
-</ul></div></div><div><div><ul><li><div><span><a>Variazione Quietanza - Autorizzazione - Full Uefa</a></span></div></li></ul></div></div><div>
+</div></div><div></div></div></div><div><div><div><span>Dettagli</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div></div></div><div><div><div><div>
+<span>Nessun record da visualizzare</span></div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div></div><div>
+<div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div><div><div><div></div><div></div><div>0-0 di 0</div><div><div><div><div>10</div>
+<div></div></div></div></div><div>Numero righe:</div><div></div><div>Vai alla pagina:</div></div></div></div></div></div><div><div><ul><li><div>HDI</div></li><li><div>assimoco</div></li><li>
+<div>BENE</div></li><li><div>demo</div></li><li><div>robot</div></li><li><div>DAS</div></li><li><div>Tresalti</div></li><li><div>HDI-ROBOT</div></li><li><div>HDI-NRT</div></li><li>
+<div>Helvetia</div></li></ul></div></div><div><div><ul><li><div>Google Chrome 139.0.7258.67</div></li><li><div>Google Chrome canale Beta 135.0.7049.17</div></li>
+<li><div>Google Chrome canale Dev 136.0.7052.2</div></li><li><div>Google Chrome canale Canary 139.0.7205.0</div></li><li><div>Microsoft Edge 139.0.3405.86</div></li>
+<li><div>Microsoft Edge canale Beta 106.0.1370.26</div></li><li><div>Microsoft Edge canale Dev 120.0.2186.2</div></li><li><div>Microsoft Edge canale Canary 120.0.2187.0</div></li>
+<li><div>Mozilla Firefox 127.0 (x64 it)</div></li><li><div>Internet Explorer 11.3636.19041.0</div></li><li><div>Browser I-ABAT 1.2.0.0</div></li></ul>
+</div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div>
+<div><div><span><label>Elenco report</label></span></div><div></div><div></div></div><div></div></div></div><div><div><div><div><span><label>Errore</label></span></div><div></div><div>
+</div></div></div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div>
+</div></div></div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div>
+</div></div></div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div>
+</div></div></div></div><div><div><ul><li>Ordina Ascendente</li><li>Ordina Discendente</li><li>Rimuovi Ordinamento</li><li><div><div><div>Filtra le righe dove:</div><div><div><div><div>
+<span>contiene</span></div><div></div></div></div></div><div></div><div><div><div><div><span>E</span></div><div></div></div></div></div><div><div><div><div>
+<span>contiene</span></div><div></div></div></div></div><div></div><div><span>Filtra</span><span>Rimuovi Filtro</span></div></div></div></li></ul></div></div><div><div><ul><li>
+<span>ELABORAZIONI_VARIE</span></li><li><span>MIGRAZIONE</span></li><li><span>POSTRIBALTAMENTO</span></li><li><span>ROBOT</span></li><li><span>SCENARI COMUNI</span></li><li>
+<span>STAMPE</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>WSO2</span></li><li><div><span><a>ambienteDiSviluppo</a></span></div></li><li><div>
+<span><a>Schedulazione Avvio Processo Short Vita</a></span></div></li></ul></div><div><div><ul><li><div><span><a>CyberMail</a></span></div></li><li><div><span>
+<a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>CAUZIONI</span></li><li><span>MIG DANNI AUTO</span></li><li><span>MIG DANNI RE</span></li></ul></div>
+<div><div><ul><li><div><span><a>Annullo Polizza Cauzioni - MIG</a></span></div></li><li><div>
+<span><a>Appendice Voltura Cauzioni - MIG</a></span></div></li><li><div><span><a>Incasso Titolo in Arretrato Cauzioni - MIG</a></span></div></li><li><div><span><a>
+Riattivazione Polizze Cauzioni - MIG</a></span></div></li><li><div><span><a>Storno Titolo Incassato Cauzioni - MIG</a></span></div></li><li><div><span><a>
+Svincolo Polizza Ante Data Scadenza Cauzioni - MIG</a></span></div></li><li><div><span><a>Svincolo Polizza Data Scadenza Cauzioni - MIG</a></span></div></li></ul></div></div><div>
+<div><ul><li><div><span><a>Annullo Conto Vendita - MIG</a></span></div></li><li><div>
+<span><a>Sospensione Valore Auto - MIG</a></span></div></li><li><div><span><a>Sostituzione a scadenza Auto - MIG</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
+<a>Annullo Generico</a></span></div></li>
+<li><div><span><a>Appendice Dichiarativa MigDanni</a></span></div></li><li><div><span><a>Appendice Titolo Contabile MigDanni</a></span></div></li><li><div>
+<span><a>Appendice Titolo Contabile</a></span></div></li><li><div><span><a>Disdetta Direzione a Scadenza</a></span></div></li><li><div>
+<span><a>Storno Movimento MigDanni</a></span></div></li>
+<li><div><span><a>Variazione Cambio Contraente MigDanni</a></span></div></li><li><div><span><a>Variazione Modifica Provvigioni MigDanni</a></span></div></li><li><div><span><a>
+Variazione Modifica Recapito MigDanni</a></span></div></li><li><div><span><a>Variazione Modifica Residenza MigDanni</a></span></div></li><li><div><span><a>Variazione Proroga Polizza MigDanni</a>
+</span></div></li><li><div><span><a>Variazione Trasferimento MigDanni</a></span></div></li></ul></div></div></div>
+<div><div><ul><li><div><span><a>Amministrazione Post Ribaltamento</a></span></div></li><li><div><span><a>Post Ribaltamento</a></span></div></li></ul></div></div><div><div><ul><li>
+<span>PICO</span></li><li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>campus</a></span></div></li><li><div><span><a>Conferma Riscatto</a></span></div></li><li><div>
+<span><a>Estinzione Anticipata TCM</a></span></div></li><li><div><span><a>Scadenze</a></span></div></li><li><div>
+<span><a>Versamenti aggiuntivi premi periodici</a></span></div></li></ul></div><div><div><ul><li><div><span><a>Estinzioni Finanziarie</a></span></div></li><li><div><span>
+<a>Estinzioni Parziali Sella</a></span></div></li><li><div><span><a>Estinzioni Totali Sella</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span>
+<a>Chiusura FC - UEFA</a></span></div></li><li><div><span><a>Chiusura Foglio Cassa - UEFA</a></span></div></li><li><div><span><a>Completamento Anagrafica</a></span></div></li><li><div>
+<span><a>DatiTecniciValoreAuto - UEFA</a></span></div></li><li><div><span><a>DatiTecniciValoreAuto</a></span></div></li><li><div><span><a>DemandsAndNeeds</a></span></div></li><li><div><span>
+<a>HawkPersonaFisica</a></span></div></li><li><div><span><a>Login UEFA_WSO2</a></span></div></li><li><div><span><a>ModificaAnagrafica</a></span></div></li><li><div><span>
+<a>PortafoglioIDD - UEFA</a></span></div></li><li><div><span><a>PortafoglioIDD - WSO2</a></span></div></li><li><div><span><a>PortafoglioIDD</a></span></div></li><li><div><span>
+<a>PortafoglioIDDSos</a></span></div></li><li><div><span><a>Questionario Sanitario</a></span></div></li>
+<li><div><span><a>Ricerca o Storno Incasso maggiore di 5000</a></span></div></li><li><div><span><a>Ricerca o Storno Incasso minore di 5000</a></span></div></li><li><div>
+<span><a>Storno FC e Annullo Movimento</a></span></div></li><li><div><span><a>Storno FC e Annullo Polizza</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
+<a>Ristampa Documenti Danni - UEFA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span></div></li><li><div><span><a>Ristampe DANNI</a></span></div></li><li><div>
+<span><a>Ristampe VITA</a></span></div></li><li><div><span><a>Servlet Stampe Firma Digitale</a></span></div></li><li><div><span><a>SHORT Ristampe DANNI</a></span></div></li><li><div>
+<span><a>SHORT Ristampe VITA</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>VITA</span></li></ul></div><div><div><ul>
+<li><div><span><a>Controllo Digitalizzazione Consensi - UEFA</a></span></div></li><li><div><span><a>Controllo Obbligatorieta Stampa e Upload Documento - UEFA</a></span></div></li><li><div><span>
+<a>Eliminazione anagrafica soggetto FISICO - UEFA</a></span></div></li><li><div><span><a>Eliminazione anagrafica soggetto GIURIDICO - UEFA</a></span></div></li><li><div>
+<span><a>Inserimento Anagrafica - UEFA</a></span></div></li>
+<li><div><span><a>Inserimento Anagrafica soggetto FISICO - UEFA</a></span></div></li><li><div><span><a>Inserimento Anagrafica soggetto GIURIDICO - UEFA</a></span></div></li><li><div><span><a>
+Inserimento assicurato Prodotti Fast RE - UEFA</a></span></div></li><li><div><span><a>Variazione numero cellulare in consensi-adesioni - UEFA</a></span></div></li><li><div><span><a>
+Variazione numero cellulare in consensi-adesioni soggetto FISICO - UEFA</a></span></div></li><li><div><span><a>Variazione numero cellulare in consensi-adesioni soggetto GIURIDICO - UEFA</a>
+</span></div></li></ul></div></div><div><div>
+<ul><li><span>FOGLI CASSA</span></li><li><span>INCASSI</span></li></ul></div><div><div><ul>
+<li><div><span><a>Incasso e Storno Titolo a foglio cassa aperto - UEFA</a></span></div></li></ul></div></div><div><div>
+<ul><li><div><span><a>Incasso Annuale TR - Sospensione e Annullo per Vendita - UEFA</a></span></div></li><li><div><span><a>Incasso di rimessa - UEFA</a></span></div></li><li><div>
+<span><a>Incasso documenti - UEFA</a></span></div></li><li><div><span><a>Incasso limite pagamento contante - UEFA</a></span></div></li><li><div>
+<span><a>Storno Tecnico - UEFA</a></span></div></li></ul></div></div></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA</span></li>
+<li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
+<li><div><span><a>Auto HDI Agenzia Autorizzazione - UEFA</a></span></div></li><li><div><span><a>C.A.R. Merloni - UEFA</a></span></div></li><li><div><span>
+<a>Casa e Famiglia - UEFA</a></span></div></li><li><div><span><a>Cauzioni - UEFA</a></span></div></li><li><div><span><a>Circolazione Sicura - UEFA</a></span></div></li><li><div><span>
+<a>Fabbricato HDI - UEFA</a></span></div></li><li><div><span><a>Globale Casa 2019 - UEFA</a></span></div></li><li><div><span><a>Globale Infortuni e IPM - UEFA</a></span></div></li><li><div>
+<span><a>Globale Salute - UEFA</a></span></div></li><li><div><span><a>PN Vodafone - UEFA</a></span></div></li><li><div><span><a>Professionista HDI - UEFA</a></span></div></li>
+<li><div><span><a>Professionista Sanitario HDI - UEFA</a></span></div></li><li><div><span><a>RC Imprese Industriali Controllo Deleghe - UEFA</a></span></div></li><li><div><span>
+<a>RC Professionale - UEFA</a></span></div></li><li><div><span><a>Rischi Informatici HDI - UEFA</a></span></div></li><li><div><span><a>Salute HDI - UEFA</a></span></div></li><li><div>
+<span><a>Short Valore Auto - UEFA</a></span></div></li><li><div><span><a>Telefono ed email - PN Vodafone - UEFA</a></span></div></li><li><div><span>
+<a>Valore Auto - UEFA</a></span></div></li><li><div><span><a>Valore Auto - UEFA_WSO2</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>A2A Emissione Polizza - Fast</a></span></div></li><li><div><span><a>Auto HDI - Fast</a></span></div></li>
+<li><div><span><a>Auto HDI - FastMotor - Recupero Dati Veicolo - Dati non coerenti</a></span></div></li><li><div><span><a>Auto HDI - FastMotor - TF 1108</a></span></div></li><li><div><span>
+<a>Auto HDI - FastMotor</a></span></div></li><li><div><span><a>Emissione - FinalizzaAPP</a></span></div></li><li><div>
+<span><a>Globale Casa 2019 - Fast</a></span></div></li><li><div><span><a>Globale Infortuni e IPM - Fast</a></span></div></li><li><div><span><a>Globale PMI - Fast</a></span></div></li>
+<li><div><span><a>Globale PMI Autorizzazione - Fast</a></span></div></li><li><div><span><a>Modifica Proposta - Globale Casa 2019 - Fast</a></span></div></li><li><div><span><a>
+Modifica Proposta - Globale Infortuni e IPM - Fast</a></span></div></li><li><div><span><a>Modifica Proposta - PMI - Fast</a></span></div></li><li><div><span><a>
+Modifica Proposta - Valore Auto - FastMotor</a></span></div></li><li><div>
+<span><a>Premio Polizza - Fast</a></span></div></li>
+<li><div><span><a>Preventivatore YouQuote - Fast</a></span></div></li><li><div><span><a>Revisione Tariffaria Classi BM - Fast</a></span></div></li><li><div><span><a>
+Valore Auto - FastMotor - Settore 1</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - Settore 3 6 7</a></span></div></li><li><div><span><a>
+Valore Auto - FastMotor - Settore 4 Mio Camper</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - Settore 4</a></span></div></li><li><div><span><a>
+Valore Auto - FastMotor - Settore 5</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - SubSet</a></span></div></li><li><div>
+<span><a>Valore Auto - FastMotor</a></span></div></li>
+<li><div><span><a>Verifica Inserimento Date - Fast</a></span></div></li><li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>Annullo Conto Vendita - UEFA</a></span></div></li><li><div><span><a>Annullo Full UEFA Effettivo - UEFA</a></span></div></li><li><div><span>
+<a>Annullo Generico - UEFA</a></span></div></li><li><div>
+<span><a>Annullo Salva Rimborso - UEFA</a></span></div></li><li><div><span><a>Consultazione Documenti Firma Digitale - UEFA</a></span></div></li><li><div><span><a>Consultazione Polizza RCA - UEFA
+</a></span></div></li><li><div><span><a>Controllo Incasso Quietanza di Rinnovo in arretrato da piu di 15gg - UEFA</a></span></div></li><li><div><span><a>Disdetta Direzione a Scadenza - UEFA</a>
+</span></div></li><li><div><span><a>Generazione ATR Quietanza Supplettiva - UEFA</a></span></div></li><li><div><span><a>Gestione Riclassificazione Correzione ATR - UEFA</a></span></div></li><li>
 <div>
-<ul><li><div><span><a>Globale Casa 2019 - Sostituzione - Full Uefa</a></span></div></li><li><div><span><a>Infortuni e IPM - Sostituzione - Full Uefa</a></span></div></li></ul></div></div></div>
+<span><a>Incasso Cliente Danni - UEFA</a></span></div></li><li><div><span><a>Sospensione Decreto - UEFA</a></span></div></li>
+<li><div><span><a>Sospensione Valore Auto - UEFA</a></span></div></li><li><div><span><a>Stampa e Ristampe - UEFA</a></span></div></li>
+<li><div><span><a>Stampa e Ristampe Lista Operativa - UEFA</a></span></div></li><li><div><span><a>Stampa e Ristampe Soggetto - UEFA</a></span></div></li><li><div>
+<span><a>Variazione Quietanza - UEFA</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>Annullo-Riattivazione Full UEFA Effettivo</a></span></div></li><li><div><span><a>Cessione Contratto - Full UEFA</a></span></div></li><li><div><span><a>
+Consultazione Documenti Firma Digitale - Full UEFA</a></span></div></li><li><div><span><a>Crea Copia Auto e RE - Full UEFA</a></span></div></li><li><div><span><a>
+Riclassificazione RCA Agenzia - Full Uefa</a></span></div></li><li><div><span><a>Sospensione Decreto - Full UEFA</a></span></div></li><li><div><span><a>Trasferimento Polizza - Full Uefa</a>
+</span></div></li><li><div><span><a>Variazione Generica Auto e RE - Full UEFA</a></span></div></li><li><div><span><a>Variazione Quietanza - Autorizzazione - Full Uefa</a></span></div></li><li>
+<div><span><a>Variazione Quietanza - Full Uefa</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>Gestione Proposta - UEFA</a></span></div></li>
+<li><div><span><a>Riattivazione Polizza Auto -Fast</a></span></div></li><li><div><span><a>Riattivazione Valore Auto - UEFA</a></span></div></li><li><div><span><a>
+Sostituzione a scadenza Auto - UEFA</a></span></div></li><li><div><span><a>Sostituzione a scadenza Natanti - UEFA</a></span></div></li><li><div><span><a>
+Sostituzione Globale Casa 2019 Blocco Autorizzativo - UEFA</a></span></div></li><li><div><span><a>Sostituzione Globale Casa Vecchio Nuovo Prodotto - UEFA</a></span></div></li><li><div><span><a>
+Sostituzione Incendio Mutui Globale Casa 2019 - UEFA</a></span></div></li><li><div><span><a>Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM - UEFA</a></span></div></li><li>
+<div><span><a>Sostituzione infrannuali Auto altra compagnia altra targa - UEFA</a></span></div></li><li>
+<div><span><a>Sostituzione Infrannuali Auto Blocco Autorizzativo - UEFA</a></span></div></li><li><div><span><a>Sostituzione Infrannuali MioCamper - UEFA</a></span></div></li><li><div><span><a>
+Sostituzione Infrannuali Natanti - UEFA</a></span></div></li><li><div><span><a>Sostituzione Polizze Auto Vodafone - UEFA</a></span></div></li><li><div><span><a>
+Sostituzione Polizze con Ratino - UEFA</a></span></div></li><li><div><span><a>Sostituzione Scadenza Auto Blocco Autorizzativo - UEFA</a></span></div></li><li><div><span><a>
+Telefono ed email Sostituzione Vodafone - UEFA</a></span></div></li></ul></div></div><div>
 <div>
-<div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div><div><div><ul>
-<li><div><span><a>HDI Capitale Protetto Agenzia Autorizzazione - UEFA</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li>
-<span>VITA</span></li></ul></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div><div><div><ul>
-<li><div><span><a>A2A - Emissione polizza - IDD</a></span></div></li><li><div><span><a>Short Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
-Sospensione Valore Auto</a></span></div></li></ul></div></div></div><div><div><ul><li>
-<span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>CBA</span></li></ul></div><div><div><ul>
-<li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li><li>
-<span>Emissioni CBA</span></li><li><span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><div>
-<span><a>Cambio Contraenza</a></span></div></li><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Valore Capitale</a></span></div></li><li><div>
-<span><a>CBA Valore Cedola</a></span></div></li><li><div><span><a>CBA Valore Cedola_new</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div>
-<span><a>Versamento Aggiuntivo</a></span></div></li></ul></div><div><div><ul><li><div><span><a>CBA - Riscatto Parziale</a></span></div></li><li><div><span><a>CBA - Riscatto totale</a></span>
-</div></li><li><div><span><a>CBA Moneta a premi periodici</a></span></div></li><li><div>
-<span><a>CBA Tuo Valore</a></span></div></li><li><div><span><a>CBA Valore Capital</a></span></div></li><li><div><span><a>CBA Valore Capitale Top</a></span></div></li><li><div><span><a>
-CBA Valore Capitale</a></span></div></li><li><div><span><a>CBA Valore Cedola</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Autorizza cedole</a></span></div></li><li><div>
-<span><a>Conferma e autorizzazione Cedole</a></span></div></li><li><div>
-<span><a>Pre Verifica</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Sostegno Finanziamento PA TF-577</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
-F81 - Obiettivo Futuro PAR - PF</a></span></div></li><li><div><span><a>F81 - Obiettivo Futuro PAR - PF - IDD</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Agenzia</a></span>
-</div></li><li><div><span><a>F95 - Obiettivo Crescita Direzione - IDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Riscatto Totale Garanzia - NFE</a></span></div></li>
-<li><div><span><a>Scelta Opzione Scadenza</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div></div><div><div><ul><li><div>
-<span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span><a>github</a></span></div></li><li><div><span><a>hdiassicurazioni</a></span></div></li><li><div>
-<span><a>I-ACAD</a></span></div></li><li><div><span><a>OrangeHrm</a></span></div></li><li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li>
-<span>Prova</span></li><li><div><span><a>Assicomo SERVIZIO</a></span></div></li><li><div><span><a>Assicomo SERVIZIO2</a></span></div></li><li><div><span>
-<a>Nuovo processo</a></span></div></li><li><div><span><a>prova</a></span></div></li><li><div><span><a>raffa</a></span></div></li><li><div><span><a>soloIM</a></span></div></li><li><div><span>
-<a>Test (monitor)</a></span></div></li><li><div><span><a>test</a></span></div></li><li><div><span><a>test2</a></span></div></li><li><div><span><a>test3</a></span></div></li><li><div><span>
-<a>vuoto</a></span></div></li></ul></div><div><div><ul><li><div><span><a>prova</a></span></div></li><li><div><span><a>prova2</a></span></div></li></ul></div></div></div><div><div><ul><li>
-<span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li><span>Assimoco-generici</span></li><li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li>
-<span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li>
-<li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li><span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li>
-<span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li><span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li>
-<span>UNICO</span></li><li><span>VITA</span></li><li><span>WEBTEST</span></li><li><div><span><a>casitest</a></span></div></li><li><div><span><a>demoI_ACAD</a></span></div></li><li><div>
-<span><a>dialog_hdi</a></span></div></li><li><div><span><a>esempio</a></span></div></li><li><div><span><a>estinzione polizza - Collaudo</a></span></div></li><li><div>
-<span><a>estinzione polizza</a></span></div></li><li><div><span><a>estinzione polizze cumulative - Collaudo</a></span></div></li><li><div><span><a>FastMotor</a></span></div></li><li><div>
-<span><a>garmin</a></span></div></li><li><div><span><a>gia</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span><a>mockdettaglio</a></span></div></li><li><div><span>
-<a>monitor</a></span></div></li><li><div><span><a>RistampaPolizza</a></span></div></li><li><div><span><a>test assimoco</a></span></div></li><li><div><span><a>testplugin</a></span></div></li>
-<li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>WebServerInterno_DemoRicercaAvanzata</a></span></div></li><li><div><span>
-<a>Xlayer</a></span></div></li><li><div><span><a>XlayerKO</a></span></div></li></ul></div><div><div><ul>
-<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li></ul></div></div><div>
-<div><ul><li><div>
-<span><a>Valore Auto (AS)</a></span></div></li><li><div><span><a>Valore auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
-<a>portal</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>campus</a></span></div></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
-<div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><div><span><a>Globale Casa 2019</a></span></div></li><li><div>
-<span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul>
-</div></div></div><div><div><ul><li><div>
-<span><a>debug_mhtml</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div><span><a>I-ACAD</a></span></div></li><li><div><span>
-<a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul>
-<li><div><span><a>Aumenta le visualizzazioni di raffa</a></span></div></li><li><div><span><a>garmin</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span>
-<a>Strava</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>
-Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span>
-</div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a>
-</span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div>
-<span><a>storno polizza</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
-estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>
-Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div>
-<span><a>Autorizza</a></span></div></li><li><div><span><a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li>
-<span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li></ul></div></div><div><div><ul><li>
-<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
-<li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li></ul></div></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li>
+<ul><li><div><span><a>Globale Casa 2019 - Sostituzione - Full Uefa</a></span></div></li><li><div><span><a>Infortuni e IPM - Sostituzione - Full Uefa</a></span></div></li><li><div><span><a>
+Riattivazione Polizza Auto - Full Uefa</a></span></div></li><li><div><span><a>Riattivazione Valore Auto - Full UEFA</a></span></div></li><li><div><span><a>Sostituzione a scadenza Auto - Full UEFA
+</a></span></div></li><li><div><span><a>Sostituzione Auto Blocco Autorizzativo - Full UEFA</a></span></div></li><li><div><span><a>Sostituzione Globale Casa Vecchio Nuovo Prodotto - Fast</a>
+</span></div></li><li><div><span><a>Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM - Full UEFA</a></span></div></li><li><div><span><a>
+Sostituzione infrannuale Auto altra Compagnia altra targa - Full UEFA</a></span></div></li><li><div><span><a>Sostituzione RE ratino accorpato - Full UEFA</a></span></div></li><li><div>
+<span><a>Sostituzioni Auto - Fast</a></span></div></li><li><div><span><a>Sostituzioni Auto Vodafone - Full UEFA</a></span></div></li><li><div><span><a>
+Sostituzioni polizze Auto No Vodafone - Full UEFA</a></span></div></li><li><div><span><a>Sostituzioni Polizze con Ratino - Full UEFA</a></span></div></li></ul></div></div></div><div>
+<div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div><div><div><ul>
+<li><div><span><a>F81 - Obiettivo Futuro PAR - PF - UEFA</a></span></div></li><li><div><span><a>F86 - Obiettivo Futuro PAC - PF - UEFA</a></span></div></li><li><div><span><a>
+F95 - Obiettivo Crescita Agenzia - UEFA</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Direzione - UEFA</a></span></div></li><li><div>
+<span><a>HDI Accumulo Flex - UEFA</a></span></div></li>
+<li><div><span><a>HDI Capitale Protetto Agenzia - UEFA</a></span></div></li><li><div><span><a>HDI Capitale Protetto Agenzia Autorizzazione - UEFA</a></span></div></li><li><div><span><a>
+HDI Capitale Protetto Direzione - UEFA</a></span></div></li><li><div>
+<span><a>Obiettivo Investimento - UEFA</a></span></div></li><li><div><span><a>Progetto Investimento Flex - UEFA</a></span></div></li><li><div><span><a>Programma Accumulo Futuro - UEFA</a></span>
+</div></li><li><div>
+<span><a>Proteggi il Domani - UEFA</a></span></div></li><li><div><span><a>Scelta di Valore - UEFA</a></span></div></li>
+<li><div><span><a>TCM Vita Facile a Premio Annuo - UEFA</a></span></div></li><li><div><span><a>Vita Intera Fondo Futuro - UEFA</a></span></div></li></ul></div></div></div><div><div><ul>
+<li><div><span><a>Annullo Rata - UEFA</a></span></div></li><li><div><span><a>Annullo Recesso - UEFA</a></span></div></li>
+<li><div><span><a>Annullo Riscatto Parziale - UEFA</a></span></div></li><li><div>
+<span><a>Annullo Riscatto Totale - UEFA</a></span></div></li><li><div><span><a>Annullo Riscatto Totale Garanzia - UEFA</a></span></div></li><li><div>
+<span><a>Annullo Sinistro Morte - UEFA</a></span></div></li><li><div><span><a>Annullo Storno Altre Cause - UEFA</a></span></div></li><li><div><span>
+<a>Apertura Pegno - UEFA</a></span></div></li><li><div><span><a>Apertura Vincolo - UEFA</a></span></div></li><li><div><span><a>Cambio Contraenza - UEFA</a></span></div></li>
+<li><div><span><a>Cambio Contraenza Soggetto Giuridico - UEFA</a></span></div></li><li><div><span><a>Cambio Coordinate Bancarie - UEFA</a></span></div></li><li><div><span>
+<a>Cambio Filiale - UEFA</a></span></div></li><li><div><span><a>Cambio modalita' pagamento - UEFA</a></span></div></li><li><div>
+<span><a>Cambio Recapito Polizza - UEFA</a></span></div></li><li><div><span><a>Cambio Residenza Contraente - UEFA</a></span></div></li><li><div><span>
+<a>Chiusura Pegno - UEFA</a></span></div></li><li><div><span><a>Chiusura Vincolo - UEFA</a></span></div></li><li><div>
+<span><a>Concessione Prestito - UEFA</a></span></div></li><li><div><span><a>Consultazione Polizze Vita - UEFA</a></span></div></li><li><div><span><a>Elimina Figura Anagrafica - UEFA</a></span>
+</div></li><li><div>
+<span><a>Gestione Autorizzazioni - UEFA</a></span></div></li><li><div><span><a>Incasso Cliente - UEFA</a></span></div></li><li><div>
+<span><a>Incasso Cliente Vita - UEFA</a></span></div></li><li><div><span><a>Insolvenza - UEFA</a></span></div></li><li><div>
+<span><a>Mancato Perfezionamento - UEFA</a></span></div></li><li><div>
+<span><a>Modifica dati documento - UEFA</a></span></div></li><li><div><span><a>Modifica Figure Anagrafiche - UEFA</a></span></div></li><li><div><span><a>Recesso - UEFA</a></span></div></li>
+<li><div><span><a>Revoca Incasso - UEFA</a></span></div></li><li><div><span><a>Riattivazione da Insolvenza - UEFA</a></span></div></li><li><div>
+<span><a>Riattivazione Riduzione - UEFA</a></span></div></li><li><div><span><a>Riduzione - UEFA</a></span></div></li><li><div><span><a>Rimborso Prestito - UEFA</a></span></div></li>
+<li><div><span><a>Riscatto Parziale - Agenzia - UEFA</a></span></div></li><li><div><span><a>Riscatto Parziale - Direzione - UEFA</a></span></div></li><li><div><span><a>
+Riscatto Parziale Direzione - HDI Azienda TFM - UEFA</a></span></div></li><li><div>
+<span><a>Riscatto Quiescenza - UEFA</a></span></div></li>
+<li><div><span><a>Riscatto Totale - Agenzia - UEFA</a></span></div></li><li><div><span><a>Riscatto Totale - Direzione - UEFA</a></span></div></li><li><div><span><a>Riscatto Totale Garanzia - UEFA
+</a></span></div></li><li><div>
+<span><a>Scelta Opzione Scadenza - UEFA</a></span></div></li><li><div><span><a>Sinistro Morte - UEFA</a></span></div></li><li><div>
+<span><a>Sinistro Senza Seguito - UEFA</a></span></div></li><li><div><span><a>Sospensione-Riattivazione Pagamento Premi - UEFA</a></span></div></li><li><div>
+<span><a>Storno altre Cause - UEFA</a></span></div></li><li><div><span><a>Trasferimento Polizza - UEFA</a></span></div></li><li><div>
+<span><a>Variazione Beneficiari - UEFA</a></span></div></li><li><div><span><a>Variazione Frazionamento - UEFA</a></span></div></li><li><div><span><a>Variazione Premio e Periodicita - UEFA</a>
+</span></div></li><li><div><span><a>Versamento Aggiuntivo - HDI Azienda TFM - UEFA</a></span></div></li><li><div>
+<span><a>Versamento Aggiuntivo - UEFA</a></span></div></li></ul></div></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li>
+<span>DANNI</span></li><li><span>ELABORAZIONE MASSIVE</span></li><li><span>VITA</span></li></ul></div><div><div><ul>
+<li><div><span><a>Controllo Obbligatorieta Stampa e Upload Documento</a></span></div></li><li><div><span><a>Inserimento Anagrafica</a></span></div></li>
+<li><div><span><a>Variazione numero cellulare in consensi-adesioni</a></span></div></li></ul></div></div><div><div><ul><li><span>FOGLI CASSA</span></li><li><span>INCASSI</span></li><li>
+<span>TITOLI</span></li></ul></div><div><div><ul>
+<li><div><span><a>Incasso e Storno Titolo a foglio cassa aperto</a></span></div></li><li><div><span><a>Storno a foglio cassa aperto</a></span></div></li><li><div><span><a>
+Storno contabile con mese contabile aperto-chiuso</a></span></div></li><li><div><span><a>Storno tecnico con mese contabile aperto-chiuso</a></span></div></li></ul></div></div><div>
+<div><ul><li><div><span><a>Incasso Annuale TR - Sospensione e Annullo per Vendita</a></span></div></li><li><div><span><a>Incasso di rimessa</a></span></div></li><li><div>
+<span><a>Incasso documenti</a></span></div></li>
+<li><div><span><a>Incasso limite pagamento contante</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Creazione manuale partita non tecnica-incasso-annullo</a></span></div>
+</li></ul></div></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li><li><span>SOSTITUZIONI</span></li></ul></div><div><div><ul><li><div><span><a>A2A - Emissione polizza</a></span></div></li><li>
+<div><span><a>Auto HDI TF-1108</a></span></div></li><li><div><span><a>Auto HDI</a></span></div></li><li><div><span><a>C.A.R. Merloni</a></span></div></li><li><div>
+<span><a>Cache Flessibilita Tempi</a></span></div></li><li><div><span><a>Cache Flessibilita</a></span></div></li><li><div><span><a>Casa e Famiglia</a></span></div></li><li><div>
+<span><a>Cauzioni</a></span></div></li><li><div><span><a>Circolazione Sicura</a></span></div></li><li><div><span><a>Fabbricato HDI</a></span></div></li><li><div><span>
+<a>Globale Casa 2019</a></span></div></li><li><div><span><a>Globale Casa InChiaro</a></span></div></li><li><div><span><a>Globale Infortuni e IPM</a></span></div></li><li><div><span>
+<a>Globale Salute</a></span></div></li><li><div><span><a>PN Vodafone</a></span></div></li><li><div><span><a>Professionista HDI</a></span></div></li><li><div>
+<span><a>Professionista Sanitario HDI</a></span></div></li><li><div><span><a>RC Imprese Industriali Controllo Deleghe</a></span></div></li><li><div><span>
+<a>RC Professionale</a></span></div></li><li><div><span><a>Rischi Informatici HDI</a></span></div></li><li><div><span><a>Short Valore Auto</a></span></div></li>
+<li><div><span><a>Simulazioni Questionario IDD Emissioni Danni</a></span></div></li><li><div><span><a>Telefono ed email - PN Vodafone</a></span></div></li><li><div><span>
+<a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Annullo Conto Vendita</a></span></div></li><li><div><span><a>Annullo RE Effettivo</a></span></div></li>
+<li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Gestione Riclassificazione Correzione ATR</a></span></div></li><li><div>
+<span><a>Riattivazione Polizze RE</a></span></div></li><li><div><span><a>Sospensione Valore Auto</a></span></div></li>
+<li><div><span><a>Variazione Quietanza - Verifica Sconto Autorizzazione</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>Riattivazione Valore Auto</a></span></div></li><li><div>
+<span><a>Sostituzione a scadenza Auto</a></span></div></li><li><div><span><a>Sostituzione a scadenza Natanti</a></span></div></li><li><div><span><a>Sostituzione Auto Blocco Autorizzativo</a>
+</span></div></li><li><div><span><a>Sostituzione Globale Casa 2019 Blocco Autorizzativo</a></span></div></li><li><div><span><a>Sostituzione Globale Casa Vecchio Nuovo Prodotto</a></span></div>
+</li><li><div><span><a>Sostituzione Incendio Mutui Globale Casa 2019</a></span></div></li><li><div><span><a>Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM</a></span></div>
+</li><li><div><span><a>Sostituzione infrannuali Auto altra compagnia altra targa</a></span></div></li><li><div><span><a>Sostituzione Infrannuali Auto Blocco Autorizzativo</a></span></div></li>
+<li><div><span><a>Sostituzione Infrannuali MioCamper</a></span></div></li><li><div><span><a>Sostituzione Infrannuali Natanti</a></span></div></li><li><div><span><a>
+Sostituzione Polizze Auto Vodafone</a></span></div></li><li><div><span><a>Sostituzione Scadenza Auto Blocco Autorizzativo</a></span></div></li><li><div><span><a>
+Telefono ed email Sostituzione Vodafone</a></span></div></li></ul></div></div></div>
+<div><div><ul><li><div><span><a>Appendice Carico Contabile - Produzione</a></span></div></li><li><div><span><a>Appendice Carico Contabile - Provvigioni</a></span></div></li><li><div>
+<span><a>Appendice Carico Contabile</a></span></div></li><li><div><span><a>Esclusione Applicazioni Incendio Mutui InChiaro</a></span></div></li><li><div>
+<span><a>Regolazione Premi - Portal</a></span></div></li><li><div><span><a>Regolazione Premi - Unico</a></span></div></li><li><div>
+<span><a>Storno ultimo movimento</a></span></div></li><li><div><span><a>Valore Veicolo ANIA</a></span></div></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li><li>
+<span>POSTVENDITA</span></li><li><span>Supernova</span></li><li><span>XML BANCA SELLA</span></li></ul></div><div><div><ul><li><span>CBA</span></li><li><span>HDI</span></li></ul></div>
+<div><div><ul><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Obiettivo 10</a></span></div></li>
+<li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li><li><div><span><a>CBA Sicurezza PU - Cap Cost Nuova</a></span></div></li><li><div>
+<span><a>CBA Sostegno Finanziamento PA</a></span></div></li><li><div><span><a>CBA Sostegno Finanziamento PU</a></span></div></li><li><div><span><a>CBA Tuo Valore</a></span></div></li>
+<li><div><span><a>CBA Valore Cedola</a></span></div></li><li><div><span><a>CBA Valore Investimento</a></span></div></li><li><div><span><a>Previdenza HDI Pip5</a></span></div></li><li><div>
+<span><a>Sella Multi Solution</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>F81 - Obiettivo Futuro PAR - PF</a></span></div></li><li><div><span><a>F81 - Obiettivo Futuro PAR Verifica Profilo Rischio - PF</a></span></div></li><li><div><span><a>
+F86 - Obiettivo Futuro PAC - PF</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Agenzia</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Direzione</a></span></div>
+</li><li><div>
+<span><a>HDI Capitale Protetto Agenzia</a></span></div></li><li><div><span><a>HDI Capitale Protetto Direzione</a></span></div></li><li><div><span><a>
+Obiettivo Crescita Agenzia Verifica Profilo Richio Collettiva</a></span></div></li><li><div>
+<span><a>Obiettivo Investimento</a></span></div></li><li><div><span><a>Progetto Investimento Flex</a></span></div></li><li><div>
+<span><a>Programma Accumulo Futuro</a></span></div></li><li><div><span><a>Proteggi il Domani</a></span></div></li><li><div><span><a>Scelta di Valore</a></span></div></li>
+<li><div><span><a>Simulazioni Questionario IDD Emissioni Vita</a></span></div></li><li><div><span><a>TCM Soluzione Serena</a></span></div></li>
+<li><div><span><a>TCM Vita Facile a Premio Annuo</a></span></div></li><li><div><span><a>Vita Intera Fondo Futuro</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
+<span><a>Annullo Rata</a></span></div></li><li><div><span><a>Annullo Recesso</a></span></div></li><li><div><span><a>Annullo Riscatto Parziale</a></span></div></li>
+<li><div><span><a>Annullo Riscatto Totale Garanzia</a></span></div></li><li><div><span><a>Annullo Riscatto Totale</a></span></div></li><li><div><span>
+<a>Annullo Sinistro Morte</a></span></div></li><li><div><span><a>Annullo Storno Altre Cause</a></span></div></li><li><div><span><a>Apertura Pegno</a></span></div></li><li><div><span>
+<a>Apertura Vincolo</a></span></div></li><li><div><span><a>Cambio Contraenza Soggetto Giuridico</a></span></div></li><li><div><span><a>Cambio Contraenza</a></span></div></li><li><div>
+<span><a>Cambio Coordinate Bancarie</a></span></div></li><li><div><span><a>Cambio Filiale</a></span></div></li><li><div><span><a>Cambio modalita' pagamento</a></span></div></li><li><div>
+<span><a>Cambio Recapito Polizza</a></span></div></li><li><div><span><a>Cambio Residenza Contraente</a></span></div></li><li><div><span><a>Chiusura Pegno</a></span></div></li><li><div><span>
+<a>Chiusura Vincolo</a></span></div></li><li><div><span><a>Concessione Prestito</a></span></div></li><li><div><span><a>Consultazione Polizze Vita</a></span></div></li>
+<li><div><span><a>Elimina Figura Anagrafica Delegato</a></span></div></li><li><div><span><a>Elimina Figura Anagrafica</a></span></div></li><li><div><span>
+<a>Gestione Autorizzazioni</a></span></div></li><li><div><span><a>Insolvenza</a></span></div></li><li><div><span><a>Mancato Perfezionamento</a></span></div></li>
+<li><div><span><a>Modifica dati documento PostRibaltamento</a></span></div></li><li><div><span><a>Modifica dati documento</a></span></div></li><li><div>
+<span><a>Modifica Figure Anagrafiche</a></span></div></li><li><div><span><a>Recesso</a></span></div></li><li><div><span><a>Revoca Incasso</a></span></div></li><li><div>
+<span><a>Riattivazione da Insolvenza</a></span></div></li><li><div><span><a>Riattivazione Riduzione</a></span></div></li><li><div><span><a>Riduzione</a></span></div></li><li><div><span>
+<a>Rimborso Prestito</a></span></div></li><li><div><span><a>Riscatto Parziale - Agenzia</a></span></div></li><li><div><span><a>Riscatto Parziale - Direzione</a></span></div></li><li><div>
+<span><a>Riscatto Quiescenza</a></span></div></li><li><div><span><a>Riscatto Totale - Agenzia</a></span></div></li><li><div>
+<span><a>Riscatto Totale - Direzione</a></span></div></li><li><div><span><a>Riscatto Totale Garanzia</a></span></div></li><li><div><span><a>Scelta Opzione Scadenza</a></span></div></li><li>
+<div><span><a>Sinistro Morte</a></span></div></li><li><div><span><a>Sinistro Senza Seguito</a></span></div></li><li><div><span><a>Sorno altre Cause</a></span></div></li>
+<li><div><span><a>Sospensione-Riattivazione Pagamento Premi</a></span></div></li><li><div><span><a>Trasferimento Polizza</a></span></div></li><li><div><span>
+<a>Variazione Beneficiari</a></span></div></li><li><div><span><a>Variazione Frazionamento</a></span></div></li>
+<li><div><span><a>Variazione Premio e Periodicita</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
+<a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>XML Banca Sella</a></span></div></li></ul></div></div></div></div><div><div><ul><li><span>DANNI</span></li>
+<li><span>VITA</span></li></ul></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li><li><div><span><a>Repertorio Gare - WSO2</a></span></div></li></ul></div>
+<div><div><ul><li><div><span><a>Protezione Media Impresa - WSO2</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - SubSet - WSO2</a></span></div></li></ul></div></div>
+<div><div><ul><li><div>
+<span><a>Appendice Dichiarativa - WSO2</a></span></div></li><li><div><span><a>Dashboard Quietanziamento Agenziale - WSO2</a></span></div></li><li><div><span><a>
+Dashboard UpSelling CrossSelling - Settori Minori - WSO2</a></span></div></li><li><div><span><a>Dashboard UpSelling CrossSelling - WSO2</a></span></div></li><li><div>
+<span><a>Deroghe Assuntive - WSO2</a></span></div></li><li><div><span><a>Variazione Recapito - WSO2</a></span></div></li><li><div>
+<span><a>Variazione Segnalatore - WSO2</a></span></div></li></ul></div></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div>
+<div><div><ul><li><div><span><a>HDI Azienda TFM - WSO2</a></span></div></li></ul></div></div></div></div></div></div><div><div><ul><li><span>UEFA</span></li><li><span>UNICO</span></li><li>
+<span>WSO2</span></li><li><div><span><a>Danni</a></span></div></li></ul></div><div><div><ul><li><div><span><a>FAST - Emissioni - Int</a></span></div></li><li><div><span>
+<a>FAST - Emissioni - Pre</a></span></div></li><li><div><span><a>FAST - Emissioni</a></span></div></li><li><div><span><a>UEFA - Anagrafica - Int</a></span></div></li><li><div><span>
+<a>UEFA - Anagrafica - Pre</a></span></div></li><li><div><span><a>UEFA - Anagrafica</a></span></div></li><li><div><span><a>UEFA - Annulli RE uefa</a></span></div></li><li><div><span>
+<a>UEFA - Completo Danni</a></span></div></li><li><div><span><a>UEFA - Completo Vita</a></span></div></li><li><div><span><a>UEFA - Controlli Contabili - Int</a></span></div></li><li><div>
+<span><a>UEFA - Controlli Contabili - Pre</a></span></div></li><li><div><span><a>UEFA - Controlli Contabili</a></span></div></li><li><div><span>
+<a>UEFA - Emissioni Danni - Int</a></span></div></li><li><div><span><a>UEFA - Emissioni Danni - Pre</a></span></div></li><li><div><span><a>UEFA - Emissioni Danni tmp</a></span></div></li>
+<li><div><span><a>UEFA - Emissioni Danni</a></span></div></li><li><div><span><a>UEFA - Emissioni Vita - Int</a></span></div></li><li><div><span>
+<a>UEFA - Emissioni Vita - Pre</a></span></div></li><li><div><span><a>UEFA - Emissioni Vita</a></span></div></li><li><div><span><a>UEFA - PostVendita Danni - Int</a></span></div></li>
+<li><div><span><a>UEFA - PostVendita Danni - Pre</a></span></div></li><li><div><span><a>UEFA - PostVendita Danni</a></span></div></li><li><div><span>
+<a>UEFA - PostVendita Vita - Int</a></span></div></li><li><div><span><a>UEFA - PostVendita Vita - Pre</a></span></div></li><li><div><span><a>UEFA - PostVendita Vita</a></span></div></li><li>
+<div><span><a>UEFA - Short Danni</a></span></div></li><li><div><span><a>UEFA - Short Vita</a></span></div></li><li><div><span>
+<a>UEFA - Very Short Danni</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>UNICO - Anagrafica - Int</a></span></div></li><li><div><span>
+<a>UNICO - Anagrafica - Pre</a></span></div></li><li><div><span><a>UNICO - Anagrafica</a></span></div></li><li><div><span><a>UNICO - Attivita di PostRibaltamento</a></span></div></li>
+<li><div><span><a>UNICO - Controlli Contabili - Int</a></span></div></li><li><div><span><a>UNICO - Controlli Contabili - Pre</a></span></div></li><li><div><span>
+<a>UNICO - Controlli Contabili</a></span></div></li><li><div><span><a>UNICO - Emissioni Danni</a></span></div></li><li><div><span><a>UNICO - Emissioni Vita - Int</a></span></div></li><li>
+<div><span><a>UNICO - Emissioni Vita - Pre</a></span></div></li><li><div><span><a>UNICO - Emissioni Vita CBA temp</a></span></div></li><li><div><span>
+<a>UNICO - Emissioni Vita</a></span></div></li><li><div><span><a>UNICO - NRT-UAT</a></span></div></li><li><div><span><a>UNICO - PostVendita Danni - Int</a></span></div></li><li><div><span>
+<a>UNICO - PostVendita Danni - Pre</a></span></div></li><li><div><span><a>UNICO - PostVendita Danni</a></span></div></li><li><div><span><a>UNICO - PostVendita Vita</a></span></div></li>
+<li><div><span><a>UNICO - Pulizia PostVendita VITA</a></span></div></li><li><div><span><a>UNICO - Short Danni</a></span></div></li><li><div><span><a>UNICO - Short Vita</a></span></div></li>
+<li><div><span><a>UNICO - Very Short Danni</a></span></div></li><li><div><span><a>UNICO - Very Short Vita</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
+<a>WSO2 - Completo Danni</a></span></div></li></ul></div></div></div><div><div><ul><li><span>ELABORAZIONI_VARIE</span></li><li>
+<span>MIGRAZIONE</span></li><li><span>POSTRIBALTAMENTO</span></li><li><span>ROBOT</span></li><li><span>SCENARI COMUNI</span></li><li><span>STAMPE</span></li><li><span>UEFA</span></li><li>
+<span>UNICO</span></li><li><span>WSO2</span></li></ul></div><div><div><ul><li><span>CAUZIONI</span></li><li><span>MIG DANNI AUTO</span></li><li>
+<span>MIG DANNI RE</span></li></ul></div></div><div><div><ul><li><span>PICO</span></li></ul></div><div><div><ul><li><div><span><a>PICO_Sella_Parziali</a></span></div></li><li><div>
+<span><a>PICO_Sella_Totali</a></span></div></li></ul></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li><li><span>INCASSI</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li>
+<span>SOSTITUZIONI</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div><div><div>
+<ul><li><span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>ELABORAZIONE MASSIVE</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li><li><span>INCASSI</span></li><li>
+<span>TITOLI</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li><li><span>SOSTITUZIONI</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li><li><span>Supernova</span></li><li><span>XML BANCA SELLA</span></li></ul></div><div><div><ul><li><span>CBA</span></li><li>
 <span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li>
-<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>CBA</span></li></ul></div>
-<div><div><ul><li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li>
-<li><span>Emissioni CBA</span></li><li><span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><div>
-<span><a>Cambio Contraenza</a></span></div></li><li><div>
-<span><a>CBA Valore Capitale</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul>
-</div>
-<div><div><ul><li><div><span><a>CBA - Riscatto totale</a></span></div></li><li><div><span><a>CBA Tuo Valore</a></span></div></li></ul></div></div><div><div><ul>
-<li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>Liquidazione Cedole - solo autorizzazione</a></span></div></li></ul></div></div><div><div>
-<ul><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul>
-<li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li><span>Assimoco-generici</span></li>
-<li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li>
-<span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li>
-<span>HDI-GENERICI</span></li><li><span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li>
-<span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li><span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li>
-<span>UNICO</span></li><li><span>VITA</span></li><li><span>WEBTEST</span></li></ul></div><div><div><ul><li><span>
-Inserimento Anagrafica Persona Fisica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Valore Auto (AS)<a></a><a></a></span></li><li><span>Valore auto<a></a><a></a></span></li>
-</ul></div></div><div><div><ul><li><span>campus<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
-<div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><span>Globale Casa 2019<a></a><a></a></span></li><li><span>
-Globale Fabbricati Controllo Montesconti<a></a><a></a></span></li><li><span>
-Valore Auto - IDD - NFE<a></a><a></a></span></li><li><span>Valore Auto<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
-Servlet Stampe Firma Digitale<a></a><a></a></span></li></ul></div></div></div><div><div><ul><li><span>HDI - Stampa quietanze<a></a><a></a></span></li><li><span>nuovo<a></a><a>
-</a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul><li>
-<span>robottini-Scadenze<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Conferma<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li>
-<li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li></ul></div></div><div><div><ul><li>
-<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div></div><div><div><ul><li>
-<span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div>
-<div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li>
-<span>CBA</span></li></ul></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li><li><span>Emissioni CBA</span></li><li>
-<span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><span>Versamenti aggiuntivi premi periodici<a>
-</a><a></a></span></li></ul></div><div><div><ul><li><span>
-CBA - Riscatto Parziale<a></a><a></a></span></li><li><span>CBA - Riscatto totale<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Autorizza cedole<a></a><a></a></span></li><li>
-<span>
-Conferma e autorizzazione Cedole<a></a><a></a></span></li><li><span>Pre Verifica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
-CBA Moneta a Premi Periodici<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
-Scelta Opzione Scadenza<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Scadenze<a></a><a></a></span></li></ul></div></div></div></div><div><div><div><div><div></div><div>
-<div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div><div><div><div></div><div><div><div><div></div>
-<div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div><div><div><div></div><div><div><div><div></div>
-<div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div><ul><li>Ordina Ascendente</li><li>Ordina Discendente</li>
-<li>Rimuovi Ordinamento</li><li><div><div><div>Filtra le righe dove:</div><div><div><div><div><span>contiene</span></div><div></div></div></div></div><div></div><div><div><div><div>
-<span>E</span></div><div></div></div></div></div><div><div><div><div><span>contiene</span></div><div></div></div></div></div><div></div><div>
-<span>Filtra</span><span>Rimuovi Filtro</span></div></div></div></li></ul></div></div>
+<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li>
+<span>HDI</span></li></ul></div></div></div></div></div><div><div><ul><li><span>ELABORAZIONI_VARIE</span></li><li><span>MIGRAZIONE</span></li><li><span>POSTRIBALTAMENTO</span></li><li>
+<span>ROBOT</span></li><li><span>SCENARI COMUNI</span></li><li><span>STAMPE</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>WSO2</span></li></ul></div>
+<div><div><ul><li><span>CAUZIONI</span></li><li><span>MIG DANNI AUTO</span></li><li><span>MIG DANNI RE</span></li></ul></div></div><div><div><ul><li><span>PICO</span></li><li>
+<span>Autorizza cedole<a></a><a></a></span></li><li><span>campus<a></a><a></a></span></li><li><span>Conferma Riscatto<a></a><a></a></span></li><li><span>Scadenze<a></a><a>
+</a></span></li><li><span>Versamenti aggiuntivi premi periodici<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
+Ristampa Documenti Danni - UEFA<a></a><a></a></span></li><li><span>Ristampa Documenti Danni<a></a><a></a></span></li>
+<li><span>Servlet Stampe Firma Digitale<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li>
+<span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li><li><span>INCASSI</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li>
+<span>SOSTITUZIONI</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div><div><div>
+<ul><li><span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>ELABORAZIONE MASSIVE</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li><li><span>INCASSI</span></li><li>
+<span>TITOLI</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li><li><span>SOSTITUZIONI</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li><li><span>Supernova</span></li><li><span>XML BANCA SELLA</span></li></ul></div><div><div><ul><li><span>CBA</span></li><li>
+<span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li>
+<span>HDI</span></li></ul></div></div></div></div></div>
