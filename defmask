@@ -158,13 +158,18 @@ confronta – confronta il contenuto di 2 strutture. I parametri sono definiti n
   - variabile  = Nome della variabile in cui inserire il risultato del confronto ( OK , KO, NOT FOUND)
   - strutturaDifferenze = Nome della struttura in cui elencare le eventuali differenze 
  
-compila – compilazione di dati o form
+compila – Esegue le azioni presenti nella maschera indicata dal valore della riga corrente
 
-exec – esecuzione generica di comandi
+exec – Compila ed esegue il codice C# presente nel valore della riga corrente. Esempio 
+public static void Main()
+{
+    .......
+}
 
-execvb – esecuzione di script VB
+execvb – Compila ed esegue il codice VB# presente nel valore della riga corrente.
 
-execjs – esecuzione di script JavaScript
+execjs – esecuzione di script JavaScript Compila ed esegue dentro la pagina attiva del browser il codice js  presente nel valore della riga corrente, esempio:
+    document.evaluate("//span[normalize-space()='Download Excel grid report']", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.click();
 
 variabililocali – gestione di variabili di scenario (flag, dati, stato)
 
