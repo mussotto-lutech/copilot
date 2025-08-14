@@ -152,7 +152,8 @@ strutturadafontedati – Crea una variabile di tipo struttura leggendo i dati da
   - query = Query da utilizzare per estrarre i record esempio: Select * from anagrafica se possibile verrà utilizzato il record con lo stesso indice della riga dello scenario in esecuzione, altrimenti il primo record
 
 
-confronta – confronto tra valori/elementi
+confronta – confronta il contenuto di 2 strutture. Parametri:
+
 
 compila – compilazione di dati o form
 
