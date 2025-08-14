@@ -194,7 +194,7 @@ dialogwindow – Recupera l'handle della finestra del browser in modalità hook,
   - enter
   - default testo da digitare
 
-chiudi – chiudo la finestra attuale browser, masolo se ne esiste più di una
+chiudi – chiudo la finestra attuale browser, solamente se ne esiste più di una
 
 massimizza – massimizzazione della finestra del browser
 
@@ -202,7 +202,7 @@ scrolltobottom – scroll fino a fondo pagina
 
 scrolltotop – scroll fino all’inizio della pagina
 
-createvariablefromdb – creazione di variabile da dati in DB
+createvariablefromdb – se presente un record associato, avvalora tutte le variabile con il nome e il valore del record della riga corrente
 
 attesa – pausa/attesa temporizzata
 
@@ -214,9 +214,9 @@ successo – marcatura di esito positivo
 
 warning – generazione di avviso
 
-url – impostazione o verifica URL corrente
+url – modifica la location del browser con il valore del campo label
 
-urlnew – apertura di un nuovo URL in finestra o tab
+urlnew – apre l'url indicato dal campo label in una nuova finestra
 
 chiudifinestresecondarie – chiusura di tutte le finestre secondarie
 
