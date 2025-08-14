@@ -179,19 +179,24 @@ variabililocali – crea/modifica la variabile di uno scenario con il valore pre
       globale : true indica che il valore della variabile viene mantenuto anche nell'esecuzione delle righe successive
 
 
-salvadocumento – salvataggio di un documento
+salvadocumento – salva il file puntato da href di un oggetto //embed solitamente il pdf viewer. Se il download riesce la variable indicata dal campo label viene avvalorata con il nome del file
 
-salvadownload – salvataggio di un file scaricato
+salvadownload – Rinomina e allega se presente l'ultimo file downloadato dal browser negli ultimi 12 secondi. Se il file è presente viene rinominato con il valore del campo valore. Parametri:
+  -label nome della variabile che verrà valorizzata con il nome del file
 
-screenshot – cattura screenshot della pagina
 
-savehtml – salvataggio HTML della pagina
+screenshot – Effettua uno screenshoot della pagina del browser e avvalora la variabile indicata dal campo label con il nome del file creato 
 
-dialogwindow – gestione finestra di dialogo nativa del browser
+savehtml – Crea un file html della pagina corrente e avvalora la variabile indicata dal campo label con il nome del file creato 
 
-chiudi – chiusura di una finestra o tab
+dialogwindow – Recupera l'handle della finestra del browser in modalità hook, senza usare selenium. Il campo valore inidica le azioni possibili sempre in modalità robot:
+  - chiudi
+  - enter
+  - default testo da digitare
 
-massimizza – massimizzazione della finestra
+chiudi – chiudo la finestra attuale browser, masolo se ne esiste più di una
+
+massimizza – massimizzazione della finestra del browser
 
 scrolltobottom – scroll fino a fondo pagina
 
