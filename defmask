@@ -171,7 +171,13 @@ execvb – Compila ed esegue il codice VB# presente nel valore della riga corren
 execjs – esecuzione di script JavaScript Compila ed esegue dentro la pagina attiva del browser il codice js  presente nel valore della riga corrente, esempio:
     document.evaluate("//span[normalize-space()='Download Excel grid report']", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.click();
 
-variabililocali – gestione di variabili di scenario (flag, dati, stato)
+variabililocali – crea/modifica la variabile di uno scenario con il valore presente nel campo valore delle riga corrente.Parametri:
+  - label = nome della variabile
+  - valore = valore da impostare
+  - dati = Parametri opzionali sotto forma di jtoken: 
+      hidden : true indica che la variabile non deve essere riportata nel report dello scenario
+      globale : true indica che il valore della variabile viene mantenuto anche nell'esecuzione delle righe successive
+
 
 salvadocumento – salvataggio di un documento
 
