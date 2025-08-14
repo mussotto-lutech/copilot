@@ -186,7 +186,6 @@ I file presenti nella cartella Scenari e sottocartelle sono:
  [FILE] Scenari/DEMO/HDI - Stampa quietanze.rpt
  [FILE] Scenari/DEMO/I-ACAD.rpt
  [FILE] Scenari/DEMO/I-ACAD_PDF_EMBED.ibt
- [FILE] Scenari/DEMO/nuovo.ibt
  [FILE] Scenari/DEMO/nuovo.rpt
  [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt
  [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.iabatpkt
