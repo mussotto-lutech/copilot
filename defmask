@@ -119,7 +119,7 @@ xmlelement – elemento rappresentato in formato XML
 
 titolofinestra – titolo della finestra browser
 
-window – finestra browser
+window – restituisce il numero di finestre nel browser, puo essere usato per condizionare una azione
 
 loader – indicatore di caricamento
 
@@ -127,11 +127,17 @@ loader – indicatore di caricamento
 
 Usati per eseguire azioni, comandi, elaborazioni o interazioni con dati esterni:
 
-plugin – esecuzione di un plugin esterno
+plugin – esecuzione di un plugin esterno 
 
-pdf_compare – confronto tra documenti PDF
+pdf_compare – confronto tra documenti PDF parametri : 
+  - variabile =  nome della variabile in cui restituisce il valore del confronto Ok se success.
+  - nomePdf = Path del pdf da testare
+  - template = PAth del template I-ACAD da usare per il confronto
 
-pdf_value – estrazione di valori da un PDF
+pdf_value – estrazione di valori da un PDF  parametri: 
+  - variabile = nome della variabile in cui restituire i valori sotto forma di struttura es nomevariabile.Nome , nomevariabile.Cognome. 
+  - template = PAth del template I-ACAD utilizzato per estrarre i dati. 
+  - nomePdf  = Path del pdf da cui estrarre i dati
 
 pdf_exec – esecuzione di operazioni su un PDF
 
