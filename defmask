@@ -129,12 +129,12 @@ Usati per eseguire azioni, comandi, elaborazioni o interazioni con dati esterni:
 
 plugin – esecuzione di un plugin esterno 
 
-pdf_compare – confronto tra documenti PDF parametri : 
+pdf_compare – confronto tra documenti PDF ,Parametri sono definiti all'interno del valore di ogni singola riga da eseguire in un jtoken: 
   - variabile =  nome della variabile in cui restituisce il valore del confronto Ok se success.
   - nomePdf = Path del pdf da testare
   - template = PAth del template I-ACAD da usare per il confronto
 
-pdf_value – estrazione di valori da un PDF  parametri: 
+pdf_value – estrazione di valori da un PDF ,Parametri sono definiti all'interno del valore di ogni singola riga da eseguire in un jtoken:
   - variabile = nome della variabile in cui restituire i valori sotto forma di struttura es nomevariabile.Nome , nomevariabile.Cognome. 
   - template = PAth del template I-ACAD utilizzato per estrarre i dati. 
   - nomePdf  = Path del pdf da cui estrarre i dati
