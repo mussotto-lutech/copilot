@@ -1,246 +1,205 @@
-<div></div><div><div><div><div><button></button></div></div><div><div><div><div><form><label>Cerca</label></form></div></div></div></div></div><main><section><div><div><picture></picture>
-</div><div><div><h1><span><span>La via Italianaall’AI-Learning</span></span></h1><div><span><span><p>Dalla formazione <em>
-all'</em>AI, imprescindibile per favorirne l'adozione, all'AI<em> per</em> la formazione: l'AI Learning come strumento chiave per le competenze e la competitività del Sistema Paese.
-Scopri la ricerca realizzata da Lutech e The European House Ambrosetti</p><p></p></span></span></div><div><span><span><a>Scarica la ricerca &gt;</a></span></span></div></div></div>
-<a>Scarica la ricerca &gt;</a></div></section><section><div><div><picture></picture></div><div><div><h1><span>Digital for Real.</span></h1><div><span><p>
-Lutech progetta, realizza e gestisce soluzioni digitali end-to-end, in cui Digital, Cloud, Cybersecurity e Managed Services si integrano per raggiungere i tuoi obiettivi e per
-mettere al centro le esigenze dei tuoi clienti</p></span></div><div><span><a>Chi siamo &gt;</a></span></div></div></div><a>Chi siamo &gt;</a></div></section><section><div><div>
-<div><span>SOLUZIONI PER LA TRASFORMAZIONE DIGITALE</span></div><h2><span>Digital Services per il tuo futuro</span></h2><div><span><p>.</p></span></div></div></div><div><div><div><div>
-<div><div><article><a><span>Technology Solutions</span><span>Data Architecture</span><span>
-<p>Soluzioni per migliorare performance e sicurezza di Database e dell'ecosistema di applicazioni aziendali</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Technology Solutions</span><span>Next Gen Networking e Data Center Moderniz…</span><span>
-<p>Design, installazione e gestione di infrastrutture IT e Next Gen Networking per la Data Center Modernization</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Consulting</span><span>Business Consulting</span><span><p>Consulenza strategica per la trasformazione e l’innovazione dei tuoi modelli di business</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cloud &amp; Applications</span><span>Cloud &amp; Technology Advisory</span><span>
-<p>Consulenza su percorsi di Cloud Transformation: Legal, Governance e Compliance Consulting</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Cloud &amp; Applications</span><span>Cloud Solutions</span><span><p>Accelerare l’innovazione e il time to market grazie al Cloud</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cloud &amp; Applications</span><span>Hybrid Cloud</span><span>
-<p>Che cosa si intende per hybrid cloud e quando scegliere una soluzione di cloud ibrido?&nbsp;</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Cloud &amp; Applications</span><span>Cloud Transformation</span><span><p>Che cos’è la Cloud Transformation e quali sono gli step per implementarla nella tua azienda?</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cloud &amp; Applications</span><span>Cloud Modernization</span><span>
-<p>Gestiamo il tuo ecosistema di applicazioni sul cloud grazie a soluzioni cointaner-as-a-service che migliorano l…</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Cloud &amp; Applications</span><span>Disaster Recovery</span><span><p>Un piano di disaster recovery è fondamentale per garantire la business continuity aziendale</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cybersecurity</span><span>Cybersecurity Solutions</span><span>
-<p>Soluzioni per la protezione del tuo network, i tuoi utenti ed endpoint dalle crescenti minacce del mondo cyber</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Cybersecurity</span><span>Cybersecurity Advisory</span><span>
-<p>Il team di Advisory di Lutech Cybersecurity analizza lo stato della tua sicurezza per supportarti nelle migliori s…</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cybersecurity</span><span>Application Security</span><span>
-<p>Ti aiutiamo a proteggere le tue applicazioni attraverso soluzioni strategiche e complete di Application S…</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Cybersecurity</span><span>Data Protection</span><span>
-<p>Come proteggere dati sensibili a livello aziendale e rispettare le norme vigenti in materia di Data Protection?</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Managed Services</span><span>Security Operation Center (SOC)</span><span><p>Servizi 24x7 a difesa della tua cybersecurity</p></span><span>Scopri di più</span></a>
-</article></div></div><div><div><article><a><span>Managed Services</span><span>Managed Services Operations Center</span><span>
-<p>Servizi gestiti 24/7, a garanzia di ecosistemi aziendali sempre disponibili in ambienti ibridi multi-vendor</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Managed Services</span><span>Digital Workplace Managed Services</span><span>
-<p>Adottare una soluzione di lavoro flessibile, modulare e sicura, fruibile su qualsiasi dispositivo e luogo di lavoro</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Managed Services</span><span>Cloud Operations Center (CLOC)</span><span>
-<p>Servizi di gestione di infrastrutture di Data Center tradizionali e di risorse di Public Cloud Provider</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Managed Services</span><span>Network Operations Center (NOC)</span><span>
-<p>Servizi end-to-end rivolti agli operatori Telco ed Enterprise con ambito di competenza sulle tecnologie di rete</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Customer Experience</span><span>Digital Services &amp; Consulting</span><span>
-<p>Digital Transformation Consulting e delivery di progetti in ambito Customer Engagement, Omnichannel Commerc…</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Customer Experience</span><span>Customer Engagement &amp; CRM</span><span>
-<p>Creiamo un'unica vista sul tuo cliente, per strategie di customer engagement e cross selling</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Customer Experience</span><span>Digital Commerce</span><span><p>Soluzioni per migliorare le vendite online e il drive to store, per un’esperienza di unified commerce</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Customer Experience</span><span>B2B Digital Transformation</span><span>
-<p>Catalogo digitale, B2X ecommerce e CPQ solution per raggiungere nuovi mercati e clienti</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Customer Experience</span><span>Website &amp; Digital Marketing</span><span>
-<p>Progetti web per migliorare la customer experience: UI/UX,CMS Enterprise e Digital Marketing Consulting</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Cloud &amp; Applications</span><span>Application Modernization</span><span><p>Modernizzazione delle applicazioni con approccio DevOps e low-code</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Data Intelligence &amp; AI</span><span>Artificial Intelligence &amp; RPA</span><span>
-<p>Costruiamo&nbsp;modelli predittivi e automatizziamo process ripetitivi per ottimizzare il tuo business</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Machine Learning Solutions</span><span>
-<p>Machine Learning Systems e Artificial Intelligence possono migliorare e automatizzare le tue attività</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Data Intelligence &amp; Analytics</span><span>
-<p>Gestiamo l’intero ciclo di vita del dato per migliorare i tuoi processi decisionali</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>HyperAutomation</span><span>
-<p>Rimuovi&nbsp;i silos tra IT e OT,&nbsp;elabora più velocemente i dati e migliora la customer experience</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Data Quality Management</span><span>
-<p>Ottimizzare la qualità del dato&nbsp;facilitando i processi decisionali in ottica data-driven</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Generative AI</span><span>
-<p>Catalizzatore di innovazione, booster per la creatività umana e acceleratore dei processi di automation</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Smart Factory &amp; IoT</span><span>Smart Factory Solutions</span><span>
-<p>Guidiamo progetti di trasformazione digitale per il mondo manufacturing per estrarre il massimo valore dai dati</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Smart Factory &amp; IoT</span><span>PLM, CAD &amp; IIOT</span><span>
-<p>Realizziamo progetti per ottimizzare la gestione dell’intero ciclo di vita del prodotto per l'Industry 4.0</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Smart Factory &amp; IoT</span><span>Smart Connected Products</span><span>
-<p>Ampliare il valore dell’azienda e migliorare le performance grazie agli Smart Connected Products</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Smart Factory &amp; IoT</span><span>IoT e Smart Manufacturing Consul…</span><span>
-<p>Percorsi di consulenza IoT e Smart Manufacturing nella gestione dei dati per migliorare le performance</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Smart Factory &amp; IoT</span><span>Smart City</span><span><p>Come migliorare la sostenibilità delle città e la qualità della vita dei cittadini grazie al Digital Twin</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Solutions</span><span>Smart Devices &amp; RFID solutions</span><span>
-<p>Sviluppo di soluzioni sofware proprietarie e di componenti hardware RFID</p></span><span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Solutions</span>
-<span>Energy, ETRM &amp; Billing Solutions</span><span><p>Soluzioni per la gestione ottimale dei processi di Energy Management</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Innovation</span><span>Digital Twin</span><span>
-<p>Costruire “gemelli digitali” della realtà per una società più competitiva, efficiente ed inclusiva</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Innovation</span><span>Quantum Computing</span><span>
-<p>Gestire problemi complessi per migliorare i processi di business e creare prodotti e servizi innovativi e sostenibili</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Innovation</span><span>High Performance Computing</span><span>
-<p>Benefici e impatti dell’HPC per le imprese, la ricerca e i territori</p></span><span>Scopri di più</span></a></article></div></div><div><div><article><a>
-<span>Innovation</span><span>Metaverso</span><span><p>Una piattaforma aperta, inclusiva e per tutti per una evoluzione immersiva del web</p>
-</span><span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Innovation</span><span>Global Competence Center</span><span>
-<p>L’Hub di eccellenza per la trasformazione digitale del Gruppo Lutech</p></span><span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Enterprise Platform</span>
-<span>SAP - Platform for business</span><span><p>La piattaforma di business che ti permette di accellerare l'innovazione della tua azienda</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Enterprise Platform</span><span>Soluzioni ERP - INFOR</span><span>
-<p>Progetti ERP per favorire l’innovazione dei processi e la personalizzazione della supply chain nel Manufacturing</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Enterprise Platform</span><span>Soluzioni ERP-Microsoft</span><span><p>ERP per un'efficienza operativa superiore ed esperienze cliente rivoluzionarie</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>SMART FACTORY</span><span>MES/MOM</span><span>
-<p>Migliorare il controllo, la visibilità e l’efficienza dei processi produttivi in modo olistico.</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Technology Solutions</span><span>Hybrid work</span><span><p>Soluzioni di Unified Communication e Collaboration, Gestione Documentale e Workflow Management</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Technology Solutions</span><span>Data Architecture</span><span>
-<p>Soluzioni per migliorare performance e sicurezza di Database e dell'ecosistema di applicazioni aziendali</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Technology Solutions</span><span>Next Gen Networking e Data Center Moderniz…</span><span>
-<p>Design, installazione e gestione di infrastrutture IT e Next Gen Networking per la Data Center Modernization</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Consulting</span><span>Business Consulting</span><span><p>Consulenza strategica per la trasformazione e l’innovazione dei tuoi modelli di business</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cloud &amp; Applications</span><span>Cloud &amp; Technology Advisory</span><span>
-<p>Consulenza su percorsi di Cloud Transformation: Legal, Governance e Compliance Consulting</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Cloud &amp; Applications</span><span>Cloud Solutions</span><span><p>Accelerare l’innovazione e il time to market grazie al Cloud</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cloud &amp; Applications</span><span>Hybrid Cloud</span><span>
-<p>Che cosa si intende per hybrid cloud e quando scegliere una soluzione di cloud ibrido?&nbsp;</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Cloud &amp; Applications</span><span>Cloud Transformation</span><span><p>Che cos’è la Cloud Transformation e quali sono gli step per implementarla nella tua azienda?</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cloud &amp; Applications</span><span>Cloud Modernization</span><span>
-<p>Gestiamo il tuo ecosistema di applicazioni sul cloud grazie a soluzioni cointaner-as-a-service che migliorano l…</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Cloud &amp; Applications</span><span>Disaster Recovery</span><span><p>Un piano di disaster recovery è fondamentale per garantire la business continuity aziendale</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cybersecurity</span><span>Cybersecurity Solutions</span><span>
-<p>Soluzioni per la protezione del tuo network, i tuoi utenti ed endpoint dalle crescenti minacce del mondo cyber</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Cybersecurity</span><span>Cybersecurity Advisory</span><span>
-<p>Il team di Advisory di Lutech Cybersecurity analizza lo stato della tua sicurezza per supportarti nelle migliori s…</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Cybersecurity</span><span>Application Security</span><span>
-<p>Ti aiutiamo a proteggere le tue applicazioni attraverso soluzioni strategiche e complete di Application S…</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Cybersecurity</span><span>Data Protection</span><span>
-<p>Come proteggere dati sensibili a livello aziendale e rispettare le norme vigenti in materia di Data Protection?</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Managed Services</span><span>Security Operation Center (SOC)</span><span><p>Servizi 24x7 a difesa della tua cybersecurity</p></span><span>
-Scopri di più</span></a></article></div></div><div><div><article><a><span>Managed Services</span><span>Managed Services Operations Center</span><span>
-<p>Servizi gestiti 24/7, a garanzia di ecosistemi aziendali sempre disponibili in ambienti ibridi multi-vendor</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Managed Services</span><span>Digital Workplace Managed Services</span><span>
-<p>Adottare una soluzione di lavoro flessibile, modulare e sicura, fruibile su qualsiasi dispositivo e luogo di lavoro</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Managed Services</span><span>Cloud Operations Center (CLOC)</span><span>
-<p>Servizi di gestione di infrastrutture di Data Center tradizionali e di risorse di Public Cloud Provider</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Managed Services</span><span>Network Operations Center (NOC)</span><span>
-<p>Servizi end-to-end rivolti agli operatori Telco ed Enterprise con ambito di competenza sulle tecnologie di rete</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Customer Experience</span><span>Digital Services &amp; Consulting</span><span>
-<p>Digital Transformation Consulting e delivery di progetti in ambito Customer Engagement, Omnichannel Commerc…</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Customer Experience</span><span>Customer Engagement &amp; CRM</span><span>
-<p>Creiamo un'unica vista sul tuo cliente, per strategie di customer engagement e cross selling</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Customer Experience</span><span>Digital Commerce</span><span><p>Soluzioni per migliorare le vendite online e il drive to store, per un’esperienza di unified commerce</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Customer Experience</span><span>B2B Digital Transformation</span><span>
-<p>Catalogo digitale, B2X ecommerce e CPQ solution per raggiungere nuovi mercati e clienti</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Customer Experience</span><span>Website &amp; Digital Marketing</span><span>
-<p>Progetti web per migliorare la customer experience: UI/UX,CMS Enterprise e Digital Marketing Consulting</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Cloud &amp; Applications</span><span>Application Modernization</span><span><p>Modernizzazione delle applicazioni con approccio DevOps e low-code</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Data Intelligence &amp; AI</span><span>Artificial Intelligence &amp; RPA</span><span>
-<p>Costruiamo&nbsp;modelli predittivi e automatizziamo process ripetitivi per ottimizzare il tuo business</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Machine Learning Solutions</span><span>
-<p>Machine Learning Systems e Artificial Intelligence possono migliorare e automatizzare le tue attività</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Data Intelligence &amp; Analytics</span><span>
-<p>Gestiamo l’intero ciclo di vita del dato per migliorare i tuoi processi decisionali</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>HyperAutomation</span><span>
-<p>Rimuovi&nbsp;i silos tra IT e OT,&nbsp;elabora più velocemente i dati e migliora la customer experience</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Data Quality Management</span><span>
-<p>Ottimizzare la qualità del dato&nbsp;facilitando i processi decisionali in ottica data-driven</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Data Intelligence &amp; AI</span><span>Generative AI</span><span>
-<p>Catalizzatore di innovazione, booster per la creatività umana e acceleratore dei processi di automation</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Smart Factory &amp; IoT</span><span>Smart Factory Solutions</span><span>
-<p>Guidiamo progetti di trasformazione digitale per il mondo manufacturing per estrarre il massimo valore dai dati</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Smart Factory &amp; IoT</span><span>PLM, CAD &amp; IIOT</span><span>
-<p>Realizziamo progetti per ottimizzare la gestione dell’intero ciclo di vita del prodotto per l'Industry 4.0</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Smart Factory &amp; IoT</span><span>Smart Connected Products</span><span>
-<p>Ampliare il valore dell’azienda e migliorare le performance grazie agli Smart Connected Products</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Smart Factory &amp; IoT</span><span>IoT e Smart Manufacturing Consul…</span><span>
-<p>Percorsi di consulenza IoT e Smart Manufacturing nella gestione dei dati per migliorare le performance</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Smart Factory &amp; IoT</span><span>Smart City</span><span><p>Come migliorare la sostenibilità delle città e la qualità della vita dei cittadini grazie al Digital Twin</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Solutions</span><span>Smart Devices &amp; RFID solutions</span><span>
-<p>Sviluppo di soluzioni sofware proprietarie e di componenti hardware RFID</p></span><span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Solutions</span>
-<span>Energy, ETRM &amp; Billing Solutions</span><span><p>Soluzioni per la gestione ottimale dei processi di Energy Management</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Innovation</span><span>Digital Twin</span><span>
-<p>Costruire “gemelli digitali” della realtà per una società più competitiva, efficiente ed inclusiva</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Innovation</span><span>Quantum Computing</span><span>
-<p>Gestire problemi complessi per migliorare i processi di business e creare prodotti e servizi innovativi e sostenibili</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Innovation</span><span>High Performance Computing</span><span>
-<p>Benefici e impatti dell’HPC per le imprese, la ricerca e i territori</p></span><span>Scopri di più</span></a></article></div></div><div><div><article><a>
-<span>Innovation</span><span>Metaverso</span><span><p>Una piattaforma aperta, inclusiva e per tutti per una evoluzione immersiva del web</p>
-</span><span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Innovation</span><span>Global Competence Center</span><span>
-<p>L’Hub di eccellenza per la trasformazione digitale del Gruppo Lutech</p></span><span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Enterprise Platform</span>
-<span>SAP - Platform for business</span><span><p>La piattaforma di business che ti permette di accellerare l'innovazione della tua azienda</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Enterprise Platform</span><span>Soluzioni ERP - INFOR</span><span>
-<p>Progetti ERP per favorire l’innovazione dei processi e la personalizzazione della supply chain nel Manufacturing</p></span><span>Scopri di più</span></a></article></div></div><div><div>
-<article><a><span>Enterprise Platform</span><span>Soluzioni ERP-Microsoft</span><span><p>ERP per un'efficienza operativa superiore ed esperienze cliente rivoluzionarie</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>SMART FACTORY</span><span>MES/MOM</span><span>
-<p>Migliorare il controllo, la visibilità e l’efficienza dei processi produttivi in modo olistico.</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Technology Solutions</span><span>Hybrid work</span><span><p>Soluzioni di Unified Communication e Collaboration, Gestione Documentale e Workflow Management</p></span>
-<span>Scopri di più</span></a></article></div></div><div><div><article><a><span>Technology Solutions</span><span>Data Architecture</span><span>
-<p>Soluzioni per migliorare performance e sicurezza di Database e dell'ecosistema di applicazioni aziendali</p></span><span>Scopri di più</span></a></article></div></div><div><div><article>
-<a><span>Technology Solutions</span><span>Next Gen Networking e Data Center Moderniz…</span><span>
-<p>Design, installazione e gestione di infrastrutture IT e Next Gen Networking per la Data Center Modernization</p></span>
-<span>Scopri di più</span></a></article></div></div></div></div></div></div><div><div><a>TUTTI I SERVIZI</a></div></div></section><section><div><div><picture></picture></div><div><div>
-<h2><span>Pensiamo, creiamo e miglioriamo nel tempo il tuo percorso di evoluzione digitale</span></h2><div><button><div></div><h2>THINKInnovation Advisory</h2></button><button><div>
-</div><h2>CREATE&nbsp;Design &amp; Delivery</h2></button><button><div></div><h2>MAXIMIZEOperate &amp; Optimize</h2></button></div></div></div></div><div><div><picture>
-</picture></div><div><div><div><button>BACK</button></div><div><div></div><div><h2>THINKInnovation Advisory</h2></div></div><div><div><div><p>
-Grazie alla conoscenza dei processi specifici di ogni industry ti supportiamo nella definizione di una roadmap personalizzata, disegnata valorizzando il tuo as-is, con al centro le
-tue priorità.</p><p>Assessment, advisory, definizione dei tuoi obiettivi ed una strategia concreta che integra obiettivi di business e potere della tecnologia.</p> <div><a>
-Scopri le nostre industry</a> </div></div></div></div></div></div></div><div><div><picture></picture></div><div><div><div><button>BACK</button></div><div><div></div><div><h2>
-CREATE&nbsp;Design &amp; Delivery</h2></div></div><div><div><div><p>
-Creiamo ecosistemi integrati, flessibili, scalabili e sicuri utilizzando le soluzioni dei migliori partner tecnologici e il nostro know-how per personalizzarli in base alle tue
-esigenze.</p><p>
-Unendo le nostre competenze cloud, digital e le nostre soluzioni diamo vita&nbsp;&nbsp;a progetti end-to-end che coprono ogni aspetto della tua Digital Transformation.&nbsp;</p> <div><a>
-Scopri i nostri partner</a> </div></div></div></div></div></div></div><div><div><picture></picture></div><div><div><div><button>BACK</button></div><div><div></div><div><h2>
-MAXIMIZEOperate &amp; Optimize</h2></div></div><div><div><div><p>
-Orchestrare la gestione delle soluzioni tecnologiche implementate al ritmo della crescita del tuo business è una nostra priorità.</p><p>
-Servizi di gestione, innovazione continua e supporto esperto ci permettono di estrarre&nbsp;
-le massime prestazioni da ogni progetto realizzato insieme, ottimizzando i tuoi processi e le tue risorse.</p> <div>
-<a>Scopri i nostri servizi</a> </div></div></div></div></div></div></div></section><section><div><picture></picture></div><div><div>
-<h2>Lutech è leader nel Digital e nell’Artificial Intelligence</h2></div><div><div><div>5500</div><div>Professionisti</div></div><div><div> 1bn €</div><div>Volume d'affari</div></div><div>
-<div>22%</div><div>Crescita revenue YOY</div></div><div><div>70m €%</div><div>Investimenti R&amp;D</div></div></div></div></section><section><div><div><div><span>ideas</span></div><h2>
-<span>Vision &amp; Trends sulla Digital Transformation</span></h2></div></div><div><div><article><a><figure><picture></picture></figure><span><span>Ideas</span>
-<span>Digitalizzazione e Artificial Intelligence per il futuro delle Reti di Interesse Nazionale</span><span>Best practices e use cases per l’innovazione del Sistema Paese</span>
-</span></a></article><article><a><figure><picture></picture></figure><span><span>Ideas</span><span>Direttiva NIS 2: il nuovo approccio europeo alla gestione del rischio cyber</span>
-<span>What's new?</span></span></a></article><article><a><figure><picture></picture></figure><span><span>Ideas</span>
-<span>Perché&nbsp;allineare e integrare la cultura aziendale con le esigenze dell’AI</span><span>Non è (solo) una questione di tecnologia</span></span></a></article> </div></div><div><div>
-<a>TUTTE LE IDEAS</a></div></div></section></main></div><section><div><div><picture></picture></div><div><div><div><picture></picture> </div><h2>Lutech Campus</h2><div><p>
-Scopri la piattaforma di Open Innovation del Gruppo Lutech per formazione, R&amp;D, incubazione di Startup ed eventi per guidare il cambiamento</p></div><div>
-<a>Scopri di più &gt;</a></div></div></div><a>Scopri di più &gt;</a></div></section><section><div><div><div><span>Newsroom</span></div><h2>
-<span>News ed Eventi</span></h2></div></div><div><div><article><a><figure><picture></picture></figure><span><span>Rassegna Stampa</span><span>02/07/2025</span>
-<span>Lutech e BI-REX: sinergia per accelerare l'innovazione tecnologica del Sistema Paese</span><span>
-Una collaborazione strategica con il Competence Center specializzato in Big Data e Intelligenza Artificiale</span></span></a></article><article><a><figure><picture>
-</picture></figure><span><span>Rassegna Stampa</span><span>20/06/2025</span><span>Lutech investe su Firenze</span>
-<span>Una nuova sede per rafforzare la presenza nel cuore dell’innovazione toscana</span></span></a></article><article><a><figure><picture></picture></figure>
-<span><span>News</span><span>15/05/2025</span><span>Lutech e Ambrosetti: la via italiana all'AI-learning</span><span>Presentata al CNEL la nuova ricerca su AI e formazione</span>
-</span></a></article> </div></div><div><div><a>TUTTE LE NEWS</a></div></div></section><section><div><div><h2><span> Le nostre case history, i tuoi casi di successo</span></h2><div><span><p>
-I leader del mercato ci hanno scelti.Cosa abbiamo fatto per i loro obiettivi?</p></span></div></div></div><div><div><article><a><figure><picture></picture><div></div></figure><span>
-<span>Energy</span><span> Digital Twin e AI per l'efficientamento energetico di Acquedotto Pugliese</span><span>Guarda</span><span>AI, DIGITAL TWIN</span></span></a></article><article><a>
-<figure><picture></picture><div></div></figure><span><span>Energy</span><span> Artificial Intelligence per governare l’incertezza nell’offerta e nella domanda di energia</span><span>
-Guarda</span><span>AI</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>Energy</span>
-<span> Ottimizzazione e bilanciamento dell’infrastruttura energetica</span><span>Guarda</span><span>AI</span></span></a></article><article><a><figure><picture>
-</picture><div></div></figure><span><span>FINANCIAL SERVICES</span><span> AI generativa per i Financial Services</span>
-<span>Guarda</span><span>Financial Services, AI</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>Energy &amp; Utilities</span><span>
- Digitalizzazione dei processi logistici e ottimizzazione dell’inventario per il Gruppo Iren</span><span>Guarda</span><span>Energy &amp; Utilities</span></span></a></article><article>
-<a><figure><picture></picture><div></div></figure><span><span>telco</span><span> L'eccellenza in HPC: Leonardo e il CINECA</span>
-<span>Guarda</span><span>Telco, AI</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>FINANCIAL SERVICES</span>
-<span> Gestire l’offering di nuovi servizi nei Financial Services</span><span>Guarda</span><span>Financial Services, CMR</span></span></a></article><article><a><figure><picture>
-</picture><div></div></figure><span><span>public sector</span><span> La versatilità del Cloud al servizio della Pubblica Amministrazione</span>
-<span>Guarda</span><span>Public Sector, Cloud</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>Manufacturing</span>
-<span> Controllo completo dei processi aziendali grazie a un’unica piattaforma ERP</span><span>Guarda</span><span>ERP, MANUFACTURING</span></span></a></article><article><a><figure><picture>
-</picture><div></div></figure><span><span>FOOD</span><span> Rendere accessibili i dati per i processi di decision-making</span><span>Guarda</span><span>FOOD, KPI</span></span></a></article>
-<article><a><figure><picture></picture><div></div></figure><span><span>fashion</span><span> Virtual Show Room per una comunicazione da remoto coinvolgente</span>
-<span>Guarda</span><span>fashion</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>Manufacturing</span>
-<span> Protezione integrata del plant produttivo e degli endpoint</span><span>Guarda</span><span>OT, IT, Cybersecurity</span></span></a></article><article><a><figure><picture></picture>
-<div></div></figure><span><span>Manufacturing</span><span> Smart Products e CRM nel Manufacturing per un’after sales 4.0</span>
-<span>Guarda</span><span>CRM, Customer Service</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>Manufacturing</span>
-<span> Strutturare un unico sistema di sviluppo di prodotto</span><span>Guarda</span><span>PLM, SLM</span></span></a></article><article><a><figure><picture></picture>
-<div></div></figure><span><span>Manufacturing</span><span> Smart Factory e integrazione end-to-end</span><span>Guarda</span><span>IoT, ERP, CPQ</span></span></a></article><article><a>
-<figure><picture></picture><div></div></figure><span><span>Manufacturing</span><span> IoT e Augmented Reality per migliorare il customer service e le operations</span>
-<span>Guarda</span><span>Field Service, Manufacturing, AR, VR</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>manufacturing</span>
-<span> Ingaggiare la forza vendita e i clienti nel Manufacturing</span><span>Guarda</span><span>manufacturing, crm</span></span></a></article><article><a><figure><picture>
-</picture><div></div></figure><span><span>fashion</span><span> Forecast di produzione e sales&amp;marketing grazie all'analisi dei Big data nel Fashion</span>
-<span>Guarda</span><span>Fashion, Big Data</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span><span>energy &amp; utilities</span>
-<span> Il valore dei dati per la pianificazione energetica e la riduzione dei costi</span><span>Guarda</span><span>Energy &amp; Utilities, Big Data</span></span></a></article><article><a>
-<figure><picture></picture><div></div></figure><span><span>Manufacturing</span><span> Migliorare Customer Service e Post Vendita nel Manufacturing grazie a Salesforce</span>
-<span>Guarda</span><span>Customer Service, Manufacturing, Customer Engagement &amp; CRM</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span>
-<span>Manufacturing</span><span> Ingaggiare nuovi Clienti grazie al catalogo digitale e all’e-Commerce B2B multicountry</span>
-<span>Ottimizza il time-to-market</span><span>B2B, Ecommerce, Catalogo digitale</span></span></a></article><article><a><figure><picture></picture><div></div></figure><span>
-<span>financial services</span><span> CRM per migliorare i processi commerciali e personalizzare i servizi finanziari</span>
-<span>Guarda</span><span>finance, crm</span></span></a></article></div></div><div><div><a>TUTTE LE CASE HISTORY</a></div></div></section><section><div><div><picture>
-</picture></div><div><div><h1>Careers.Il Futuro. In persona.</h1><div><p>
-Coltiviamo il talento per svilupparlo. Cerchiamo la passione per farla crescere ancora. Sosteniamo lo spirito di squadra in ogni sua forma. In Lutech le persone sono tutto, per
-questo dedichiamo loro formazione costante, prospettive di crescita, strumenti e risorse per creare valore e continuare a crescere insieme.</p></div><div>
-<a>LAVORA CON NOI &gt;</a></div></div></div><a>LAVORA CON NOI &gt;</a></div></section>
+<div><div>Attendere</div><div></div></div><div><table><tbody><tr><td><table><tbody><tr><td></td></tr></tbody></table></td><td><table><tbody><tr><td><span>I-ABAT (PreProduzione)</span>&nbsp;
+</td></tr><tr><td><span>Versione: 3.9.7.0</span></td></tr><tr><td><span>
+Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d36232-03a5-4ef4-812e-239122e02572</span></td></tr></tbody></table></td></tr></tbody></table><table><tbody><tr>
+<td><div><div><div><div><span><span>HDI</span></span> </div><div></div></div></div></div></td><td><div><div><div><div><span><span>Google Chrome 139.0.7258.128</span></span> </div><div></div>
+</div></div></div></td><td><div><span>Download Excel grid report</span></div></td></tr></tbody></table></div><div><div><ul><li><span>Esegui scenario</span></li><li>
+<span>Esegui processo</span></li><li><span>Report scenari</span></li><li><span>Dati scenari</span></li></ul></div></div><div></div><div><div><div><div><div><div>
+<span>Loading...</span></div></div></div><div><div><div><div><div><div><span>Scenario</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div>
+<div><span>Chiamante</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div><span>Stato</span></div><div><div></div><div></div><div></div>
+<div></div></div><div></div></div></div><div><div><div><span>Ultima riga</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div>
+<span>Data inizio</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div><span>Data fine</span></div><div><div></div><div></div><div></div>
+<div></div></div><div></div></div></div><div><div><div><span>Tempo esecuzione</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div>
+<span>Success</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div><div><div><div><span>Failed</span></div><div><div></div><div></div><div></div><div>
+</div></div><div></div></div></div><div><div><div><span>Dettagli</span></div><div><div></div><div></div><div></div><div></div></div><div></div></div></div></div></div><div><div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 18:08:26</div></div><div>
+<div>03-Giugno-2025 18:08:38</div></div><div><div>00:00:11</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 17:22:59</div></div>
+<div><div>03-Giugno-2025 17:23:09</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 16:41:23</div></div><div>
+<div>03-Giugno-2025 16:41:32</div></div><div><div>00:00:08</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>03-Giugno-2025 16:39:48</div></div>
+<div><div>03-Giugno-2025 16:39:57</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>28-Maggio-2025 16:11:04</div></div><div>
+<div>28-Maggio-2025 16:11:13</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>28-Maggio-2025 13:22:41</div></div>
+<div><div>28-Maggio-2025 13:22:51</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>28-Maggio-2025 13:22:05</div></div><div>
+<div>28-Maggio-2025 13:22:14</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>21-Maggio-2025 14:31:56</div></div>
+<div><div>21-Maggio-2025 14:32:05</div></div><div><div>00:00:09</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp;&nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div><div><div>21-Maggio-2025 10:22:16</div></div><div>
+<div>21-Maggio-2025 10:22:25</div></div><div><div>00:00:08</div></div><div><div>1</div></div><div><div>0</div></div><div>&nbsp; &nbsp;</div></div><div>
+<div><div>WEBTEST\saucedemo</div></div><div><div>RoboFramework</div></div><div><div>Terminato</div></div><div><div>1</div></div>
+<div><div>21-Maggio-2025 10:21:34</div></div><div><div>21-Maggio-2025 10:21:44</div></div><div><div>00:00:10</div></div><div><div>1</div></div><div><div>0</div></div>
+<div>&nbsp;&nbsp;</div></div></div></div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div><div><div><div></div><div>
+</div><div>1-10 di 1000</div><div><div><div><div>10</div><div></div></div></div></div><div>Numero righe:</div><div></div><div>Vai alla pagina:</div></div></div></div></div></div><div>
+<div><ul><li><div>HDI</div></li><li><div>assimoco</div></li><li><div>BENE</div></li><li><div>demo</div></li><li><div>robot</div></li><li><div>DAS</div></li><li><div>Tresalti</div></li><li>
+<div>HDI-ROBOT</div></li><li><div>HDI-NRT</div></li><li><div>Helvetia</div></li></ul></div></div><div><div><ul><li><div>Google Chrome 139.0.7258.128</div></li><li>
+<div>Google Chrome canale Beta 135.0.7049.17</div></li><li><div>Google Chrome canale Dev 136.0.7052.2</div></li><li><div>Google Chrome canale Canary 139.0.7205.0</div></li>
+<li><div>Microsoft Edge 139.0.3405.86</div></li><li><div>Microsoft Edge canale Beta 106.0.1370.26</div></li><li><div>Microsoft Edge canale Dev 120.0.2186.2</div></li>
+<li><div>Microsoft Edge canale Canary 120.0.2187.0</div></li><li><div>Mozilla Firefox 127.0 (x64 it)</div></li><li><div>Internet Explorer 11.3636.19041.0</div></li>
+<li><div>Browser I-ABAT 1.2.0.0</div></li></ul></div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div>
+<div></div></div></div></div></div></div></div></div><div><div><div><div><span><label>Elenco report</label></span></div><div></div><div></div></div><div></div></div></div>
+<div><div><div><div><span><label>Errore</label></span></div><div></div><div></div></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li>
+<span>Assimoco-generici</span></li><li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li>
+<li><span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li>
+<span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li><span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li>
+<span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>VITA</span></li><li>
+<span>WEBTEST</span></li><li><div><span><a>ambienteDiSviluppo</a></span></div></li><li><div><span><a>debug</a></span></div></li><li><div><span><a>demoI_ACAD</a></span></div></li><li><div>
+<span><a>embed pdf</a></span></div></li><li><div><span><a>estinzione polizza - Collaudo</a></span></div></li><li><div>
+<span><a>estinzione polizza</a></span></div></li><li><div><span><a>estinzione polizze cumulative - Collaudo</a></span></div></li><li><div><span><a>loginFlow</a></span></div></li><li><div>
+<span><a>mockdettaglio</a></span></div></li><li><div><span><a>monitor</a></span></div></li><li><div><span><a>OS2</a></span></div></li><li><div><span><a>outlook</a></span></div></li><li><div>
+<span><a>outlook2</a></span></div></li><li><div><span><a>RistampaPolizza ASSIMOCO</a></span></div></li><li><div><span><a>RistampaPolizza</a></span></div></li><li><div>
+<span><a>test assimoco</a></span></div></li><li><div><span><a>testplugin</a></span></div></li>
+<li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>WebServerInterno_DemoRicercaAvanzata</a></span></div></li><li><div><span>
+<a>Xlayer</a></span></div></li><li><div><span><a>XlayerKO</a></span></div></li><li><div><span><a>Yolo</a></span></div></li></ul></div><div><div><ul>
+<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li><li><div><span><a>
+Assicredit Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>MultiAssimoco</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>Valore Auto (AS)</a></span></div></li><li><div><span><a>Valore auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>passinsurance</a></span></div></li>
+<li><div><span><a>portal</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>campus</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>Flow_auto_garanzie_accessorie_cristalli</a></span></div></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div><div><div><ul>
+<li><div><span><a>Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109</a></span></div></li></ul></div></div></div><div><div><ul><li><span>Emissioni</span></li><li>
+<span>PostVendita</span></li></ul></div><div><div><ul>
+<li><div><span><a>C.A.R. Merloni - IDD</a></span></div></li><li><div><span><a>C.A.R. Merloni - TF-606</a></span></div></li><li><div><span><a>Gestione provvisoria nuovo front end Unico</a></span>
+</div></li><li><div><span><a>Globale Casa 2019 - I-ACAD</a></span></div></li><li><div><span><a>Globale Casa 2019 - IDD - NFE</a></span></div></li><li><div><span><a>Globale Casa 2019</a></span>
+</div></li><li><div><span><a>Globale Fabbricati Controllo Montesconti</a></span></div></li><li><div>
+<span><a>Prova</a></span></div></li>
+<li><div><span><a>Telefono ed email - PN Vodafone</a></span></div></li><li><div><span><a>Valore Auto - FastMotor - Settore 4</a></span></div></li><li><div><span><a>
+Valore Auto - FastMotor Settore 1</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor - NFE</a></span></div></li><li><div><span><a>Valore Auto - IDD - FastMotor</a></span></div>
+</li><li><div><span><a>Valore Auto - IDD - NFE</a></span></div></li><li><div><span><a>Valore Auto - NFE - FastMotor</a></span></div></li><li><div>
+<span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span>
+</div></li><li><div><span><a>Servlet Stampe Firma Digitale</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
+<span><a>bene</a></span></div></li><li><div><span><a>debug_mhtml</a></span></div></li><li><div><span><a>testrecord</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>CBA MONETA - Totale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div>
+<span><a>I-ACAD_PDF_EMBED</a></span></div></li><li><div><span><a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>CyberMail</a></span></div></li><li><div><span><a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div>
+<div><div><ul><li><div><span><a>Inserimento anagrafica fisico</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span><a>FastMotor</a></span></div></li><li><div>
+<span><a>MENU PASS</a></span></div></li><li><div>
+<span><a>produzione</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Aumenta le visualizzazioni di raffa</a></span></div></li><li><div><span>
+<a>garmin</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span><a>sara</a></span></div></li><li><div><span><a>strava</a></span></div></li></ul></div></div>
+<div><div><ul>
+<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>
+Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span>
+</div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a>
+</span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div><span><a>storno polizza</a>
+</span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+Estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>
+Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+DatiTecniciValoreAuto</a></span></div></li><li><div><span><a>HawkPersonaFisica</a></span></div></li><li><div><span><a>Login UEFA_WSO2</a></span></div></li><li><div><span><a>PortafoglioIDD - UEFA
+</a></span></div></li><li><div><span><a>PortafoglioIDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>connessione pagina demo</a></span></div></li></ul></div></div><div>
+<div><ul><li><div><span><a>Ristampa Polizza auto</a></span></div></li><li><div>
+<span><a>Ristampe DANNI</a></span></div></li><li><div><span><a>SHORT Ristampe VITA</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>VITA</span></li></ul></div><div><div><ul><li><div><span><a>Controllo Obbligatorieta Stampa e Upload Documento - UEFA</a></span></div></li></ul></div></div><div><div><ul><li>
+<span>FOGLI CASSA</span></li></ul></div><div><div><ul><li><div><span><a>Incasso e Storno Titolo a foglio cassa aperto - UEFA</a></span></div></li></ul></div></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
+<li><div><span><a>Professionista HDI - UEFA</a></span></div></li><li><div><span><a>Valore Auto - UEFA</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+Globale Casa 2019 - Fast</a></span></div></li><li><div><span><a>Globale PMI Autorizzazione - Fast</a></span></div></li><li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li>
+</ul></div></div><div><div><ul><li><div><span><a>Variazione Quietanza - Autorizzazione - Full Uefa</a></span></div></li></ul></div></div><div>
+<div>
+<ul><li><div><span><a>Globale Casa 2019 - Sostituzione - Full Uefa</a></span></div></li><li><div><span><a>Infortuni e IPM - Sostituzione - Full Uefa</a></span></div></li></ul></div></div></div>
+<div>
+<div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div><div><div><ul>
+<li><div><span><a>HDI Capitale Protetto Agenzia Autorizzazione - UEFA</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li>
+<span>VITA</span></li></ul></div><div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div><div><div><ul>
+<li><div><span><a>A2A - Emissione polizza - IDD</a></span></div></li><li><div><span><a>Short Valore Auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+Sospensione Valore Auto</a></span></div></li></ul></div></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>CBA</span></li></ul></div><div><div><ul>
+<li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li><li>
+<span>Emissioni CBA</span></li><li><span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><div>
+<span><a>Cambio Contraenza</a></span></div></li><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Valore Capitale</a></span></div></li><li><div>
+<span><a>CBA Valore Cedola</a></span></div></li><li><div><span><a>CBA Valore Cedola_new</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div>
+<span><a>Versamento Aggiuntivo</a></span></div></li></ul></div><div><div><ul><li><div><span><a>CBA - Riscatto Parziale</a></span></div></li><li><div><span><a>CBA - Riscatto totale</a></span>
+</div></li><li><div><span><a>CBA Moneta a premi periodici</a></span></div></li><li><div>
+<span><a>CBA Tuo Valore</a></span></div></li><li><div><span><a>CBA Valore Capital</a></span></div></li><li><div><span><a>CBA Valore Capitale Top</a></span></div></li><li><div><span><a>
+CBA Valore Capitale</a></span></div></li><li><div><span><a>CBA Valore Cedola</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Autorizza cedole</a></span></div></li><li><div>
+<span><a>Conferma e autorizzazione Cedole</a></span></div></li><li><div>
+<span><a>Pre Verifica</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li><li><div><span><a>CBA Sostegno Finanziamento PA TF-577</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+F81 - Obiettivo Futuro PAR - PF</a></span></div></li><li><div><span><a>F81 - Obiettivo Futuro PAR - PF - IDD</a></span></div></li><li><div><span><a>F95 - Obiettivo Crescita Agenzia</a></span>
+</div></li><li><div><span><a>F95 - Obiettivo Crescita Direzione - IDD</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Riscatto Totale Garanzia - NFE</a></span></div></li>
+<li><div><span><a>Scelta Opzione Scadenza</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span><a>github</a></span></div></li><li><div><span><a>hdiassicurazioni</a></span></div></li><li><div>
+<span><a>I-ACAD</a></span></div></li><li><div><span><a>OrangeHrm</a></span></div></li><li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li>
+<span>Prova</span></li><li><div><span><a>Assicomo SERVIZIO</a></span></div></li><li><div><span><a>Assicomo SERVIZIO2</a></span></div></li><li><div><span>
+<a>Nuovo processo</a></span></div></li><li><div><span><a>prova</a></span></div></li><li><div><span><a>raffa</a></span></div></li><li><div><span><a>soloIM</a></span></div></li><li><div><span>
+<a>Test (monitor)</a></span></div></li><li><div><span><a>test</a></span></div></li><li><div><span><a>test2</a></span></div></li><li><div><span><a>test3</a></span></div></li><li><div><span>
+<a>vuoto</a></span></div></li></ul></div><div><div><ul><li><div><span><a>prova</a></span></div></li><li><div><span><a>prova2</a></span></div></li></ul></div></div></div><div><div><ul><li>
+<span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li><span>Assimoco-generici</span></li><li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li>
+<span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li>
+<li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li><span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li>
+<span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li><span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li>
+<span>UNICO</span></li><li><span>VITA</span></li><li><span>WEBTEST</span></li><li><div><span><a>casitest</a></span></div></li><li><div><span><a>demoI_ACAD</a></span></div></li><li><div>
+<span><a>dialog_hdi</a></span></div></li><li><div><span><a>esempio</a></span></div></li><li><div><span><a>estinzione polizza - Collaudo</a></span></div></li><li><div>
+<span><a>estinzione polizza</a></span></div></li><li><div><span><a>estinzione polizze cumulative - Collaudo</a></span></div></li><li><div><span><a>FastMotor</a></span></div></li><li><div>
+<span><a>garmin</a></span></div></li><li><div><span><a>gia</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span><a>mockdettaglio</a></span></div></li><li><div><span>
+<a>monitor</a></span></div></li><li><div><span><a>RistampaPolizza</a></span></div></li><li><div><span><a>test assimoco</a></span></div></li><li><div><span><a>testplugin</a></span></div></li>
+<li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>WebServerInterno_DemoRicercaAvanzata</a></span></div></li><li><div><span>
+<a>Xlayer</a></span></div></li><li><div><span><a>XlayerKO</a></span></div></li></ul></div><div><div><ul>
+<li><div><span><a>Inserimento Anagrafica Persona Fisica</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Assicredit Extra Long</a></span></div></li></ul></div></div><div>
+<div><ul><li><div>
+<span><a>Valore Auto (AS)</a></span></div></li><li><div><span><a>Valore auto</a></span></div></li></ul></div></div><div><div><ul><li><div><span>
+<a>portal</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>campus</a></span></div></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
+<div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><div><span><a>Globale Casa 2019</a></span></div></li><li><div>
+<span><a>Valore Auto</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>Consultazione Polizza RCA</a></span></div></li><li><div><span><a>Ristampa Documenti Danni</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul>
+</div></div></div><div><div><ul><li><div>
+<span><a>debug_mhtml</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div><span><a>I-ACAD</a></span></div></li><li><div><span>
+<a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul>
+<li><div><span><a>Aumenta le visualizzazioni di raffa</a></span></div></li><li><div><span><a>garmin</a></span></div></li><li><div><span><a>IM</a></span></div></li><li><div><span>
+<a>Strava</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>Modifica Anagrafica togli spazio</a></span></div></li><li><div><span><a>Produzione 30V Mutuo Protetto Special</a></span></div></li><li><div><span><a>
+Produzione 85E Protetto Infortuni</a></span></div></li><li><div><span><a>Produzione 88E Protezione Web Assimoco</a></span></div></li><li><div><span><a>Produzione Emissione Autocarro</a></span>
+</div></li><li><div><span><a>Produzione Emissione Moto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge Auto</a></span></div></li><li><div><span><a>Produzione Inqury Bridge RE</a>
+</span></div></li><li><div><span><a>Produzione Inqury Bridge TCM</a></span></div></li><li><div><span><a>Produzione Rate Protette Fisico</a></span></div></li><li><div>
+<span><a>storno polizza</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Rate Protette Medium</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>
+estinzione polizze cumulative SELLA parziali - Collaudo</a></span></div></li><li><div><span><a>Estinzione polizze cumulative SELLA Totali - Collaudo</a></span></div></li><li><div><span><a>
+Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><span><a>robottini-Scadenze</a></span></div></li></ul></div></div><div><div><ul><li><div>
+<span><a>Autorizza</a></span></div></li><li><div><span><a>Conferma</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li>
+<span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div><div><div><ul>
+<li><div><span><a>Verifica Soglia Sconto - Full UEFA</a></span></div></li></ul></div></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li>
+<span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>CBA</span></li></ul></div>
+<div><div><ul><li><div><span><a>CBA Sicurezza PA - Cap Cost Nuova</a></span></div></li></ul></div></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li>
+<li><span>Emissioni CBA</span></li><li><span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><div>
+<span><a>Cambio Contraenza</a></span></div></li><li><div>
+<span><a>CBA Valore Capitale</a></span></div></li><li><div><span><a>Versamenti aggiuntivi premi periodici</a></span></div></li><li><div><span><a>Versamento Aggiuntivo</a></span></div></li></ul>
+</div>
+<div><div><ul><li><div><span><a>CBA - Riscatto totale</a></span></div></li><li><div><span><a>CBA Tuo Valore</a></span></div></li></ul></div></div><div><div><ul>
+<li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>Liquidazione Cedole - solo autorizzazione</a></span></div></li></ul></div></div><div><div>
+<ul><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul>
+<li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li><span>Assimoco-generici</span></li>
+<li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
+<span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li>
+<span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li><span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li>
+<span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>VITA</span></li><li>
+<span>WEBTEST</span></li></ul></div><div><div><ul><li><span>
+Inserimento Anagrafica Persona Fisica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Valore Auto (AS)<a></a><a></a></span></li><li><span>Valore auto<a></a><a></a></span></li>
+</ul></div></div><div><div><ul><li><span>campus<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Incassi</span></li></ul></div></div>
+<div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><span>Globale Casa 2019<a></a><a></a></span></li><li><span>
+Globale Fabbricati Controllo Montesconti<a></a><a></a></span></li><li><span>
+Valore Auto - IDD - NFE<a></a><a></a></span></li><li><span>Valore Auto<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
+Servlet Stampe Firma Digitale<a></a><a></a></span></li></ul></div></div></div><div><div><ul><li><span>HDI - Stampa quietanze<a></a><a></a></span></li><li><span>nuovo<a></a><a>
+</a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul><li>
+<span>robottini-Scadenze<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Conferma<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li>
+<li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div></div><div><div><ul><li>
+<span>EMISSIONI</span></li></ul></div><div><div><ul><li><span>HDI</span></li></ul></div></div></div></div><div><div><ul><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div>
+<div><div><ul><li><span>EMISSIONI</span></li><li><span>POSTVENDITA</span></li></ul></div></div><div><div><ul><li><span>EMISSIONI</span></li></ul></div><div><div><ul><li>
+<span>CBA</span></li></ul></div></div></div></div><div><div><ul><li><span>CBA</span></li><li><span>Cedole</span></li><li><span>Emissioni CBA</span></li><li>
+<span>Emissioni HDI</span></li><li><span>PostVendita</span></li><li><span>Scadenze</span></li><li><span>Versamenti aggiuntivi premi periodici<a>
+</a><a></a></span></li></ul></div><div><div><ul><li><span>
+CBA - Riscatto Parziale<a></a><a></a></span></li><li><span>CBA - Riscatto totale<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Autorizza cedole<a></a><a></a></span></li><li>
+<span>
+Conferma e autorizzazione Cedole<a></a><a></a></span></li><li><span>Pre Verifica<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
+CBA Moneta a Premi Periodici<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
+Scelta Opzione Scadenza<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Scadenze<a></a><a></a></span></li></ul></div></div></div></div><div><div><div><div><div></div><div>
+<div><div><div></div><div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div><div><div><div></div><div><div><div><div></div>
+<div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div><div><div><div></div><div><div><div><div></div>
+<div></div></div></div></div><div><div><div><div></div><div></div></div></div></div></div></div></div></div><div><div><ul><li>Ordina Ascendente</li><li>Ordina Discendente</li>
+<li>Rimuovi Ordinamento</li><li><div><div><div>Filtra le righe dove:</div><div><div><div><div><span>contiene</span></div><div></div></div></div></div><div></div><div><div><div><div>
+<span>E</span></div><div></div></div></div></div><div><div><div><div><span>contiene</span></div><div></div></div></div></div><div></div><div>
+<span>Filtra</span><span>Rimuovi Filtro</span></div></div></div></li></ul></div></div>
