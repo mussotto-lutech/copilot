@@ -139,9 +139,18 @@ pdf_value – estrazione di valori da un PDF  parametri:
   - template = PAth del template I-ACAD utilizzato per estrarre i dati. 
   - nomePdf  = Path del pdf da cui estrarre i dati
 
-pdf_exec – esecuzione di operazioni su un PDF
+pdf_exec – esecuzione di una funzione di I-ACAD su un determinato pdf. Parametri:
+   - variabile = variabile creata su sui mettere ok, ko, not found . Verrà sempre riportata nel report dello scenario
+   - report = nome della struttura che verrà creata   report.nome_esito report.nome_descrizione , e nome del file di excel che verrà creato ed allegato al report dello scenario
+   - nomePdf =  Path del pdf su cui eseguire lo scenario
+   - template = Path dello scenario di I_ACAD (.acad_s) da eseguire
 
-strutturadafontedati – operazioni su fonti dati esterne (query, dataset)
+strutturadafontedati – Crea una variabile di tipo struttura leggendo i dati da una fonte dati. Parametri:
+  - struttura1 = Nome della struttura da creare , esempio di  variabili che verranno create  struttura1.Nome , struttura1.Cognome ecc..
+  - filename =  Path della configurazione di una fonte dati definita in I-ABAT 
+  - tipo = Tipologia della fonte dati es: "Sql Server" , "Oracle" ...., "Excel" , "Files" , "Web"
+  - query = Query da utilizzare per estrarre i record esempio: Select * from anagrafica se possibile verrà utilizzato il record con lo stesso indice della riga dello scenario in esecuzione, altrimenti il primo record
+
 
 confronta – confronto tra valori/elementi
 
