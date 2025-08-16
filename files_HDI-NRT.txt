@@ -82,7 +82,6 @@ Le sottocartelle della cartella Scenari sono:
  [DIR] Scenari/WSO2/VITA/EMISSIONI/HDI
 
 I file presenti nella cartella Scenari e sottocartelle sono:
- [FILE] Scenari/ambienteDiSviluppo.ibt
  [FILE] Scenari/Schedulazione Avvio Processo Short Vita.ibt
  [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt
  [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt
@@ -564,7 +563,6 @@ Le sottocartelle della cartella Moduli sono:
  [DIR] Moduli/WSO2/VITA/EMISSIONI/HDI
 
 I file presenti nella cartella Moduli e sottocartelle sono:
- [FILE] Moduli/ambientedisviluppo.json
  [FILE] Moduli/Consultazione Documenti Firma Digitale - Full UEFA.json
  [FILE] Moduli/Consultazione Documenti Firma Digitale - UEFA.json
  [FILE] Moduli/fine estinzione polizze.copiacomeexe
@@ -666,7 +664,6 @@ I file presenti nella cartella Moduli e sottocartelle sono:
  [FILE] Moduli/UEFA/DANNI/EMISSIONI/Casa e Famiglia - UEFA.json
  [FILE] Moduli/UEFA/DANNI/EMISSIONI/Cauzioni - UEFA.json
  [FILE] Moduli/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA.json
- [FILE] Moduli/UEFA/DANNI/EMISSIONI/EDITOR_recentFiles.txt
  [FILE] Moduli/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA.json
  [FILE] Moduli/UEFA/DANNI/EMISSIONI/Globale Casa 2019 - UEFA.json
  [FILE] Moduli/UEFA/DANNI/EMISSIONI/Globale Infortuni e IPM - UEFA.json
@@ -1056,7 +1053,6 @@ Le sottocartelle della cartella Fogli Excel sono:
  [DIR] Fogli Excel/Definizioni/WSO2/VITA/EMISSIONI/HDI
 
 I file presenti nella cartella Fogli Excel e sottocartelle sono:
- [FILE] Fogli Excel/ambientedisviluppo.xlsx
  [FILE] Fogli Excel/Conferma Riscatto - DATI.xlsx
  [FILE] Fogli Excel/Consultazione Documenti Firma Digitale - Full UEFA.json
  [FILE] Fogli Excel/Consultazione Documenti Firma Digitale - Full UEFA.mask
@@ -1332,7 +1328,6 @@ I file presenti nella cartella Fogli Excel e sottocartelle sono:
  [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA (Def).json
  [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA (Def).mask
  [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA (Def).xlsx
- [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/EDITOR_recentFiles.txt
  [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA (Def).json
  [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA (Def).mask
  [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA (Def).xlsx
