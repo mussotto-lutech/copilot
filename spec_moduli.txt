@@ -89,3 +89,24 @@ Nota interna o descrizione della maschera. Non influisce sull’esecuzione.
 ### treeNode : string|null
 Facoltativo.
 UUID che identifica il nodo per la visualizzazione grafica ad albero.
+
+=== SEZIONE: Semantica dei livelli e rami alternativi ===
+1. Livelli
+   Un "livello" è l’insieme dei nodi che condividono lo stesso genitore.
+2. Nodi fratelli
+   I nodi fratelli NON sono step sequenziali. Rappresentano rami alternativi (scelte, uscite, errori).
+3. Sequenza esplicita
+   Se serve indicare che due nodi devono avvenire in sequenza, usare una transizione A -> B oppure annidare B come figlio di A.
+4. Notazione opzionale
+   ->  transizione sequenziale esplicita (solo quando serve chiarire)
+   |   separatore di alternative in righe compatte
+   *   ramo principale (happy path) tra le alternative
+   !err ramo di errore
+   !end ramo di fine/uscita
+   ^loop ritorno/iterazione (loop) verso un nodo precedente (specificare il nome)
+   ?cond condizione sintetica di scelta (es. ?noRisultati)
+5. Esempio
+   Liquidazioni Trovate: Confermata* | Risultato conferma beneficiari | Ricerca in liquidazioni^loop | Main Menu!end | ERRORE - Manutenzione!err
+6. Regola di interpretazione
+   L’elenco dei fratelli è un set di possibili transizioni in uscita; l’ordine non implica obbligatorietà cronologica.
+=== FINE SEZIONE ===
