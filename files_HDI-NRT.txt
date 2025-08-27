@@ -1,11 +1,13 @@
--Elenco dei files utilizzati dal prodotto custom i-abat per eseguire degli script web utilizzando selenium.
+-Questo repository contiene principalmente i files utilizzati dal prodotto custom i-abat per eseguire degli script web utilizzando selenium.
 -I files principali degli script sono composti da :
 - file di navigazione tra le videate, files in formato json presenti nella cartella moduli e nelle sue sottocartelle.
 - file di definizione delle varie videate, vi sono files speculari, con lo stesso nome ma uno in formato xlsx e uno in formato json con estensione .mask
 per leggere le definizioni delle singole maschere usa i files .mask. I files delle maschere si trovano nella cartella Fogli Excel\DEFINIZIONI e neile sue sottocartelle
+
 -Gli script vengono definiti scenari
 -La definizione degli scenari è contenuta in files con estensione .ibt
 -I files ibt sono contenuti nella cartella scenari e nelle sue sottodirectory
+
 -il files ibt sono dei files strutturati json, le principali informazioni sono:
 -fileModulo = nome del files jspon che contiene le regole di navigazione tra le videate web
 -fileDefinizione = nome del file excel che contiene la definizione delle videate riferite dal filemodulo 
@@ -13,14 +15,19 @@ per leggere le definizioni delle singole maschere usa i files .mask. I files del
 -moduliUsati = eventuale elenco di altri moduli .json utilizzati dallo scenario
 -scenariUsati = eventuale elenco di altri scenari richiamati all'ineerno scenario , solitamente questi moduli si occupano di funzion icomuni come la login
 -file dati eventuale file .xlsx , contenente n fogli, uno per maschera, in cui è definito l'input da utilizzare durante uno scenario, ogni ria è un caso diverso
+
 per ogni maschera sono indicate gli oggetti web utili per riconoscerla ,  gli oggetti web con cu interagire, ed eventuali altre azioni custom
 per ogni file di definizione xls, esiste nello stesso path un file json di più semplice interpretazione con estensione .mask
 la voce <<PATH>> indica la root direcory del repository
+
 Principali cartelle:
 Scenari contiene i files ibt
 Moduli contiene i files .json di definizione delle videate
 Fogli Excel contiene i files di definizione .xls e i rispettivi .mask, contiene anche i files dati utilizzati dagli scenari 
+
 Prima di rispondere a domande riguardanti gli scenari o le loro cartelle, leggi sempre da questo files l’elenco delle sottocartelle degli scenari e utilizza queste informazioni per rispondere con precisione.
+
+
 Le sottocartelle della cartella Scenari sono:
 [DIR] Scenari/ELABORAZIONI_VARIE , [DIR] Scenari/MIGRAZIONE , [DIR] Scenari/POSTRIBALTAMENTO , [DIR] Scenari/ROBOT , [DIR] Scenari/SCENARI COMUNI , [DIR] Scenari/STAMPE , [DIR] Scenari/UEFA
 [DIR] Scenari/UNICO , [DIR] Scenari/WSO2 , [DIR] Scenari/MIGRAZIONE/CAUZIONI , [DIR] Scenari/MIGRAZIONE/MIG DANNI AUTO , [DIR] Scenari/MIGRAZIONE/MIG DANNI RE , [DIR] Scenari/ROBOT/PICO
@@ -735,5 +742,3 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - WSO2 (Def).mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive - WSO2.mask
 [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Variazione Recapito - WSO2 (Def).mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore - WSO2 (Def).mask
 [FILE] Fogli Excel/Definizioni/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - WSO2 (Def).mask
-
-
