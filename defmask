@@ -8,7 +8,15 @@ Un file `.mask` è un file JSON (o JSON-like) composto da una lista di blocchi/s
 
 - `titolo`: (stringa) nome logico dello scenario o della sezione.
 - `mascheraComune`: (boolean) indica se la maschera è condivisa.
-- `ambiente`: (intero) indice o codice ambiente.
+- `ambiente`: (intero) indice o codice ambiente. Valori possibili :
+   Unico = 0
+   Gianos = 1
+   Fatca = 2
+   Assimoco = 3
+   Generale = 4
+   Xlayer = 5
+   Portal = 6
+   Uefa = 7
 - `test`: (array) eventuali test associati (spesso vuoto).
 - `fill`: oggetto che contiene la parte principale delle istruzioni (azioni, punti mask).
 
