@@ -29,1554 +29,327 @@ Prima di rispondere a domande riguardanti gli scenari o le loro cartelle, leggi 
 
 
 Le sottocartelle della cartella Scenari sono:
- [DIR] Scenari/ANAGRAFICA
- [DIR] Scenari/Assicredit
- [DIR] Scenari/Assimoco-generici
- [DIR] Scenari/AUTO
- [DIR] Scenari/Bene
- [DIR] Scenari/Campus
- [DIR] Scenari/Claims Flow
- [DIR] Scenari/CONTROLLI CONTABILI
- [DIR] Scenari/DANNI
- [DIR] Scenari/debug
- [DIR] Scenari/DEMO
- [DIR] Scenari/ELABORAZIONI_VARIE
- [DIR] Scenari/Flow
- [DIR] Scenari/HDI-GENERICI
- [DIR] Scenari/Personali
- [DIR] Scenari/Produzione
- [DIR] Scenari/Rate Protette
- [DIR] Scenari/ROBOT-HDI
- [DIR] Scenari/SCENARI COMUNI
- [DIR] Scenari/ScenariComuni
- [DIR] Scenari/STAMPE
- [DIR] Scenari/Supernova
- [DIR] Scenari/UEFA
- [DIR] Scenari/UNICO
- [DIR] Scenari/VITA
- [DIR] Scenari/WEBTEST
- [DIR] Scenari/CONTROLLI CONTABILI/Incassi
- [DIR] Scenari/DANNI/Emissioni
- [DIR] Scenari/DANNI/PostVendita
- [DIR] Scenari/Flow/ANAGRAFICA
- [DIR] Scenari/UEFA/ANAGRAFICA
- [DIR] Scenari/UEFA/CONTROLLI CONTABILI
- [DIR] Scenari/UEFA/DANNI
- [DIR] Scenari/UEFA/VITA
- [DIR] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
- [DIR] Scenari/UEFA/DANNI/EMISSIONI
- [DIR] Scenari/UEFA/DANNI/EMISSIONI FAST
- [DIR] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA
- [DIR] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA
- [DIR] Scenari/UEFA/VITA/EMISSIONI
- [DIR] Scenari/UEFA/VITA/EMISSIONI/HDI
- [DIR] Scenari/UNICO/DANNI
- [DIR] Scenari/UNICO/VITA
- [DIR] Scenari/UNICO/DANNI/EMISSIONI
- [DIR] Scenari/UNICO/DANNI/POSTVENDITA
- [DIR] Scenari/UNICO/VITA/EMISSIONI
- [DIR] Scenari/UNICO/VITA/EMISSIONI/CBA
- [DIR] Scenari/VITA/CBA
- [DIR] Scenari/VITA/Cedole
- [DIR] Scenari/VITA/Emissioni CBA
- [DIR] Scenari/VITA/Emissioni HDI
- [DIR] Scenari/VITA/PostVendita
- [DIR] Scenari/VITA/Scadenze
-
-I file presenti nella cartella Scenari e sottocartelle sono:
- [FILE] Scenari/ambienteDiSviluppo.ibt
- [FILE] Scenari/casitest.rpt
- [FILE] Scenari/debug.ibt
- [FILE] Scenari/demoI_ACAD.ibt
- [FILE] Scenari/demoI_ACAD.rpt
- [FILE] Scenari/dialog_hdi.rpt
- [FILE] Scenari/embed pdf.ibt
- [FILE] Scenari/esempio.rpt
- [FILE] Scenari/estinzione polizza - Collaudo.ibt
- [FILE] Scenari/estinzione polizza - Collaudo.rpt
- [FILE] Scenari/estinzione polizza.ibt
- [FILE] Scenari/estinzione polizza.rpt
- [FILE] Scenari/estinzione polizze cumulative - Collaudo.iabatpkt
- [FILE] Scenari/estinzione polizze cumulative - Collaudo.ibt
- [FILE] Scenari/estinzione polizze cumulative - Collaudo.rpt
- [FILE] Scenari/FastMotor.rpt
- [FILE] Scenari/garmin.rpt
- [FILE] Scenari/già.rpt
- [FILE] Scenari/IM.rpt
- [FILE] Scenari/loginFlow.ibt
- [FILE] Scenari/mockdettaglio.ibt
- [FILE] Scenari/mockdettaglio.rpt
- [FILE] Scenari/monitor.ibt
- [FILE] Scenari/monitor.rpt
- [FILE] Scenari/OS2.ibt
- [FILE] Scenari/outlook.ibt
- [FILE] Scenari/outlook2.ibt
- [FILE] Scenari/RistampaPolizza ASSIMOCO.ibt
- [FILE] Scenari/RistampaPolizza.ibt
- [FILE] Scenari/RistampaPolizza.rpt
- [FILE] Scenari/test assimoco.ibt
- [FILE] Scenari/test assimoco.rpt
- [FILE] Scenari/testplugin.ibt
- [FILE] Scenari/testplugin.rpt
- [FILE] Scenari/Versamenti aggiuntivi premi periodici.ibt
- [FILE] Scenari/Versamenti aggiuntivi premi periodici.rpt
- [FILE] Scenari/WebServerInterno_DemoRicercaAvanzata.ibt
- [FILE] Scenari/WebServerInterno_DemoRicercaAvanzata.rpt
- [FILE] Scenari/Xlayer.ibt
- [FILE] Scenari/Xlayer.rpt
- [FILE] Scenari/XlayerKO.ibt
- [FILE] Scenari/XlayerKO.rpt
- [FILE] Scenari/Yolo.ibt
- [FILE] Scenari/ANAGRAFICA/Inserimento Anagrafica Persona Fisica.ibt
- [FILE] Scenari/ANAGRAFICA/Inserimento Anagrafica Persona Fisica.rpt
- [FILE] Scenari/ANAGRAFICA/Inserimento Anagrafica Persona Fisica.zip
- [FILE] Scenari/Assicredit/Assicredit Extra Long.ibt
- [FILE] Scenari/Assicredit/Assicredit Extra Long.rpt
- [FILE] Scenari/Assicredit/Assicredit Medium.ibt
- [FILE] Scenari/Assicredit/Assicredit Medium.zip
- [FILE] Scenari/Assimoco-generici/MultiAssimoco.ibt
- [FILE] Scenari/AUTO/Valore Auto (AS).ibt
- [FILE] Scenari/AUTO/Valore Auto (AS).rpt
- [FILE] Scenari/AUTO/Valore Auto (AS).zip
- [FILE] Scenari/AUTO/Valore auto.ibt
- [FILE] Scenari/AUTO/Valore auto.rpt
- [FILE] Scenari/Bene/passinsurance.ibt
- [FILE] Scenari/Bene/portal.ibt
- [FILE] Scenari/Bene/portal.rpt
- [FILE] Scenari/Campus/campus.ibt
- [FILE] Scenari/Campus/campus.rpt
- [FILE] Scenari/Campus/campus.zip
- [FILE] Scenari/Claims Flow/Flow_auto_garanzie_accessorie_cristalli.ibt
- [FILE] Scenari/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109.ibt
- [FILE] Scenari/DANNI/Emissioni/C.A.R. Merloni - IDD.ibt
- [FILE] Scenari/DANNI/Emissioni/C.A.R. Merloni - TF-606.ibt
- [FILE] Scenari/DANNI/Emissioni/Gestione provvisoria nuovo front end Unico.ibt
- [FILE] Scenari/DANNI/Emissioni/Globale Casa 2019 - I-ACAD.ibt
- [FILE] Scenari/DANNI/Emissioni/Globale Casa 2019 - IDD - NFE.ibt
- [FILE] Scenari/DANNI/Emissioni/Globale Casa 2019.ibt
- [FILE] Scenari/DANNI/Emissioni/Globale Casa 2019.rpt
- [FILE] Scenari/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti.ibt
- [FILE] Scenari/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti.zip
- [FILE] Scenari/DANNI/Emissioni/Prova.ibt
- [FILE] Scenari/DANNI/Emissioni/Telefono ed email - PN Vodafone.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - FastMotor - Settore 4.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - FastMotor Settore 1.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE.zip
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - FastMotor.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - NFE.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto - NFE - FastMotor.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto.ibt
- [FILE] Scenari/DANNI/Emissioni/Valore Auto.rpt
- [FILE] Scenari/DANNI/PostVendita/Consultazione Polizza RCA.ibt
- [FILE] Scenari/DANNI/PostVendita/Consultazione Polizza RCA.rpt
- [FILE] Scenari/DANNI/PostVendita/Ristampa Documenti Danni.ibt
- [FILE] Scenari/DANNI/PostVendita/Ristampa Documenti Danni.rpt
- [FILE] Scenari/DANNI/PostVendita/Servlet Stampe Firma Digitale.ibt
- [FILE] Scenari/DANNI/PostVendita/Variazione Quietanza.ibt
- [FILE] Scenari/DANNI/PostVendita/Variazione Quietanza.rpt
- [FILE] Scenari/debug/bene.ibt
- [FILE] Scenari/debug/debug_mhtml.ibt
- [FILE] Scenari/debug/debug_mhtml.rpt
- [FILE] Scenari/debug/testrecord.ibt
- [FILE] Scenari/DEMO/CBA MONETA - Parziale.ibt
- [FILE] Scenari/DEMO/CBA MONETA - Parziale.rpt
- [FILE] Scenari/DEMO/CBA MONETA - Totale.ibt
- [FILE] Scenari/DEMO/HDI - Stampa quietanze.ibt
- [FILE] Scenari/DEMO/HDI - Stampa quietanze.rpt
- [FILE] Scenari/DEMO/I-ACAD.rpt
- [FILE] Scenari/DEMO/I-ACAD_PDF_EMBED.ibt
- [FILE] Scenari/DEMO/nuovo.rpt
- [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt
- [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.iabatpkt
- [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt
- [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.rpt
- [FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica fisico.ibt
- [FILE] Scenari/HDI-GENERICI/FastMotor.ibt
- [FILE] Scenari/HDI-GENERICI/MENU PASS.ibt
- [FILE] Scenari/HDI-GENERICI/produzione.ibt
- [FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.ibt
- [FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.rpt
- [FILE] Scenari/Personali/garmin.ibt
- [FILE] Scenari/Personali/garmin.rpt
- [FILE] Scenari/Personali/IM.ibt
- [FILE] Scenari/Personali/IM.rpt
- [FILE] Scenari/Personali/sara.ibt
- [FILE] Scenari/Personali/strava.ibt
- [FILE] Scenari/Personali/Strava.rpt
- [FILE] Scenari/Produzione/Modifica Anagrafica togli spazio.ibt
- [FILE] Scenari/Produzione/Modifica Anagrafica togli spazio.rpt
- [FILE] Scenari/Produzione/Produzione 30V Mutuo Protetto Special.ibt
- [FILE] Scenari/Produzione/Produzione 30V Mutuo Protetto Special.rpt
- [FILE] Scenari/Produzione/Produzione 85E Protetto Infortuni.ibt
- [FILE] Scenari/Produzione/Produzione 85E Protetto Infortuni.rpt
- [FILE] Scenari/Produzione/Produzione 88E Protezione Web Assimoco.ibt
- [FILE] Scenari/Produzione/Produzione 88E Protezione Web Assimoco.rpt
- [FILE] Scenari/Produzione/Produzione Emissione Autocarro.ibt
- [FILE] Scenari/Produzione/Produzione Emissione Autocarro.rpt
- [FILE] Scenari/Produzione/Produzione Emissione Moto.ibt
- [FILE] Scenari/Produzione/Produzione Emissione Moto.rpt
- [FILE] Scenari/Produzione/Produzione Inqury Bridge Auto.ibt
- [FILE] Scenari/Produzione/Produzione Inqury Bridge Auto.rpt
- [FILE] Scenari/Produzione/Produzione Inqury Bridge RE.ibt
- [FILE] Scenari/Produzione/Produzione Inqury Bridge RE.rpt
- [FILE] Scenari/Produzione/Produzione Inqury Bridge TCM.ibt
- [FILE] Scenari/Produzione/Produzione Inqury Bridge TCM.rpt
- [FILE] Scenari/Produzione/Produzione Rate Protette Fisico.ibt
- [FILE] Scenari/Produzione/Produzione Rate Protette Fisico.rpt
- [FILE] Scenari/Produzione/storno polizza.ibt
- [FILE] Scenari/Produzione/storno polizza.rpt
- [FILE] Scenari/Rate Protette/Rate Protette Medium.ibt
- [FILE] Scenari/Rate Protette/Rate Protette Medium.rpt
- [FILE] Scenari/ROBOT-HDI/estinzione polizze cumulative SELLA parziali - Collaudo.files
- [FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA parziali - Collaudo.ibt
- [FILE] Scenari/ROBOT-HDI/estinzione polizze cumulative SELLA parziali - Collaudo.rpt
- [FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA Totali - Collaudo.files
- [FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA Totali - Collaudo.ibt
- [FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA Totali - Collaudo.rpt
- [FILE] Scenari/ROBOT-HDI/Estinzioni polizze FINANZIARIA  totali - Collaudo.files
- [FILE] Scenari/ROBOT-HDI/Estinzioni polizze FINANZIARIA  totali - Collaudo.ibt
- [FILE] Scenari/ROBOT-HDI/Estinzioni polizze FINANZIARIA  totali - Collaudo.rpt
- [FILE] Scenari/ROBOT-HDI/robottini-Scadenze.ibt
- [FILE] Scenari/ROBOT-HDI/robottini-Scadenze.rpt
- [FILE] Scenari/SCENARI COMUNI/DatiTecniciValoreAuto.ibt
- [FILE] Scenari/SCENARI COMUNI/HawkPersonaFisica.ibt
- [FILE] Scenari/SCENARI COMUNI/Login UEFA_WSO2.ibt
- [FILE] Scenari/SCENARI COMUNI/PortafoglioIDD - UEFA.ibt
- [FILE] Scenari/SCENARI COMUNI/PortafoglioIDD.ibt
- [FILE] Scenari/ScenariComuni/connessione pagina demo.ibt
- [FILE] Scenari/STAMPE/Ristampa Polizza auto.ibt
- [FILE] Scenari/STAMPE/Ristampe DANNI.ibt
- [FILE] Scenari/STAMPE/SHORT Ristampe VITA.ibt
- [FILE] Scenari/Supernova/Autorizza.rpt
- [FILE] Scenari/Supernova/Conferma.ibt
- [FILE] Scenari/Supernova/Conferma.rpt
- [FILE] Scenari/Supernova/Conferma.zip
- [FILE] Scenari/Supernova/debug.log
- [FILE] Scenari/Supernova/esecuzioni.json
- [FILE] Scenari/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA.ibt
- [FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto - UEFA.ibt
- [FILE] Scenari/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA.ibt
- [FILE] Scenari/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA.ibt
- [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast.ibt
- [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast.ibt
- [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA.ibt
- [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA.rpt
- [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa.ibt
- [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.ibt
- [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa.ibt
- [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.ibt
- [FILE] Scenari/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD.ibt
- [FILE] Scenari/UNICO/DANNI/EMISSIONI/Short Valore Auto.ibt
- [FILE] Scenari/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto.ibt
- [FILE] Scenari/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova.ibt
- [FILE] Scenari/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova.rpt
- [FILE] Scenari/VITA/Cambio Contraenza.ibt
- [FILE] Scenari/VITA/Cambio Contraenza.rpt
- [FILE] Scenari/VITA/CBA Moneta a Premi Periodici.ibt
- [FILE] Scenari/VITA/CBA Valore Capitale.ibt
- [FILE] Scenari/VITA/CBA Valore Capitale.rpt
- [FILE] Scenari/VITA/CBA Valore Cedola.ibt
- [FILE] Scenari/VITA/CBA Valore Cedola_new.ibt
- [FILE] Scenari/VITA/esecuzioni.json
- [FILE] Scenari/VITA/Versamenti aggiuntivi premi periodici.ibt
- [FILE] Scenari/VITA/Versamenti aggiuntivi premi periodici.rpt
- [FILE] Scenari/VITA/Versamenti aggiuntivi premi periodici.zip
- [FILE] Scenari/VITA/Versamento Aggiuntivo.ibt
- [FILE] Scenari/VITA/Versamento Aggiuntivo.rpt
- [FILE] Scenari/VITA/CBA/CBA - Riscatto Parziale.ibt
- [FILE] Scenari/VITA/CBA/CBA - Riscatto Parziale.zip
- [FILE] Scenari/VITA/CBA/CBA - Riscatto totale.ibt
- [FILE] Scenari/VITA/CBA/CBA - Riscatto totale.rpt
- [FILE] Scenari/VITA/CBA/CBA Moneta a premi periodici.ibt
- [FILE] Scenari/VITA/CBA/CBA Tuo Valore.ibt
- [FILE] Scenari/VITA/CBA/CBA Tuo Valore.rpt
- [FILE] Scenari/VITA/CBA/CBA Valore Capital.ibt
- [FILE] Scenari/VITA/CBA/CBA Valore Capitale Top.ibt
- [FILE] Scenari/VITA/CBA/CBA Valore Capitale.ibt
- [FILE] Scenari/VITA/CBA/CBA Valore Cedola.ibt
- [FILE] Scenari/VITA/Cedole/Autorizza cedole.ibt
- [FILE] Scenari/VITA/Cedole/Autorizza cedole.rpt
- [FILE] Scenari/VITA/Cedole/Autorizza cedole.zip
- [FILE] Scenari/VITA/Cedole/Conferma e autorizzazione Cedole.ibt
- [FILE] Scenari/VITA/Cedole/Conferma e autorizzazione Cedole.zip
- [FILE] Scenari/VITA/Cedole/Liquidazione Cedole - solo autorizzazione.rpt
- [FILE] Scenari/VITA/Cedole/Pre Verifica.ibt
- [FILE] Scenari/VITA/Emissioni CBA/CBA Moneta a Premi Periodici.ibt
- [FILE] Scenari/VITA/Emissioni CBA/CBA Moneta a Premi Periodici.rpt
- [FILE] Scenari/VITA/Emissioni CBA/CBA Sostegno Finanziamento PA TF-577.ibt
- [FILE] Scenari/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR  - PF.ibt
- [FILE] Scenari/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF - IDD.ibt
- [FILE] Scenari/VITA/Emissioni HDI/F95 - Obiettivo Crescita Agenzia.ibt
- [FILE] Scenari/VITA/Emissioni HDI/F95 - Obiettivo Crescita Direzione - IDD.ibt
- [FILE] Scenari/VITA/PostVendita/Riscatto Totale Garanzia - NFE.ibt
- [FILE] Scenari/VITA/PostVendita/Scelta Opzione Scadenza.ibt
- [FILE] Scenari/VITA/PostVendita/Versamento Aggiuntivo.ibt
- [FILE] Scenari/VITA/Scadenze/esecuzioni.json
- [FILE] Scenari/VITA/Scadenze/Scadenze.ibt
- [FILE] Scenari/VITA/Scadenze/Scadenze.rpt
- [FILE] Scenari/VITA/Scadenze/Scadenze.zip
- [FILE] Scenari/WEBTEST/github.ibt
- [FILE] Scenari/WEBTEST/hdiassicurazioni.ibt
- [FILE] Scenari/WEBTEST/I-ACAD.ibt
- [FILE] Scenari/WEBTEST/OrangeHrm.ibt
- [FILE] Scenari/WEBTEST/saucedemo.ibt
- [FILE] Scenari/WEBTEST/saucedemo.rpt
-
+[DIR] Scenari/ANAGRAFICA , [DIR] Scenari/Assicredit , [DIR] Scenari/Assimoco-generici , [DIR] Scenari/AUTO , [DIR] Scenari/Bene , [DIR] Scenari/Campus , [DIR] Scenari/Claims Flow
+[DIR] Scenari/CONTROLLI CONTABILI , [DIR] Scenari/DANNI , [DIR] Scenari/debug , [DIR] Scenari/DEMO , [DIR] Scenari/ELABORAZIONI_VARIE , [DIR] Scenari/Flow , [DIR] Scenari/HDI-GENERICI
+[DIR] Scenari/Personali , [DIR] Scenari/Produzione , [DIR] Scenari/Rate Protette , [DIR] Scenari/ROBOT-HDI , [DIR] Scenari/SCENARI COMUNI , [DIR] Scenari/ScenariComuni , [DIR] Scenari/STAMPE
+[DIR] Scenari/Supernova , [DIR] Scenari/UEFA , [DIR] Scenari/UNICO , [DIR] Scenari/VITA , [DIR] Scenari/WEBTEST , [DIR] Scenari/CONTROLLI CONTABILI/Incassi , [DIR] Scenari/DANNI/Emissioni
+[DIR] Scenari/DANNI/PostVendita , [DIR] Scenari/Flow/ANAGRAFICA , [DIR] Scenari/UEFA/ANAGRAFICA , [DIR] Scenari/UEFA/CONTROLLI CONTABILI , [DIR] Scenari/UEFA/DANNI , [DIR] Scenari/UEFA/VITA
+[DIR] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Scenari/UEFA/DANNI/EMISSIONI , [DIR] Scenari/UEFA/DANNI/EMISSIONI FAST , [DIR] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA
+[DIR] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Scenari/UEFA/VITA/EMISSIONI , [DIR] Scenari/UEFA/VITA/EMISSIONI/HDI , [DIR] Scenari/UNICO/DANNI , [DIR] Scenari/UNICO/VITA
+[DIR] Scenari/UNICO/DANNI/EMISSIONI , [DIR] Scenari/UNICO/DANNI/POSTVENDITA , [DIR] Scenari/UNICO/VITA/EMISSIONI , [DIR] Scenari/UNICO/VITA/EMISSIONI/CBA , [DIR] Scenari/VITA/CBA
+[DIR] Scenari/VITA/Cedole , [DIR] Scenari/VITA/Emissioni CBA , [DIR] Scenari/VITA/Emissioni HDI , [DIR] Scenari/VITA/PostVendita , [DIR] Scenari/VITA/Scadenze
+I file presenti nella cartella Scenari e sottocartelle sono : 
+[FILE] Scenari/ambienteDiSviluppo.ibt , [FILE] Scenari/casitest.rpt , [FILE] Scenari/debug.ibt , [FILE] Scenari/demoI_ACAD.ibt , [FILE] Scenari/demoI_ACAD.rpt , [FILE] Scenari/dialog_hdi.rpt
+[FILE] Scenari/embed pdf.ibt , [FILE] Scenari/esempio.rpt , [FILE] Scenari/estinzione polizza - Collaudo.ibt , [FILE] Scenari/estinzione polizza - Collaudo.rpt
+[FILE] Scenari/estinzione polizza.ibt , [FILE] Scenari/estinzione polizza.rpt , [FILE] Scenari/estinzione polizze cumulative - Collaudo.iabatpkt
+[FILE] Scenari/estinzione polizze cumulative - Collaudo.ibt , [FILE] Scenari/estinzione polizze cumulative - Collaudo.rpt , [FILE] Scenari/FastMotor.rpt , [FILE] Scenari/garmin.rpt
+[FILE] Scenari/già.rpt , [FILE] Scenari/IM.rpt , [FILE] Scenari/loginFlow.ibt , [FILE] Scenari/mockdettaglio.ibt , [FILE] Scenari/mockdettaglio.rpt , [FILE] Scenari/monitor.ibt
+[FILE] Scenari/monitor.rpt , [FILE] Scenari/OS2.ibt , [FILE] Scenari/outlook.ibt , [FILE] Scenari/outlook2.ibt , [FILE] Scenari/RistampaPolizza ASSIMOCO.ibt , [FILE] Scenari/RistampaPolizza.ibt
+[FILE] Scenari/RistampaPolizza.rpt , [FILE] Scenari/test assimoco.ibt , [FILE] Scenari/test assimoco.rpt , [FILE] Scenari/testplugin.ibt , [FILE] Scenari/testplugin.rpt
+[FILE] Scenari/Versamenti aggiuntivi premi periodici.ibt , [FILE] Scenari/Versamenti aggiuntivi premi periodici.rpt , [FILE] Scenari/WebServerInterno_DemoRicercaAvanzata.ibt
+[FILE] Scenari/WebServerInterno_DemoRicercaAvanzata.rpt , [FILE] Scenari/Xlayer.ibt , [FILE] Scenari/Xlayer.rpt , [FILE] Scenari/XlayerKO.ibt , [FILE] Scenari/XlayerKO.rpt , [FILE] Scenari/Yolo.ibt
+[FILE] Scenari/ANAGRAFICA/Inserimento Anagrafica Persona Fisica.ibt , [FILE] Scenari/ANAGRAFICA/Inserimento Anagrafica Persona Fisica.rpt
+[FILE] Scenari/ANAGRAFICA/Inserimento Anagrafica Persona Fisica.zip , [FILE] Scenari/Assicredit/Assicredit Extra Long.ibt , [FILE] Scenari/Assicredit/Assicredit Extra Long.rpt
+[FILE] Scenari/Assicredit/Assicredit Medium.ibt , [FILE] Scenari/Assicredit/Assicredit Medium.zip , [FILE] Scenari/Assimoco-generici/MultiAssimoco.ibt , [FILE] Scenari/AUTO/Valore Auto (AS).ibt
+[FILE] Scenari/AUTO/Valore Auto (AS).rpt , [FILE] Scenari/AUTO/Valore Auto (AS).zip , [FILE] Scenari/AUTO/Valore auto.ibt , [FILE] Scenari/AUTO/Valore auto.rpt
+[FILE] Scenari/Bene/passinsurance.ibt , [FILE] Scenari/Bene/portal.ibt , [FILE] Scenari/Bene/portal.rpt , [FILE] Scenari/Campus/campus.ibt , [FILE] Scenari/Campus/campus.rpt
+[FILE] Scenari/Campus/campus.zip , [FILE] Scenari/Claims Flow/Flow_auto_garanzie_accessorie_cristalli.ibt
+[FILE] Scenari/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109.ibt , [FILE] Scenari/DANNI/Emissioni/C.A.R. Merloni - IDD.ibt
+[FILE] Scenari/DANNI/Emissioni/C.A.R. Merloni - TF-606.ibt , [FILE] Scenari/DANNI/Emissioni/Gestione provvisoria nuovo front end Unico.ibt
+[FILE] Scenari/DANNI/Emissioni/Globale Casa 2019 - I-ACAD.ibt , [FILE] Scenari/DANNI/Emissioni/Globale Casa 2019 - IDD - NFE.ibt , [FILE] Scenari/DANNI/Emissioni/Globale Casa 2019.ibt
+[FILE] Scenari/DANNI/Emissioni/Globale Casa 2019.rpt , [FILE] Scenari/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti.ibt
+[FILE] Scenari/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti.zip , [FILE] Scenari/DANNI/Emissioni/Prova.ibt , [FILE] Scenari/DANNI/Emissioni/Telefono ed email - PN Vodafone.ibt
+[FILE] Scenari/DANNI/Emissioni/Valore Auto - FastMotor - Settore 4.ibt , [FILE] Scenari/DANNI/Emissioni/Valore Auto - FastMotor Settore 1.ibt
+[FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE.ibt , [FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE.zip
+[FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - FastMotor.ibt , [FILE] Scenari/DANNI/Emissioni/Valore Auto - IDD - NFE.ibt , [FILE] Scenari/DANNI/Emissioni/Valore Auto - NFE - FastMotor.ibt
+[FILE] Scenari/DANNI/Emissioni/Valore Auto.ibt , [FILE] Scenari/DANNI/Emissioni/Valore Auto.rpt , [FILE] Scenari/DANNI/PostVendita/Consultazione Polizza RCA.ibt
+[FILE] Scenari/DANNI/PostVendita/Consultazione Polizza RCA.rpt , [FILE] Scenari/DANNI/PostVendita/Ristampa Documenti Danni.ibt , [FILE] Scenari/DANNI/PostVendita/Ristampa Documenti Danni.rpt
+[FILE] Scenari/DANNI/PostVendita/Servlet Stampe Firma Digitale.ibt , [FILE] Scenari/DANNI/PostVendita/Variazione Quietanza.ibt , [FILE] Scenari/DANNI/PostVendita/Variazione Quietanza.rpt
+[FILE] Scenari/debug/bene.ibt , [FILE] Scenari/debug/debug_mhtml.ibt , [FILE] Scenari/debug/debug_mhtml.rpt , [FILE] Scenari/debug/testrecord.ibt , [FILE] Scenari/DEMO/CBA MONETA - Parziale.ibt
+[FILE] Scenari/DEMO/CBA MONETA - Parziale.rpt , [FILE] Scenari/DEMO/CBA MONETA - Totale.ibt , [FILE] Scenari/DEMO/HDI - Stampa quietanze.ibt , [FILE] Scenari/DEMO/HDI - Stampa quietanze.rpt
+[FILE] Scenari/DEMO/I-ACAD.rpt , [FILE] Scenari/DEMO/I-ACAD_PDF_EMBED.ibt , [FILE] Scenari/DEMO/nuovo.rpt , [FILE] Scenari/DEMO/TestAlert.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt
+[FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.iabatpkt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.rpt
+[FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica fisico.ibt , [FILE] Scenari/HDI-GENERICI/FastMotor.ibt , [FILE] Scenari/HDI-GENERICI/MENU PASS.ibt , [FILE] Scenari/HDI-GENERICI/produzione.ibt
+[FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.ibt , [FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.rpt , [FILE] Scenari/Personali/garmin.ibt
+[FILE] Scenari/Personali/garmin.rpt , [FILE] Scenari/Personali/IM.ibt , [FILE] Scenari/Personali/IM.rpt , [FILE] Scenari/Personali/sara.ibt , [FILE] Scenari/Personali/strava.ibt
+[FILE] Scenari/Personali/Strava.rpt , [FILE] Scenari/Produzione/Modifica Anagrafica togli spazio.ibt , [FILE] Scenari/Produzione/Modifica Anagrafica togli spazio.rpt
+[FILE] Scenari/Produzione/Produzione 30V Mutuo Protetto Special.ibt , [FILE] Scenari/Produzione/Produzione 30V Mutuo Protetto Special.rpt
+[FILE] Scenari/Produzione/Produzione 85E Protetto Infortuni.ibt , [FILE] Scenari/Produzione/Produzione 85E Protetto Infortuni.rpt
+[FILE] Scenari/Produzione/Produzione 88E Protezione Web Assimoco.ibt , [FILE] Scenari/Produzione/Produzione 88E Protezione Web Assimoco.rpt
+[FILE] Scenari/Produzione/Produzione Emissione Autocarro.ibt , [FILE] Scenari/Produzione/Produzione Emissione Autocarro.rpt , [FILE] Scenari/Produzione/Produzione Emissione Moto.ibt
+[FILE] Scenari/Produzione/Produzione Emissione Moto.rpt , [FILE] Scenari/Produzione/Produzione Inqury Bridge Auto.ibt , [FILE] Scenari/Produzione/Produzione Inqury Bridge Auto.rpt
+[FILE] Scenari/Produzione/Produzione Inqury Bridge RE.ibt , [FILE] Scenari/Produzione/Produzione Inqury Bridge RE.rpt , [FILE] Scenari/Produzione/Produzione Inqury Bridge TCM.ibt
+[FILE] Scenari/Produzione/Produzione Inqury Bridge TCM.rpt , [FILE] Scenari/Produzione/Produzione Rate Protette Fisico.ibt , [FILE] Scenari/Produzione/Produzione Rate Protette Fisico.rpt
+[FILE] Scenari/Produzione/storno polizza.ibt , [FILE] Scenari/Produzione/storno polizza.rpt , [FILE] Scenari/Rate Protette/Rate Protette Medium.ibt
+[FILE] Scenari/Rate Protette/Rate Protette Medium.rpt , [FILE] Scenari/ROBOT-HDI/estinzione polizze cumulative SELLA parziali - Collaudo.files
+[FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA parziali - Collaudo.ibt , [FILE] Scenari/ROBOT-HDI/estinzione polizze cumulative SELLA parziali - Collaudo.rpt
+[FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA Totali - Collaudo.files , [FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA Totali - Collaudo.ibt
+[FILE] Scenari/ROBOT-HDI/Estinzione polizze cumulative SELLA Totali - Collaudo.rpt , [FILE] Scenari/ROBOT-HDI/Estinzioni polizze FINANZIARIA  totali - Collaudo.files
+[FILE] Scenari/ROBOT-HDI/Estinzioni polizze FINANZIARIA  totali - Collaudo.ibt , [FILE] Scenari/ROBOT-HDI/Estinzioni polizze FINANZIARIA  totali - Collaudo.rpt
+[FILE] Scenari/ROBOT-HDI/robottini-Scadenze.ibt , [FILE] Scenari/ROBOT-HDI/robottini-Scadenze.rpt , [FILE] Scenari/SCENARI COMUNI/DatiTecniciValoreAuto.ibt
+[FILE] Scenari/SCENARI COMUNI/HawkPersonaFisica.ibt , [FILE] Scenari/SCENARI COMUNI/Login UEFA_WSO2.ibt , [FILE] Scenari/SCENARI COMUNI/PortafoglioIDD - UEFA.ibt
+[FILE] Scenari/SCENARI COMUNI/PortafoglioIDD.ibt , [FILE] Scenari/ScenariComuni/connessione pagina demo.ibt , [FILE] Scenari/STAMPE/Ristampa Polizza auto.ibt
+[FILE] Scenari/STAMPE/Ristampe DANNI.ibt , [FILE] Scenari/STAMPE/SHORT Ristampe VITA.ibt , [FILE] Scenari/Supernova/Autorizza.rpt , [FILE] Scenari/Supernova/Conferma.ibt
+[FILE] Scenari/Supernova/Conferma.rpt , [FILE] Scenari/Supernova/Conferma.zip , [FILE] Scenari/Supernova/debug.log , [FILE] Scenari/Supernova/esecuzioni.json
+[FILE] Scenari/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto - UEFA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA.rpt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa.ibt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.ibt , [FILE] Scenari/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD.ibt
+[FILE] Scenari/UNICO/DANNI/EMISSIONI/Short Valore Auto.ibt , [FILE] Scenari/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto.ibt
+[FILE] Scenari/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova.ibt , [FILE] Scenari/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova.rpt
+[FILE] Scenari/VITA/Cambio Contraenza.ibt , [FILE] Scenari/VITA/Cambio Contraenza.rpt , [FILE] Scenari/VITA/CBA Moneta a Premi Periodici.ibt , [FILE] Scenari/VITA/CBA Valore Capitale.ibt
+[FILE] Scenari/VITA/CBA Valore Capitale.rpt , [FILE] Scenari/VITA/CBA Valore Cedola.ibt , [FILE] Scenari/VITA/CBA Valore Cedola_new.ibt , [FILE] Scenari/VITA/esecuzioni.json
+[FILE] Scenari/VITA/Versamenti aggiuntivi premi periodici.ibt , [FILE] Scenari/VITA/Versamenti aggiuntivi premi periodici.rpt , [FILE] Scenari/VITA/Versamenti aggiuntivi premi periodici.zip
+[FILE] Scenari/VITA/Versamento Aggiuntivo.ibt , [FILE] Scenari/VITA/Versamento Aggiuntivo.rpt , [FILE] Scenari/VITA/CBA/CBA - Riscatto Parziale.ibt
+[FILE] Scenari/VITA/CBA/CBA - Riscatto Parziale.zip , [FILE] Scenari/VITA/CBA/CBA - Riscatto totale.ibt , [FILE] Scenari/VITA/CBA/CBA - Riscatto totale.rpt
+[FILE] Scenari/VITA/CBA/CBA Moneta a premi periodici.ibt , [FILE] Scenari/VITA/CBA/CBA Tuo Valore.ibt , [FILE] Scenari/VITA/CBA/CBA Tuo Valore.rpt , [FILE] Scenari/VITA/CBA/CBA Valore Capital.ibt
+[FILE] Scenari/VITA/CBA/CBA Valore Capitale Top.ibt , [FILE] Scenari/VITA/CBA/CBA Valore Capitale.ibt , [FILE] Scenari/VITA/CBA/CBA Valore Cedola.ibt
+[FILE] Scenari/VITA/Cedole/Autorizza cedole.ibt , [FILE] Scenari/VITA/Cedole/Autorizza cedole.rpt , [FILE] Scenari/VITA/Cedole/Autorizza cedole.zip
+[FILE] Scenari/VITA/Cedole/Conferma e autorizzazione Cedole.ibt , [FILE] Scenari/VITA/Cedole/Conferma e autorizzazione Cedole.zip
+[FILE] Scenari/VITA/Cedole/Liquidazione Cedole - solo autorizzazione.rpt , [FILE] Scenari/VITA/Cedole/Pre Verifica.ibt , [FILE] Scenari/VITA/Emissioni CBA/CBA Moneta a Premi Periodici.ibt
+[FILE] Scenari/VITA/Emissioni CBA/CBA Moneta a Premi Periodici.rpt , [FILE] Scenari/VITA/Emissioni CBA/CBA Sostegno Finanziamento PA TF-577.ibt
+[FILE] Scenari/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR  - PF.ibt , [FILE] Scenari/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF - IDD.ibt
+[FILE] Scenari/VITA/Emissioni HDI/F95 - Obiettivo Crescita Agenzia.ibt , [FILE] Scenari/VITA/Emissioni HDI/F95 - Obiettivo Crescita Direzione - IDD.ibt
+[FILE] Scenari/VITA/PostVendita/Riscatto Totale Garanzia - NFE.ibt , [FILE] Scenari/VITA/PostVendita/Scelta Opzione Scadenza.ibt , [FILE] Scenari/VITA/PostVendita/Versamento Aggiuntivo.ibt
+[FILE] Scenari/VITA/Scadenze/esecuzioni.json , [FILE] Scenari/VITA/Scadenze/Scadenze.ibt , [FILE] Scenari/VITA/Scadenze/Scadenze.rpt , [FILE] Scenari/VITA/Scadenze/Scadenze.zip
+[FILE] Scenari/WEBTEST/github.ibt , [FILE] Scenari/WEBTEST/hdiassicurazioni.ibt , [FILE] Scenari/WEBTEST/I-ACAD.ibt , [FILE] Scenari/WEBTEST/OrangeHrm.ibt , [FILE] Scenari/WEBTEST/saucedemo.ibt
+[FILE] Scenari/WEBTEST/saucedemo.rpt
 
 Le sottocartelle della cartella Moduli sono:
- [DIR] Moduli/ANAGRAFICA
- [DIR] Moduli/Cedole
- [DIR] Moduli/CONTROLLI CONTABILI
- [DIR] Moduli/DANNI
- [DIR] Moduli/de
- [DIR] Moduli/Debug
- [DIR] Moduli/DEMO
- [DIR] Moduli/ELABORAZIONI_VARIE
- [DIR] Moduli/MODULI COMUNI
- [DIR] Moduli/Nuova cartella
- [DIR] Moduli/Nuovi (As)
- [DIR] Moduli/SCENARI COMUNI
- [DIR] Moduli/STAMPE
- [DIR] Moduli/TuoValore
- [DIR] Moduli/UEFA
- [DIR] Moduli/UNICO
- [DIR] Moduli/VITA
- [DIR] Moduli/x64
- [DIR] Moduli/x86
- [DIR] Moduli/CONTROLLI CONTABILI/Incassi
- [DIR] Moduli/DANNI/Emissioni
- [DIR] Moduli/DANNI/PostVendita
- [DIR] Moduli/MODULI COMUNI/DANNI
- [DIR] Moduli/UEFA/ANAGRAFICA
- [DIR] Moduli/UEFA/CONTROLLI CONTABILI
- [DIR] Moduli/UEFA/DANNI
- [DIR] Moduli/UEFA/VITA
- [DIR] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
- [DIR] Moduli/UEFA/DANNI/EMISSIONI
- [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST
- [DIR] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA
- [DIR] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA
- [DIR] Moduli/UEFA/VITA/EMISSIONI
- [DIR] Moduli/UEFA/VITA/EMISSIONI/HDI
- [DIR] Moduli/UNICO/DANNI
- [DIR] Moduli/UNICO/VITA
- [DIR] Moduli/UNICO/DANNI/EMISSIONI
- [DIR] Moduli/UNICO/DANNI/POSTVENDITA
- [DIR] Moduli/UNICO/VITA/EMISSIONI
- [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA
- [DIR] Moduli/VITA/Emissioni CBA
- [DIR] Moduli/VITA/Emissioni HDI
- [DIR] Moduli/VITA/PostVendita
-
-I file presenti nella cartella Moduli e sottocartelle sono:
- [FILE] Moduli/.gitkeep
- [FILE] Moduli/ambientedisviluppo.json
- [FILE] Moduli/ambientedisviluppo2.json
- [FILE] Moduli/Appium.Net.dll
- [FILE] Moduli/Appium.Net.xml
- [FILE] Moduli/Assicredit Extra Long.json
- [FILE] Moduli/Assicredit Medium.json
- [FILE] Moduli/assimoco - claims grezzo.json
- [FILE] Moduli/assimoco-grezzo.json
- [FILE] Moduli/AssimocoAutomatico.json
- [FILE] Moduli/Autorizza Riscatto.json
- [FILE] Moduli/BouncyCastle.Crypto.dll
- [FILE] Moduli/BouncyCastle.Crypto.xml
- [FILE] Moduli/BrotliSharpLib.dll
- [FILE] Moduli/BrotliSharpLib.xml
- [FILE] Moduli/BrowserExtension.dll
- [FILE] Moduli/BrowserExtension.dll.config
- [FILE] Moduli/BrowserExtension.pdb
- [FILE] Moduli/campus.json
- [FILE] Moduli/capitale.json
- [FILE] Moduli/capitaleTop.json
- [FILE] Moduli/casitest.json
- [FILE] Moduli/Castle.Core.dll
- [FILE] Moduli/Castle.Core.xml
- [FILE] Moduli/CBA - Riscatto Totale (AS).json
- [FILE] Moduli/CBA Moneta Riscatto Parziale.json
- [FILE] Moduli/CBA Moneta Riscatto Totale.json
- [FILE] Moduli/CBA Moneta.json
- [FILE] Moduli/Cba valore Capital.json
- [FILE] Moduli/cedola.json
- [FILE] Moduli/cicli.json
- [FILE] Moduli/Common.Logging.Core.dll
- [FILE] Moduli/Common.Logging.Core.pdb
- [FILE] Moduli/Common.Logging.Core.xml
- [FILE] Moduli/Common.Logging.dll
- [FILE] Moduli/Common.Logging.pdb
- [FILE] Moduli/Common.Logging.xml
- [FILE] Moduli/Conferma Riscatto-old.json
- [FILE] Moduli/Conferma Riscatto.json
- [FILE] Moduli/Conferma scadenze.json
- [FILE] Moduli/confermariscattoinit.txt
- [FILE] Moduli/connessione pagina demo.json
- [FILE] Moduli/CsvHelper.dll
- [FILE] Moduli/CsvHelper.xml
- [FILE] Moduli/dafare.txt
- [FILE] Moduli/Dati Tecnici Valore Auto.json
- [FILE] Moduli/DatiTecniciValoreAuto - NFE.json
- [FILE] Moduli/debug.json
- [FILE] Moduli/debug_mhtml.json
- [FILE] Moduli/demo-stampapdf.json
- [FILE] Moduli/demo.json
- [FILE] Moduli/demoAssimoco.json
- [FILE] Moduli/demoIabat.json
- [FILE] Moduli/demoi_acad.json
- [FILE] Moduli/DocumentFormat.OpenXml.dll
- [FILE] Moduli/DocumentFormat.OpenXml.xml
- [FILE] Moduli/DynamicExpresso.Core.dll
- [FILE] Moduli/embed pd.json
- [FILE] Moduli/estinzione polizza - Collaudo.json
- [FILE] Moduli/estinzione polizza - Collaudo.mask
- [FILE] Moduli/estinzione polizza - Collaudo.xlsx
- [FILE] Moduli/estinzione polizza - Copia.json
- [FILE] Moduli/estinzione polizza.json
- [FILE] Moduli/estinzione polizze cumulative - collaudo.json
- [FILE] Moduli/estinzione polizze cumulative SELLA parziali - Collaudo.json
- [FILE] Moduli/Estinzioni totali finanziara - Collaudo.json
- [FILE] Moduli/EventViewer.dll
- [FILE] Moduli/EventViewer.pdb
- [FILE] Moduli/ExcelDataReader.DataSet.dll
- [FILE] Moduli/ExcelDataReader.DataSet.pdb
- [FILE] Moduli/ExcelDataReader.DataSet.xml
- [FILE] Moduli/ExcelDataReader.dll
- [FILE] Moduli/ExcelDataReader.pdb
- [FILE] Moduli/ExcelDataReader.xml
- [FILE] Moduli/FastMotor.json
- [FILE] Moduli/fine estinzione polizze.exe
- [FILE] Moduli/FineAutorizzaCedole.dll
- [FILE] Moduli/FineAutorizzaCedole.dll.config
- [FILE] Moduli/FineAutorizzaCedole.pdb
- [FILE] Moduli/FineConfermaRiscatto.dll
- [FILE] Moduli/FineConfermaRiscatto.dll.config
- [FILE] Moduli/FineConfermaRiscatto.pdb
- [FILE] Moduli/FineRobotConferme.dll
- [FILE] Moduli/FineRobotConferme.dll.config
- [FILE] Moduli/FineRobotConferme.pdb
- [FILE] Moduli/flow_auto garanzie accessorie cristalli.json
- [FILE] Moduli/garmin.json
- [FILE] Moduli/garmin2.json
- [FILE] Moduli/GenericParsing.dll
- [FILE] Moduli/GenericParsing.xml
- [FILE] Moduli/GIANOS Persona Fisica.json
- [FILE] Moduli/gino.json
- [FILE] Moduli/github.json
- [FILE] Moduli/già.json
- [FILE] Moduli/Google.Protobuf.dll
- [FILE] Moduli/Google.Protobuf.xml
- [FILE] Moduli/hdi-stampa quietanze.json
- [FILE] Moduli/hdiassicurazioni.json
- [FILE] Moduli/HdiModulo_CBAValoreVitaEnd.dll
- [FILE] Moduli/HdiModulo_CBAValoreVitaEnd.pdb
- [FILE] Moduli/HdiModulo_FatcaGiuridico.dll
- [FILE] Moduli/HdiModulo_FatcaGiuridico.pdb
- [FILE] Moduli/HdiMOdulo_Gianos.dll
- [FILE] Moduli/HdiMOdulo_Gianos.pdb
- [FILE] Moduli/HdiModulo_Login.dll
- [FILE] Moduli/HdiModulo_Login.pdb
- [FILE] Moduli/HdiModulo_RicercaSoggetto.dll
- [FILE] Moduli/HdiModulo_RicercaSoggetto.pdb
- [FILE] Moduli/HdiModulo_VitaDatiTecnici.dll
- [FILE] Moduli/HdiModulo_VitaDatiTecnici.pdb
- [FILE] Moduli/HdiModulo_Vita_NuovaProposta_Prodotto.dll
- [FILE] Moduli/HdiModulo_Vita_NuovaProposta_Prodotto.pdb
- [FILE] Moduli/HtmlAgilityPack.dll
- [FILE] Moduli/HtmlAgilityPack.pdb
- [FILE] Moduli/HtmlAgilityPack.xml
- [FILE] Moduli/IBM.Data.DB2.dll
- [FILE] Moduli/im.json
- [FILE] Moduli/inserimento anagrafica fisico.json
- [FILE] Moduli/itext.commons.dll
- [FILE] Moduli/itext.commons.xml
- [FILE] Moduli/itext.io.dll
- [FILE] Moduli/itext.io.xml
- [FILE] Moduli/itext.kernel.dll
- [FILE] Moduli/itext.kernel.xml
- [FILE] Moduli/I_ABAT.dll
- [FILE] Moduli/I_ABAT.dll.config
- [FILE] Moduli/I_ABAT.pdb
- [FILE] Moduli/JsonTreeViewDotnet.dll
- [FILE] Moduli/JsonTreeViewDotnet.pdb
- [FILE] Moduli/K4os.Compression.LZ4.dll
- [FILE] Moduli/K4os.Compression.LZ4.Streams.dll
- [FILE] Moduli/K4os.Compression.LZ4.Streams.xml
- [FILE] Moduli/K4os.Compression.LZ4.xml
- [FILE] Moduli/K4os.Hash.xxHash.dll
- [FILE] Moduli/K4os.Hash.xxHash.xml
- [FILE] Moduli/libA.dll
- [FILE] Moduli/libA.dll.config
- [FILE] Moduli/libA.pdb
- [FILE] Moduli/libAssimoco.dll
- [FILE] Moduli/libAssimoco.pdb
- [FILE] Moduli/LibAzioniSpeciali.dll
- [FILE] Moduli/LibAzioniSpeciali.dll.config
- [FILE] Moduli/LibAzioniSpeciali.pdb
- [FILE] Moduli/libBrowser.dll
- [FILE] Moduli/libBrowser.pdb
- [FILE] Moduli/LibBrowserNet.dll
- [FILE] Moduli/LibBrowserNet.dll.config
- [FILE] Moduli/LibBrowserNet.pdb
- [FILE] Moduli/LibDatabase.dll
- [FILE] Moduli/LibDatabase.dll.config
- [FILE] Moduli/LibDatabase.pdb
- [FILE] Moduli/LIbDebug.dll
- [FILE] Moduli/LIbDebug.dll.config
- [FILE] Moduli/LIbDebug.pdb
- [FILE] Moduli/LibEstensioni.dll
- [FILE] Moduli/LibEstensioni.pdb
- [FILE] Moduli/libExcel.dll
- [FILE] Moduli/libExcel.pdb
- [FILE] Moduli/libFatca.dll
- [FILE] Moduli/libFatca.dll.config
- [FILE] Moduli/libFatca.pdb
- [FILE] Moduli/LibFonteDati.dll
- [FILE] Moduli/LibFonteDati.dll.config
- [FILE] Moduli/LibFonteDati.pdb
- [FILE] Moduli/LibGianos.dll
- [FILE] Moduli/LibGianos.dll.config
- [FILE] Moduli/LibGianos.pdb
- [FILE] Moduli/LibHtml.dll
- [FILE] Moduli/LibHtml.dll.config
- [FILE] Moduli/LibHtml.pdb
- [FILE] Moduli/LibI-Acad.dll
- [FILE] Moduli/LibI-Acad.dll.config
- [FILE] Moduli/LibI-Acad.pdb
- [FILE] Moduli/LibLinguaggio.dll
- [FILE] Moduli/LibLinguaggio.pdb
- [FILE] Moduli/LibMessaggi.dll
- [FILE] Moduli/LibMessaggi.pdb
- [FILE] Moduli/libParametri.dll
- [FILE] Moduli/libParametri.dll.config
- [FILE] Moduli/libParametri.pdb
- [FILE] Moduli/LibPdf.dll
- [FILE] Moduli/LibPdf.dll.config
- [FILE] Moduli/LibPdf.pdb
- [FILE] Moduli/LibPortal.dll
- [FILE] Moduli/LibPortal.dll.config
- [FILE] Moduli/LibPortal.pdb
- [FILE] Moduli/libRepository.dll
- [FILE] Moduli/libRepository.dll.config
- [FILE] Moduli/libRepository.pdb
- [FILE] Moduli/libScenari.dll
- [FILE] Moduli/libScenari.dll.config
- [FILE] Moduli/libScenari.pdb
- [FILE] Moduli/Libselenium.dll
- [FILE] Moduli/Libselenium.dll.config
- [FILE] Moduli/Libselenium.pdb
- [FILE] Moduli/LibService.dll
- [FILE] Moduli/LibService.pdb
- [FILE] Moduli/libTools.dll
- [FILE] Moduli/libTools.dll.config
- [FILE] Moduli/libTools.pdb
- [FILE] Moduli/libUnico.dll
- [FILE] Moduli/libUnico.dll.config
- [FILE] Moduli/libUnico.pdb
- [FILE] Moduli/LibXlayer.dll
- [FILE] Moduli/LibXlayer.dll.config
- [FILE] Moduli/LibXlayer.pdb
- [FILE] Moduli/Liquidazione Cedola (autorizza).json
- [FILE] Moduli/Liquidazione Cedola - Conferma.json
- [FILE] Moduli/Liquidazione Cedola2.json
- [FILE] Moduli/Login-Vita.json
- [FILE] Moduli/Login.json
- [FILE] Moduli/loginflow.json
- [FILE] Moduli/loginHdi.json
- [FILE] Moduli/mdbgext.dll
- [FILE] Moduli/mdbgext.pdb
- [FILE] Moduli/menu pass.json
- [FILE] Moduli/MessagingToolkit.QRCode.dll
- [FILE] Moduli/Microsoft.Bcl.AsyncInterfaces.dll
- [FILE] Moduli/Microsoft.Bcl.AsyncInterfaces.xml
- [FILE] Moduli/Microsoft.Bcl.HashCode.dll
- [FILE] Moduli/Microsoft.Bcl.HashCode.xml
- [FILE] Moduli/Microsoft.Edge.SeleniumTools.dll
- [FILE] Moduli/Microsoft.Extensions.DependencyInjection.Abstractions.dll
- [FILE] Moduli/Microsoft.Extensions.DependencyInjection.Abstractions.xml
- [FILE] Moduli/Microsoft.Extensions.DependencyInjection.dll
- [FILE] Moduli/Microsoft.Extensions.DependencyInjection.xml
- [FILE] Moduli/Microsoft.Extensions.Logging.Abstractions.dll
- [FILE] Moduli/Microsoft.Extensions.Logging.Abstractions.xml
- [FILE] Moduli/Microsoft.Extensions.Logging.dll
- [FILE] Moduli/Microsoft.Extensions.Logging.xml
- [FILE] Moduli/Microsoft.Extensions.Options.dll
- [FILE] Moduli/Microsoft.Extensions.Options.xml
- [FILE] Moduli/Microsoft.Extensions.Primitives.dll
- [FILE] Moduli/Microsoft.Extensions.Primitives.xml
- [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.dll
- [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.NativeApi.dll
- [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.NativeApi.pdb
- [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.pdb
- [FILE] Moduli/Microsoft.Samples.Debugging.MdbgEngine.dll
- [FILE] Moduli/Microsoft.Samples.Debugging.MdbgEngine.pdb
- [FILE] Moduli/Microsoft.Samples.Debugging.Native.dll
- [FILE] Moduli/Microsoft.Samples.Debugging.Native.pdb
- [FILE] Moduli/Microsoft.SqlServer.Management.SqlParser.dll
- [FILE] Moduli/Microsoft.SqlServer.Management.SqlParser.pdb
- [FILE] Moduli/Microsoft.SqlServer.Management.SqlParser.xml
- [FILE] Moduli/Microsoft.Win32.Primitives.dll
- [FILE] Moduli/mockdettaglio.json
- [FILE] Moduli/Moneta.json
- [FILE] Moduli/monitor.json
- [FILE] Moduli/MySpreedLight.dll
- [FILE] Moduli/MySpreedLight.pdb
- [FILE] Moduli/MySql.Data.dll
- [FILE] Moduli/MySql.Data.xml
- [FILE] Moduli/netstandard.dll
- [FILE] Moduli/Newtonsoft.Json.dll
- [FILE] Moduli/Newtonsoft.Json.xml
- [FILE] Moduli/Oracle.ManagedDataAccess.dll
- [FILE] Moduli/OrangeHrm.json
- [FILE] Moduli/OS2.json
- [FILE] Moduli/Outllok.json
- [FILE] Moduli/outllok2.json
- [FILE] Moduli/passinsurance.json
- [FILE] Moduli/PDFiumSharp.dll
- [FILE] Moduli/PDFiumSharp.xml
- [FILE] Moduli/pdfium_x64.dll
- [FILE] Moduli/pdfium_x86.dll
- [FILE] Moduli/PDF_Compare.dll
- [FILE] Moduli/PDF_Compare.dll.config
- [FILE] Moduli/PDF_Compare.pdb
- [FILE] Moduli/PDF_Value.dll
- [FILE] Moduli/PDF_Value.dll.config
- [FILE] Moduli/PDF_Value.pdb
- [FILE] Moduli/PersonaFisica.json
- [FILE] Moduli/pippo.json
- [FILE] Moduli/PortafoglioIDD (FrontEnd).json
- [FILE] Moduli/PortafoglioIDD - FastMotor - NFE.json
- [FILE] Moduli/PortafoglioIDD - NFE.json
- [FILE] Moduli/PortafoglioIDD.json
- [FILE] Moduli/portal.json
- [FILE] Moduli/PreparaAutorizzaCedole.dll
- [FILE] Moduli/PreparaAutorizzaCedole.dll.config
- [FILE] Moduli/PreparaAutorizzaCedole.pdb
- [FILE] Moduli/PreparaAutorizzaRiscatto.dll
- [FILE] Moduli/PreparaAutorizzaRiscatto.dll.config
- [FILE] Moduli/PreparaAutorizzaRiscatto.pdb
- [FILE] Moduli/Produzione 30V Mutuo Protetto Special.json
- [FILE] Moduli/Produzione 88E Protezione Web Assimoco.json
- [FILE] Moduli/Produzione Apertura Claims Aw.json
- [FILE] Moduli/produzione auto emissione flow.json
- [FILE] Moduli/Produzione Emissione Autocarro.json
- [FILE] Moduli/produzione inqury bridge re..json
- [FILE] Moduli/produzione inqury bridge tcm.json
- [FILE] Moduli/produzione inqury bridge.json
- [FILE] Moduli/Produzione Rate Protette Fisico.json
- [FILE] Moduli/produzione.json
- [FILE] Moduli/progetto1.json
- [FILE] Moduli/PromptCopilot.txt
- [FILE] Moduli/prova.json
- [FILE] Moduli/prova2.json
- [FILE] Moduli/Questionario Fatca Persona Fisica.json
- [FILE] Moduli/raffa.json
- [FILE] Moduli/Rate Protette Medium.json
- [FILE] Moduli/Renci.SshNet.dll
- [FILE] Moduli/Renci.SshNet.xml
- [FILE] Moduli/Ristampa Polizza Auto HDI.json
- [FILE] Moduli/RistampaPolizza.json
- [FILE] Moduli/robottini-Scadenze.json
- [FILE] Moduli/sara.json
- [FILE] Moduli/saucedemo.json
- [FILE] Moduli/scenario di prova.json
- [FILE] Moduli/ScintelliC.dll
- [FILE] Moduli/ScintelliC.pdb
- [FILE] Moduli/ScintelliC.xml
- [FILE] Moduli/ScintelliVB.dll
- [FILE] Moduli/ScintelliVB.pdb
- [FILE] Moduli/ScintelliVB.xml
- [FILE] Moduli/Scintilla.NET.dll
- [FILE] Moduli/ScintillaNET.dll
- [FILE] Moduli/ScintillaNET.xml
- [FILE] Moduli/ScintillaNET_FindReplaceDialog.dll
- [FILE] Moduli/SeleniumExtras.PageObjects.dll
- [FILE] Moduli/SeleniumExtras.WaitHelpers.dll
- [FILE] Moduli/SELLA - estinzioni parziali.json
- [FILE] Moduli/soggettofisico.json
- [FILE] Moduli/soggettofisico2.json
- [FILE] Moduli/soggettogiuridico.json
- [FILE] Moduli/stampa.json
- [FILE] Moduli/start.json
- [FILE] Moduli/storno polizza.json
- [FILE] Moduli/strava.json
- [FILE] Moduli/System.AppContext.dll
- [FILE] Moduli/System.Buffers.dll
- [FILE] Moduli/System.Buffers.xml
- [FILE] Moduli/System.Collections.Concurrent.dll
- [FILE] Moduli/System.Collections.dll
- [FILE] Moduli/System.Collections.NonGeneric.dll
- [FILE] Moduli/System.Collections.Specialized.dll
- [FILE] Moduli/System.ComponentModel.dll
- [FILE] Moduli/System.ComponentModel.EventBasedAsync.dll
- [FILE] Moduli/System.ComponentModel.Primitives.dll
- [FILE] Moduli/System.ComponentModel.TypeConverter.dll
- [FILE] Moduli/System.Console.dll
- [FILE] Moduli/System.Data.Common.dll
- [FILE] Moduli/System.Data.SQLite.dll
- [FILE] Moduli/System.Data.SQLite.xml
- [FILE] Moduli/System.Diagnostics.Contracts.dll
- [FILE] Moduli/System.Diagnostics.Debug.dll
- [FILE] Moduli/System.Diagnostics.DiagnosticSource.dll
- [FILE] Moduli/System.Diagnostics.DiagnosticSource.xml
- [FILE] Moduli/System.Diagnostics.FileVersionInfo.dll
- [FILE] Moduli/System.Diagnostics.Process.dll
- [FILE] Moduli/System.Diagnostics.StackTrace.dll
- [FILE] Moduli/System.Diagnostics.TextWriterTraceListener.dll
- [FILE] Moduli/System.Diagnostics.Tools.dll
- [FILE] Moduli/System.Diagnostics.TraceSource.dll
- [FILE] Moduli/System.Diagnostics.Tracing.dll
- [FILE] Moduli/System.Drawing.Common.dll
- [FILE] Moduli/System.Drawing.Primitives.dll
- [FILE] Moduli/System.Dynamic.Runtime.dll
- [FILE] Moduli/System.Globalization.Calendars.dll
- [FILE] Moduli/System.Globalization.dll
- [FILE] Moduli/System.Globalization.Extensions.dll
- [FILE] Moduli/System.IO.Compression.dll
- [FILE] Moduli/System.IO.Compression.ZipFile.dll
- [FILE] Moduli/System.IO.dll
- [FILE] Moduli/System.IO.FileSystem.dll
- [FILE] Moduli/System.IO.FileSystem.DriveInfo.dll
- [FILE] Moduli/System.IO.FileSystem.Primitives.dll
- [FILE] Moduli/System.IO.FileSystem.Watcher.dll
- [FILE] Moduli/System.IO.IsolatedStorage.dll
- [FILE] Moduli/System.IO.MemoryMappedFiles.dll
- [FILE] Moduli/System.IO.Pipelines.dll
- [FILE] Moduli/System.IO.Pipelines.xml
- [FILE] Moduli/System.IO.Pipes.dll
- [FILE] Moduli/System.IO.UnmanagedMemoryStream.dll
- [FILE] Moduli/System.Linq.dll
- [FILE] Moduli/System.Linq.Expressions.dll
- [FILE] Moduli/System.Linq.Parallel.dll
- [FILE] Moduli/System.Linq.Queryable.dll
- [FILE] Moduli/System.Memory.dll
- [FILE] Moduli/System.Memory.xml
- [FILE] Moduli/System.Net.Http.dll
- [FILE] Moduli/System.Net.NameResolution.dll
- [FILE] Moduli/System.Net.NetworkInformation.dll
- [FILE] Moduli/System.Net.Ping.dll
- [FILE] Moduli/System.Net.Primitives.dll
- [FILE] Moduli/System.Net.Requests.dll
- [FILE] Moduli/System.Net.Security.dll
- [FILE] Moduli/System.Net.Sockets.dll
- [FILE] Moduli/System.Net.WebHeaderCollection.dll
- [FILE] Moduli/System.Net.WebSockets.Client.dll
- [FILE] Moduli/System.Net.WebSockets.dll
- [FILE] Moduli/System.Numerics.Vectors.dll
- [FILE] Moduli/System.Numerics.Vectors.xml
- [FILE] Moduli/System.ObjectModel.dll
- [FILE] Moduli/System.Reflection.dll
- [FILE] Moduli/System.Reflection.Extensions.dll
- [FILE] Moduli/System.Reflection.Primitives.dll
- [FILE] Moduli/System.Resources.Reader.dll
- [FILE] Moduli/System.Resources.ResourceManager.dll
- [FILE] Moduli/System.Resources.Writer.dll
- [FILE] Moduli/System.Runtime.CompilerServices.Unsafe.dll
- [FILE] Moduli/System.Runtime.CompilerServices.Unsafe.xml
- [FILE] Moduli/System.Runtime.CompilerServices.VisualC.dll
- [FILE] Moduli/System.Runtime.dll
- [FILE] Moduli/System.Runtime.Extensions.dll
- [FILE] Moduli/System.Runtime.Handles.dll
- [FILE] Moduli/System.Runtime.InteropServices.dll
- [FILE] Moduli/System.Runtime.InteropServices.RuntimeInformation.dll
- [FILE] Moduli/System.Runtime.Numerics.dll
- [FILE] Moduli/System.Runtime.Serialization.Formatters.dll
- [FILE] Moduli/System.Runtime.Serialization.Json.dll
- [FILE] Moduli/System.Runtime.Serialization.Primitives.dll
- [FILE] Moduli/System.Runtime.Serialization.Xml.dll
- [FILE] Moduli/System.Security.Claims.dll
- [FILE] Moduli/System.Security.Cryptography.Algorithms.dll
- [FILE] Moduli/System.Security.Cryptography.Csp.dll
- [FILE] Moduli/System.Security.Cryptography.Encoding.dll
- [FILE] Moduli/System.Security.Cryptography.Primitives.dll
- [FILE] Moduli/System.Security.Cryptography.X509Certificates.dll
- [FILE] Moduli/System.Security.Principal.dll
- [FILE] Moduli/System.Security.SecureString.dll
- [FILE] Moduli/System.Text.Encoding.dll
- [FILE] Moduli/System.Text.Encoding.Extensions.dll
- [FILE] Moduli/System.Text.Encodings.Web.dll
- [FILE] Moduli/System.Text.Encodings.Web.xml
- [FILE] Moduli/System.Text.Json.dll
- [FILE] Moduli/System.Text.Json.xml
- [FILE] Moduli/System.Text.RegularExpressions.dll
- [FILE] Moduli/System.Threading.dll
- [FILE] Moduli/System.Threading.Overlapped.dll
- [FILE] Moduli/System.Threading.Tasks.dll
- [FILE] Moduli/System.Threading.Tasks.Extensions.dll
- [FILE] Moduli/System.Threading.Tasks.Extensions.xml
- [FILE] Moduli/System.Threading.Tasks.Parallel.dll
- [FILE] Moduli/System.Threading.Thread.dll
- [FILE] Moduli/System.Threading.ThreadPool.dll
- [FILE] Moduli/System.Threading.Timer.dll
- [FILE] Moduli/System.ValueTuple.dll
- [FILE] Moduli/System.ValueTuple.xml
- [FILE] Moduli/System.Xml.ReaderWriter.dll
- [FILE] Moduli/System.Xml.XDocument.dll
- [FILE] Moduli/System.Xml.XmlDocument.dll
- [FILE] Moduli/System.Xml.XmlSerializer.dll
- [FILE] Moduli/System.Xml.XPath.dll
- [FILE] Moduli/System.Xml.XPath.XDocument.dll
- [FILE] Moduli/tecnici_capitale.json
- [FILE] Moduli/tecnici_cedola.json
- [FILE] Moduli/tecnici_moneta.json
- [FILE] Moduli/temp.json
- [FILE] Moduli/Tesseract.dll
- [FILE] Moduli/test assimoco.json
- [FILE] Moduli/test.json
- [FILE] Moduli/testandrea.json
- [FILE] Moduli/testplugin.json
- [FILE] Moduli/testrecord.json
- [FILE] Moduli/testrecord_1.json
- [FILE] Moduli/Ubiety.Dns.Core.dll
- [FILE] Moduli/valore auto.json
- [FILE] Moduli/versamenti aggiuntivi premi periodici.json
- [FILE] Moduli/vuoto.json
- [FILE] Moduli/WebDriver.dll
- [FILE] Moduli/WebDriver.Support.dll
- [FILE] Moduli/WebDriver.Support.xml
- [FILE] Moduli/WebDriver.xml
- [FILE] Moduli/webserverinterno_demoricercaavanzata.json
- [FILE] Moduli/WindowsInput.dll
- [FILE] Moduli/WindowsInput.pdb
- [FILE] Moduli/WindowsInput.xml
- [FILE] Moduli/xlayer2.xlsx.json
- [FILE] Moduli/XlayerKo_Modulo.json
- [FILE] Moduli/Xlayer_Modulo.json
- [FILE] Moduli/xxx.json
- [FILE] Moduli/yolo.json
- [FILE] Moduli/Zstandard.Net.dll
- [FILE] Moduli/ANAGRAFICA/Soggetto Fisico.json
- [FILE] Moduli/ANAGRAFICA/soggetto fisico2.json
- [FILE] Moduli/Cedole/Liquidazione Cedola (autorizza).json
- [FILE] Moduli/Cedole/Liquidazione Cedola - PreVerifica.json
- [FILE] Moduli/Cedole/Liquidazione Cedola.json
- [FILE] Moduli/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109.json
- [FILE] Moduli/DANNI/Emissioni/C.A.R Merloni - IDD.json
- [FILE] Moduli/DANNI/Emissioni/C.A.R Merloni - TF-606.json
- [FILE] Moduli/DANNI/Emissioni/DatiTecniciValoreAuto - FastMotor - NFE.json
- [FILE] Moduli/DANNI/Emissioni/DatiTecniciValoreAuto.json
- [FILE] Moduli/DANNI/Emissioni/Gestione provvisoria nuovo front end Unico.json
- [FILE] Moduli/DANNI/Emissioni/Globale Casa 2019 - I-ACAD.json
- [FILE] Moduli/DANNI/Emissioni/Globale Casa 2019 - IDD - NFE.json
- [FILE] Moduli/DANNI/Emissioni/Globale Casa 2019.json
- [FILE] Moduli/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti.json
- [FILE] Moduli/DANNI/Emissioni/Prova.json
- [FILE] Moduli/DANNI/Emissioni/Telefono ed email - PN Vodafone.json
- [FILE] Moduli/DANNI/Emissioni/Valore Auto - FastMotor.json
- [FILE] Moduli/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE.json
- [FILE] Moduli/DANNI/Emissioni/Valore Auto - IDD - FastMotor.json
- [FILE] Moduli/DANNI/Emissioni/Valore Auto - NFE - FastMotor.json
- [FILE] Moduli/DANNI/Emissioni/Valore Auto.json
- [FILE] Moduli/DANNI/PostVendita/Consultazione Polizza RCA.json
- [FILE] Moduli/DANNI/PostVendita/Ristampa Documenti Danni.json
- [FILE] Moduli/DANNI/PostVendita/Servlet Stampe Firma Digitale.json
- [FILE] Moduli/DANNI/PostVendita/Variazione Quietanza.json
- [FILE] Moduli/de/ScintillaNET_FindReplaceDialog.resources.dll
- [FILE] Moduli/Debug/Bene.json
- [FILE] Moduli/DEMO/Bene.json
- [FILE] Moduli/DEMO/I-ACAD.json
- [FILE] Moduli/DEMO/i-acad_pdf_embed.json
- [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json
- [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json
- [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json
- [FILE] Moduli/Nuovi (As)/CBA - Riscatto Parziale (AS).json
- [FILE] Moduli/Nuovi (As)/DatiTecniciValoreAuto (AS).json
- [FILE] Moduli/Nuovi (As)/GIANOS - Persona Fisica (AS).json
- [FILE] Moduli/Nuovi (As)/Valore Auto (AS).json
- [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json
- [FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json
- [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json
- [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json
- [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json
- [FILE] Moduli/STAMPE/Ristampe.json
- [FILE] Moduli/TuoValore/HdiModulo_TuoVAlore.dll
- [FILE] Moduli/TuoValore/HdiModulo_TuoVAlore.pdb
- [FILE] Moduli/TuoValore/HdiModulo_TuoValore_Soggetto.dll
- [FILE] Moduli/TuoValore/HdiModulo_TuoValore_Soggetto.pdb
- [FILE] Moduli/TuoValore/libExcel.dll
- [FILE] Moduli/TuoValore/libExcel.pdb
- [FILE] Moduli/TuoValore/libParametri.dll
- [FILE] Moduli/TuoValore/libParametri.pdb
- [FILE] Moduli/TuoValore/libSelenium.dll
- [FILE] Moduli/TuoValore/libSelenium.pdb
- [FILE] Moduli/TuoValore/libUnico.dll
- [FILE] Moduli/TuoValore/libUnico.pdb
- [FILE] Moduli/TuoValore/Microsoft.Win32.Primitives.dll
- [FILE] Moduli/TuoValore/MySpreedLight.dll
- [FILE] Moduli/TuoValore/MySpreedLight.pdb
- [FILE] Moduli/TuoValore/netstandard.dll
- [FILE] Moduli/TuoValore/System.AppContext.dll
- [FILE] Moduli/TuoValore/System.Collections.Concurrent.dll
- [FILE] Moduli/TuoValore/System.Collections.dll
- [FILE] Moduli/TuoValore/System.Collections.NonGeneric.dll
- [FILE] Moduli/TuoValore/System.Collections.Specialized.dll
- [FILE] Moduli/TuoValore/System.ComponentModel.dll
- [FILE] Moduli/TuoValore/System.ComponentModel.EventBasedAsync.dll
- [FILE] Moduli/TuoValore/System.ComponentModel.Primitives.dll
- [FILE] Moduli/TuoValore/System.ComponentModel.TypeConverter.dll
- [FILE] Moduli/TuoValore/System.Console.dll
- [FILE] Moduli/TuoValore/System.Data.Common.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.Contracts.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.Debug.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.FileVersionInfo.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.Process.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.StackTrace.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.TextWriterTraceListener.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.Tools.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.TraceSource.dll
- [FILE] Moduli/TuoValore/System.Diagnostics.Tracing.dll
- [FILE] Moduli/TuoValore/System.Drawing.Primitives.dll
- [FILE] Moduli/TuoValore/System.Dynamic.Runtime.dll
- [FILE] Moduli/TuoValore/System.Globalization.Calendars.dll
- [FILE] Moduli/TuoValore/System.Globalization.dll
- [FILE] Moduli/TuoValore/System.Globalization.Extensions.dll
- [FILE] Moduli/TuoValore/System.IO.Compression.dll
- [FILE] Moduli/TuoValore/System.IO.Compression.ZipFile.dll
- [FILE] Moduli/TuoValore/System.IO.dll
- [FILE] Moduli/TuoValore/System.IO.FileSystem.dll
- [FILE] Moduli/TuoValore/System.IO.FileSystem.DriveInfo.dll
- [FILE] Moduli/TuoValore/System.IO.FileSystem.Primitives.dll
- [FILE] Moduli/TuoValore/System.IO.FileSystem.Watcher.dll
- [FILE] Moduli/TuoValore/System.IO.IsolatedStorage.dll
- [FILE] Moduli/TuoValore/System.IO.MemoryMappedFiles.dll
- [FILE] Moduli/TuoValore/System.IO.Pipes.dll
- [FILE] Moduli/TuoValore/System.IO.UnmanagedMemoryStream.dll
- [FILE] Moduli/TuoValore/System.Linq.dll
- [FILE] Moduli/TuoValore/System.Linq.Expressions.dll
- [FILE] Moduli/TuoValore/System.Linq.Parallel.dll
- [FILE] Moduli/TuoValore/System.Linq.Queryable.dll
- [FILE] Moduli/TuoValore/System.Net.Http.dll
- [FILE] Moduli/TuoValore/System.Net.NameResolution.dll
- [FILE] Moduli/TuoValore/System.Net.NetworkInformation.dll
- [FILE] Moduli/TuoValore/System.Net.Ping.dll
- [FILE] Moduli/TuoValore/System.Net.Primitives.dll
- [FILE] Moduli/TuoValore/System.Net.Requests.dll
- [FILE] Moduli/TuoValore/System.Net.Security.dll
- [FILE] Moduli/TuoValore/System.Net.Sockets.dll
- [FILE] Moduli/TuoValore/System.Net.WebHeaderCollection.dll
- [FILE] Moduli/TuoValore/System.Net.WebSockets.Client.dll
- [FILE] Moduli/TuoValore/System.Net.WebSockets.dll
- [FILE] Moduli/TuoValore/System.ObjectModel.dll
- [FILE] Moduli/TuoValore/System.Reflection.dll
- [FILE] Moduli/TuoValore/System.Reflection.Extensions.dll
- [FILE] Moduli/TuoValore/System.Reflection.Primitives.dll
- [FILE] Moduli/TuoValore/System.Resources.Reader.dll
- [FILE] Moduli/TuoValore/System.Resources.ResourceManager.dll
- [FILE] Moduli/TuoValore/System.Resources.Writer.dll
- [FILE] Moduli/TuoValore/System.Runtime.CompilerServices.VisualC.dll
- [FILE] Moduli/TuoValore/System.Runtime.dll
- [FILE] Moduli/TuoValore/System.Runtime.Extensions.dll
- [FILE] Moduli/TuoValore/System.Runtime.Handles.dll
- [FILE] Moduli/TuoValore/System.Runtime.InteropServices.dll
- [FILE] Moduli/TuoValore/System.Runtime.InteropServices.RuntimeInformation.dll
- [FILE] Moduli/TuoValore/System.Runtime.Numerics.dll
- [FILE] Moduli/TuoValore/System.Runtime.Serialization.Formatters.dll
- [FILE] Moduli/TuoValore/System.Runtime.Serialization.Json.dll
- [FILE] Moduli/TuoValore/System.Runtime.Serialization.Primitives.dll
- [FILE] Moduli/TuoValore/System.Runtime.Serialization.Xml.dll
- [FILE] Moduli/TuoValore/System.Security.Claims.dll
- [FILE] Moduli/TuoValore/System.Security.Cryptography.Algorithms.dll
- [FILE] Moduli/TuoValore/System.Security.Cryptography.Csp.dll
- [FILE] Moduli/TuoValore/System.Security.Cryptography.Encoding.dll
- [FILE] Moduli/TuoValore/System.Security.Cryptography.Primitives.dll
- [FILE] Moduli/TuoValore/System.Security.Cryptography.X509Certificates.dll
- [FILE] Moduli/TuoValore/System.Security.Principal.dll
- [FILE] Moduli/TuoValore/System.Security.SecureString.dll
- [FILE] Moduli/TuoValore/System.Text.Encoding.dll
- [FILE] Moduli/TuoValore/System.Text.Encoding.Extensions.dll
- [FILE] Moduli/TuoValore/System.Text.RegularExpressions.dll
- [FILE] Moduli/TuoValore/System.Threading.dll
- [FILE] Moduli/TuoValore/System.Threading.Overlapped.dll
- [FILE] Moduli/TuoValore/System.Threading.Tasks.dll
- [FILE] Moduli/TuoValore/System.Threading.Tasks.Parallel.dll
- [FILE] Moduli/TuoValore/System.Threading.Thread.dll
- [FILE] Moduli/TuoValore/System.Threading.ThreadPool.dll
- [FILE] Moduli/TuoValore/System.Threading.Timer.dll
- [FILE] Moduli/TuoValore/System.ValueTuple.dll
- [FILE] Moduli/TuoValore/System.Xml.ReaderWriter.dll
- [FILE] Moduli/TuoValore/System.Xml.XDocument.dll
- [FILE] Moduli/TuoValore/System.Xml.XmlDocument.dll
- [FILE] Moduli/TuoValore/System.Xml.XmlSerializer.dll
- [FILE] Moduli/TuoValore/System.Xml.XPath.dll
- [FILE] Moduli/TuoValore/System.Xml.XPath.XDocument.dll
- [FILE] Moduli/TuoValore/WebDriver.dll
- [FILE] Moduli/TuoValore/WebDriver.Support.dll
- [FILE] Moduli/TuoValore/WebDriver.Support.xml
- [FILE] Moduli/TuoValore/WebDriver.xml
- [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA.json
- [FILE] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA.json
- [FILE] Moduli/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA.json
- [FILE] Moduli/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA.json
- [FILE] Moduli/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast.json
- [FILE] Moduli/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast.json
- [FILE] Moduli/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA.json
- [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa.json
- [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.json
- [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa.json
- [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.json
- [FILE] Moduli/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD.json
- [FILE] Moduli/UNICO/DANNI/EMISSIONI/Valore Auto.json
- [FILE] Moduli/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto.json
- [FILE] Moduli/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova.json
- [FILE] Moduli/VITA/Cambio Contraenza.json
- [FILE] Moduli/VITA/CBA Moneta a Premi Periodici.json
- [FILE] Moduli/VITA/CBA Valore Capitale.json
- [FILE] Moduli/VITA/CBA Valore Cedola.json
- [FILE] Moduli/VITA/CBA Valore Cedola_new.json
- [FILE] Moduli/VITA/FACTA Persona Fisica.json
- [FILE] Moduli/VITA/FACTA Persona Giuridica.json
- [FILE] Moduli/VITA/GIANOS Persona Fisica.json
- [FILE] Moduli/VITA/GIANOS Persona Giuridica.json
- [FILE] Moduli/VITA/HAWK Persona Fisica.json
- [FILE] Moduli/VITA/Versamento Aggiuntivo.json
- [FILE] Moduli/VITA/Emissioni CBA/CBA Moneta a Premi Periodici.json
- [FILE] Moduli/VITA/Emissioni CBA/CBA Sostegno Finanziamento PA TF-577.json
- [FILE] Moduli/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF - IDD.json
- [FILE] Moduli/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF.json
- [FILE] Moduli/VITA/Emissioni HDI/F95 - Obiettivo Crescita Agenzia.json
- [FILE] Moduli/VITA/Emissioni HDI/F95 - Obiettivo Crescita Direzione - IDD.json
- [FILE] Moduli/VITA/PostVendita/Riscatto Totale Garanzia - NFE.json
- [FILE] Moduli/VITA/PostVendita/Scelta Opzione Scadenza.json
- [FILE] Moduli/VITA/PostVendita/Versamento Aggiuntivo.json
- [FILE] Moduli/x64/leptonica-1.82.0.dll
- [FILE] Moduli/x64/Lexilla.dll
- [FILE] Moduli/x64/Scintilla.dll
- [FILE] Moduli/x64/SQLite.Interop.dll
- [FILE] Moduli/x64/tesseract50.dll
- [FILE] Moduli/x86/leptonica-1.82.0.dll
- [FILE] Moduli/x86/Lexilla.dll
- [FILE] Moduli/x86/Scintilla.dll
- [FILE] Moduli/x86/SQLite.Interop.dll
- [FILE] Moduli/x86/tesseract50.dll
-
+[DIR] Moduli/ANAGRAFICA , [DIR] Moduli/Cedole , [DIR] Moduli/CONTROLLI CONTABILI , [DIR] Moduli/DANNI , [DIR] Moduli/de , [DIR] Moduli/Debug , [DIR] Moduli/DEMO , [DIR] Moduli/ELABORAZIONI_VARIE
+[DIR] Moduli/MODULI COMUNI , [DIR] Moduli/Nuova cartella , [DIR] Moduli/Nuovi (As) , [DIR] Moduli/SCENARI COMUNI , [DIR] Moduli/STAMPE , [DIR] Moduli/TuoValore , [DIR] Moduli/UEFA
+[DIR] Moduli/UNICO , [DIR] Moduli/VITA , [DIR] Moduli/x64 , [DIR] Moduli/x86 , [DIR] Moduli/CONTROLLI CONTABILI/Incassi , [DIR] Moduli/DANNI/Emissioni , [DIR] Moduli/DANNI/PostVendita
+[DIR] Moduli/MODULI COMUNI/DANNI , [DIR] Moduli/UEFA/ANAGRAFICA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI , [DIR] Moduli/UEFA/DANNI , [DIR] Moduli/UEFA/VITA
+[DIR] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Moduli/UEFA/DANNI/EMISSIONI , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST , [DIR] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA
+[DIR] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Moduli/UEFA/VITA/EMISSIONI , [DIR] Moduli/UEFA/VITA/EMISSIONI/HDI , [DIR] Moduli/UNICO/DANNI , [DIR] Moduli/UNICO/VITA
+[DIR] Moduli/UNICO/DANNI/EMISSIONI , [DIR] Moduli/UNICO/DANNI/POSTVENDITA , [DIR] Moduli/UNICO/VITA/EMISSIONI , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA , [DIR] Moduli/VITA/Emissioni CBA
+[DIR] Moduli/VITA/Emissioni HDI , [DIR] Moduli/VITA/PostVendita
+I file presenti nella cartella Moduli e sottocartelle sono : 
+[FILE] Moduli/.gitkeep , [FILE] Moduli/ambientedisviluppo.json , [FILE] Moduli/ambientedisviluppo2.json , [FILE] Moduli/Appium.Net.dll , [FILE] Moduli/Appium.Net.xml
+[FILE] Moduli/Assicredit Extra Long.json , [FILE] Moduli/Assicredit Medium.json , [FILE] Moduli/assimoco - claims grezzo.json , [FILE] Moduli/assimoco-grezzo.json
+[FILE] Moduli/AssimocoAutomatico.json , [FILE] Moduli/Autorizza Riscatto.json , [FILE] Moduli/BouncyCastle.Crypto.dll , [FILE] Moduli/BouncyCastle.Crypto.xml , [FILE] Moduli/BrotliSharpLib.dll
+[FILE] Moduli/BrotliSharpLib.xml , [FILE] Moduli/BrowserExtension.dll , [FILE] Moduli/BrowserExtension.dll.config , [FILE] Moduli/BrowserExtension.pdb , [FILE] Moduli/campus.json
+[FILE] Moduli/capitale.json , [FILE] Moduli/capitaleTop.json , [FILE] Moduli/casitest.json , [FILE] Moduli/Castle.Core.dll , [FILE] Moduli/Castle.Core.xml
+[FILE] Moduli/CBA - Riscatto Totale (AS).json , [FILE] Moduli/CBA Moneta Riscatto Parziale.json , [FILE] Moduli/CBA Moneta Riscatto Totale.json , [FILE] Moduli/CBA Moneta.json
+[FILE] Moduli/Cba valore Capital.json , [FILE] Moduli/cedola.json , [FILE] Moduli/cicli.json , [FILE] Moduli/Common.Logging.Core.dll , [FILE] Moduli/Common.Logging.Core.pdb
+[FILE] Moduli/Common.Logging.Core.xml , [FILE] Moduli/Common.Logging.dll , [FILE] Moduli/Common.Logging.pdb , [FILE] Moduli/Common.Logging.xml , [FILE] Moduli/Conferma Riscatto-old.json
+[FILE] Moduli/Conferma Riscatto.json , [FILE] Moduli/Conferma scadenze.json , [FILE] Moduli/confermariscattoinit.txt , [FILE] Moduli/connessione pagina demo.json , [FILE] Moduli/CsvHelper.dll
+[FILE] Moduli/CsvHelper.xml , [FILE] Moduli/dafare.txt , [FILE] Moduli/Dati Tecnici Valore Auto.json , [FILE] Moduli/DatiTecniciValoreAuto - NFE.json , [FILE] Moduli/debug.json
+[FILE] Moduli/debug_mhtml.json , [FILE] Moduli/demo-stampapdf.json , [FILE] Moduli/demo.json , [FILE] Moduli/demoAssimoco.json , [FILE] Moduli/demoIabat.json , [FILE] Moduli/demoi_acad.json
+[FILE] Moduli/DocumentFormat.OpenXml.dll , [FILE] Moduli/DocumentFormat.OpenXml.xml , [FILE] Moduli/DynamicExpresso.Core.dll , [FILE] Moduli/embed pd.json
+[FILE] Moduli/estinzione polizza - Collaudo.json , [FILE] Moduli/estinzione polizza - Collaudo.mask , [FILE] Moduli/estinzione polizza - Collaudo.xlsx
+[FILE] Moduli/estinzione polizza - Copia.json , [FILE] Moduli/estinzione polizza.json , [FILE] Moduli/estinzione polizze cumulative - collaudo.json
+[FILE] Moduli/estinzione polizze cumulative SELLA parziali - Collaudo.json , [FILE] Moduli/Estinzioni totali finanziara - Collaudo.json , [FILE] Moduli/EventViewer.dll
+[FILE] Moduli/EventViewer.pdb , [FILE] Moduli/ExcelDataReader.DataSet.dll , [FILE] Moduli/ExcelDataReader.DataSet.pdb , [FILE] Moduli/ExcelDataReader.DataSet.xml , [FILE] Moduli/ExcelDataReader.dll
+[FILE] Moduli/ExcelDataReader.pdb , [FILE] Moduli/ExcelDataReader.xml , [FILE] Moduli/FastMotor.json , [FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/FineAutorizzaCedole.dll
+[FILE] Moduli/FineAutorizzaCedole.dll.config , [FILE] Moduli/FineAutorizzaCedole.pdb , [FILE] Moduli/FineConfermaRiscatto.dll , [FILE] Moduli/FineConfermaRiscatto.dll.config
+[FILE] Moduli/FineConfermaRiscatto.pdb , [FILE] Moduli/FineRobotConferme.dll , [FILE] Moduli/FineRobotConferme.dll.config , [FILE] Moduli/FineRobotConferme.pdb
+[FILE] Moduli/flow_auto garanzie accessorie cristalli.json , [FILE] Moduli/garmin.json , [FILE] Moduli/garmin2.json , [FILE] Moduli/GenericParsing.dll , [FILE] Moduli/GenericParsing.xml
+[FILE] Moduli/GIANOS Persona Fisica.json , [FILE] Moduli/gino.json , [FILE] Moduli/github.json , [FILE] Moduli/già.json , [FILE] Moduli/Google.Protobuf.dll , [FILE] Moduli/Google.Protobuf.xml
+[FILE] Moduli/hdi-stampa quietanze.json , [FILE] Moduli/hdiassicurazioni.json , [FILE] Moduli/HdiModulo_CBAValoreVitaEnd.dll , [FILE] Moduli/HdiModulo_CBAValoreVitaEnd.pdb
+[FILE] Moduli/HdiModulo_FatcaGiuridico.dll , [FILE] Moduli/HdiModulo_FatcaGiuridico.pdb , [FILE] Moduli/HdiMOdulo_Gianos.dll , [FILE] Moduli/HdiMOdulo_Gianos.pdb , [FILE] Moduli/HdiModulo_Login.dll
+[FILE] Moduli/HdiModulo_Login.pdb , [FILE] Moduli/HdiModulo_RicercaSoggetto.dll , [FILE] Moduli/HdiModulo_RicercaSoggetto.pdb , [FILE] Moduli/HdiModulo_VitaDatiTecnici.dll
+[FILE] Moduli/HdiModulo_VitaDatiTecnici.pdb , [FILE] Moduli/HdiModulo_Vita_NuovaProposta_Prodotto.dll , [FILE] Moduli/HdiModulo_Vita_NuovaProposta_Prodotto.pdb , [FILE] Moduli/HtmlAgilityPack.dll
+[FILE] Moduli/HtmlAgilityPack.pdb , [FILE] Moduli/HtmlAgilityPack.xml , [FILE] Moduli/IBM.Data.DB2.dll , [FILE] Moduli/im.json , [FILE] Moduli/inserimento anagrafica fisico.json
+[FILE] Moduli/itext.commons.dll , [FILE] Moduli/itext.commons.xml , [FILE] Moduli/itext.io.dll , [FILE] Moduli/itext.io.xml , [FILE] Moduli/itext.kernel.dll , [FILE] Moduli/itext.kernel.xml
+[FILE] Moduli/I_ABAT.dll , [FILE] Moduli/I_ABAT.dll.config , [FILE] Moduli/I_ABAT.pdb , [FILE] Moduli/JsonTreeViewDotnet.dll , [FILE] Moduli/JsonTreeViewDotnet.pdb
+[FILE] Moduli/K4os.Compression.LZ4.dll , [FILE] Moduli/K4os.Compression.LZ4.Streams.dll , [FILE] Moduli/K4os.Compression.LZ4.Streams.xml , [FILE] Moduli/K4os.Compression.LZ4.xml
+[FILE] Moduli/K4os.Hash.xxHash.dll , [FILE] Moduli/K4os.Hash.xxHash.xml , [FILE] Moduli/libA.dll , [FILE] Moduli/libA.dll.config , [FILE] Moduli/libA.pdb , [FILE] Moduli/libAssimoco.dll
+[FILE] Moduli/libAssimoco.pdb , [FILE] Moduli/LibAzioniSpeciali.dll , [FILE] Moduli/LibAzioniSpeciali.dll.config , [FILE] Moduli/LibAzioniSpeciali.pdb , [FILE] Moduli/libBrowser.dll
+[FILE] Moduli/libBrowser.pdb , [FILE] Moduli/LibBrowserNet.dll , [FILE] Moduli/LibBrowserNet.dll.config , [FILE] Moduli/LibBrowserNet.pdb , [FILE] Moduli/LibDatabase.dll
+[FILE] Moduli/LibDatabase.dll.config , [FILE] Moduli/LibDatabase.pdb , [FILE] Moduli/LIbDebug.dll , [FILE] Moduli/LIbDebug.dll.config , [FILE] Moduli/LIbDebug.pdb , [FILE] Moduli/LibEstensioni.dll
+[FILE] Moduli/LibEstensioni.pdb , [FILE] Moduli/libExcel.dll , [FILE] Moduli/libExcel.pdb , [FILE] Moduli/libFatca.dll , [FILE] Moduli/libFatca.dll.config , [FILE] Moduli/libFatca.pdb
+[FILE] Moduli/LibFonteDati.dll , [FILE] Moduli/LibFonteDati.dll.config , [FILE] Moduli/LibFonteDati.pdb , [FILE] Moduli/LibGianos.dll , [FILE] Moduli/LibGianos.dll.config
+[FILE] Moduli/LibGianos.pdb , [FILE] Moduli/LibHtml.dll , [FILE] Moduli/LibHtml.dll.config , [FILE] Moduli/LibHtml.pdb , [FILE] Moduli/LibI-Acad.dll , [FILE] Moduli/LibI-Acad.dll.config
+[FILE] Moduli/LibI-Acad.pdb , [FILE] Moduli/LibLinguaggio.dll , [FILE] Moduli/LibLinguaggio.pdb , [FILE] Moduli/LibMessaggi.dll , [FILE] Moduli/LibMessaggi.pdb , [FILE] Moduli/libParametri.dll
+[FILE] Moduli/libParametri.dll.config , [FILE] Moduli/libParametri.pdb , [FILE] Moduli/LibPdf.dll , [FILE] Moduli/LibPdf.dll.config , [FILE] Moduli/LibPdf.pdb , [FILE] Moduli/LibPortal.dll
+[FILE] Moduli/LibPortal.dll.config , [FILE] Moduli/LibPortal.pdb , [FILE] Moduli/libRepository.dll , [FILE] Moduli/libRepository.dll.config , [FILE] Moduli/libRepository.pdb
+[FILE] Moduli/libScenari.dll , [FILE] Moduli/libScenari.dll.config , [FILE] Moduli/libScenari.pdb , [FILE] Moduli/Libselenium.dll , [FILE] Moduli/Libselenium.dll.config
+[FILE] Moduli/Libselenium.pdb , [FILE] Moduli/LibService.dll , [FILE] Moduli/LibService.pdb , [FILE] Moduli/libTools.dll , [FILE] Moduli/libTools.dll.config , [FILE] Moduli/libTools.pdb
+[FILE] Moduli/libUnico.dll , [FILE] Moduli/libUnico.dll.config , [FILE] Moduli/libUnico.pdb , [FILE] Moduli/LibXlayer.dll , [FILE] Moduli/LibXlayer.dll.config , [FILE] Moduli/LibXlayer.pdb
+[FILE] Moduli/Liquidazione Cedola (autorizza).json , [FILE] Moduli/Liquidazione Cedola - Conferma.json , [FILE] Moduli/Liquidazione Cedola2.json , [FILE] Moduli/Login-Vita.json
+[FILE] Moduli/Login.json , [FILE] Moduli/loginflow.json , [FILE] Moduli/loginHdi.json , [FILE] Moduli/mdbgext.dll , [FILE] Moduli/mdbgext.pdb , [FILE] Moduli/menu pass.json
+[FILE] Moduli/MessagingToolkit.QRCode.dll , [FILE] Moduli/Microsoft.Bcl.AsyncInterfaces.dll , [FILE] Moduli/Microsoft.Bcl.AsyncInterfaces.xml , [FILE] Moduli/Microsoft.Bcl.HashCode.dll
+[FILE] Moduli/Microsoft.Bcl.HashCode.xml , [FILE] Moduli/Microsoft.Edge.SeleniumTools.dll , [FILE] Moduli/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[FILE] Moduli/Microsoft.Extensions.DependencyInjection.Abstractions.xml , [FILE] Moduli/Microsoft.Extensions.DependencyInjection.dll , [FILE] Moduli/Microsoft.Extensions.DependencyInjection.xml
+[FILE] Moduli/Microsoft.Extensions.Logging.Abstractions.dll , [FILE] Moduli/Microsoft.Extensions.Logging.Abstractions.xml , [FILE] Moduli/Microsoft.Extensions.Logging.dll
+[FILE] Moduli/Microsoft.Extensions.Logging.xml , [FILE] Moduli/Microsoft.Extensions.Options.dll , [FILE] Moduli/Microsoft.Extensions.Options.xml , [FILE] Moduli/Microsoft.Extensions.Primitives.dll
+[FILE] Moduli/Microsoft.Extensions.Primitives.xml , [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.dll , [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.NativeApi.dll
+[FILE] Moduli/Microsoft.Samples.Debugging.CorApi.NativeApi.pdb , [FILE] Moduli/Microsoft.Samples.Debugging.CorApi.pdb , [FILE] Moduli/Microsoft.Samples.Debugging.MdbgEngine.dll
+[FILE] Moduli/Microsoft.Samples.Debugging.MdbgEngine.pdb , [FILE] Moduli/Microsoft.Samples.Debugging.Native.dll , [FILE] Moduli/Microsoft.Samples.Debugging.Native.pdb
+[FILE] Moduli/Microsoft.SqlServer.Management.SqlParser.dll , [FILE] Moduli/Microsoft.SqlServer.Management.SqlParser.pdb , [FILE] Moduli/Microsoft.SqlServer.Management.SqlParser.xml
+[FILE] Moduli/Microsoft.Win32.Primitives.dll , [FILE] Moduli/mockdettaglio.json , [FILE] Moduli/Moneta.json , [FILE] Moduli/monitor.json , [FILE] Moduli/MySpreedLight.dll
+[FILE] Moduli/MySpreedLight.pdb , [FILE] Moduli/MySql.Data.dll , [FILE] Moduli/MySql.Data.xml , [FILE] Moduli/netstandard.dll , [FILE] Moduli/Newtonsoft.Json.dll , [FILE] Moduli/Newtonsoft.Json.xml
+[FILE] Moduli/Oracle.ManagedDataAccess.dll , [FILE] Moduli/OrangeHrm.json , [FILE] Moduli/OS2.json , [FILE] Moduli/Outllok.json , [FILE] Moduli/outllok2.json , [FILE] Moduli/passinsurance.json
+[FILE] Moduli/PDFiumSharp.dll , [FILE] Moduli/PDFiumSharp.xml , [FILE] Moduli/pdfium_x64.dll , [FILE] Moduli/pdfium_x86.dll , [FILE] Moduli/PDF_Compare.dll , [FILE] Moduli/PDF_Compare.dll.config
+[FILE] Moduli/PDF_Compare.pdb , [FILE] Moduli/PDF_Value.dll , [FILE] Moduli/PDF_Value.dll.config , [FILE] Moduli/PDF_Value.pdb , [FILE] Moduli/PersonaFisica.json , [FILE] Moduli/pippo.json
+[FILE] Moduli/PortafoglioIDD (FrontEnd).json , [FILE] Moduli/PortafoglioIDD - FastMotor - NFE.json , [FILE] Moduli/PortafoglioIDD - NFE.json , [FILE] Moduli/PortafoglioIDD.json
+[FILE] Moduli/portal.json , [FILE] Moduli/PreparaAutorizzaCedole.dll , [FILE] Moduli/PreparaAutorizzaCedole.dll.config , [FILE] Moduli/PreparaAutorizzaCedole.pdb
+[FILE] Moduli/PreparaAutorizzaRiscatto.dll , [FILE] Moduli/PreparaAutorizzaRiscatto.dll.config , [FILE] Moduli/PreparaAutorizzaRiscatto.pdb
+[FILE] Moduli/Produzione 30V Mutuo Protetto Special.json , [FILE] Moduli/Produzione 88E Protezione Web Assimoco.json , [FILE] Moduli/Produzione Apertura Claims Aw.json
+[FILE] Moduli/produzione auto emissione flow.json , [FILE] Moduli/Produzione Emissione Autocarro.json , [FILE] Moduli/produzione inqury bridge re..json
+[FILE] Moduli/produzione inqury bridge tcm.json , [FILE] Moduli/produzione inqury bridge.json , [FILE] Moduli/Produzione Rate Protette Fisico.json , [FILE] Moduli/produzione.json
+[FILE] Moduli/progetto1.json , [FILE] Moduli/PromptCopilot.txt , [FILE] Moduli/prova.json , [FILE] Moduli/prova2.json , [FILE] Moduli/Questionario Fatca Persona Fisica.json
+[FILE] Moduli/raffa.json , [FILE] Moduli/Rate Protette Medium.json , [FILE] Moduli/Renci.SshNet.dll , [FILE] Moduli/Renci.SshNet.xml , [FILE] Moduli/Ristampa Polizza Auto HDI.json
+[FILE] Moduli/RistampaPolizza.json , [FILE] Moduli/robottini-Scadenze.json , [FILE] Moduli/sara.json , [FILE] Moduli/saucedemo.json , [FILE] Moduli/scenario di prova.json
+[FILE] Moduli/ScintelliC.dll , [FILE] Moduli/ScintelliC.pdb , [FILE] Moduli/ScintelliC.xml , [FILE] Moduli/ScintelliVB.dll , [FILE] Moduli/ScintelliVB.pdb , [FILE] Moduli/ScintelliVB.xml
+[FILE] Moduli/Scintilla.NET.dll , [FILE] Moduli/ScintillaNET.dll , [FILE] Moduli/ScintillaNET.xml , [FILE] Moduli/ScintillaNET_FindReplaceDialog.dll , [FILE] Moduli/SeleniumExtras.PageObjects.dll
+[FILE] Moduli/SeleniumExtras.WaitHelpers.dll , [FILE] Moduli/SELLA - estinzioni parziali.json , [FILE] Moduli/soggettofisico.json , [FILE] Moduli/soggettofisico2.json
+[FILE] Moduli/soggettogiuridico.json , [FILE] Moduli/stampa.json , [FILE] Moduli/start.json , [FILE] Moduli/storno polizza.json , [FILE] Moduli/strava.json , [FILE] Moduli/System.AppContext.dll
+[FILE] Moduli/System.Buffers.dll , [FILE] Moduli/System.Buffers.xml , [FILE] Moduli/System.Collections.Concurrent.dll , [FILE] Moduli/System.Collections.dll
+[FILE] Moduli/System.Collections.NonGeneric.dll , [FILE] Moduli/System.Collections.Specialized.dll , [FILE] Moduli/System.ComponentModel.dll
+[FILE] Moduli/System.ComponentModel.EventBasedAsync.dll , [FILE] Moduli/System.ComponentModel.Primitives.dll , [FILE] Moduli/System.ComponentModel.TypeConverter.dll
+[FILE] Moduli/System.Console.dll , [FILE] Moduli/System.Data.Common.dll , [FILE] Moduli/System.Data.SQLite.dll , [FILE] Moduli/System.Data.SQLite.xml
+[FILE] Moduli/System.Diagnostics.Contracts.dll , [FILE] Moduli/System.Diagnostics.Debug.dll , [FILE] Moduli/System.Diagnostics.DiagnosticSource.dll
+[FILE] Moduli/System.Diagnostics.DiagnosticSource.xml , [FILE] Moduli/System.Diagnostics.FileVersionInfo.dll , [FILE] Moduli/System.Diagnostics.Process.dll
+[FILE] Moduli/System.Diagnostics.StackTrace.dll , [FILE] Moduli/System.Diagnostics.TextWriterTraceListener.dll , [FILE] Moduli/System.Diagnostics.Tools.dll
+[FILE] Moduli/System.Diagnostics.TraceSource.dll , [FILE] Moduli/System.Diagnostics.Tracing.dll , [FILE] Moduli/System.Drawing.Common.dll , [FILE] Moduli/System.Drawing.Primitives.dll
+[FILE] Moduli/System.Dynamic.Runtime.dll , [FILE] Moduli/System.Globalization.Calendars.dll , [FILE] Moduli/System.Globalization.dll , [FILE] Moduli/System.Globalization.Extensions.dll
+[FILE] Moduli/System.IO.Compression.dll , [FILE] Moduli/System.IO.Compression.ZipFile.dll , [FILE] Moduli/System.IO.dll , [FILE] Moduli/System.IO.FileSystem.dll
+[FILE] Moduli/System.IO.FileSystem.DriveInfo.dll , [FILE] Moduli/System.IO.FileSystem.Primitives.dll , [FILE] Moduli/System.IO.FileSystem.Watcher.dll , [FILE] Moduli/System.IO.IsolatedStorage.dll
+[FILE] Moduli/System.IO.MemoryMappedFiles.dll , [FILE] Moduli/System.IO.Pipelines.dll , [FILE] Moduli/System.IO.Pipelines.xml , [FILE] Moduli/System.IO.Pipes.dll
+[FILE] Moduli/System.IO.UnmanagedMemoryStream.dll , [FILE] Moduli/System.Linq.dll , [FILE] Moduli/System.Linq.Expressions.dll , [FILE] Moduli/System.Linq.Parallel.dll
+[FILE] Moduli/System.Linq.Queryable.dll , [FILE] Moduli/System.Memory.dll , [FILE] Moduli/System.Memory.xml , [FILE] Moduli/System.Net.Http.dll , [FILE] Moduli/System.Net.NameResolution.dll
+[FILE] Moduli/System.Net.NetworkInformation.dll , [FILE] Moduli/System.Net.Ping.dll , [FILE] Moduli/System.Net.Primitives.dll , [FILE] Moduli/System.Net.Requests.dll
+[FILE] Moduli/System.Net.Security.dll , [FILE] Moduli/System.Net.Sockets.dll , [FILE] Moduli/System.Net.WebHeaderCollection.dll , [FILE] Moduli/System.Net.WebSockets.Client.dll
+[FILE] Moduli/System.Net.WebSockets.dll , [FILE] Moduli/System.Numerics.Vectors.dll , [FILE] Moduli/System.Numerics.Vectors.xml , [FILE] Moduli/System.ObjectModel.dll
+[FILE] Moduli/System.Reflection.dll , [FILE] Moduli/System.Reflection.Extensions.dll , [FILE] Moduli/System.Reflection.Primitives.dll , [FILE] Moduli/System.Resources.Reader.dll
+[FILE] Moduli/System.Resources.ResourceManager.dll , [FILE] Moduli/System.Resources.Writer.dll , [FILE] Moduli/System.Runtime.CompilerServices.Unsafe.dll
+[FILE] Moduli/System.Runtime.CompilerServices.Unsafe.xml , [FILE] Moduli/System.Runtime.CompilerServices.VisualC.dll , [FILE] Moduli/System.Runtime.dll , [FILE] Moduli/System.Runtime.Extensions.dll
+[FILE] Moduli/System.Runtime.Handles.dll , [FILE] Moduli/System.Runtime.InteropServices.dll , [FILE] Moduli/System.Runtime.InteropServices.RuntimeInformation.dll
+[FILE] Moduli/System.Runtime.Numerics.dll , [FILE] Moduli/System.Runtime.Serialization.Formatters.dll , [FILE] Moduli/System.Runtime.Serialization.Json.dll
+[FILE] Moduli/System.Runtime.Serialization.Primitives.dll , [FILE] Moduli/System.Runtime.Serialization.Xml.dll , [FILE] Moduli/System.Security.Claims.dll
+[FILE] Moduli/System.Security.Cryptography.Algorithms.dll , [FILE] Moduli/System.Security.Cryptography.Csp.dll , [FILE] Moduli/System.Security.Cryptography.Encoding.dll
+[FILE] Moduli/System.Security.Cryptography.Primitives.dll , [FILE] Moduli/System.Security.Cryptography.X509Certificates.dll , [FILE] Moduli/System.Security.Principal.dll
+[FILE] Moduli/System.Security.SecureString.dll , [FILE] Moduli/System.Text.Encoding.dll , [FILE] Moduli/System.Text.Encoding.Extensions.dll , [FILE] Moduli/System.Text.Encodings.Web.dll
+[FILE] Moduli/System.Text.Encodings.Web.xml , [FILE] Moduli/System.Text.Json.dll , [FILE] Moduli/System.Text.Json.xml , [FILE] Moduli/System.Text.RegularExpressions.dll
+[FILE] Moduli/System.Threading.dll , [FILE] Moduli/System.Threading.Overlapped.dll , [FILE] Moduli/System.Threading.Tasks.dll , [FILE] Moduli/System.Threading.Tasks.Extensions.dll
+[FILE] Moduli/System.Threading.Tasks.Extensions.xml , [FILE] Moduli/System.Threading.Tasks.Parallel.dll , [FILE] Moduli/System.Threading.Thread.dll , [FILE] Moduli/System.Threading.ThreadPool.dll
+[FILE] Moduli/System.Threading.Timer.dll , [FILE] Moduli/System.ValueTuple.dll , [FILE] Moduli/System.ValueTuple.xml , [FILE] Moduli/System.Xml.ReaderWriter.dll
+[FILE] Moduli/System.Xml.XDocument.dll , [FILE] Moduli/System.Xml.XmlDocument.dll , [FILE] Moduli/System.Xml.XmlSerializer.dll , [FILE] Moduli/System.Xml.XPath.dll
+[FILE] Moduli/System.Xml.XPath.XDocument.dll , [FILE] Moduli/tecnici_capitale.json , [FILE] Moduli/tecnici_cedola.json , [FILE] Moduli/tecnici_moneta.json , [FILE] Moduli/temp.json
+[FILE] Moduli/Tesseract.dll , [FILE] Moduli/test assimoco.json , [FILE] Moduli/test.json , [FILE] Moduli/TestAlert.json , [FILE] Moduli/testandrea.json , [FILE] Moduli/testplugin.json
+[FILE] Moduli/testrecord.json , [FILE] Moduli/testrecord_1.json , [FILE] Moduli/Ubiety.Dns.Core.dll , [FILE] Moduli/valore auto.json , [FILE] Moduli/versamenti aggiuntivi premi periodici.json
+[FILE] Moduli/vuoto.json , [FILE] Moduli/WebDriver.dll , [FILE] Moduli/WebDriver.Support.dll , [FILE] Moduli/WebDriver.Support.xml , [FILE] Moduli/WebDriver.xml
+[FILE] Moduli/webserverinterno_demoricercaavanzata.json , [FILE] Moduli/WindowsInput.dll , [FILE] Moduli/WindowsInput.pdb , [FILE] Moduli/WindowsInput.xml , [FILE] Moduli/xlayer2.xlsx.json
+[FILE] Moduli/XlayerKo_Modulo.json , [FILE] Moduli/Xlayer_Modulo.json , [FILE] Moduli/xxx.json , [FILE] Moduli/yolo.json , [FILE] Moduli/Zstandard.Net.dll
+[FILE] Moduli/ANAGRAFICA/Soggetto Fisico.json , [FILE] Moduli/ANAGRAFICA/soggetto fisico2.json , [FILE] Moduli/Cedole/Liquidazione Cedola (autorizza).json
+[FILE] Moduli/Cedole/Liquidazione Cedola - PreVerifica.json , [FILE] Moduli/Cedole/Liquidazione Cedola.json
+[FILE] Moduli/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109.json , [FILE] Moduli/DANNI/Emissioni/C.A.R Merloni - IDD.json
+[FILE] Moduli/DANNI/Emissioni/C.A.R Merloni - TF-606.json , [FILE] Moduli/DANNI/Emissioni/DatiTecniciValoreAuto - FastMotor - NFE.json , [FILE] Moduli/DANNI/Emissioni/DatiTecniciValoreAuto.json
+[FILE] Moduli/DANNI/Emissioni/Gestione provvisoria nuovo front end Unico.json , [FILE] Moduli/DANNI/Emissioni/Globale Casa 2019 - I-ACAD.json
+[FILE] Moduli/DANNI/Emissioni/Globale Casa 2019 - IDD - NFE.json , [FILE] Moduli/DANNI/Emissioni/Globale Casa 2019.json , [FILE] Moduli/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti.json
+[FILE] Moduli/DANNI/Emissioni/Prova.json , [FILE] Moduli/DANNI/Emissioni/Telefono ed email - PN Vodafone.json , [FILE] Moduli/DANNI/Emissioni/Valore Auto - FastMotor.json
+[FILE] Moduli/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE.json , [FILE] Moduli/DANNI/Emissioni/Valore Auto - IDD - FastMotor.json
+[FILE] Moduli/DANNI/Emissioni/Valore Auto - NFE - FastMotor.json , [FILE] Moduli/DANNI/Emissioni/Valore Auto.json , [FILE] Moduli/DANNI/PostVendita/Consultazione Polizza RCA.json
+[FILE] Moduli/DANNI/PostVendita/Ristampa Documenti Danni.json , [FILE] Moduli/DANNI/PostVendita/Servlet Stampe Firma Digitale.json , [FILE] Moduli/DANNI/PostVendita/Variazione Quietanza.json
+[FILE] Moduli/de/ScintillaNET_FindReplaceDialog.resources.dll , [FILE] Moduli/Debug/Bene.json , [FILE] Moduli/DEMO/Bene.json , [FILE] Moduli/DEMO/I-ACAD.json
+[FILE] Moduli/DEMO/i-acad_pdf_embed.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json
+[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json , [FILE] Moduli/Nuovi (As)/CBA - Riscatto Parziale (AS).json , [FILE] Moduli/Nuovi (As)/DatiTecniciValoreAuto (AS).json
+[FILE] Moduli/Nuovi (As)/GIANOS - Persona Fisica (AS).json , [FILE] Moduli/Nuovi (As)/Valore Auto (AS).json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json
+[FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json
+[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json , [FILE] Moduli/STAMPE/Ristampe.json , [FILE] Moduli/TuoValore/HdiModulo_TuoVAlore.dll , [FILE] Moduli/TuoValore/HdiModulo_TuoVAlore.pdb
+[FILE] Moduli/TuoValore/HdiModulo_TuoValore_Soggetto.dll , [FILE] Moduli/TuoValore/HdiModulo_TuoValore_Soggetto.pdb , [FILE] Moduli/TuoValore/libExcel.dll , [FILE] Moduli/TuoValore/libExcel.pdb
+[FILE] Moduli/TuoValore/libParametri.dll , [FILE] Moduli/TuoValore/libParametri.pdb , [FILE] Moduli/TuoValore/libSelenium.dll , [FILE] Moduli/TuoValore/libSelenium.pdb
+[FILE] Moduli/TuoValore/libUnico.dll , [FILE] Moduli/TuoValore/libUnico.pdb , [FILE] Moduli/TuoValore/Microsoft.Win32.Primitives.dll , [FILE] Moduli/TuoValore/MySpreedLight.dll
+[FILE] Moduli/TuoValore/MySpreedLight.pdb , [FILE] Moduli/TuoValore/netstandard.dll , [FILE] Moduli/TuoValore/System.AppContext.dll , [FILE] Moduli/TuoValore/System.Collections.Concurrent.dll
+[FILE] Moduli/TuoValore/System.Collections.dll , [FILE] Moduli/TuoValore/System.Collections.NonGeneric.dll , [FILE] Moduli/TuoValore/System.Collections.Specialized.dll
+[FILE] Moduli/TuoValore/System.ComponentModel.dll , [FILE] Moduli/TuoValore/System.ComponentModel.EventBasedAsync.dll , [FILE] Moduli/TuoValore/System.ComponentModel.Primitives.dll
+[FILE] Moduli/TuoValore/System.ComponentModel.TypeConverter.dll , [FILE] Moduli/TuoValore/System.Console.dll , [FILE] Moduli/TuoValore/System.Data.Common.dll
+[FILE] Moduli/TuoValore/System.Diagnostics.Contracts.dll , [FILE] Moduli/TuoValore/System.Diagnostics.Debug.dll , [FILE] Moduli/TuoValore/System.Diagnostics.FileVersionInfo.dll
+[FILE] Moduli/TuoValore/System.Diagnostics.Process.dll , [FILE] Moduli/TuoValore/System.Diagnostics.StackTrace.dll , [FILE] Moduli/TuoValore/System.Diagnostics.TextWriterTraceListener.dll
+[FILE] Moduli/TuoValore/System.Diagnostics.Tools.dll , [FILE] Moduli/TuoValore/System.Diagnostics.TraceSource.dll , [FILE] Moduli/TuoValore/System.Diagnostics.Tracing.dll
+[FILE] Moduli/TuoValore/System.Drawing.Primitives.dll , [FILE] Moduli/TuoValore/System.Dynamic.Runtime.dll , [FILE] Moduli/TuoValore/System.Globalization.Calendars.dll
+[FILE] Moduli/TuoValore/System.Globalization.dll , [FILE] Moduli/TuoValore/System.Globalization.Extensions.dll , [FILE] Moduli/TuoValore/System.IO.Compression.dll
+[FILE] Moduli/TuoValore/System.IO.Compression.ZipFile.dll , [FILE] Moduli/TuoValore/System.IO.dll , [FILE] Moduli/TuoValore/System.IO.FileSystem.dll
+[FILE] Moduli/TuoValore/System.IO.FileSystem.DriveInfo.dll , [FILE] Moduli/TuoValore/System.IO.FileSystem.Primitives.dll , [FILE] Moduli/TuoValore/System.IO.FileSystem.Watcher.dll
+[FILE] Moduli/TuoValore/System.IO.IsolatedStorage.dll , [FILE] Moduli/TuoValore/System.IO.MemoryMappedFiles.dll , [FILE] Moduli/TuoValore/System.IO.Pipes.dll
+[FILE] Moduli/TuoValore/System.IO.UnmanagedMemoryStream.dll , [FILE] Moduli/TuoValore/System.Linq.dll , [FILE] Moduli/TuoValore/System.Linq.Expressions.dll
+[FILE] Moduli/TuoValore/System.Linq.Parallel.dll , [FILE] Moduli/TuoValore/System.Linq.Queryable.dll , [FILE] Moduli/TuoValore/System.Net.Http.dll
+[FILE] Moduli/TuoValore/System.Net.NameResolution.dll , [FILE] Moduli/TuoValore/System.Net.NetworkInformation.dll , [FILE] Moduli/TuoValore/System.Net.Ping.dll
+[FILE] Moduli/TuoValore/System.Net.Primitives.dll , [FILE] Moduli/TuoValore/System.Net.Requests.dll , [FILE] Moduli/TuoValore/System.Net.Security.dll
+[FILE] Moduli/TuoValore/System.Net.Sockets.dll , [FILE] Moduli/TuoValore/System.Net.WebHeaderCollection.dll , [FILE] Moduli/TuoValore/System.Net.WebSockets.Client.dll
+[FILE] Moduli/TuoValore/System.Net.WebSockets.dll , [FILE] Moduli/TuoValore/System.ObjectModel.dll , [FILE] Moduli/TuoValore/System.Reflection.dll
+[FILE] Moduli/TuoValore/System.Reflection.Extensions.dll , [FILE] Moduli/TuoValore/System.Reflection.Primitives.dll , [FILE] Moduli/TuoValore/System.Resources.Reader.dll
+[FILE] Moduli/TuoValore/System.Resources.ResourceManager.dll , [FILE] Moduli/TuoValore/System.Resources.Writer.dll , [FILE] Moduli/TuoValore/System.Runtime.CompilerServices.VisualC.dll
+[FILE] Moduli/TuoValore/System.Runtime.dll , [FILE] Moduli/TuoValore/System.Runtime.Extensions.dll , [FILE] Moduli/TuoValore/System.Runtime.Handles.dll
+[FILE] Moduli/TuoValore/System.Runtime.InteropServices.dll , [FILE] Moduli/TuoValore/System.Runtime.InteropServices.RuntimeInformation.dll , [FILE] Moduli/TuoValore/System.Runtime.Numerics.dll
+[FILE] Moduli/TuoValore/System.Runtime.Serialization.Formatters.dll , [FILE] Moduli/TuoValore/System.Runtime.Serialization.Json.dll
+[FILE] Moduli/TuoValore/System.Runtime.Serialization.Primitives.dll , [FILE] Moduli/TuoValore/System.Runtime.Serialization.Xml.dll , [FILE] Moduli/TuoValore/System.Security.Claims.dll
+[FILE] Moduli/TuoValore/System.Security.Cryptography.Algorithms.dll , [FILE] Moduli/TuoValore/System.Security.Cryptography.Csp.dll
+[FILE] Moduli/TuoValore/System.Security.Cryptography.Encoding.dll , [FILE] Moduli/TuoValore/System.Security.Cryptography.Primitives.dll
+[FILE] Moduli/TuoValore/System.Security.Cryptography.X509Certificates.dll , [FILE] Moduli/TuoValore/System.Security.Principal.dll , [FILE] Moduli/TuoValore/System.Security.SecureString.dll
+[FILE] Moduli/TuoValore/System.Text.Encoding.dll , [FILE] Moduli/TuoValore/System.Text.Encoding.Extensions.dll , [FILE] Moduli/TuoValore/System.Text.RegularExpressions.dll
+[FILE] Moduli/TuoValore/System.Threading.dll , [FILE] Moduli/TuoValore/System.Threading.Overlapped.dll , [FILE] Moduli/TuoValore/System.Threading.Tasks.dll
+[FILE] Moduli/TuoValore/System.Threading.Tasks.Parallel.dll , [FILE] Moduli/TuoValore/System.Threading.Thread.dll , [FILE] Moduli/TuoValore/System.Threading.ThreadPool.dll
+[FILE] Moduli/TuoValore/System.Threading.Timer.dll , [FILE] Moduli/TuoValore/System.ValueTuple.dll , [FILE] Moduli/TuoValore/System.Xml.ReaderWriter.dll
+[FILE] Moduli/TuoValore/System.Xml.XDocument.dll , [FILE] Moduli/TuoValore/System.Xml.XmlDocument.dll , [FILE] Moduli/TuoValore/System.Xml.XmlSerializer.dll
+[FILE] Moduli/TuoValore/System.Xml.XPath.dll , [FILE] Moduli/TuoValore/System.Xml.XPath.XDocument.dll , [FILE] Moduli/TuoValore/WebDriver.dll , [FILE] Moduli/TuoValore/WebDriver.Support.dll
+[FILE] Moduli/TuoValore/WebDriver.Support.xml , [FILE] Moduli/TuoValore/WebDriver.xml , [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA.json
+[FILE] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA.json
+[FILE] Moduli/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast.json
+[FILE] Moduli/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA.json
+[FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa.json
+[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.json , [FILE] Moduli/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD.json
+[FILE] Moduli/UNICO/DANNI/EMISSIONI/Valore Auto.json , [FILE] Moduli/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto.json
+[FILE] Moduli/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova.json , [FILE] Moduli/VITA/Cambio Contraenza.json , [FILE] Moduli/VITA/CBA Moneta a Premi Periodici.json
+[FILE] Moduli/VITA/CBA Valore Capitale.json , [FILE] Moduli/VITA/CBA Valore Cedola.json , [FILE] Moduli/VITA/CBA Valore Cedola_new.json , [FILE] Moduli/VITA/FACTA Persona Fisica.json
+[FILE] Moduli/VITA/FACTA Persona Giuridica.json , [FILE] Moduli/VITA/GIANOS Persona Fisica.json , [FILE] Moduli/VITA/GIANOS Persona Giuridica.json , [FILE] Moduli/VITA/HAWK Persona Fisica.json
+[FILE] Moduli/VITA/Versamento Aggiuntivo.json , [FILE] Moduli/VITA/Emissioni CBA/CBA Moneta a Premi Periodici.json , [FILE] Moduli/VITA/Emissioni CBA/CBA Sostegno Finanziamento PA TF-577.json
+[FILE] Moduli/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF - IDD.json , [FILE] Moduli/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF.json
+[FILE] Moduli/VITA/Emissioni HDI/F95 - Obiettivo Crescita Agenzia.json , [FILE] Moduli/VITA/Emissioni HDI/F95 - Obiettivo Crescita Direzione - IDD.json
+[FILE] Moduli/VITA/PostVendita/Riscatto Totale Garanzia - NFE.json , [FILE] Moduli/VITA/PostVendita/Scelta Opzione Scadenza.json , [FILE] Moduli/VITA/PostVendita/Versamento Aggiuntivo.json
+[FILE] Moduli/x64/leptonica-1.82.0.dll , [FILE] Moduli/x64/Lexilla.dll , [FILE] Moduli/x64/Scintilla.dll , [FILE] Moduli/x64/SQLite.Interop.dll , [FILE] Moduli/x64/tesseract50.dll
+[FILE] Moduli/x86/leptonica-1.82.0.dll , [FILE] Moduli/x86/Lexilla.dll , [FILE] Moduli/x86/Scintilla.dll , [FILE] Moduli/x86/SQLite.Interop.dll , [FILE] Moduli/x86/tesseract50.dll
 
 Le sottocartelle della cartella Fogli Excel sono:
- [DIR] Fogli Excel/Cedole
- [DIR] Fogli Excel/DATI
- [DIR] Fogli Excel/Debug
- [DIR] Fogli Excel/DEFINIZIONI
- [DIR] Fogli Excel/DEMO
- [DIR] Fogli Excel/Nuovi
- [DIR] Fogli Excel/Nuovi (as)
- [DIR] Fogli Excel/OLD
- [DIR] Fogli Excel/save
- [DIR] Fogli Excel/test
- [DIR] Fogli Excel/DATI/DANNI
- [DIR] Fogli Excel/DATI/singola
- [DIR] Fogli Excel/DATI/VITA
- [DIR] Fogli Excel/DATI/DANNI/Emissioni
- [DIR] Fogli Excel/DATI/DANNI/PostVendita
- [DIR] Fogli Excel/DATI/VITA/PostVendita
- [DIR] Fogli Excel/DEFINIZIONI/ANAGRAFICA
- [DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI
- [DIR] Fogli Excel/DEFINIZIONI/DANNI
- [DIR] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE
- [DIR] Fogli Excel/DEFINIZIONI/SCENARI COMUNI
- [DIR] Fogli Excel/DEFINIZIONI/STAMPE
- [DIR] Fogli Excel/DEFINIZIONI/UEFA
- [DIR] Fogli Excel/DEFINIZIONI/UNICO
- [DIR] Fogli Excel/DEFINIZIONI/VITA
- [DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi
- [DIR] Fogli Excel/DEFINIZIONI/DANNI/Emissioni
- [DIR] Fogli Excel/DEFINIZIONI/DANNI/PostVendita
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI
- [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI
- [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI
- [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA
- [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI
- [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA
- [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI
- [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA
- [DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA
- [DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI
- [DIR] Fogli Excel/DEFINIZIONI/VITA/PostVendita
-
-I file presenti nella cartella Fogli Excel e sottocartelle sono:
- [FILE] Fogli Excel/ambientedisviluppo.json
- [FILE] Fogli Excel/ambientedisviluppo.mask
- [FILE] Fogli Excel/ambientedisviluppo.xlsx
- [FILE] Fogli Excel/ambientedisviluppo2.json
- [FILE] Fogli Excel/ambientedisviluppo2.mask
- [FILE] Fogli Excel/ambientedisviluppo2.xlsx
- [FILE] Fogli Excel/assicomo2.json
- [FILE] Fogli Excel/assicomo2.xlsx
- [FILE] Fogli Excel/Assicredit Extra Long.json
- [FILE] Fogli Excel/Assicredit Extra Long.xlsx
- [FILE] Fogli Excel/Assicredit Medium.json
- [FILE] Fogli Excel/Assicredit Medium.xlsx
- [FILE] Fogli Excel/assimoco claims grezzo.json
- [FILE] Fogli Excel/assimoco claims grezzo.xlsx
- [FILE] Fogli Excel/assimoco-grezzo.json
- [FILE] Fogli Excel/assimoco-grezzo.xlsx
- [FILE] Fogli Excel/assimocoautomatico.json
- [FILE] Fogli Excel/assimocoautomatico.mask
- [FILE] Fogli Excel/assimocoautomatico.xlsx
- [FILE] Fogli Excel/Autorizza Riscatto.json
- [FILE] Fogli Excel/Autorizza Riscatto.xlsx
- [FILE] Fogli Excel/campus.json
- [FILE] Fogli Excel/campus.xlsx
- [FILE] Fogli Excel/cancella.json
- [FILE] Fogli Excel/cancella.xlsx
- [FILE] Fogli Excel/capitale.json
- [FILE] Fogli Excel/capitale.xlsx
- [FILE] Fogli Excel/capitaleTop.json
- [FILE] Fogli Excel/capitaleTop.xlsx
- [FILE] Fogli Excel/casitest.json
- [FILE] Fogli Excel/casitest.mask
- [FILE] Fogli Excel/casitest.xlsx
- [FILE] Fogli Excel/CBA - Riscatto Parziale (AS).json
- [FILE] Fogli Excel/CBA - Riscatto Parziale (AS).xlsx
- [FILE] Fogli Excel/CBA - Riscatto Totale (AS).json
- [FILE] Fogli Excel/CBA - Riscatto Totale (AS).xlsx
- [FILE] Fogli Excel/cba moneta - riscatto parziale.json
- [FILE] Fogli Excel/cba moneta - riscatto parziale.xlsx
- [FILE] Fogli Excel/cba moneta - riscatto totale.json
- [FILE] Fogli Excel/cba moneta - riscatto totale.xlsx
- [FILE] Fogli Excel/cba moneta.json
- [FILE] Fogli Excel/cba moneta.xlsx
- [FILE] Fogli Excel/CBA Tua Moneta.json
- [FILE] Fogli Excel/CBA Tua Moneta.xlsx
- [FILE] Fogli Excel/CBA Tuo Valore.json
- [FILE] Fogli Excel/CBA Tuo Valore.xlsx
- [FILE] Fogli Excel/Cba valore capital NEW.json
- [FILE] Fogli Excel/Cba valore capital NEW.xlsx
- [FILE] Fogli Excel/CBA Valore Capital.json
- [FILE] Fogli Excel/CBA Valore Capital.xlsx
- [FILE] Fogli Excel/CBA Valore Cedola.xlsx
- [FILE] Fogli Excel/cedola.json
- [FILE] Fogli Excel/cedola.xlsx
- [FILE] Fogli Excel/cicli.xlsx
- [FILE] Fogli Excel/Conferma Riscatto.json
- [FILE] Fogli Excel/Conferma Riscatto.xlsx
- [FILE] Fogli Excel/Conferma scadenze.json
- [FILE] Fogli Excel/Conferma scadenze.xlsx
- [FILE] Fogli Excel/connessione pagina demo.mask
- [FILE] Fogli Excel/connessione pagina demo.xlsx
- [FILE] Fogli Excel/debug_mhtml.json
- [FILE] Fogli Excel/debug_mhtml.xlsx
- [FILE] Fogli Excel/demo-stampapdf.json
- [FILE] Fogli Excel/demo-stampapdf.xlsx
- [FILE] Fogli Excel/demo.json
- [FILE] Fogli Excel/demo.xlsx
- [FILE] Fogli Excel/demoIabat.json
- [FILE] Fogli Excel/demoIabat.mask
- [FILE] Fogli Excel/demoIabat.xlsx
- [FILE] Fogli Excel/demoi_acad.json
- [FILE] Fogli Excel/demoi_acad.mask
- [FILE] Fogli Excel/demoi_acad.xlsx
- [FILE] Fogli Excel/embed pd.json
- [FILE] Fogli Excel/embed pd.mask
- [FILE] Fogli Excel/embed pd.xlsx
- [FILE] Fogli Excel/errore.json
- [FILE] Fogli Excel/errore.xlsx
- [FILE] Fogli Excel/esempio.json
- [FILE] Fogli Excel/esempio.xlsx
- [FILE] Fogli Excel/estinzione polizza - Collaudo.json
- [FILE] Fogli Excel/estinzione polizza - Collaudo.mask
- [FILE] Fogli Excel/estinzione polizza - Collaudo.xlsx
- [FILE] Fogli Excel/estinzione polizza.json
- [FILE] Fogli Excel/estinzione polizza.mask
- [FILE] Fogli Excel/estinzione polizza.xlsx
- [FILE] Fogli Excel/estinzione polizze cumulative - collaudo.json
- [FILE] Fogli Excel/estinzione polizze cumulative - collaudo.mask
- [FILE] Fogli Excel/estinzione polizze cumulative - collaudo.xlsx
- [FILE] Fogli Excel/estinzione polizze cumulative SELLA parziali - Collaudo.json
- [FILE] Fogli Excel/estinzione polizze cumulative SELLA parziali - Collaudo.mask
- [FILE] Fogli Excel/estinzione polizze cumulative SELLA parziali - Collaudo.xlsx
- [FILE] Fogli Excel/Estinzioni totali finanziara - Collaudo.json
- [FILE] Fogli Excel/Estinzioni totali finanziara - Collaudo.mask
- [FILE] Fogli Excel/Estinzioni totali finanziara - Collaudo.xlsx
- [FILE] Fogli Excel/Fatca.json
- [FILE] Fogli Excel/Fatca.xlsx
- [FILE] Fogli Excel/flow_auto garanzie accessorie cristalli.mask
- [FILE] Fogli Excel/flow_auto garanzie accessorie cristalli.xlsx
- [FILE] Fogli Excel/focus.json
- [FILE] Fogli Excel/garmin.json
- [FILE] Fogli Excel/garmin.mask
- [FILE] Fogli Excel/garmin.xlsx
- [FILE] Fogli Excel/garmin2.json
- [FILE] Fogli Excel/garmin2.mask
- [FILE] Fogli Excel/garmin2.xlsx
- [FILE] Fogli Excel/GIANOS Persona Fisica (Def).json
- [FILE] Fogli Excel/GIANOS Persona Fisica (Def).xlsx
- [FILE] Fogli Excel/gino.xlsx
- [FILE] Fogli Excel/github.json
- [FILE] Fogli Excel/github.mask
- [FILE] Fogli Excel/github.xlsx
- [FILE] Fogli Excel/già.xlsx
- [FILE] Fogli Excel/hdi-stampa quietanze.json
- [FILE] Fogli Excel/hdi-stampa quietanze.xlsx
- [FILE] Fogli Excel/hdiassicurazioni.json
- [FILE] Fogli Excel/hdiassicurazioni.mask
- [FILE] Fogli Excel/hdiassicurazioni.xlsx
- [FILE] Fogli Excel/im.json
- [FILE] Fogli Excel/im.mask
- [FILE] Fogli Excel/im.xlsx
- [FILE] Fogli Excel/inserimento anagrafica fisico.mask
- [FILE] Fogli Excel/inserimento anagrafica fisico.xlsx
- [FILE] Fogli Excel/Liquidazioni Cedola2.json
- [FILE] Fogli Excel/Liquidazioni Cedola2.xlsx
- [FILE] Fogli Excel/loginflow.mask
- [FILE] Fogli Excel/loginflow.xlsx
- [FILE] Fogli Excel/loginHdi.json
- [FILE] Fogli Excel/loginHdi.xlsx
- [FILE] Fogli Excel/menu pass.json
- [FILE] Fogli Excel/menu pass.mask
- [FILE] Fogli Excel/menu pass.xlsx
- [FILE] Fogli Excel/Migrazione2-Capital.json
- [FILE] Fogli Excel/Migrazione2-Capital.xlsx
- [FILE] Fogli Excel/Migrazione2.json
- [FILE] Fogli Excel/Migrazione2.xlsx
- [FILE] Fogli Excel/mockdettaglio.json
- [FILE] Fogli Excel/mockdettaglio.xlsx
- [FILE] Fogli Excel/moneta.json
- [FILE] Fogli Excel/moneta.xlsx
- [FILE] Fogli Excel/monitor.json
- [FILE] Fogli Excel/monitor.mask
- [FILE] Fogli Excel/monitor.xlsx
- [FILE] Fogli Excel/new 8.txt
- [FILE] Fogli Excel/nuova proposta danni.xlsx
- [FILE] Fogli Excel/OrangeHrm.json
- [FILE] Fogli Excel/OrangeHrm.mask
- [FILE] Fogli Excel/OrangeHrm.xlsx
- [FILE] Fogli Excel/OS2.json
- [FILE] Fogli Excel/OS2.mask
- [FILE] Fogli Excel/OS2.xlsx
- [FILE] Fogli Excel/Outlook.json
- [FILE] Fogli Excel/Outlook.mask
- [FILE] Fogli Excel/Outlook.xlsx
- [FILE] Fogli Excel/outlook2.xlsx
- [FILE] Fogli Excel/passinsurance.json
- [FILE] Fogli Excel/passinsurance.xlsx
- [FILE] Fogli Excel/pippo.xlsx
- [FILE] Fogli Excel/portal.json
- [FILE] Fogli Excel/portal.xlsx
- [FILE] Fogli Excel/Produzione 30V Mutuo Protetto Special.mask
- [FILE] Fogli Excel/Produzione 30V Mutuo Protetto Special.xlsx
- [FILE] Fogli Excel/Produzione 88E Protezione Web Assimoco.mask
- [FILE] Fogli Excel/Produzione 88E Protezione Web Assimoco.xlsx
- [FILE] Fogli Excel/Produzione Apertura Claims Aw.mask
- [FILE] Fogli Excel/Produzione Apertura Claims Aw.xlsx
- [FILE] Fogli Excel/produzione auto emissione flow.json
- [FILE] Fogli Excel/produzione auto emissione flow.mask
- [FILE] Fogli Excel/produzione auto emissione flow.xlsx
- [FILE] Fogli Excel/Produzione Emissione Autocarro.mask
- [FILE] Fogli Excel/Produzione Emissione Autocarro.xlsx
- [FILE] Fogli Excel/produzione inqury bridge re.json
- [FILE] Fogli Excel/produzione inqury bridge re.mask
- [FILE] Fogli Excel/produzione inqury bridge re.xlsx
- [FILE] Fogli Excel/produzione inqury bridge tcm.json
- [FILE] Fogli Excel/produzione inqury bridge tcm.mask
- [FILE] Fogli Excel/produzione inqury bridge tcm.xlsx
- [FILE] Fogli Excel/produzione inqury bridge.json
- [FILE] Fogli Excel/produzione inqury bridge.mask
- [FILE] Fogli Excel/produzione inqury bridge.xlsx
- [FILE] Fogli Excel/Produzione Rate Protette Fisico.mask
- [FILE] Fogli Excel/Produzione Rate Protette Fisico.xlsx
- [FILE] Fogli Excel/produzione.json
- [FILE] Fogli Excel/produzione.mask
- [FILE] Fogli Excel/produzione.xlsx
- [FILE] Fogli Excel/progetto1.json
- [FILE] Fogli Excel/progetto1.mask
- [FILE] Fogli Excel/progetto1.xlsx
- [FILE] Fogli Excel/prova.json
- [FILE] Fogli Excel/prova.mask
- [FILE] Fogli Excel/prova.xlsx
- [FILE] Fogli Excel/prova2.json
- [FILE] Fogli Excel/prova2.mask
- [FILE] Fogli Excel/prova2.xlsx
- [FILE] Fogli Excel/Questionario nuovo.json
- [FILE] Fogli Excel/Questionario nuovo.xlsx
- [FILE] Fogli Excel/raffa.json
- [FILE] Fogli Excel/raffa.mask
- [FILE] Fogli Excel/raffa.xlsx
- [FILE] Fogli Excel/Rate Protette Medium.mask
- [FILE] Fogli Excel/Rate Protette Medium.xlsx
- [FILE] Fogli Excel/Ristampa Polizza Auto HDI.json
- [FILE] Fogli Excel/Ristampa Polizza Auto HDI.mask
- [FILE] Fogli Excel/Ristampa Polizza Auto HDI.xlsx
- [FILE] Fogli Excel/RistampaPolizza.json
- [FILE] Fogli Excel/RistampaPolizza.mask
- [FILE] Fogli Excel/RistampaPolizza.xlsx
- [FILE] Fogli Excel/robottini-scadenze.json
- [FILE] Fogli Excel/robottini-scadenze.xlsx
- [FILE] Fogli Excel/sara.json
- [FILE] Fogli Excel/sara.mask
- [FILE] Fogli Excel/sara.xlsx
- [FILE] Fogli Excel/saucedemo.json
- [FILE] Fogli Excel/saucedemo.mask
- [FILE] Fogli Excel/saucedemo.xlsx
- [FILE] Fogli Excel/scenario di prova.xlsx
- [FILE] Fogli Excel/SELLA - estinzioni parziali.json
- [FILE] Fogli Excel/SELLA - estinzioni parziali.mask
- [FILE] Fogli Excel/SELLA - estinzioni parziali.xlsx
- [FILE] Fogli Excel/stampa.json
- [FILE] Fogli Excel/stampa.mask
- [FILE] Fogli Excel/stampa.xlsx
- [FILE] Fogli Excel/storno polizza.json
- [FILE] Fogli Excel/storno polizza.mask
- [FILE] Fogli Excel/storno polizza.xlsx
- [FILE] Fogli Excel/strava.json
- [FILE] Fogli Excel/strava.mask
- [FILE] Fogli Excel/strava.xlsx
- [FILE] Fogli Excel/temp.json
- [FILE] Fogli Excel/temp.mask
- [FILE] Fogli Excel/temp.xlsx
- [FILE] Fogli Excel/test assimoco.json
- [FILE] Fogli Excel/test assimoco.xlsx
- [FILE] Fogli Excel/test.json
- [FILE] Fogli Excel/test.mask
- [FILE] Fogli Excel/test.xlsx
- [FILE] Fogli Excel/testandrea.json
- [FILE] Fogli Excel/testandrea.xlsx
- [FILE] Fogli Excel/testplugin.json
- [FILE] Fogli Excel/testplugin.xlsx
- [FILE] Fogli Excel/testrecord.json
- [FILE] Fogli Excel/testrecord.xlsx
- [FILE] Fogli Excel/testrecord_1.json
- [FILE] Fogli Excel/testrecord_1.xlsx
- [FILE] Fogli Excel/versamenti aggiuntivi premi periodici.json
- [FILE] Fogli Excel/versamenti aggiuntivi premi periodici.xlsx
- [FILE] Fogli Excel/vuoto.json
- [FILE] Fogli Excel/vuoto.mask
- [FILE] Fogli Excel/vuoto.xlsx
- [FILE] Fogli Excel/webserverinterno_demoricercaavanzata.json
- [FILE] Fogli Excel/webserverinterno_demoricercaavanzata.mask
- [FILE] Fogli Excel/webserverinterno_demoricercaavanzata.xlsx
- [FILE] Fogli Excel/xlayer-ko.json
- [FILE] Fogli Excel/xlayer-ko.xlsx
- [FILE] Fogli Excel/Xlayer.json
- [FILE] Fogli Excel/Xlayer.xlsx
- [FILE] Fogli Excel/xlayer2.xlsx
- [FILE] Fogli Excel/xxx.json
- [FILE] Fogli Excel/xxx.mask
- [FILE] Fogli Excel/xxx.xlsx
- [FILE] Fogli Excel/yolo.mask
- [FILE] Fogli Excel/yolo.xlsx
- [FILE] Fogli Excel/Cedole/Liquidazioni Cedola - PreVerifica.json
- [FILE] Fogli Excel/Cedole/Liquidazioni Cedola - PreVerifica.xlsx
- [FILE] Fogli Excel/Cedole/Liquidazioni Cedola-Autorizza.json
- [FILE] Fogli Excel/Cedole/Liquidazioni Cedola-Autorizza.xlsx
- [FILE] Fogli Excel/Cedole/Liquidazioni Cedola.json
- [FILE] Fogli Excel/Cedole/Liquidazioni Cedola.xlsx
- [FILE] Fogli Excel/DATI/Assicredit Extra Long (Dati).xlsx
- [FILE] Fogli Excel/DATI/Assimoco - Copia.xlsx
- [FILE] Fogli Excel/DATI/Assimoco.json
- [FILE] Fogli Excel/DATI/Assimoco.xlsx
- [FILE] Fogli Excel/DATI/Autorizza Riscatto.xlsx
- [FILE] Fogli Excel/DATI/Cambio Contraenza - Dati.xlsx
- [FILE] Fogli Excel/DATI/CBA - Riscatto Parziale - Dati (AS).xlsx
- [FILE] Fogli Excel/DATI/CBA - Riscatto Totale - Dati (AS).xlsx
- [FILE] Fogli Excel/DATI/cba moneta dati - alfonso.xlsx
- [FILE] Fogli Excel/DATI/cba moneta.xlsx
- [FILE] Fogli Excel/DATI/cba tuo valore dati.xlsx
- [FILE] Fogli Excel/DATI/cba valore capital dati.xlsx
- [FILE] Fogli Excel/DATI/Conferma Riscatto.xlsx
- [FILE] Fogli Excel/DATI/Dati Campus.xlsx
- [FILE] Fogli Excel/DATI/Dati Conferma Riscatto - Copia.xlsx
- [FILE] Fogli Excel/DATI/Dati Conferma Riscatto.xlsx
- [FILE] Fogli Excel/DATI/Dati liquidazione Cedole-solo autorizzazione.xlsx
- [FILE] Fogli Excel/DATI/Dati liquidazione Cedole.xlsx
- [FILE] Fogli Excel/DATI/Dati liquidazione Cedole2.xlsx
- [FILE] Fogli Excel/DATI/dati_xlayer.xlsx
- [FILE] Fogli Excel/DATI/demo.xlsx
- [FILE] Fogli Excel/DATI/demoAssimoco.xlsx
- [FILE] Fogli Excel/DATI/esempio.xlsx
- [FILE] Fogli Excel/DATI/Globale casa 2019.xlsx
- [FILE] Fogli Excel/DATI/hdi-stampa quietanze.xlsx
- [FILE] Fogli Excel/DATI/input-scadenze.xlsx
- [FILE] Fogli Excel/DATI/Moneta a premi periodici.xlsx
- [FILE] Fogli Excel/DATI/pippo.xlsx
- [FILE] Fogli Excel/DATI/portal.xlsx
- [FILE] Fogli Excel/DATI/prova.xlsx
- [FILE] Fogli Excel/DATI/riscattoparziale.xlsx
- [FILE] Fogli Excel/DATI/Ristampa documenti danni.xlsx
- [FILE] Fogli Excel/DATI/SITUAZIONE PERIODICA.xlsx
- [FILE] Fogli Excel/DATI/test.xlsx
- [FILE] Fogli Excel/DATI/Valore Auto - Dati (AS).xlsx
- [FILE] Fogli Excel/DATI/valore auto.xlsx
- [FILE] Fogli Excel/DATI/Variazione Quietanza.xlsx
- [FILE] Fogli Excel/DATI/versamenti aggiuntivi premi periodici-dati.xlsx
- [FILE] Fogli Excel/DATI/versamenti aggiuntivi premi.xlsx
- [FILE] Fogli Excel/DATI/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti (Dati).json
- [FILE] Fogli Excel/DATI/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti (Dati).xlsx
- [FILE] Fogli Excel/DATI/DANNI/Emissioni/Valore Auto (Dati).xlsx
- [FILE] Fogli Excel/DATI/DANNI/Emissioni/Valore Auto - IDD - NFE (Dati).xlsx
- [FILE] Fogli Excel/DATI/DANNI/PostVendita/Ristampa Documenti Danni (Dati).xlsx
- [FILE] Fogli Excel/DATI/DANNI/PostVendita/Servlet Stampe Firma Digitale (Dati).xlsx
- [FILE] Fogli Excel/DATI/singola/CBA Moneta a premi periodici.xlsx
- [FILE] Fogli Excel/DATI/singola/cba tuo valore singolo.xlsx
- [FILE] Fogli Excel/DATI/singola/CBA VALORE CAPITAL.xlsx
- [FILE] Fogli Excel/DATI/singola/CBA Valore Capitale TOP.xlsx
- [FILE] Fogli Excel/DATI/singola/CBA Valore Capitale.xlsx
- [FILE] Fogli Excel/DATI/singola/CBA Valore Cedola.xlsx
- [FILE] Fogli Excel/DATI/VITA/Cambio Contraenza (Dati).xlsx
- [FILE] Fogli Excel/DATI/VITA/Versamento Aggiuntivo (Dati).xlsx
- [FILE] Fogli Excel/DATI/VITA/PostVendita/Scelta Opzione Scadenza.xlsx
- [FILE] Fogli Excel/Debug/Bene.json
- [FILE] Fogli Excel/Debug/Bene.xlsx
- [FILE] Fogli Excel/Debug/debug.json
- [FILE] Fogli Excel/Debug/debug.mask
- [FILE] Fogli Excel/Debug/debug.xlsx
- [FILE] Fogli Excel/DEFINIZIONI/FastMotor (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/ANAGRAFICA/Soggetto Fisico.json
- [FILE] Fogli Excel/DEFINIZIONI/ANAGRAFICA/Soggetto Fisico.xlsx
- [FILE] Fogli Excel/DEFINIZIONI/ANAGRAFICA/soggetto fisico2.xlsx
- [FILE] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109 (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109 (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109 (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/C.A.R. Merloni - IDD (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/C.A.R. Merloni - IDD (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/C.A.R. Merloni - TF-606 (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Gestione provvisoria nuovo front end Unico (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Casa 2019 (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Casa 2019 (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Casa 2019 - I-ACAD (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Casa 2019 - I-ACAD (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Casa 2019 - IDD - NFE (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Casa 2019 - IDD - NFE (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Globale Fabbricati Controllo Montesconti (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Prova (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Prova (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Telefono ed email - PN Vodafone (def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - FastMotor (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - FastMotor (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - FastMotor Settore 1 (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - IDD - FastMotor (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - IDD - FastMotor (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - IDD - FastMotor - NFE (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - IDD - NFE (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - NFE - FastMotor (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/Emissioni/Valore Auto - NFE - FastMotor (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Consultazione Polizza RCA (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Consultazione Polizza RCA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Ristampa Documenti Danni (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Ristampa Documenti Danni (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Servlet Stampe Firma Digitale (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Servlet Stampe Firma Digitale (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Variazione Quietanza (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/DANNI/PostVendita/Variazione Quietanza (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMail (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMail (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMailLogin (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMailLogin (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMailLogin (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/DatiTecniciValoreAuto (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/DatiTecniciValoreAuto (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/HawkPersonaFisica (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/HawkPersonaFisica (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/Login UEFA_WSO2 (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/Login UEFA_WSO2 (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD - UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD - UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/STAMPE/Ristampe (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/STAMPE/Ristampe (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/STAMPE/Ristampe (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/debug_mhtml.json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/aread di lavoro.js
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/Creazione area di lavoro.js
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/esempio utilizza area di lavoro.js
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/lettura area di lavoro.js
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/lordo inendio.js
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/RCA.js
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI/Valore Auto (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI/Valore Auto (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova (Def).mask
- [FILE] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Cambio Contraenza (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Cambio Contraenza (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/CBA Moneta a Premi Periodici (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/CBA Valore Capitale (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/CBA Valore Cedola (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/CBA Valore Cedola (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/CBA Valore Cedola_new (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Versamento Aggiuntivo (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Versamento Aggiuntivo (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA/CBA Moneta a Premi Periodici (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA/CBA Moneta a Premi Periodici (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA/CBA Sostegno Finanziamento PA TF-577 (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA/CBA Sostegno Finanziamento PA TF-577 (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF - IDD (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI/F81 - Obiettivo Futuro PAR - PF - IDD (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI/F95 - Obiettivo Crescita Agenzia (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI/F95 - Obiettivo Crescita Direzione - IDD (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/PostVendita/Riscatto Totale Garanzia - NFE (Def).json
- [FILE] Fogli Excel/DEFINIZIONI/VITA/PostVendita/Riscatto Totale Garanzia - NFE (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/PostVendita/Scelta Opzione Scadenza (Def).xlsx
- [FILE] Fogli Excel/DEFINIZIONI/VITA/PostVendita/Versamento Aggiuntivo (Def).xlsx
- [FILE] Fogli Excel/DEMO/I-ACAD.json
- [FILE] Fogli Excel/DEMO/I-ACAD.mask
- [FILE] Fogli Excel/DEMO/I-ACAD.xlsx
- [FILE] Fogli Excel/DEMO/i-acad_pdf_embed.json
- [FILE] Fogli Excel/DEMO/i-acad_pdf_embed.mask
- [FILE] Fogli Excel/DEMO/i-acad_pdf_embed.xlsx
- [FILE] Fogli Excel/Nuovi/CBA Moneta a premi periodici (AS).xlsx
- [FILE] Fogli Excel/Nuovi/CBA Valore Capitale (AS).xlsx
- [FILE] Fogli Excel/Nuovi/CBA Valore Capitale Top (AS).xlsx
- [FILE] Fogli Excel/Nuovi/CBA Valore Cedola (AS).xlsx
- [FILE] Fogli Excel/Nuovi (as)/CBA - Riscatto Parziale (AS).json
- [FILE] Fogli Excel/Nuovi (as)/CBA - Riscatto Parziale (AS).xlsx
- [FILE] Fogli Excel/Nuovi (as)/Valore Auto (AS).json
- [FILE] Fogli Excel/Nuovi (as)/Valore Auto (AS).xlsx
- [FILE] Fogli Excel/OLD/mascheraVita.xlsx
- [FILE] Fogli Excel/OLD/Maschere Fatca.xlsx
- [FILE] Fogli Excel/OLD/Maschere Gianos.xlsx
- [FILE] Fogli Excel/save/Valore Capital.xlsx
- [FILE] Fogli Excel/test/Assimoco.xlsx
- [FILE] Fogli Excel/test/PATCH_PolizzaAssimoco - Copia.xlsx
- [FILE] Fogli Excel/test/PATCH_PolizzaAssimoco.json
- [FILE] Fogli Excel/test/PATCH_PolizzaAssimoco.xlsx
- [FILE] Fogli Excel/test/PolizzaAssimoco.json
- [FILE] Fogli Excel/test/PolizzaAssimoco.xlsx
- [FILE] Fogli Excel/test/PolizzaAssimoco_SoloDati.xlsx
- [FILE] Fogli Excel/test/Valore Auto.json
- [FILE] Fogli Excel/test/Valore Auto.xlsx
-
+[DIR] Fogli Excel/Cedole , [DIR] Fogli Excel/DATI , [DIR] Fogli Excel/Debug , [DIR] Fogli Excel/DEFINIZIONI , [DIR] Fogli Excel/DEMO , [DIR] Fogli Excel/Nuovi , [DIR] Fogli Excel/Nuovi (as)
+[DIR] Fogli Excel/OLD , [DIR] Fogli Excel/save , [DIR] Fogli Excel/test , [DIR] Fogli Excel/DATI/DANNI , [DIR] Fogli Excel/DATI/singola , [DIR] Fogli Excel/DATI/VITA
+[DIR] Fogli Excel/DATI/DANNI/Emissioni , [DIR] Fogli Excel/DATI/DANNI/PostVendita , [DIR] Fogli Excel/DATI/VITA/PostVendita , [DIR] Fogli Excel/DEFINIZIONI/ANAGRAFICA
+[DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI , [DIR] Fogli Excel/DEFINIZIONI/DANNI , [DIR] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE , [DIR] Fogli Excel/DEFINIZIONI/SCENARI COMUNI
+[DIR] Fogli Excel/DEFINIZIONI/STAMPE , [DIR] Fogli Excel/DEFINIZIONI/UEFA , [DIR] Fogli Excel/DEFINIZIONI/UNICO , [DIR] Fogli Excel/DEFINIZIONI/VITA
+[DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi , [DIR] Fogli Excel/DEFINIZIONI/DANNI/Emissioni , [DIR] Fogli Excel/DEFINIZIONI/DANNI/PostVendita
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA , [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI
+[DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA
+[DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA , [DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI , [DIR] Fogli Excel/DEFINIZIONI/VITA/PostVendita
+I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella Fogli Excel e sottocartelle sono : 
+[FILE] Fogli Excel/ambientedisviluppo.mask , [FILE] Fogli Excel/ambientedisviluppo2.mask , [FILE] Fogli Excel/assimocoautomatico.mask , [FILE] Fogli Excel/casitest.mask
+[FILE] Fogli Excel/connessione pagina demo.mask , [FILE] Fogli Excel/demoIabat.mask , [FILE] Fogli Excel/demoi_acad.mask , [FILE] Fogli Excel/embed pd.mask
+[FILE] Fogli Excel/estinzione polizza - Collaudo.mask , [FILE] Fogli Excel/estinzione polizza.mask , [FILE] Fogli Excel/estinzione polizze cumulative - collaudo.mask
+[FILE] Fogli Excel/estinzione polizze cumulative SELLA parziali - Collaudo.mask , [FILE] Fogli Excel/Estinzioni totali finanziara - Collaudo.mask
+[FILE] Fogli Excel/flow_auto garanzie accessorie cristalli.mask , [FILE] Fogli Excel/garmin.mask , [FILE] Fogli Excel/garmin2.mask , [FILE] Fogli Excel/github.mask
+[FILE] Fogli Excel/hdiassicurazioni.mask , [FILE] Fogli Excel/im.mask , [FILE] Fogli Excel/inserimento anagrafica fisico.mask , [FILE] Fogli Excel/loginflow.mask , [FILE] Fogli Excel/menu pass.mask
+[FILE] Fogli Excel/monitor.mask , [FILE] Fogli Excel/new 8.txt , [FILE] Fogli Excel/OrangeHrm.mask , [FILE] Fogli Excel/OS2.mask , [FILE] Fogli Excel/Outlook.mask
+[FILE] Fogli Excel/Produzione 30V Mutuo Protetto Special.mask , [FILE] Fogli Excel/Produzione 88E Protezione Web Assimoco.mask , [FILE] Fogli Excel/Produzione Apertura Claims Aw.mask
+[FILE] Fogli Excel/produzione auto emissione flow.mask , [FILE] Fogli Excel/Produzione Emissione Autocarro.mask , [FILE] Fogli Excel/produzione inqury bridge re.mask
+[FILE] Fogli Excel/produzione inqury bridge tcm.mask , [FILE] Fogli Excel/produzione inqury bridge.mask , [FILE] Fogli Excel/Produzione Rate Protette Fisico.mask
+[FILE] Fogli Excel/produzione.mask , [FILE] Fogli Excel/progetto1.mask , [FILE] Fogli Excel/prova.mask , [FILE] Fogli Excel/prova2.mask , [FILE] Fogli Excel/raffa.mask
+[FILE] Fogli Excel/Rate Protette Medium.mask , [FILE] Fogli Excel/Ristampa Polizza Auto HDI.mask , [FILE] Fogli Excel/RistampaPolizza.mask , [FILE] Fogli Excel/sara.mask
+[FILE] Fogli Excel/saucedemo.mask , [FILE] Fogli Excel/SELLA - estinzioni parziali.mask , [FILE] Fogli Excel/stampa.mask , [FILE] Fogli Excel/storno polizza.mask , [FILE] Fogli Excel/strava.mask
+[FILE] Fogli Excel/temp.mask , [FILE] Fogli Excel/test.mask , [FILE] Fogli Excel/TestAlert.mask , [FILE] Fogli Excel/vuoto.mask , [FILE] Fogli Excel/webserverinterno_demoricercaavanzata.mask
+[FILE] Fogli Excel/xxx.mask , [FILE] Fogli Excel/yolo.mask , [FILE] Fogli Excel/Debug/debug.mask
+[FILE] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109 (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMail (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMailLogin (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/DatiTecniciValoreAuto (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/HawkPersonaFisica (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/Login UEFA_WSO2 (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD - UEFA (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/STAMPE/Ristampe (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Professionista HDI - UEFA (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019 - Fast (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto - Full UEFA (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/aread di lavoro.js
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/Creazione area di lavoro.js , [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/esempio utilizza area di lavoro.js
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/lettura area di lavoro.js , [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/lordo inendio.js
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/RCA.js , [FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione - Full Uefa (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI/A2A - Emissione polizza - IDD (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI/Valore Auto (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA/Sospensione Valore Auto (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA/CBA Sicurezza PA - Cap Cost Nuova (Def).mask
+[FILE] Fogli Excel/DEMO/I-ACAD.mask , [FILE] Fogli Excel/DEMO/i-acad_pdf_embed.mask
