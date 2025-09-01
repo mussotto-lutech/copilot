@@ -1,5 +1,5 @@
 <div><div>Attendere</div><div></div></div><div><table><tbody><tr><td><table><tbody><tr><td></td></tr></tbody></table></td><td><table><tbody><tr><td><span>I-ABAT (PreProduzione)</span>&nbsp;
-</td></tr><tr><td><span>Versione: 3.9.7.0</span></td></tr><tr><td><span>
+</td></tr><tr><td><span>Versione: 3.9.7.2</span></td></tr><tr><td><span>
 Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d36232-03a5-4ef4-812e-239122e02572</span></td></tr></tbody></table></td></tr></tbody></table><table><tbody><tr>
 <td><div><div><div><div><span><span>HDI</span></span> </div><div></div></div></div></div></td><td><div><div><div><div><span><span>Google Chrome 139.0.7258.128</span></span> </div><div></div>
 </div></div></div></td><td><div><span>Download Excel grid report</span></div></td></tr></tbody></table></div><div><div><ul><li><span>Esegui scenario</span></li><li>
@@ -36,7 +36,7 @@ Working dir = C:\lavori\sorgenti\selenium\DemoSelenium\bin\Debug Unique ID = b7d
 <div><ul><li><div>HDI</div></li><li><div>assimoco</div></li><li><div>BENE</div></li><li><div>demo</div></li><li><div>robot</div></li><li><div>DAS</div></li><li><div>Tresalti</div></li><li>
 <div>HDI-ROBOT</div></li><li><div>HDI-NRT</div></li><li><div>Helvetia</div></li></ul></div></div><div><div><ul><li><div>Google Chrome 139.0.7258.128</div></li><li>
 <div>Google Chrome canale Beta 135.0.7049.17</div></li><li><div>Google Chrome canale Dev 136.0.7052.2</div></li><li><div>Google Chrome canale Canary 139.0.7205.0</div></li>
-<li><div>Microsoft Edge 139.0.3405.86</div></li><li><div>Microsoft Edge canale Beta 106.0.1370.26</div></li><li><div>Microsoft Edge canale Dev 120.0.2186.2</div></li>
+<li><div>Microsoft Edge 139.0.3405.125</div></li><li><div>Microsoft Edge canale Beta 106.0.1370.26</div></li><li><div>Microsoft Edge canale Dev 120.0.2186.2</div></li>
 <li><div>Microsoft Edge canale Canary 120.0.2187.0</div></li><li><div>Mozilla Firefox 127.0 (x64 it)</div></li><li><div>Internet Explorer 11.3636.19041.0</div></li>
 <li><div>Browser I-ABAT 1.2.0.0</div></li></ul></div></div><div><div><div><div><div></div><div><div><div><div></div><div></div></div></div></div><div><div><div><div></div>
 <div></div></div></div></div></div></div></div></div><div><div><div><div><span><label>Elenco report</label></span></div><div></div><div></div></div><div></div></div></div>
@@ -71,7 +71,7 @@ Valore Auto - FastMotor Settore 1</a></span></div></li><li><div><span><a>Valore 
 </div></li><li><div><span><a>Servlet Stampe Firma Digitale</a></span></div></li><li><div><span><a>Variazione Quietanza</a></span></div></li></ul></div></div></div><div><div><ul><li><div>
 <span><a>bene</a></span></div></li><li><div><span><a>debug_mhtml</a></span></div></li><li><div><span><a>testrecord</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>CBA MONETA - Parziale</a></span></div></li><li><div><span><a>CBA MONETA - Totale</a></span></div></li><li><div><span><a>HDI - Stampa quietanze</a></span></div></li><li><div>
-<span><a>I-ACAD_PDF_EMBED</a></span></div></li><li><div><span><a>nuovo</a></span></div></li></ul></div></div><div><div><ul>
+<span><a>I-ACAD_PDF_EMBED</a></span></div></li><li><div><span><a>TestAlert</a></span></div></li></ul></div></div><div><div><ul>
 <li><div><span><a>CyberMail</a></span></div></li><li><div><span><a>CyberMailLogin</a></span></div></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div>
 <div><div><ul><li><div><span><a>Inserimento anagrafica fisico</a></span></div></li></ul></div></div></div><div><div><ul><li><div><span><a>FastMotor</a></span></div></li><li><div>
 <span><a>MENU PASS</a></span></div></li><li><div>
@@ -172,8 +172,8 @@ Estinzioni polizze FINANZIARIA totali - Collaudo</a></span></div></li><li><div><
 <li><div><span><a>Autorizza cedole</a></span></div></li><li><div><span><a>Liquidazione Cedole - solo autorizzazione</a></span></div></li></ul></div></div><div><div>
 <ul><li><div><span><a>CBA Moneta a Premi Periodici</a></span></div></li></ul></div></div><div><div><ul><li><div><span><a>Scadenze</a></span></div></li></ul></div></div></div><div><div><ul>
 <li><div><span><a>saucedemo</a></span></div></li></ul></div></div></div><div><div><ul><li><span>ANAGRAFICA</span></li><li><span>Assicredit</span></li><li><span>Assimoco-generici</span></li>
-<li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li>
-<span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li>
+<li><span>AUTO</span></li><li><span>Bene</span></li><li><span>Campus</span></li><li><span>Claims Flow</span></li><li><span>CONTROLLI CONTABILI</span></li><li>
+<span>DANNI</span></li><li><span>debug</span></li><li><span>DEMO</span></li><li><span>ELABORAZIONI_VARIE</span></li><li><span>Flow</span></li><li><span>HDI-GENERICI</span></li><li>
 <span>Personali</span></li><li><span>Produzione</span></li><li><span>Rate Protette</span></li><li><span>ROBOT-HDI</span></li><li><span>SCENARI COMUNI</span></li><li>
 <span>ScenariComuni</span></li><li><span>STAMPE</span></li><li><span>Supernova</span></li><li><span>UEFA</span></li><li><span>UNICO</span></li><li><span>VITA</span></li><li>
 <span>WEBTEST</span></li></ul></div><div><div><ul><li><span>
@@ -182,8 +182,8 @@ Inserimento Anagrafica Persona Fisica<a></a><a></a></span></li></ul></div></div>
 <div><div><ul><li><span>Emissioni</span></li><li><span>PostVendita</span></li></ul></div><div><div><ul><li><span>Globale Casa 2019<a></a><a></a></span></li><li><span>
 Globale Fabbricati Controllo Montesconti<a></a><a></a></span></li><li><span>
 Valore Auto - IDD - NFE<a></a><a></a></span></li><li><span>Valore Auto<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>
-Servlet Stampe Firma Digitale<a></a><a></a></span></li></ul></div></div></div><div><div><ul><li><span>HDI - Stampa quietanze<a></a><a></a></span></li><li><span>nuovo<a></a><a>
-</a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul><li>
+Servlet Stampe Firma Digitale<a></a><a></a></span></li></ul></div></div></div><div><div><ul><li><span>
+HDI - Stampa quietanze<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li></ul></div></div><div><div><ul><li>
 <span>robottini-Scadenze<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>Conferma<a></a><a></a></span></li></ul></div></div><div><div><ul><li><span>ANAGRAFICA</span></li>
 <li><span>CONTROLLI CONTABILI</span></li><li><span>DANNI</span></li><li><span>VITA</span></li></ul></div><div><div><ul><li><span>FOGLI CASSA</span></li></ul></div></div><div><div><ul><li>
 <span>EMISSIONI</span></li><li><span>EMISSIONI FAST</span></li><li><span>POSTVENDITA FULL UEFA</span></li><li><span>SOSTITUZIONI FULL UEFA</span></li></ul></div></div><div><div><ul><li>
