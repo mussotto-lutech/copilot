@@ -43,24 +43,25 @@ Le sottocartelle della cartella Scenari sono:
 [DIR] Scenari/UNICO/VITA/EMISSIONI/CBA , [DIR] Scenari/UNICO/VITA/EMISSIONI/HDI , [DIR] Scenari/WSO2/DANNI , [DIR] Scenari/WSO2/VITA , [DIR] Scenari/WSO2/DANNI/EMISSIONI
 [DIR] Scenari/WSO2/DANNI/POSTVENDITA , [DIR] Scenari/WSO2/VITA/EMISSIONI , [DIR] Scenari/WSO2/VITA/EMISSIONI/HDI
 I file presenti nella cartella Scenari e sottocartelle sono : 
-[FILE] Scenari/Schedulazione Avvio Processo Short Vita.ibt , [FILE] Scenari/Schedulazione Avvio Processo Short Vita.rpt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt
-[FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.rpt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.rpt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Annullo Conto Vendita - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.rpt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Annullo Generico.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.rpt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt
-[FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.rpt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.ibt
-[FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.rpt , [FILE] Scenari/ROBOT/Autorizza cedole.ibt , [FILE] Scenari/ROBOT/Autorizza cedole.rpt , [FILE] Scenari/ROBOT/campus.ibt
-[FILE] Scenari/ROBOT/campus.rpt , [FILE] Scenari/ROBOT/Conferma Riscatto.ibt , [FILE] Scenari/ROBOT/Conferma Riscatto.rpt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.ibt
-[FILE] Scenari/ROBOT/Estinzione Anticipata TCM.rpt , [FILE] Scenari/ROBOT/Scadenze.ibt , [FILE] Scenari/ROBOT/Scadenze.rpt , [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.ibt
+[FILE] Scenari/ambienteDiSviluppo.ibt , [FILE] Scenari/Schedulazione Avvio Processo Short Vita.ibt , [FILE] Scenari/Schedulazione Avvio Processo Short Vita.rpt
+[FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.rpt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.rpt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Annullo Conto Vendita - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.rpt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Annullo Generico.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.rpt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.ibt
+[FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.rpt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.rpt
+[FILE] Scenari/ROBOT/Autorizza cedole.ibt , [FILE] Scenari/ROBOT/Autorizza cedole.rpt , [FILE] Scenari/ROBOT/campus.ibt , [FILE] Scenari/ROBOT/campus.rpt
+[FILE] Scenari/ROBOT/Conferma Riscatto.ibt , [FILE] Scenari/ROBOT/Conferma Riscatto.rpt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.ibt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.rpt
+[FILE] Scenari/ROBOT/Scadenze.ibt , [FILE] Scenari/ROBOT/Scadenze.rpt , [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.ibt
 [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.rpt , [FILE] Scenari/ROBOT/PICO/Estinzioni Finanziarie.ibt , [FILE] Scenari/ROBOT/PICO/Estinzioni Finanziarie.rpt
 [FILE] Scenari/ROBOT/PICO/Estinzioni Parziali Sella.ibt , [FILE] Scenari/ROBOT/PICO/Estinzioni Parziali Sella.rpt , [FILE] Scenari/ROBOT/PICO/Estinzioni Totali Sella.ibt
 [FILE] Scenari/ROBOT/PICO/Estinzioni Totali Sella.rpt , [FILE] Scenari/ROBOT/PICO/PICO_Finanziaria.files , [FILE] Scenari/ROBOT/PICO/PICO_Sella_Parziali.files
@@ -416,10 +417,10 @@ Le sottocartelle della cartella Moduli sono:
 [DIR] Moduli/UNICO/VITA/XML BANCA SELLA , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA , [DIR] Moduli/UNICO/VITA/EMISSIONI/HDI , [DIR] Moduli/WSO2/DANNI , [DIR] Moduli/WSO2/VITA
 [DIR] Moduli/WSO2/DANNI/EMISSIONI , [DIR] Moduli/WSO2/DANNI/POSTVENDITA , [DIR] Moduli/WSO2/VITA/EMISSIONI , [DIR] Moduli/WSO2/VITA/EMISSIONI/HDI
 I file presenti nella cartella Moduli e sottocartelle sono : 
-[FILE] Moduli/Consultazione Documenti Firma Digitale - Full UEFA.json , [FILE] Moduli/Consultazione Documenti Firma Digitale - UEFA.json , [FILE] Moduli/fine estinzione polizze.copiacomeexe
-[FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/Newtonsoft.Json.copiacomedll , [FILE] Moduli/Newtonsoft.Json.dll , [FILE] Moduli/Protezione Media Impresa - WSO2.json
-[FILE] Moduli/Repertorio Gare - WSO2.json , [FILE] Moduli/Schedulazione Avvio Processo Short Vita.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json
-[FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.json
+[FILE] Moduli/ambientedisviluppo.json , [FILE] Moduli/Consultazione Documenti Firma Digitale - Full UEFA.json , [FILE] Moduli/Consultazione Documenti Firma Digitale - UEFA.json
+[FILE] Moduli/fine estinzione polizze.copiacomeexe , [FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/Newtonsoft.Json.copiacomedll , [FILE] Moduli/Newtonsoft.Json.dll
+[FILE] Moduli/Protezione Media Impresa - WSO2.json , [FILE] Moduli/Repertorio Gare - WSO2.json , [FILE] Moduli/Schedulazione Avvio Processo Short Vita.json
+[FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.json
 [FILE] Moduli/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.json
 [FILE] Moduli/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.json
 [FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.json
