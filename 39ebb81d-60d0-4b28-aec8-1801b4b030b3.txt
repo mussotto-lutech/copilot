@@ -1,0 +1,422 @@
+<noscript>
+You need to enable JavaScript to run this app.</noscript><div id="root"><div class="App"><div></div><div>
+<header class="MuiPaper-root MuiAppBar-root MuiAppBar-positionSticky MuiAppBar-colorPrimary MuiPaper-elevation0">
+<div>
+<div>
+<div><img src="/uefa/static/media/HDI_Logo.svg" class="jss11" alt="logoHDI"><div class="jss14"></div>
+<p class="MuiTypography-root jss6 MuiTypography-body1 MuiTypography-noWrap">UNICO</p></div><div><div><div class="d-flex"><div><div>
+<div class="hoverBox">
+<div><div>
+<p class="MuiTypography-root MuiTypography-body1 MuiTypography-noWrap" title="Home Page">Home Page</p></div><div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall" tabindex="0" type="button"><span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="LayersIcon">
+<path d="m11.99 18.54-7.37-5.73L3 14.07l9 7 9-7-1.63-1.27zM12 16l7.36-5.73L21 9l-9-7-9 7 1.63 1.27z"></path></svg></span><span class="MuiTouchRipple-root"></span></button></div>
+</div></div></div></div></div></div></div></div><hr class="MuiDivider-root">
+<div id="menu_bar"><div><div>
+<button class="MuiButtonBase-root MuiButton-root jss88 MuiButton-text jss76" tabindex="0" type="button" id="Home_Page"><span class="MuiButton-label">
+<div><p class="MuiTypography-root MuiTypography-body1">Home Page</p></div></span><span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiButton-root jss88 MuiButton-text jss75" tabindex="0" type="button" id="Menu_pass"><span class="MuiButton-label">
+<div><p class="MuiTypography-root MuiTypography-body2">Menu pass</p></div></span><span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiButton-root jss88 MuiButton-text jss75" tabindex="0" type="button" id="Link_Utili"><span class="MuiButton-label">
+<div><p class="MuiTypography-root MuiTypography-body2">Link Utili</p></div></span><span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiButton-root jss88 MuiButton-text jss75" tabindex="0" type="button" id="Preferiti"><span class="MuiButton-label">
+<div><p class="MuiTypography-root MuiTypography-body2">Preferiti</p></div></span><span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiButton-root jss88 MuiButton-text jss75" tabindex="0" type="button"><span class="MuiButton-label">
+<div><p class="MuiTypography-root MuiTypography-body2">Funzioni Direzionali</p></div></span><span class="MuiTouchRipple-root"></span>
+</button></div></div><div id="user_menu"><div id="nodo-login">NRT_DIR_DANNI3 - Nodo: 0001</div>
+<div></div><div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary" tabindex="0" type="button" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="MenuBookOutlinedIcon">
+<path d="M21 5c-1.11-.35-2.33-.5-3.5-.5-1.95 0-4.05.4-5.5 1.5-1.45-1.1-3.55-1.5-5.5-1.5S2.45 4.9 1 6v14.65c0 .25.25.5.5.5.1 0 .15-.05.25-.05C3.1 20.45 5.05 20 6.5 20c1.95 0 4.05.4 5.5 1.5 1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.3 4.75 1.05.1.05.15.05.25.05.25 0 .5-.25.5-.5V6c-.6-.45-1.25-.75-2-1m0 13.5c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5V8c1.35-.85 3.8-1.5 5.5-1.5 1.2 0 2.4.15 3.5.5z">
+</path>
+<path d="M17.5 10.5c.88 0 1.73.09 2.5.26V9.24c-.79-.15-1.64-.24-2.5-.24-1.7 0-3.24.29-4.5.83v1.66c1.13-.64 2.7-.99 4.5-.99M13 12.49v1.66c1.13-.64 2.7-.99 4.5-.99.88 0 1.73.09 2.5.26V11.9c-.79-.15-1.64-.24-2.5-.24-1.7 0-3.24.3-4.5.83m4.5 1.84c-1.7 0-3.24.29-4.5.83v1.66c1.13-.64 2.7-.99 4.5-.99.88 0 1.73.09 2.5.26v-1.52c-.79-.16-1.64-.24-2.5-.24">
+</path></svg></span><span class="MuiTouchRipple-root"></span></button></div><div id="user_popup" class="jss24"><div class="jss25">
+<h3 class="MuiTypography-root jss26 MuiTypography-h3">S</h3></div><div>
+<h3 class="MuiTypography-root jss27 MuiTypography-h3">NRT_DIR_DANNI3</h3></div></div></div></div></div>
+<div class="MuiBackdrop-root" aria-hidden="true">
+<div><div>
+<div class="MuiCircularProgress-root MuiCircularProgress-indeterminate" role="progressbar"><svg class="MuiCircularProgress-svg" viewBox="22 22 44 44">
+<circle class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate" cx="44" cy="44" r="20.2" fill="none" stroke-width="3.6"></circle></svg></div></div></div></div>
+</header><div></div><div><div></div><div></div><div>
+<div><div id="search">
+<div><div>
+<div>
+<div>
+<div id="search_left_select">
+<div class="MuiFormControl-root" novalidate="" autocomplete="off"><div class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl">
+<div class="MuiSelect-root jss474 MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input" tabindex="0" role="button" aria-haspopup="listbox">Polizza</div>
+<input aria-hidden="true" tabindex="-1" class="MuiSelect-nativeInput" value="polizza">
+<svg class="MuiSvgIcon-root MuiSelect-icon" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5z"></path></svg></div></div></div>
+<div></div></div><div>
+<div>
+<div class="MuiFormControl-root" novalidate="" autocomplete="off"><div class="MuiFormControl-root MuiTextField-root jss475">
+<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-marginDense" data-shrink="false" for="nPolizza"
+id="nPolizza-label">Numero polizza</label><div class="MuiInputBase-root MuiInput-root MuiInputBase-formControl MuiInput-formControl MuiInputBase-marginDense MuiInput-marginDense">
+<input aria-invalid="false" id="nPolizza" type="text" class="MuiInputBase-input MuiInput-input MuiInputBase-inputMarginDense MuiInput-inputMarginDense" value=""></div></div></div>
+<button class="MuiButtonBase-root MuiButton-root jss476 MuiButton-contained MuiButton-containedPrimary MuiButton-disableElevation Mui-disabled Mui-disabled" tabindex="-1"
+type="button" disabled=""><span class="MuiButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="SearchOutlinedIcon">
+<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14">
+</path></svg></span></button></div></div></div></div></div></div></div>
+<div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8"><div>
+<div>
+<div>
+<div>
+<p class="MuiTypography-root MuiTypography-body1" body="h1">
+LE TUE LISTE OPERATIVE</p></div></div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-6">
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded">
+<div>
+<div>
+<h1 class="MuiTypography-root MuiTypography-h1">Urgenti</h1>
+<h1 class="MuiTypography-root MuiTypography-h1">28231</h1></div>
+<div><hr class="MuiDivider-root"></div>
+<div class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"><div class="MuiGrid-root MuiGrid-item">
+<div class="jss719">
+<div class="MuiToolbar-root MuiToolbar-regular jss720 MuiToolbar-gutters" id="home_Toolbar" ml="0">
+<div></div><div class="MuiInputBase-root MuiInput-root jss738 MuiInput-underline MuiInputBase-adornedStart">
+<div class="MuiInputAdornment-root MuiInputAdornment-positionStart"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true">
+<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+</path></svg></div><input id="home_SearchPanel" placeholder="Cerca ..." type="text" class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart" value=""></div></div>
+<div class="jss721"><div><table class="MuiTable-root jss722"><colgroup><col></colgroup>
+<tbody class="MuiTableBody-root"><tr class="MuiTableRow-root">
+<td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Titoli insoluti due mensilita'</h2>
+</div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">1</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span></button>
+</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Titoli prossimi invio al legale</h2>
+</div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">513</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span></button>
+</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Titoli di emissione in scadenza</h2>
+</div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">3812</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span>
+</button></td></tr><tr class="MuiTableRow-root">
+<td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Titoli Cauzioni in Arretrato</h2></div>
+</div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">23905</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span>
+</button></td></tr></tbody></table></div></div><div class="jss729" id="home_pagingPanel"><div class="jss730"><span class="jss731">1-4 di 4</span>
+<button class="MuiButtonBase-root MuiIconButton-root jss734 jss735 Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" aria-label="Previous">
+<span class="MuiIconButton-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z">
+</path></svg></span></button><button class="MuiButtonBase-root MuiButton-root MuiButton-text jss732 jss733 Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="">
+<span class="MuiButton-label">1</span></button>
+<button class="MuiButtonBase-root MuiIconButton-root jss734 jss736 Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" aria-label="Next">
+<span class="MuiIconButton-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z">
+</path></svg></span></button></div></div></div></div></div></div></div></div>
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-6">
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded">
+<div>
+<div>
+<h1 class="MuiTypography-root MuiTypography-h1">Ordinarie</h1>
+<h1 class="MuiTypography-root MuiTypography-h1">303689</h1></div>
+<div><hr class="MuiDivider-root"></div>
+<div class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"><div class="MuiGrid-root MuiGrid-item">
+<div class="jss719">
+<div class="MuiToolbar-root MuiToolbar-regular jss720 MuiToolbar-gutters" id="home_Toolbar" ml="0">
+<div></div><div class="MuiInputBase-root MuiInput-root jss738 MuiInput-underline MuiInputBase-adornedStart">
+<div class="MuiInputAdornment-root MuiInputAdornment-positionStart"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true">
+<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+</path></svg></div><input id="home_SearchPanel" placeholder="Cerca ..." type="text" class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart" value=""></div></div>
+<div class="jss721"><div><table class="MuiTable-root jss722"><colgroup><col></colgroup>
+<tbody class="MuiTableBody-root"><tr class="MuiTableRow-root">
+<td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Titoli insoluti una mensilita'</h2>
+</div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">2</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span></button>
+</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Quietanze RE</h2></div></div>
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">38588</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span>
+</button></td></tr><tr class="MuiTableRow-root">
+<td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Titoli Vita in Arretrato</h2></div>
+</div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">9702</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span>
+</button></td></tr><tr class="MuiTableRow-root">
+<td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Situazione titoli al legale</h2></div>
+</div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">15896</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span>
+</button></td></tr><tr class="MuiTableRow-root">
+<td class="MuiTableCell-root MuiTableCell-body jss739 jss743" colspan="1" height="16em">
+<button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button">
+<span class="MuiButton-label"><div>
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div><div class="MuiGrid-root MuiGrid-container">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1"><div>
+<div>
+<div>
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorPrimary Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" id="homePin" aria-label="params">
+<span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PushPinOutlinedIcon">
+<path d="M14 4v5c0 1.12.37 2.16 1 3H9c.65-.86 1-1.9 1-3V4zm3-2H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3V4h1c.55 0 1-.45 1-1s-.45-1-1-1">
+</path></svg></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">Polizze in Scadenza Auto e RE</h2></div>
+</div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"><div>
+<div>
+<h2 class="MuiTypography-root MuiTypography-h2">36276</h2></div></div></div></div></div></div></div></span><span class="MuiTouchRipple-root"></span>
+</button></td></tr></tbody></table></div></div><div class="jss729" id="home_pagingPanel"><div class="jss730"><span class="jss731">1-5 di 8</span>
+<button class="MuiButtonBase-root MuiIconButton-root jss734 jss735 Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" aria-label="Previous">
+<span class="MuiIconButton-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z">
+</path></svg></span></button><button class="MuiButtonBase-root MuiButton-root MuiButton-text jss732 jss733" tabindex="-1" type="button"><span class="MuiButton-label">1</span>
+<span class="MuiTouchRipple-root"></span></button><button class="MuiButtonBase-root MuiButton-root MuiButton-text jss732" tabindex="0" type="button"><span class="MuiButton-label">
+2</span><span class="MuiTouchRipple-root"></span></button><button class="MuiButtonBase-root MuiIconButton-root jss734 jss736" tabindex="0" type="button" aria-label="Next">
+<span class="MuiIconButton-label"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z">
+</path></svg></span><span class="MuiTouchRipple-root"></span></button></div></div></div></div></div></div></div></div></div></div></div></div>
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4">
+<div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"><div>
+<div>
+<div>
+<h1 class="MuiTypography-root MuiTypography-h1">EMISSIONI FAST</h1></div><div class="MuiTabs-root">
+<div class="MuiTabs-scroller MuiTabs-fixed"><div class="MuiTabs-flexContainer" role="tablist">
+<button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit Mui-selected MuiTab-fullWidth" tabindex="0" type="button" role="tab" aria-selected="true"><span class="MuiTab-wrapper">
+<img alt="" src="/uefa/static/media/fastmotor/motor.svg"></span>
+<span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit MuiTab-fullWidth" tabindex="-1" type="button" role="tab" aria-selected="false"><span class="MuiTab-wrapper">
+<img alt="" src="/uefa/static/media/fastmotor/casa.svg"></span>
+<span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit MuiTab-fullWidth" tabindex="-1" type="button" role="tab" aria-selected="false"><span class="MuiTab-wrapper">
+<img alt="" src="/uefa/static/media/fastmotor/infortuni.svg">
+</span><span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit MuiTab-fullWidth" tabindex="-1" type="button" role="tab" aria-selected="false"><span class="MuiTab-wrapper">
+<img alt="" src="/uefa/static/media/fastmotor/imprese.svg"></span>
+<span class="MuiTouchRipple-root"></span></button>
+<button class="MuiButtonBase-root MuiTab-root MuiTab-textColorInherit MuiTab-fullWidth" tabindex="-1" type="button" role="tab" aria-selected="false"><span class="MuiTab-wrapper">
+<img alt="" src="/uefa/static/media/fastmotor/nuova-proposta.svg" title="Altri prodotti" class=""></span></button></div>
+<span class="jss610 jss612 MuiTabs-indicator"></span></div></div></div>
+<div>
+<div role="tabpanel" id="wrapped-tabpanel-auto" aria-labelledby="wrapped-tab-auto"><div>
+<div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2">
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div>
+<h1 class="MuiTypography-root MuiTypography-h1">Motor</h1></div></div>
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiAutocomplete-root jss614 MuiAutocomplete-hasPopupIcon css-1x2yqpz">
+<div class="MuiFormControl-root MuiTextField-root jss615 MuiFormControl-fullWidth" title="Nodo Agenzia">
+<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined" data-shrink="false" for="nodo" id="nodo-label">
+Nodo Agenzia</label>
+<div class="MuiInputBase-root MuiOutlinedInput-root MuiAutocomplete-inputRoot MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd">
+<input aria-invalid="false" autocomplete="off" id="nodo" type="text"
+class="MuiInputBase-input MuiOutlinedInput-input MuiAutocomplete-input MuiAutocomplete-inputFocused MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+aria-autocomplete="list" aria-expanded="false" autocapitalize="none" spellcheck="false" role="combobox" value=""><div class="MuiAutocomplete-endAdornment css-mxlkbn">
+<button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator css-uge3vf" tabindex="-1" type="button" aria-label="Open" title="Open">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ArrowDropDownIcon"><path d="M7 10l5 5 5-5z">
+</path></svg><span class="MuiTouchRipple-root css-w0pj6f"></span></button></div><fieldset aria-hidden="true" class="jss616 MuiOutlinedInput-notchedOutline"><legend class="jss618">
+<span>Nodo Agenzia</span></legend></fieldset></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12">
+<div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div class="MuiFormControl-root MuiTextField-root jss620 MuiFormControl-fullWidth" title="N. Targa">
+<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined" data-shrink="false" for="targa" id="targa-label">
+N. Targa</label><div class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl">
+<input aria-invalid="false" id="targa" name="targa" type="text" class="MuiInputBase-input MuiOutlinedInput-input" value="">
+<fieldset aria-hidden="true" class="jss616 MuiOutlinedInput-notchedOutline"><legend class="jss618"><span>N. Targa</span></legend></fieldset></div></div></div>
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"><div role="group" class="MuiToggleButtonGroup-root css-7rg7fp" aria-label="text alignment">
+button class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root jss621 Mui-selected MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButtonGroup-firstButton css-q5cu77"
+tabindex="0" type="button" value="targa" aria-pressed="true">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="DirectionsCarFilledOutlinedIcon"
+aria-label="N. Targa">
+<path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8zM6.85 7h10.29l1.04 3H5.81zM19 17H5v-5h14z">
+</path><circle cx="7.5" cy="14.5" r="1.5"></circle><circle cx="16.5" cy="14.5" r="1.5"></circle></svg><span class="MuiTouchRipple-root css-w0pj6f"></span></button>
+button class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root jss621 MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButtonGroup-lastButton css-q5cu77"
+tabindex="0" type="button" value="telaio" aria-pressed="false">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="AgricultureIcon" aria-label="N. Telaio"><path
+d="M19.5 12c.93 0 1.78.28 2.5.76V8c0-1.1-.9-2-2-2h-6.29l-1.06-1.06 1.41-1.41-.71-.71-3.53 3.53.71.71 1.41-1.41L13 6.71V9c0 1.1-.9 2-2 2h-.54c.95 1.06 1.54 2.46 1.54 4 0 .34-.04.67-.09 1h3.14c.25-2.25 2.14-4 4.45-4">
+</path>
+<path d="M19.5 13c-1.93 0-3.5 1.57-3.5 3.5s1.57 3.5 3.5 3.5 3.5-1.57 3.5-3.5-1.57-3.5-3.5-3.5m0 5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5M4 9h5c0-1.1-.9-2-2-2H4c-.55 0-1 .45-1 1s.45 1 1 1m5.83 4.82-.18-.47.93-.35c-.46-1.06-1.28-1.91-2.31-2.43l-.4.89-.46-.21.4-.9C7.26 10.13 6.64 10 6 10c-.53 0-1.04.11-1.52.26l.34.91-.47.18-.35-.93c-1.06.46-1.91 1.28-2.43 2.31l.89.4-.21.46-.9-.4C1.13 13.74 1 14.36 1 15c0 .53.11 1.04.26 1.52l.91-.34.18.47-.93.35c.46 1.06 1.28 1.91 2.31 2.43l.4-.89.46.21-.4.9c.55.22 1.17.35 1.81.35.53 0 1.04-.11 1.52-.26l-.34-.91.47-.18.35.93c1.06-.46 1.91-1.28 2.43-2.31l-.89-.4.21-.46.9.4c.22-.55.35-1.17.35-1.81 0-.53-.11-1.04-.26-1.52zm-2.68 3.95c-1.53.63-3.29-.09-3.92-1.62-.63-1.53.09-3.29 1.62-3.92 1.53-.63 3.29.09 3.92 1.62.64 1.53-.09 3.29-1.62 3.92">
+</path></svg><span class="MuiTouchRipple-root css-w0pj6f"></span></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12">
+<div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8">
+<div class="MuiFormControl-root jss737 MuiFormControl-fullWidth"><div class="MuiFormControl-root MuiTextField-root jss624 MuiFormControl-fullWidth">
+<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined" data-shrink="false" for="dataNascita"
+id="dataNascita-label">Data Nascita</label>
+<div class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd">
+<input aria-invalid="false" id="dataNascita" placeholder="dd/MM/yyyy" type="text"
+class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd" value="">
+<div class="MuiInputAdornment-root MuiInputAdornment-positionEnd"><button class="MuiButtonBase-root MuiIconButton-root" tabindex="0" type="button"><span class="MuiIconButton-label">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="CalendarTodayIcon">
+<path d="M20 3h-1V1h-2v2H7V1H5v2H4c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m0 18H4V8h16z"></path></svg></span>
+<span class="MuiTouchRipple-root"></span></button></div><fieldset aria-hidden="true" class="jss616 MuiOutlinedInput-notchedOutline"><legend class="jss618"><span>Data Nascita</span>
+</legend></fieldset></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4">
+<div role="group" class="MuiToggleButtonGroup-root css-7rg7fp" aria-label="text alignment">
+button class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root jss625 Mui-selected MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButtonGroup-firstButton css-q5cu77"
+tabindex="0" type="button" value="dataNascita" aria-pressed="true">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="CalendarMonthOutlinedIcon"
+aria-label="Data di Nascita">
+<path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 16H5V10h14zm0-12H5V6h14zM9 14H7v-2h2zm4 0h-2v-2h2zm4 0h-2v-2h2zm-8 4H7v-2h2zm4 0h-2v-2h2zm4 0h-2v-2h2z">
+</path></svg><span class="MuiTouchRipple-root css-w0pj6f"></span></button>
+button class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root jss625 MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButtonGroup-lastButton css-q5cu77"
+tabindex="0" type="button" value="cfPiva" aria-pressed="false">
+<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ContactsOutlinedIcon" aria-label="CF / P.IVA">
+<path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 14H4V6h16zM4 0h16v2H4zm0 22h16v2H4zm8-10c1.38 0 2.5-1.12 2.5-2.5S13.38 7 12 7 9.5 8.12 9.5 9.5 10.62 12 12 12m0-3.5c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1m5 7.49C17 13.9 13.69 13 12 13s-5 .9-5 2.99V17h10zm-8.19-.49c.61-.52 2.03-1 3.19-1 1.17 0 2.59.48 3.2 1z">
+</path></svg><span class="MuiTouchRipple-root css-w0pj6f"></span></button></div></div></div></div></div><div>
+<div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"><label class="MuiFormControlLabel-root"><span class="MuiSwitch-root">
+<span class="MuiButtonBase-root MuiIconButton-root jss626 MuiSwitch-switchBase MuiSwitch-colorPrimary" aria-disabled="false"><span class="MuiIconButton-label">
+<input class="jss629 MuiSwitch-input" name="targheSpeciali" type="checkbox" value=""><span class="MuiSwitch-thumb"></span></span><span class="MuiTouchRipple-root"></span></span>
+<span class="MuiSwitch-track"></span></span><span class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"><p class="MuiTypography-root MuiTypography-body2">
+Targhe speciali</p></span></label></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"><div>
+<button class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-disableElevation Mui-disabled Mui-disabled" tabindex="-1" type="button"
+disabled="" id="fast-motor-trova"><span class="MuiButton-label"><p class="MuiTypography-root MuiTypography-body1">Quota</p></span></button></div></div></div></div></div></div>
+<div role="tabpanel" hidden="" id="wrapped-tabpanel-casa" aria-labelledby="wrapped-tab-casa"></div>
+<div role="tabpanel" hidden="" id="wrapped-tabpanel-infortuni" aria-labelledby="wrapped-tab-infortuni"></div>
+<div role="tabpanel" hidden="" id="wrapped-tabpanel-pmi" aria-labelledby="wrapped-tab-pmi"></div></div></div></div></div></div></div></div>
+<div></div></div></div></div><div id="userpilotContent" key="191684546" theme_id="0">
+<div class="conv-cont userpilot-conv"><div class="canv userpilot-backdrop"></div></div></div><div class="hda-iframe-fix hidden"></div>
+<div id="da_Reloaded_-_UEFA" class="hda-template-reloaded da-bottom-right da-tab da-dark da-input collapsed"><div class="hda-tab-border"></div>
+<a href="javascript:" class="hda-tab hda-backcolor hda-bordercolor hda-custom-icon ui-draggable"><div class="hda-proactive-content"></div>
+<div class="hda-tab-icon"></div></a>
+<div class="hda-container hda-bordercolor"><div class="hda-message-notification hidden"></div><div class="hda-header hda-backcolor hda-unclosable"><div class="hda-menu">
+<div class="hda-close-btn hda-disconnect-button active" onclick="DA.close()" title="Chiudi"></div><div class="hda-minimize-btn active" onclick="DA.toggleVisibility()" title="Riduci"></div>
+<div class="hda-export-btn" onclick="DA.exportChatPDF()" title="Esporta"></div><div class="hda-custom-btn animated-" onclick="DA.sendEvent('')" title=""></div></div>
+<span class="hda-title">UEFA - AI</span></div><div class="hda-chat-body-area"><div id="hda-chat-responseTpl" class="hda-chat-message hda-chat-response unread">
+<div class="hda-message-icon white-bg"><div class="hda-custom-icon"></div></div><div class="hda-message-body">
+<div class="hda-message-arrow"></div><div class="hda-translation-notice"></div><span class="hda-message-sender hda-sender-assistant hda-textcolor"></span>
+<span class="hda-message-sender hda-sender-operator hda-textcolor"><span class="hda-sender-firstname"></span></span><span class="hda-message-text hda-chat-response-text"></span>
+<div class="hda-chat-response-aux-text"></div><div class="hda-chat-response-actions"></div><div class="hda-tooltip hidden"></div><div class="hda-message-footer hidden">
+<span class="hda-feedback"><span class="hda-feedback-text"></span><span class="hda-feedback-entries"></span></span><span class="hda-chat-date"></span></div></div>
+<div class="hda-message-feedback"></div><div class="hda-clear"></div></div><div id="hda-chat-questionTpl" class="hda-chat-message hda-chat-question"><div class="hda-message-icon"></div>
+<div class="hda-message-body hda-backcolor"><div class="hda-relative"><div class="hda-message-arrow hda-bordercolor"></div></div><span class="hda-message-sender hda-textcolor"></span>
+<span class="hda-message-text hda-chat-question-text"></span><div class="hda-message-footer hidden"><span class="hda-chat-date"></span><div class="hda-message-sent" title=""></div></div>
+</div><div class="hda-clear"></div></div><div id="hda-chat-eventTpl" class="hda-chat-message hda-chat-event"><div class="hda-message-icon"><div class="hda-ie8 hda-backcolor"></div>
+</div><div class="hda-message-customicon"></div><div class="hda-message-body"><div class="hda-message-arrow"></div><span class="hda-message-sender"></span>
+<span class="hda-message-text hda-chat-event-text"></span><div class="hda-message-footer hidden"><span class="hda-chat-date"></span></div></div><div class="hda-clear"></div></div>
+<div class="hda-chat-scroller"><div>
+<div class="hda-chat-message hda-chat-response unread assistant" data-uuid="c3580302-5c2e-4f01-b9cb-9fe8730dfab7" data-key="UEFA_MENU_ASS_VIRT"><div class="hda-message-icon white-bg">
+<div class="hda-custom-icon"></div></div><div class="hda-message-body"><div class="hda-message-arrow"></div>
+<div class="hda-translation-notice"></div><span class="hda-message-sender hda-sender-assistant hda-textcolor"></span>
+<span class="hda-message-sender hda-sender-operator hda-textcolor"><span class="hda-sender-firstname"></span></span><span class="hda-message-text hda-chat-response-text"></span>
+<div class="hda-chat-response-aux-text">Ciao !<br>Sono <b>Elisa</b>, la tua assistente virtuale.
+Sono qui per aiutarti! Puoi:<br><ul><li>Digitare direttamente la tua domanda.</li><li>Aprire un ticket di assistenza.</li><li>
+Chiedere lo stato di avanzamento di un ticket aperto.</li><li>Consultare le&nbsp;<a href="https://servicedesk.hdia.it/TouchPortal/#/Page/FaqUEFA" target="_blank">FAQ UEFA</a></li>
+</ul>Puoi scrivere ad esempio:<ul><li>Lista ticket<br></li><li>Stato ticket</li><li><id>Sollecito ticket</id></li><li>"Ciao" per una nuova chat</li></ul>Scrivimi pure!<br><br></div>
+<div class="hda-chat-response-actions"></div><div class="hda-tooltip hidden"></div><div class="hda-message-footer hidden">
+<span class="hda-feedback" data-uuid="c3580302-5c2e-4f01-b9cb-9fe8730dfab7"><span class="hda-feedback-text"></span><span class="hda-feedback-entries"></span></span>
+<span class="hda-chat-date">21:17:45</span></div></div><div class="hda-message-feedback"></div><div class="hda-clear"></div></div></div>
+<div class="iScrollVerticalScrollbar iScrollLoneScrollbar">
+<div class="iScrollIndicator">
+</div></div></div><div class="hda-fader hda-fader-top hidden"></div><div class="hda-fader hda-fader-bottom hidden"></div><div class="hda-composing-message hda-backcolor">
+L'operatore sta scrivendo...</div></div><div class="hda-chat-input"><div class="hda-countdown hidden"></div><div class="hda-send-button"></div><div class="hda-upload-container">
+<div class="hda-upload-progress-container"><div class="hda-upload-progress-bar hda-backcolor"></div></div><div class="hda-upload-status">Select file</div>
+<div class="hda-upload-error"></div><div class="hda-upload-drop"><label for="hda-file" class="hda-upload-icon hidden"></label>
+<input class="hda-upload-field" id="hda-file" type="file"><input class="hda-upload-send-button" type="button" value="Send"></div></div>
+<textarea maxlength="500" class="hda-input-field hda-bordercolor hda-active" placeholder="Come posso aiutarti?"></textarea><div class="hda-input-microphone"></div>
+<div class="hda-powered" onclick="window.open('https://www.pat.eu/en/products/engagent/', '_blank')">Powered by Engagent</div></div></div></div>
+<div userpilotid="98" id="userpilotContentNative">
+<div id="userpilotContentContainer">
+<iframe id="userpilotContentNativeIframe" key="191684546" title="Spotlight"
+cd_frame_id_="0e0329e9f311612e401a3abd5516ee2c"></iframe></div></div>
+<div userpilotid="96" id="userpilotContentNative">
+<div id="userpilotContentContainer">
+<iframe id="userpilotContentNativeIframe" key="191684546" title="Spotlight"
+cd_frame_id_="9ec34e1ec58fa1b0dbda0002b7f166a5"></iframe></div></div>
+<div userpilotid="135" id="userpilotContentNative">
+<div id="userpilotContentContainer">
+<iframe id="userpilotContentNativeIframe" key="191684546" title="Spotlight"
+cd_frame_id_="6232020318d5d5c7f264f0beb63e9e53"></iframe></div></div>
+<div userpilotid="133" id="userpilotContentNative">
+<div id="userpilotContentContainer">
+<iframe id="userpilotContentNativeIframe" key="191684546" title="Spotlight"
+cd_frame_id_="24e767eff70b9e54a7aba794c08336b5"></iframe></div></div>
