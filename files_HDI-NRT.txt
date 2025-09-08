@@ -53,7 +53,7 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.ibt
 [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.ibt
 [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.rpt
 [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.ibt , [FILE] Scenari/ROBOT/Autorizza cedole.ibt
 [FILE] Scenari/ROBOT/campus.ibt , [FILE] Scenari/ROBOT/Conferma Riscatto.ibt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.ibt , [FILE] Scenari/ROBOT/Scadenze.ibt
 [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.ibt , [FILE] Scenari/ROBOT/PICO/Estinzioni Finanziarie.ibt , [FILE] Scenari/ROBOT/PICO/Estinzioni Parziali Sella.ibt
