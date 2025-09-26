@@ -43,25 +43,25 @@ Le sottocartelle della cartella Scenari sono:
 [DIR] Scenari/UNICO/VITA/EMISSIONI/CBA , [DIR] Scenari/UNICO/VITA/EMISSIONI/HDI , [DIR] Scenari/WSO2/DANNI , [DIR] Scenari/WSO2/VITA , [DIR] Scenari/WSO2/DANNI/EMISSIONI
 [DIR] Scenari/WSO2/DANNI/POSTVENDITA , [DIR] Scenari/WSO2/VITA/EMISSIONI , [DIR] Scenari/WSO2/VITA/EMISSIONI/HDI
 I file presenti nella cartella Scenari e sottocartelle sono : 
-[FILE] Scenari/ambienteDiSviluppo.ibt , [FILE] Scenari/Schedulazione Avvio Processo Short Vita.ibt , [FILE] Scenari/Schedulazione Avvio Processo Short Vita.rpt
-[FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.rpt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.rpt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Annullo Conto Vendita - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.rpt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Annullo Generico.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.rpt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.ibt
-[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/Quitenanziamento.ibt
-[FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.rpt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.ibt
-[FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.rpt , [FILE] Scenari/ROBOT/Autorizza cedole.ibt , [FILE] Scenari/ROBOT/Autorizza cedole.rpt , [FILE] Scenari/ROBOT/campus.ibt
-[FILE] Scenari/ROBOT/campus.rpt , [FILE] Scenari/ROBOT/Conferma Riscatto.ibt , [FILE] Scenari/ROBOT/Conferma Riscatto.rpt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.ibt
-[FILE] Scenari/ROBOT/Estinzione Anticipata TCM.rpt , [FILE] Scenari/ROBOT/Scadenze.ibt , [FILE] Scenari/ROBOT/Scadenze.rpt , [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.ibt
+[FILE] Scenari/Schedulazione Avvio Processo Short Vita.ibt , [FILE] Scenari/Schedulazione Avvio Processo Short Vita.rpt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt
+[FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.rpt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.rpt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Annullo Conto Vendita - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.rpt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Annullo Generico.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.rpt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.ibt
+[FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt
+[FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/Quitenanziamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.ibt
+[FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.rpt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.rpt
+[FILE] Scenari/ROBOT/Autorizza cedole.ibt , [FILE] Scenari/ROBOT/Autorizza cedole.rpt , [FILE] Scenari/ROBOT/campus.ibt , [FILE] Scenari/ROBOT/campus.rpt
+[FILE] Scenari/ROBOT/Conferma Riscatto.ibt , [FILE] Scenari/ROBOT/Conferma Riscatto.rpt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.ibt , [FILE] Scenari/ROBOT/Estinzione Anticipata TCM.rpt
+[FILE] Scenari/ROBOT/Scadenze.ibt , [FILE] Scenari/ROBOT/Scadenze.rpt , [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.ibt
 [FILE] Scenari/ROBOT/Versamenti aggiuntivi premi periodici.rpt , [FILE] Scenari/ROBOT/PICO/Estinzioni Finanziarie.ibt , [FILE] Scenari/ROBOT/PICO/Estinzioni Finanziarie.rpt
 [FILE] Scenari/ROBOT/PICO/Estinzioni Parziali Sella.ibt , [FILE] Scenari/ROBOT/PICO/Estinzioni Parziali Sella.rpt , [FILE] Scenari/ROBOT/PICO/Estinzioni Totali Sella.ibt
 [FILE] Scenari/ROBOT/PICO/Estinzioni Totali Sella.rpt , [FILE] Scenari/ROBOT/PICO/PICO_Finanziaria.files , [FILE] Scenari/ROBOT/PICO/PICO_Sella_Parziali.files
@@ -93,9 +93,9 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto - UEFA.rpt
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Annuale TR - Sospensione e Annullo per Vendita - UEFA.ibt
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Annuale TR - Sospensione e Annullo per Vendita - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA.ibt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa off-line.ibt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.rpt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.rpt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - UEFA.ibt
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - UEFA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - UEFA.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - UEFA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Casa e Famiglia - UEFA.ibt
@@ -418,47 +418,47 @@ Le sottocartelle della cartella Moduli sono:
 [DIR] Moduli/UNICO/VITA/XML BANCA SELLA , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA , [DIR] Moduli/UNICO/VITA/EMISSIONI/HDI , [DIR] Moduli/WSO2/DANNI , [DIR] Moduli/WSO2/VITA
 [DIR] Moduli/WSO2/DANNI/EMISSIONI , [DIR] Moduli/WSO2/DANNI/POSTVENDITA , [DIR] Moduli/WSO2/VITA/EMISSIONI , [DIR] Moduli/WSO2/VITA/EMISSIONI/HDI
 I file presenti nella cartella Moduli e sottocartelle sono : 
-[FILE] Moduli/ambientedisviluppo.json , [FILE] Moduli/Consultazione Documenti Firma Digitale - Full UEFA.json , [FILE] Moduli/Consultazione Documenti Firma Digitale - UEFA.json
-[FILE] Moduli/fine estinzione polizze.copiacomeexe , [FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/LibreriaUefa.json , [FILE] Moduli/Newtonsoft.Json.copiacomedll
-[FILE] Moduli/Newtonsoft.Json.dll , [FILE] Moduli/Protezione Media Impresa - WSO2.json , [FILE] Moduli/Quitenanziamento.json , [FILE] Moduli/Repertorio Gare - WSO2.json
-[FILE] Moduli/Schedulazione Avvio Processo Short Vita.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Annullo Generico.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.json , [FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto - UEFA.json
-[FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto.json , [FILE] Moduli/MODULI COMUNI/DANNI/DelegatoTitolareAssicurato.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaFisica.json
-[FILE] Moduli/MODULI COMUNI/DANNI/PersonaGiuridica.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - WSO2.json
-[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDDSos.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettofisico2.json
-[FILE] Moduli/MODULI COMUNI/DANNI/soggettogiuridico.json , [FILE] Moduli/MODULI COMUNI/ROBOT/HAWK Persona Fisica.json , [FILE] Moduli/MODULI COMUNI/VITA/HAWK Persona Fisica.json
-[FILE] Moduli/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.json , [FILE] Moduli/POSTRIBALTAMENTO/Post Ribaltamento.json , [FILE] Moduli/ROBOT/campus.json
-[FILE] Moduli/ROBOT/Conferma Riscatto.json , [FILE] Moduli/ROBOT/Estinzione Anticipata TCM.json , [FILE] Moduli/ROBOT/Liquidazione Cedola (autorizza).json
-[FILE] Moduli/ROBOT/robottini-Scadenze.json , [FILE] Moduli/ROBOT/versamenti aggiuntivi premi periodici.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Finanziarie.json
-[FILE] Moduli/ROBOT/PICO/Estinzioni Parziali Sella.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Totali Sella.json , [FILE] Moduli/ROBOT/PICO/ROBOT/PICO/PICO_Finanziaria.json
-[FILE] Moduli/SCENARI COMUNI/Chiusura FC - UEFA.json , [FILE] Moduli/SCENARI COMUNI/Chiusura Foglio Cassa - UEFA.json , [FILE] Moduli/SCENARI COMUNI/Completamento Anagrafica.json
-[FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json , [FILE] Moduli/SCENARI COMUNI/DemandsAndNeeds.json
-[FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json , [FILE] Moduli/SCENARI COMUNI/ModificaAnagrafica.json
-[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - WSO2.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json
-[FILE] Moduli/SCENARI COMUNI/PortafoglioIDDSos.json , [FILE] Moduli/SCENARI COMUNI/Questionario Sanitario.json , [FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso maggiore di 5000.json
-[FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso minore di 5000.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo Movimento.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo.json
-[FILE] Moduli/STAMPE/Ristampa Documenti Danni - UEFA.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni.json , [FILE] Moduli/STAMPE/Ristampe.json
-[FILE] Moduli/STAMPE/Servlet Stampe Firma Digitale.json , [FILE] Moduli/UEFA/ANAGRAFICA/controllo digitalizzazione consensi - uefa.json
-[FILE] Moduli/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto FISICO - UEFA.json
-[FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto GIURIDICO - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica - UEFA.json
-[FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica soggetto FISICO - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica soggetto GIURIDICO - UEFA.json
-[FILE] Moduli/UEFA/ANAGRAFICA/Inserimento assicurato Prodotti Fast RE - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni - UEFA.json
+[FILE] Moduli/Consultazione Documenti Firma Digitale - Full UEFA.json , [FILE] Moduli/Consultazione Documenti Firma Digitale - UEFA.json , [FILE] Moduli/fine estinzione polizze.copiacomeexe
+[FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/LibreriaUefa.json , [FILE] Moduli/Newtonsoft.Json.copiacomedll , [FILE] Moduli/Newtonsoft.Json.dll
+[FILE] Moduli/Protezione Media Impresa - WSO2.json , [FILE] Moduli/Quitenanziamento.json , [FILE] Moduli/Repertorio Gare - WSO2.json , [FILE] Moduli/Schedulazione Avvio Processo Short Vita.json
+[FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Annullo Generico.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.json
+[FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto.json
+[FILE] Moduli/MODULI COMUNI/DANNI/DelegatoTitolareAssicurato.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaFisica.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaGiuridica.json
+[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - WSO2.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json
+[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDDSos.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettofisico2.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettogiuridico.json
+[FILE] Moduli/MODULI COMUNI/ROBOT/HAWK Persona Fisica.json , [FILE] Moduli/MODULI COMUNI/VITA/HAWK Persona Fisica.json , [FILE] Moduli/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.json
+[FILE] Moduli/POSTRIBALTAMENTO/Post Ribaltamento.json , [FILE] Moduli/ROBOT/campus.json , [FILE] Moduli/ROBOT/Conferma Riscatto.json , [FILE] Moduli/ROBOT/Estinzione Anticipata TCM.json
+[FILE] Moduli/ROBOT/Liquidazione Cedola (autorizza).json , [FILE] Moduli/ROBOT/robottini-Scadenze.json , [FILE] Moduli/ROBOT/versamenti aggiuntivi premi periodici.json
+[FILE] Moduli/ROBOT/PICO/Estinzioni Finanziarie.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Parziali Sella.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Totali Sella.json
+[FILE] Moduli/ROBOT/PICO/ROBOT/PICO/PICO_Finanziaria.json , [FILE] Moduli/SCENARI COMUNI/Chiusura FC - UEFA.json , [FILE] Moduli/SCENARI COMUNI/Chiusura Foglio Cassa - UEFA.json
+[FILE] Moduli/SCENARI COMUNI/Completamento Anagrafica.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json
+[FILE] Moduli/SCENARI COMUNI/DemandsAndNeeds.json , [FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json
+[FILE] Moduli/SCENARI COMUNI/ModificaAnagrafica.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - WSO2.json
+[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDDSos.json , [FILE] Moduli/SCENARI COMUNI/Questionario Sanitario.json
+[FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso maggiore di 5000.json , [FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso minore di 5000.json
+[FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo Movimento.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni - UEFA.json
+[FILE] Moduli/STAMPE/Ristampa Documenti Danni.json , [FILE] Moduli/STAMPE/Ristampe.json , [FILE] Moduli/STAMPE/Servlet Stampe Firma Digitale.json
+[FILE] Moduli/UEFA/ANAGRAFICA/controllo digitalizzazione consensi - uefa.json , [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento - UEFA.json
+[FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto FISICO - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto GIURIDICO - UEFA.json
+[FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica soggetto FISICO - UEFA.json
+[FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica soggetto GIURIDICO - UEFA.json , [FILE] Moduli/UEFA/ANAGRAFICA/Inserimento assicurato Prodotti Fast RE - UEFA.json
+[FILE] Moduli/UEFA/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni - UEFA.json
 [FILE] Moduli/UEFA/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni soggetto FISICO - UEFA.json
 [FILE] Moduli/UEFA/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni soggetto GIURIDICO - UEFA.json
 [FILE] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA.json
 [FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Annuale TR - Sospensione e Annullo per Vendita - UEFA.json , [FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA.json
-[FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa off-line.json , [FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.json
-[FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.json , [FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.json
+[FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.json , [FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.json
+[FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - UEFA.json , [FILE] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.json
 [FILE] Moduli/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - UEFA.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI/C.A.R Merloni - UEFA.json
 [FILE] Moduli/UEFA/DANNI/EMISSIONI/Casa e Famiglia - UEFA.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI/Cauzioni - UEFA.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA.json
 [FILE] Moduli/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA.json , [FILE] Moduli/UEFA/DANNI/EMISSIONI/Globale Casa 2019 - UEFA.json
@@ -700,8 +700,10 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno titolo a foglio cassa aperto - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Annuale TR - Sospensione e Annullo per Vendita - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA (Def).mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa off-line (def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA (Def).mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - UEFA (def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - UEFA (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Casa e Famiglia - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Cauzioni - UEFA (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA (Def).mask
