@@ -39,9 +39,9 @@ Le sottocartelle della cartella Scenari sono:
 [DIR] Scenari/UNICO/DANNI/EMISSIONI , [DIR] Scenari/UNICO/DANNI/POSTVENDITA , [DIR] Scenari/UNICO/VITA/EMISSIONI , [DIR] Scenari/UNICO/VITA/EMISSIONI/CBA , [DIR] Scenari/VITA/CBA
 [DIR] Scenari/VITA/Cedole , [DIR] Scenari/VITA/Emissioni CBA , [DIR] Scenari/VITA/Emissioni HDI , [DIR] Scenari/VITA/PostVendita , [DIR] Scenari/VITA/Scadenze
 I file presenti nella cartella Scenari e sottocartelle sono : 
-[FILE] Scenari/ambienteDiSviluppo.ibt , [FILE] Scenari/casitest.rpt , [FILE] Scenari/debug.ibt , [FILE] Scenari/demoI_ACAD.ibt , [FILE] Scenari/demoI_ACAD.rpt , [FILE] Scenari/dialog_hdi.rpt
-[FILE] Scenari/embed pdf.ibt , [FILE] Scenari/esempio.rpt , [FILE] Scenari/estinzione polizza - Collaudo.ibt , [FILE] Scenari/estinzione polizza - Collaudo.rpt
-[FILE] Scenari/estinzione polizza.ibt , [FILE] Scenari/estinzione polizza.rpt , [FILE] Scenari/estinzione polizze cumulative - Collaudo.iabatpkt
+[FILE] Scenari/ambienteDiSviluppo.ibt , [FILE] Scenari/casitest.rpt , [FILE] Scenari/debug.ibt , [FILE] Scenari/debug.rpt , [FILE] Scenari/demoI_ACAD.ibt , [FILE] Scenari/demoI_ACAD.rpt
+[FILE] Scenari/dialog_hdi.rpt , [FILE] Scenari/embed pdf.ibt , [FILE] Scenari/embed pdf.rpt , [FILE] Scenari/esempio.rpt , [FILE] Scenari/estinzione polizza - Collaudo.ibt
+[FILE] Scenari/estinzione polizza - Collaudo.rpt , [FILE] Scenari/estinzione polizza.ibt , [FILE] Scenari/estinzione polizza.rpt , [FILE] Scenari/estinzione polizze cumulative - Collaudo.iabatpkt
 [FILE] Scenari/estinzione polizze cumulative - Collaudo.ibt , [FILE] Scenari/estinzione polizze cumulative - Collaudo.rpt , [FILE] Scenari/FastMotor.rpt , [FILE] Scenari/garmin.rpt
 [FILE] Scenari/già.rpt , [FILE] Scenari/IM.rpt , [FILE] Scenari/loginFlow.ibt , [FILE] Scenari/mockdettaglio.ibt , [FILE] Scenari/mockdettaglio.rpt , [FILE] Scenari/monitor.ibt
 [FILE] Scenari/monitor.rpt , [FILE] Scenari/OS2.ibt , [FILE] Scenari/outlook.ibt , [FILE] Scenari/outlook2.ibt , [FILE] Scenari/RistampaPolizza ASSIMOCO.ibt , [FILE] Scenari/RistampaPolizza.ibt
@@ -119,10 +119,10 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/WEBTEST/saucedemo.rpt
 
 Le sottocartelle della cartella Moduli sono:
-[DIR] Moduli/ANAGRAFICA , [DIR] Moduli/Cedole , [DIR] Moduli/CONTROLLI CONTABILI , [DIR] Moduli/DANNI , [DIR] Moduli/de , [DIR] Moduli/Debug , [DIR] Moduli/DEMO , [DIR] Moduli/ELABORAZIONI_VARIE
-[DIR] Moduli/MODULI COMUNI , [DIR] Moduli/Nuova cartella , [DIR] Moduli/Nuovi (As) , [DIR] Moduli/SCENARI COMUNI , [DIR] Moduli/STAMPE , [DIR] Moduli/TuoValore , [DIR] Moduli/UEFA
-[DIR] Moduli/UNICO , [DIR] Moduli/VITA , [DIR] Moduli/x64 , [DIR] Moduli/x86 , [DIR] Moduli/CONTROLLI CONTABILI/Incassi , [DIR] Moduli/DANNI/Emissioni , [DIR] Moduli/DANNI/PostVendita
-[DIR] Moduli/MODULI COMUNI/DANNI , [DIR] Moduli/UEFA/ANAGRAFICA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI , [DIR] Moduli/UEFA/DANNI , [DIR] Moduli/UEFA/VITA
+[DIR] Moduli/ANAGRAFICA , [DIR] Moduli/AUTO , [DIR] Moduli/Campus , [DIR] Moduli/Cedole , [DIR] Moduli/CONTROLLI CONTABILI , [DIR] Moduli/DANNI , [DIR] Moduli/de , [DIR] Moduli/Debug
+[DIR] Moduli/DEMO , [DIR] Moduli/ELABORAZIONI_VARIE , [DIR] Moduli/MODULI COMUNI , [DIR] Moduli/Nuova cartella , [DIR] Moduli/Nuovi (As) , [DIR] Moduli/SCENARI COMUNI , [DIR] Moduli/STAMPE
+[DIR] Moduli/TuoValore , [DIR] Moduli/UEFA , [DIR] Moduli/UNICO , [DIR] Moduli/VITA , [DIR] Moduli/x64 , [DIR] Moduli/x86 , [DIR] Moduli/CONTROLLI CONTABILI/Incassi , [DIR] Moduli/DANNI/Emissioni
+[DIR] Moduli/DANNI/PostVendita , [DIR] Moduli/MODULI COMUNI/DANNI , [DIR] Moduli/UEFA/ANAGRAFICA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI , [DIR] Moduli/UEFA/DANNI , [DIR] Moduli/UEFA/VITA
 [DIR] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Moduli/UEFA/DANNI/EMISSIONI , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST , [DIR] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA
 [DIR] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Moduli/UEFA/VITA/EMISSIONI , [DIR] Moduli/UEFA/VITA/EMISSIONI/HDI , [DIR] Moduli/UNICO/DANNI , [DIR] Moduli/UNICO/VITA
 [DIR] Moduli/UNICO/DANNI/EMISSIONI , [DIR] Moduli/UNICO/DANNI/POSTVENDITA , [DIR] Moduli/UNICO/VITA/EMISSIONI , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA , [DIR] Moduli/VITA/Emissioni CBA
@@ -308,17 +308,18 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 
 Le sottocartelle della cartella Fogli Excel sono:
 [DIR] Fogli Excel/Cedole , [DIR] Fogli Excel/DATI , [DIR] Fogli Excel/Debug , [DIR] Fogli Excel/DEFINIZIONI , [DIR] Fogli Excel/DEMO , [DIR] Fogli Excel/Nuovi , [DIR] Fogli Excel/Nuovi (as)
-[DIR] Fogli Excel/OLD , [DIR] Fogli Excel/save , [DIR] Fogli Excel/test , [DIR] Fogli Excel/DATI/DANNI , [DIR] Fogli Excel/DATI/singola , [DIR] Fogli Excel/DATI/VITA
-[DIR] Fogli Excel/DATI/DANNI/Emissioni , [DIR] Fogli Excel/DATI/DANNI/PostVendita , [DIR] Fogli Excel/DATI/VITA/PostVendita , [DIR] Fogli Excel/DEFINIZIONI/ANAGRAFICA
-[DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI , [DIR] Fogli Excel/DEFINIZIONI/DANNI , [DIR] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE , [DIR] Fogli Excel/DEFINIZIONI/SCENARI COMUNI
-[DIR] Fogli Excel/DEFINIZIONI/STAMPE , [DIR] Fogli Excel/DEFINIZIONI/UEFA , [DIR] Fogli Excel/DEFINIZIONI/UNICO , [DIR] Fogli Excel/DEFINIZIONI/VITA
-[DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi , [DIR] Fogli Excel/DEFINIZIONI/DANNI/Emissioni , [DIR] Fogli Excel/DEFINIZIONI/DANNI/PostVendita
-[DIR] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA
-[DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST
-[DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI
-[DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA , [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI
-[DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA
-[DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA , [DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI , [DIR] Fogli Excel/DEFINIZIONI/VITA/PostVendita
+[DIR] Fogli Excel/OLD , [DIR] Fogli Excel/save , [DIR] Fogli Excel/test , [DIR] Fogli Excel/UEFA , [DIR] Fogli Excel/DATI/ANAGRAFICA , [DIR] Fogli Excel/DATI/DANNI , [DIR] Fogli Excel/DATI/singola
+[DIR] Fogli Excel/DATI/VITA , [DIR] Fogli Excel/DATI/DANNI/Emissioni , [DIR] Fogli Excel/DATI/DANNI/PostVendita , [DIR] Fogli Excel/DATI/VITA/PostVendita , [DIR] Fogli Excel/DEFINIZIONI/ANAGRAFICA
+[DIR] Fogli Excel/DEFINIZIONI/AUTO , [DIR] Fogli Excel/DEFINIZIONI/Campus , [DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI , [DIR] Fogli Excel/DEFINIZIONI/DANNI
+[DIR] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE , [DIR] Fogli Excel/DEFINIZIONI/SCENARI COMUNI , [DIR] Fogli Excel/DEFINIZIONI/STAMPE , [DIR] Fogli Excel/DEFINIZIONI/UEFA
+[DIR] Fogli Excel/DEFINIZIONI/UNICO , [DIR] Fogli Excel/DEFINIZIONI/VITA , [DIR] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi , [DIR] Fogli Excel/DEFINIZIONI/DANNI/Emissioni
+[DIR] Fogli Excel/DEFINIZIONI/DANNI/PostVendita , [DIR] Fogli Excel/DEFINIZIONI/UEFA/ANAGRAFICA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/EMISSIONI FAST , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/POSTVENDITA FULL UEFA , [DIR] Fogli Excel/DEFINIZIONI/UEFA/DANNI/SOSTITUZIONI FULL UEFA
+[DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI , [DIR] Fogli Excel/DEFINIZIONI/UEFA/VITA/EMISSIONI/HDI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA
+[DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/EMISSIONI , [DIR] Fogli Excel/DEFINIZIONI/UNICO/DANNI/POSTVENDITA , [DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI
+[DIR] Fogli Excel/DEFINIZIONI/UNICO/VITA/EMISSIONI/CBA , [DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni CBA , [DIR] Fogli Excel/DEFINIZIONI/VITA/Emissioni HDI
+[DIR] Fogli Excel/DEFINIZIONI/VITA/PostVendita , [DIR] Fogli Excel/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
 I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella Fogli Excel e sottocartelle sono : 
 [FILE] Fogli Excel/ambientedisviluppo.mask , [FILE] Fogli Excel/ambientedisviluppo2.mask , [FILE] Fogli Excel/assimocoautomatico.mask , [FILE] Fogli Excel/casitest.mask
 [FILE] Fogli Excel/connessione pagina demo.mask , [FILE] Fogli Excel/demoIabat.mask , [FILE] Fogli Excel/demoi_acad.mask , [FILE] Fogli Excel/embed pd.mask
