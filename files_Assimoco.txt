@@ -182,118 +182,179 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/Easy Assimoco/Easy Propr. Appartam.Cond.e affitto.ibt , [FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica fisico tedesco.ibt
 [FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica fisico.ibt , [FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica giuridico.ibt , [FILE] Scenari/Flow/CPI/16V Rate Protette Fisico Flow.ibt
 [FILE] Scenari/Flow/CPI/Assicurate Giuridico Flow.xlsx , [FILE] Scenari/Flow/CPI/Rate Protette Giuridico Flow.ibt , [FILE] Scenari/Flow/IBIPS/08V Multiramo Etica Assimoco.ibt
-[FILE] Scenari/Flow/IBIPS/12V MultiAssimoco.ibt , [FILE] Scenari/Flow/IBIPS/21V Sicresce Dinamico Plus.ibt , [FILE] Scenari/Flow/IBIPS/33V SiCresce Sereno Plus.ibt
-[FILE] Scenari/Flow/IBIPS/40V Assolo Moderato Special PG con copertura TFM TFR Collaudo.ibt , [FILE] Scenari/Flow/IBIPS/40v assolo virtuoso pf gerenza collaudo.ibt
-[FILE] Scenari/Flow/IBIPS/40V Assolo Virtuoso PF.ibt , [FILE] Scenari/Flow/IBIPS/40V Assolo Virtuso - Regolamento 38.ibt , [FILE] Scenari/Flow/LTC/Collaudo 36V Long Term Care Raiffeisen.ibt
-[FILE] Scenari/Flow/PATCH/Patch casa fam confort agenzie Raiff flow.mask , [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica fisico TEDESCO.ibt
+[FILE] Scenari/Flow/IBIPS/08V Multiramo Etica Assimoco.rpt , [FILE] Scenari/Flow/IBIPS/12V MultiAssimoco.ibt , [FILE] Scenari/Flow/IBIPS/21V Sicresce Dinamico Plus.ibt
+[FILE] Scenari/Flow/IBIPS/33V SiCresce Sereno Plus.ibt , [FILE] Scenari/Flow/IBIPS/40V Assolo Moderato Special PG con copertura TFM TFR Collaudo.ibt
+[FILE] Scenari/Flow/IBIPS/40V Assolo Moderato Special PG con copertura TFM TFR Collaudo.rpt , [FILE] Scenari/Flow/IBIPS/40v assolo virtuoso pf gerenza collaudo.ibt
+[FILE] Scenari/Flow/IBIPS/40v assolo virtuoso pf gerenza collaudo.rpt , [FILE] Scenari/Flow/IBIPS/40V Assolo Virtuoso PF.ibt , [FILE] Scenari/Flow/IBIPS/40V Assolo Virtuoso PF.rpt
+[FILE] Scenari/Flow/IBIPS/40V Assolo Virtuso - Regolamento 38.ibt , [FILE] Scenari/Flow/IBIPS/40V Assolo Virtuso - Regolamento 38.rpt
+[FILE] Scenari/Flow/LTC/Collaudo 36V Long Term Care Raiffeisen.ibt , [FILE] Scenari/Flow/PATCH/Patch casa fam confort agenzie Raiff flow.mask
+[FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica fisico TEDESCO.ibt , [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica fisico TEDESCO.rpt
 [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica fisico.iabatpkt , [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica fisico.ibt
-[FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica giuridico.iabatpkt , [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica giuridico.ibt
+[FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica fisico.rpt , [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica giuridico.iabatpkt
+[FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica giuridico.ibt , [FILE] Scenari/Flow/PATCH/ANAGRAFICA/Patch Inserimento anagrafica giuridico.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola BZ Flow.iabatpkt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola BZ Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola BZ Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola BZ Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola Flow.ibt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro BZ Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro BZ Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Altri settori - Macchina Agricola Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro BZ Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro BZ Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro BZ Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro Flow.ibt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione BZ Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione BZ Flow.ibt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione autocarro Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione BZ Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione BZ Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione BZ Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli BZ Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli BZ Flow.ibt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli BZ Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Motocicli Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante BZ Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante BZ Flow.ibt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante BZ Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Natante Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Rimorchi BZ Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Rimorchi BZ Flow.ibt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Rimorchi Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova BZ Flow.iabatpkt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova BZ Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova Flow.iabatpkt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop. Flow.iabatpkt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop. Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Rimorchi BZ Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Rimorchi Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Rimorchi Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova BZ Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova BZ Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova BZ Flow.rpt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova Flow.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto emissione Targa Prova Flow.rpt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop. Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop. Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop. Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop.Stessa Comp.FLow.iabatpkt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop.Stessa Comp.FLow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Prima Imm. Bersani da altro veicolo del prop.Stessa Comp.FLow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo di fam.Convivente Flow.iabatpkt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo di fam.Convivente Flow.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo di fam.Convivente Flow.rpt
 [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo stessa Comp Flow.iabatpkt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo stessa Comp Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch emissione auto x Bersani altro veicolo prop.iabatpkt
-[FILE] Scenari/Flow/PATCH/AUTO/Patch emissione auto x Bersani altro veicolo prop.ibt , [FILE] Scenari/Flow/PATCH/CPI/Patch 16V Rate Protette Fisico Flow.ibt
-[FILE] Scenari/Flow/PATCH/CPI/Patch 16V Rate Protette Giuridico Flow.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/33V SiCresce Sereno Plus.ibt
-[FILE] Scenari/Flow/PATCH/IBIPs/Patch 08V Multiramo Etica Assimoco.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 12V MultiAssimoco.ibt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo stessa Comp Flow.ibt , [FILE] Scenari/Flow/PATCH/AUTO/Patch Auto Voltura Bersani da altro veicolo stessa Comp Flow.rpt
+[FILE] Scenari/Flow/PATCH/AUTO/Patch emissione auto x Bersani altro veicolo prop.iabatpkt , [FILE] Scenari/Flow/PATCH/AUTO/Patch emissione auto x Bersani altro veicolo prop.ibt
+[FILE] Scenari/Flow/PATCH/CPI/Patch 16V Rate Protette Fisico Flow.ibt , [FILE] Scenari/Flow/PATCH/CPI/Patch 16V Rate Protette Giuridico Flow.ibt
+[FILE] Scenari/Flow/PATCH/IBIPs/33V SiCresce Sereno Plus.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 08V Multiramo Etica Assimoco.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 12V MultiAssimoco.ibt
 [FILE] Scenari/Flow/PATCH/IBIPs/Patch 21V Sicresce Dinamico Plus.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 33V SiCresce Sereno Plus.ibt
 [FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V  Assolo Virtuso - Regolamento 38.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V Assolo Moderato Special PG con copertura TFM TFR.ibt
-[FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V Assolo virtuoso gerenza pf.ibt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V assolo virtuoso pf.iabatpkt
-[FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V assolo virtuoso pf.ibt , [FILE] Scenari/Flow/PATCH/LTC/Patch 36V Long Term Care Raiffeisen.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Annullamento in giornata Auto.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Correzione ATR.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Rettifica ATR.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sospensione Auto.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sostituzione Auto.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sostituzione Cambio Targa.ibt
+[FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V Assolo Moderato Special PG con copertura TFM TFR.rpt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V Assolo virtuoso gerenza pf.ibt
+[FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V assolo virtuoso pf.iabatpkt , [FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V assolo virtuoso pf.ibt
+[FILE] Scenari/Flow/PATCH/IBIPs/Patch 40V assolo virtuoso pf.rpt , [FILE] Scenari/Flow/PATCH/LTC/Patch 36V Long Term Care Raiffeisen.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Annullamento in giornata Auto.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Annullamento in giornata Auto.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Correzione ATR.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Rettifica ATR.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Rettifica ATR.rpt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sospensione Auto.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sospensione Auto.rpt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sostituzione Auto.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sostituzione Auto.rpt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sostituzione Cambio Targa.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Sostituzione Cambio Targa.rpt
 [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni - Nodo di gestione e dati di pagamento Auto.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni - Nodo di gestione e dati di pagamento Auto.rpt
 [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni - Storno Movimento Auto.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni -Trasferimento Auto.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita CPI/Patch Appendice Dichiarativa CPI.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita CPI/Patch Estinzione Anticipata totale CPI.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Annullo Riscatto Parziale IBIPS.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Apertura Vincolo IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Appendice Dichiarativa IBIPS.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Cambio Contraenza IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Mancato Perfezionamento IBIPS.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Recesso IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Riscatto Parziale IBIPS.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Riscatto Totale Ibips.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Variazioni Beneficiari IBIPS Flow.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni - Storno Movimento Auto.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni -Trasferimento Auto.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita AUTO/Patch Variazione Dati Comuni -Trasferimento Auto.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita CPI/Patch Appendice Dichiarativa CPI.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita CPI/Patch Estinzione Anticipata totale CPI.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Annullo Riscatto Parziale IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Annullo Riscatto Parziale IBIPS.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Apertura Vincolo IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Apertura Vincolo IBIPS.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Appendice Dichiarativa IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Appendice Dichiarativa IBIPS.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Cambio Contraenza IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Cambio Contraenza IBIPS.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Mancato Perfezionamento IBIPS.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Recesso IBIPS.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Recesso IBIPS.rpt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Riscatto Parziale IBIPS.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Riscatto Parziale IBIPS.rpt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Riscatto Totale Ibips.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Riscatto Totale Ibips.rpt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Variazioni Beneficiari IBIPS Flow.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Variazioni Beneficiari IBIPS Flow.rpt
 [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Versamento aggiuntivo IBIPS con titolo non incassato.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Versamento aggiuntivo IBPS con SDD.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Annullo per mancato perfezionamento RE.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Annullo polizza Assiyou.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch annullo polizza RE.iabatpkt
-[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Apertura sinistro re.iabatpkt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Apertura sinistro re.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Sostituzione Polizza RE.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Variazione Generica su Polizza RE.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Annullo Mancato Perfezionamento TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch apertura sinistro vita invalidita.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Apertura Vincolo TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Appendice Dichiarativa TCM.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Cambio Contraenza TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Estinzione Anticipata Parziale TCM.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Prenotazione a rinnovo ( Variaz. capitale) TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Prenotazione rescissione a rinnovo.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Recesso TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Rescissione TCM.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Trasferimento TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Beneficiario TCM.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Capitale TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Frazionamento TCM.ibt
-[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Sovrappremi TCM.ibt , [FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anagrafato CPI e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Versamento aggiuntivo IBIPS con titolo non incassato.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Versamento aggiuntivo IBPS con SDD.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita IBIPS/Patch Versamento aggiuntivo IBPS con SDD.rpt
+[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Annullo per mancato perfezionamento RE.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Annullo polizza Assiyou.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch annullo polizza RE.iabatpkt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Apertura sinistro re.iabatpkt
+[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Apertura sinistro re.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Sostituzione Polizza RE.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita RE/Patch Variazione Generica su Polizza RE.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Annullo Mancato Perfezionamento TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch apertura sinistro vita invalidita.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Apertura Vincolo TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Appendice Dichiarativa TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Cambio Contraenza TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Estinzione Anticipata Parziale TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Prenotazione a rinnovo ( Variaz. capitale) TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Prenotazione rescissione a rinnovo.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Recesso TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Rescissione TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Trasferimento TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Beneficiario TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Capitale TCM.ibt
+[FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Frazionamento TCM.ibt , [FILE] Scenari/Flow/PATCH/Post Vendita TCM/Patch Variazione Sovrappremi TCM.ibt
+[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anagrafato CPI e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anagrafato CPI e Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anagrafato RE e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anonimo RE e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Auto e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo TCM e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH  1FE IMPRESA CON TE FABBRICA.ibt
-[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 13E RC PROFESSIONALE MEDICI.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 15E INCENDIO RISCHI ORDINARI PROPOSTA.ibt
-[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 19E RC IMPRESA INDUSTRIA EDILI.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1HE RIMBORSO SPESE MEDICHE PROPOSTA E TRASFORMAZIONE IN POLIZZA.ibt
-[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1IE RC RAIFF 2021.iabatpkt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1IE RC RAIFF 2021.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 23E RC GENERALE.ibt
-[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 44E TUTELA MULTIRISCHI DANNI.iabatpkt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 44E TUTELA MULTIRISCHI DANNI.ibt
-[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 52E RC PRODOTTI.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH AUTORIZZAZIONE PROPOSTA RE.ibt
+[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anagrafato RE e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anonimo RE e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Anonimo RE e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Auto e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo Auto e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo TCM e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PATCH/PREVENTIVI/Patch Preventivo TCM e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH  1FE IMPRESA CON TE FABBRICA.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 13E RC PROFESSIONALE MEDICI.ibt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 15E INCENDIO RISCHI ORDINARI PROPOSTA.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 15E INCENDIO RISCHI ORDINARI PROPOSTA.rpt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 19E RC IMPRESA INDUSTRIA EDILI.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 19E RC IMPRESA INDUSTRIA EDILI.rpt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1HE RIMBORSO SPESE MEDICHE PROPOSTA E TRASFORMAZIONE IN POLIZZA.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1IE RC RAIFF 2021.iabatpkt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1IE RC RAIFF 2021.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 1IE RC RAIFF 2021.rpt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 23E RC GENERALE.ibt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 23E RC GENERALE.rpt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 44E TUTELA MULTIRISCHI DANNI.iabatpkt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 44E TUTELA MULTIRISCHI DANNI.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 44E TUTELA MULTIRISCHI DANNI.rpt
+[FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 52E RC PRODOTTI.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH 52E RC PRODOTTI.rpt , [FILE] Scenari/Flow/PATCH/PROPOSTE/PATCH AUTORIZZAZIONE PROPOSTA RE.ibt
 [FILE] Scenari/Flow/PATCH/PROPOSTE/Patch Proposta 16V Rate Protette Fisico Flow.ibt , [FILE] Scenari/Flow/PATCH/PROPOSTE/Patch Proposta CPI Autorizzazione e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow/PATCH/PROPOSTE/Patch Proposta TCM a seguito delle risposte fornite al questionario sanitario.ibt
 [FILE] Scenari/Flow/PATCH/PROPOSTE/Patch Proposta TCM con  Dichiarazione persona politicamente esposta.ibt
 [FILE] Scenari/Flow/PATCH/PROPOSTE/Patch Proposta TCM risposte fornite al questionario sanitario e Trasformazione in Polizza e Mancato Perfezionamento.ibt
 [FILE] Scenari/Flow/PATCH/PROPOSTE/Patch Trasformazione Proposta AssiHelp.ibt , [FILE] Scenari/Flow/PATCH/RE/Agricoltura/Patch 08E Agricoltore sereno Raiff Flow.iabatpkt
 [FILE] Scenari/Flow/PATCH/RE/Agricoltura/Patch 08E Agricoltore sereno Raiff Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 1PE Sciatore Raiff.ibt
-[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 48E Protezione mutuo incendio.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 65E Fotovoltaico Protetto.ibt
-[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 67E Multirischio Fotovoltaico.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 78E MULTIRISCHI ABITAZIONE.ibt
-[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 82E ProtezioneWeb Raiffasen.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 83E Casa Fam Confort Coop con allegato.ibt
-[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 83E Casa fam confort coop Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 84E Casa fam Confort Agenzie con polizza terremoto.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 1PE Sciatore Raiff.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 48E Protezione mutuo incendio.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 48E Protezione mutuo incendio.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 65E Fotovoltaico Protetto.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 65E Fotovoltaico Protetto.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 67E Multirischio Fotovoltaico.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 67E Multirischio Fotovoltaico.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 78E MULTIRISCHI ABITAZIONE.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 78E MULTIRISCHI ABITAZIONE.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 82E ProtezioneWeb Raiffasen.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 82E ProtezioneWeb Raiffasen.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 83E Casa Fam Confort Coop con allegato.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 83E Casa Fam Confort Coop con allegato.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 83E Casa fam confort coop Flow.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 84E Casa fam Confort Agenzie con polizza terremoto.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 84E Casa fam Confort Agenzie con polizza terremoto.rpt
 [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 84E Casa fam confort agenzie Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 86E Casa fam confort agenzia Raiff.ibt
-[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 88E Protezione Web Assimoco Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 92E Mamma Mia.ibt
-[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 94E Globale Fabbricati con ALLEGATO.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/05E Autotutela Conducente Flow.ibt
-[FILE] Scenari/Flow/PATCH/RE/Infortuni/05E Autotutela Conducente Raiff Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/45E Autotutela Conducente Targa Flow.ibt
-[FILE] Scenari/Flow/PATCH/RE/Infortuni/85E Più Protetto Infortuni Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 14E Raccolta Frutta Ortaggi.ibt
-[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1LE ETICAPRO INFORTUNI ASSIMOCO.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1ME INFORTUNI ECONOMIA SOLIDALE 2022.ibt
-[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1OE Assiyou.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 2BE Infortuni Raiffeisen.ibt
-[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 62E DIFESA INFORTUNI WEB.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 81E Infortuni Economia Solidale.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 86E Casa fam confort agenzia Raiff.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 88E Protezione Web Assimoco Flow.ibt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 88E Protezione Web Assimoco Flow.rpt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 92E Mamma Mia.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 92E Mamma Mia.rpt
+[FILE] Scenari/Flow/PATCH/RE/Casa/Patch 94E Globale Fabbricati con ALLEGATO.ibt , [FILE] Scenari/Flow/PATCH/RE/Casa/Patch 94E Globale Fabbricati con ALLEGATO.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/05E Autotutela Conducente Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/05E Autotutela Conducente Flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/05E Autotutela Conducente Raiff Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/05E Autotutela Conducente Raiff Flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/45E Autotutela Conducente Targa Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/45E Autotutela Conducente Targa Flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/85E Più Protetto Infortuni Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/85E Più Protetto Infortuni Flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 14E Raccolta Frutta Ortaggi.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 14E Raccolta Frutta Ortaggi.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1LE ETICAPRO INFORTUNI ASSIMOCO.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1LE ETICAPRO INFORTUNI ASSIMOCO.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1ME INFORTUNI ECONOMIA SOLIDALE 2022.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1ME INFORTUNI ECONOMIA SOLIDALE 2022.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1OE Assiyou.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 1OE Assiyou.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 2BE Infortuni Raiffeisen.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 2BE Infortuni Raiffeisen.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 62E DIFESA INFORTUNI WEB.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 62E DIFESA INFORTUNI WEB.rpt
+[FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 81E Infortuni Economia Solidale.ibt , [FILE] Scenari/Flow/PATCH/RE/Infortuni/Patch 81E Infortuni Economia Solidale.rpt
 [FILE] Scenari/Flow/PATCH/RE/Pet/Patch 11E Amici per la zampa Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/68E Impresa confort patch.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch  21E ASSICURAZIONE INCENSIO PARROCCHIE RAIFF.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 06E INCENDIO RO STANDARD.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 09E CINQUE STELLE.iabatpkt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 09E CINQUE STELLE.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 13E RC Professionale Medici Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 15E Incendio Rischi Ordinari Emissione.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 18E RC Prof Liberali - Tecniche Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 19E Rc Imprese Industria Edili Emissione.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1BE Impresa con te Artigiani Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1CE Impresa con te COMMERCIO.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1DE Impresa con te UFFICI.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1FE Impresa con te FABBRICATI.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/68E Impresa confort patch.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch  21E ASSICURAZIONE INCENSIO PARROCCHIE RAIFF.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch  21E ASSICURAZIONE INCENSIO PARROCCHIE RAIFF.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 06E INCENDIO RO STANDARD.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 06E INCENDIO RO STANDARD.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 09E CINQUE STELLE.iabatpkt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 09E CINQUE STELLE.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 09E CINQUE STELLE.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 13E RC Professionale Medici Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 13E RC Professionale Medici Emissione.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 15E Incendio Rischi Ordinari Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 15E Incendio Rischi Ordinari Emissione.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 18E RC Prof Liberali - Tecniche Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 18E RC Prof Liberali - Tecniche Flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 19E Rc Imprese Industria Edili Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 19E Rc Imprese Industria Edili Emissione.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1BE Impresa con te Artigiani Flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1BE Impresa con te Artigiani Flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1CE Impresa con te COMMERCIO.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1CE Impresa con te COMMERCIO.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1DE Impresa con te UFFICI.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1DE Impresa con te UFFICI.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1FE Impresa con te FABBRICATI.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1FE Impresa con te FABBRICATI.rpt
 [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1HE Rimborso Spese Mediche Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1IE RC RAIFFEISEN 2021 Emissione.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1IE RC RAIFFEISEN 2021.iabatpkt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1JE Car RAIFF.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1ke protezione impresa raiffeisen flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1SE ALL IS ONE.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 23E RC Generale Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 23E RC Generale Flow.iabatpkt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 24E RC Parrocchie.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 2CE Assimoco Catastrofi Naturali Impresa.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 32E RC ARTIGIANI BZ.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 44E TUTELA MULTIRISCHI.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 51E RC ECONOMIA SOLIDALE.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 52E RC PRODOTTI.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 55E RC Cooperative.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 56E RC COMMITTENZA.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 59E Rc Manifestazioni BZ.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 70E Rc Generale Standard.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 73E INCENDIO RISCHI CIVILI.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 74E ALBERGO CONFORT RAIFFEISEN.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 89E Agricoltu Assimoco.ibt
-[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 99E TUTELA Multirischi Volontaria.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 16E Rimborso Spese Mediche Singola Flow.ibt
-[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 17E indennita degenza singola flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1GE Indennità di degenza.ibt
-[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1HE Rimborso Spese Mediche Emissione.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1ZE SANITARIA RAIFFEISEN PER SOCI.ibt
-[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 27E PROTETTO MALATTIA.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 61E Sanitaria Non soci Bz.iabatpkt
-[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 61E Sanitaria Non soci Bz.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 79E Prima di tutto salute non soci.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1IE RC RAIFFEISEN 2021 Emissione.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1IE RC RAIFFEISEN 2021.iabatpkt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1JE Car RAIFF.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1JE Car RAIFF.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1ke protezione impresa raiffeisen flow.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1ke protezione impresa raiffeisen flow.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1SE ALL IS ONE.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 1SE ALL IS ONE.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 23E RC Generale Emissione.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 23E RC Generale Emissione.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 23E RC Generale Flow.iabatpkt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 24E RC Parrocchie.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 24E RC Parrocchie.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 2CE Assimoco Catastrofi Naturali Impresa.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 2CE Assimoco Catastrofi Naturali Impresa.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 32E RC ARTIGIANI BZ.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 32E RC ARTIGIANI BZ.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 44E TUTELA MULTIRISCHI.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 44E TUTELA MULTIRISCHI.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 51E RC ECONOMIA SOLIDALE.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 51E RC ECONOMIA SOLIDALE.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 52E RC PRODOTTI.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 52E RC PRODOTTI.rpt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 55E RC Cooperative.ibt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 55E RC Cooperative.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 56E RC COMMITTENZA.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 56E RC COMMITTENZA.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 59E Rc Manifestazioni BZ.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 59E Rc Manifestazioni BZ.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 70E Rc Generale Standard.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 70E Rc Generale Standard.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 73E INCENDIO RISCHI CIVILI.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 73E INCENDIO RISCHI CIVILI.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 74E ALBERGO CONFORT RAIFFEISEN.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 74E ALBERGO CONFORT RAIFFEISEN.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 89E Agricoltu Assimoco.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 89E Agricoltu Assimoco.rpt , [FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 99E TUTELA Multirischi Volontaria.ibt
+[FILE] Scenari/Flow/PATCH/RE/Pmi/Patch 99E TUTELA Multirischi Volontaria.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 16E Rimborso Spese Mediche Singola Flow.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 16E Rimborso Spese Mediche Singola Flow.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 17E indennita degenza singola flow.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 17E indennita degenza singola flow.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1GE Indennità di degenza.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1GE Indennità di degenza.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1HE Rimborso Spese Mediche Emissione.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1HE Rimborso Spese Mediche Emissione.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1ZE SANITARIA RAIFFEISEN PER SOCI.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 1ZE SANITARIA RAIFFEISEN PER SOCI.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 27E PROTETTO MALATTIA.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 27E PROTETTO MALATTIA.rpt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 61E Sanitaria Non soci Bz.iabatpkt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 61E Sanitaria Non soci Bz.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 61E Sanitaria Non soci Bz.rpt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 79E Prima di tutto salute non soci.ibt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 79E Prima di tutto salute non soci.rpt
 [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 80E Primaditutto Salute Soci.iabatpkt , [FILE] Scenari/Flow/PATCH/RE/Salute/Patch 80E Primaditutto Salute Soci.ibt
-[FILE] Scenari/Flow/PATCH/TCM/Patch 01V BANCA ETICA.ibt , [FILE] Scenari/Flow/PATCH/TCM/Patch 01V TCM.ibt , [FILE] Scenari/Flow/PATCH/TCM/Patch 24V Tutelali Assimoco Formula Dipendenti.ibt
-[FILE] Scenari/Flow/PATCH/TCM/Patch TCM 22V Tutelali Assimoco Formula Clienti.ibt , [FILE] Scenari/Flow/PATCH/TCM/Patch TCM 23V Tutelali Assimoco Formula Agevolata.ibt
-[FILE] Scenari/Flow/PATCH/TCM/Patch TCM 27V Gruppo morte e invalidità (Bolzano).ibt , [FILE] Scenari/Flow/Post Vendita AUTO/Annullamento in giornata Auto Flow.ibt
-[FILE] Scenari/Flow/Post Vendita AUTO/Flow Rettifica ATR.ibt , [FILE] Scenari/Flow/Post Vendita AUTO/Flow Sospensione Veicolo assicurato ancora di proprietà del cliente.ibt
+[FILE] Scenari/Flow/PATCH/RE/Salute/Patch 80E Primaditutto Salute Soci.rpt , [FILE] Scenari/Flow/PATCH/TCM/Patch 01V BANCA ETICA.ibt , [FILE] Scenari/Flow/PATCH/TCM/Patch 01V TCM.ibt
+[FILE] Scenari/Flow/PATCH/TCM/Patch 24V Tutelali Assimoco Formula Dipendenti.ibt , [FILE] Scenari/Flow/PATCH/TCM/Patch TCM 22V Tutelali Assimoco Formula Clienti.ibt
+[FILE] Scenari/Flow/PATCH/TCM/Patch TCM 23V Tutelali Assimoco Formula Agevolata.ibt , [FILE] Scenari/Flow/PATCH/TCM/Patch TCM 27V Gruppo morte e invalidità (Bolzano).ibt
+[FILE] Scenari/Flow/Post Vendita AUTO/Annullamento in giornata Auto Flow.ibt , [FILE] Scenari/Flow/Post Vendita AUTO/Flow Rettifica ATR.ibt
+[FILE] Scenari/Flow/Post Vendita AUTO/Flow Sospensione Veicolo assicurato ancora di proprietà del cliente.ibt
 [FILE] Scenari/Flow/Post Vendita AUTO/Flow Sostituzione Auto per aggiunta garanzia.ibt , [FILE] Scenari/Flow/Post Vendita AUTO/Flow Sostituzione Auto per Cambio Bene.ibt
 [FILE] Scenari/Flow/Post Vendita AUTO/Sospensione Auto Flow.ibt , [FILE] Scenari/Flow/Post Vendita AUTO/Sostituzione Auto Flow.ibt
 [FILE] Scenari/Flow/Post Vendita AUTO/Sostituzione Cambio Targa Auto Flow.ibt , [FILE] Scenari/Flow/Post Vendita AUTO/Variazione Dati Comuni - Nodo di gestione e dati di pagamento Auto.ibt
@@ -317,65 +378,103 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/Flow/Post Vendita TCM/Variazione Beneficiari TCM Flow.ibt , [FILE] Scenari/Flow/Post Vendita TCM/Variazione Capitale TCM Flow.ibt
 [FILE] Scenari/Flow/Post Vendita TCM/Variazione Frazionamento TCM Flow.ibt , [FILE] Scenari/Flow/Post Vendita TCM/Variazione Sovrappremi TCM Flow.ibt
 [FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo Anagrafato CPI e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo Anagrafato RE e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo Anonimo RE e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo AUTO Trasformazione in Polizza e MP.ibt
-[FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo TCM e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PROPOSTE/13E RC PROFESSIONALE MEDICI NEW.ibt
-[FILE] Scenari/Flow/PROPOSTE/15E INCENDIO RISCHI ORDINARI PROPOSTA.ibt , [FILE] Scenari/Flow/PROPOSTE/19E RC IMPRESA INDUSTRIA EDILI PROPOSTE.ibt
-[FILE] Scenari/Flow/PROPOSTE/1FE Impresa con te Fabbricati PROPOSTA.ibt , [FILE] Scenari/Flow/PROPOSTE/1IE RC RAIFF 2021 FLOW.iabatpkt , [FILE] Scenari/Flow/PROPOSTE/1IE RC RAIFF 2021 NEW.ibt
-[FILE] Scenari/Flow/PROPOSTE/23E RC GENERALE NEW.ibt , [FILE] Scenari/Flow/PROPOSTE/44E TUTELA MULTIRISCHI DANNI FLOW.ibt , [FILE] Scenari/Flow/PROPOSTE/52E RC PRODOTTI NEW.ibt
-[FILE] Scenari/Flow/PROPOSTE/52E RC PRODOTTI.iabatpkt , [FILE] Scenari/Flow/PROPOSTE/Flow Proposta 01V per risposte fornite al questionario sanitario e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow/PROPOSTE/Flow Proposta 1HE Rimborso Spese Mediche e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow/PROPOSTE/Flow Proposta CPI Autorizzazione e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo Anagrafato RE e Trasformazione in Polizza.rpt , [FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo Anonimo RE e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo Anonimo RE e Trasformazione in Polizza.rpt , [FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo AUTO Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo AUTO Trasformazione in Polizza e MP.rpt , [FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo TCM e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PREVENTIVI/Flow Preventivo TCM e Trasformazione in Polizza.rpt , [FILE] Scenari/Flow/PROPOSTE/13E RC PROFESSIONALE MEDICI NEW.ibt
+[FILE] Scenari/Flow/PROPOSTE/13E RC PROFESSIONALE MEDICI NEW.rpt , [FILE] Scenari/Flow/PROPOSTE/15E INCENDIO RISCHI ORDINARI PROPOSTA.ibt
+[FILE] Scenari/Flow/PROPOSTE/15E INCENDIO RISCHI ORDINARI PROPOSTA.rpt , [FILE] Scenari/Flow/PROPOSTE/19E RC IMPRESA INDUSTRIA EDILI PROPOSTE.ibt
+[FILE] Scenari/Flow/PROPOSTE/19E RC IMPRESA INDUSTRIA EDILI PROPOSTE.rpt , [FILE] Scenari/Flow/PROPOSTE/1FE Impresa con te Fabbricati PROPOSTA.ibt
+[FILE] Scenari/Flow/PROPOSTE/1FE Impresa con te Fabbricati PROPOSTA.rpt , [FILE] Scenari/Flow/PROPOSTE/1IE RC RAIFF 2021 FLOW.iabatpkt , [FILE] Scenari/Flow/PROPOSTE/1IE RC RAIFF 2021 NEW.ibt
+[FILE] Scenari/Flow/PROPOSTE/1IE RC RAIFF 2021 NEW.rpt , [FILE] Scenari/Flow/PROPOSTE/23E RC GENERALE NEW.ibt , [FILE] Scenari/Flow/PROPOSTE/23E RC GENERALE NEW.rpt
+[FILE] Scenari/Flow/PROPOSTE/44E TUTELA MULTIRISCHI DANNI FLOW.ibt , [FILE] Scenari/Flow/PROPOSTE/44E TUTELA MULTIRISCHI DANNI FLOW.rpt , [FILE] Scenari/Flow/PROPOSTE/52E RC PRODOTTI NEW.ibt
+[FILE] Scenari/Flow/PROPOSTE/52E RC PRODOTTI NEW.rpt , [FILE] Scenari/Flow/PROPOSTE/52E RC PRODOTTI.iabatpkt
+[FILE] Scenari/Flow/PROPOSTE/Flow Proposta 01V per risposte fornite al questionario sanitario e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PROPOSTE/Flow Proposta 01V per risposte fornite al questionario sanitario e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow/PROPOSTE/Flow Proposta 1HE Rimborso Spese Mediche e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PROPOSTE/Flow Proposta 1HE Rimborso Spese Mediche e Trasformazione in Polizza.rpt , [FILE] Scenari/Flow/PROPOSTE/Flow Proposta CPI Autorizzazione e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow/PROPOSTE/Flow Proposta CPI Autorizzazione e Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow/PROPOSTE/Proposta TCM a seguito delle risposte fornite al questionario sanitario Flow.ibt
-[FILE] Scenari/Flow/PROPOSTE/Proposta TCM con  Dichiarazione persona politicamente esposta Flow.ibt , [FILE] Scenari/Flow/RE/Agricoltura/08E Agricoltore sereno Raiff.iabatpkt
-[FILE] Scenari/Flow/RE/Agricoltura/08E Agricoltore sereno Raiff.ibt , [FILE] Scenari/Flow/RE/Casa/1PE RC Sciatore Raiffeisen.ibt , [FILE] Scenari/Flow/RE/Casa/48E Protezione Mutuo Incendio Flow.ibt
-[FILE] Scenari/Flow/RE/Casa/65E Fotovoltaico protetto.ibt , [FILE] Scenari/Flow/RE/Casa/67E MULTIRISCHI FOTOVOLTAICO.ibt , [FILE] Scenari/Flow/RE/Casa/78E MULTIRISCHI ABITAZIONE FLOW.ibt
-[FILE] Scenari/Flow/RE/Casa/82E ProtezioneWeb Raiff.ibt , [FILE] Scenari/Flow/RE/Casa/83E Casa fam confort coop.ibt , [FILE] Scenari/Flow/RE/Casa/83E Casa Famiglia Confort Coop Allegato.ibt
-[FILE] Scenari/Flow/RE/Casa/84E Protezione Mutuo Incendio con Polizza Terremoto Flow.ibt , [FILE] Scenari/Flow/RE/Casa/86E Casa Fam Confort Agenzie Raiff Flow.ibt
-[FILE] Scenari/Flow/RE/Casa/92E Mamma mia Flow.ibt , [FILE] Scenari/Flow/RE/Casa/94E Globale Fabbricati con Allegato New.ibt , [FILE] Scenari/Flow/RE/Casa/Flow 84E Casa Famiglia Confort Agenzia.ibt
-[FILE] Scenari/Flow/RE/Casa/Flow 88E Protezione Web.ibt , [FILE] Scenari/Flow/RE/Infortuni/05E Autotutela Conducente New.ibt
-[FILE] Scenari/Flow/RE/Infortuni/05E autotutela conduncente raiff new.ibt , [FILE] Scenari/Flow/RE/Infortuni/14E Raccolta frutta ortaggi new.ibt
+[FILE] Scenari/Flow/PROPOSTE/Proposta TCM con  Dichiarazione persona politicamente esposta Flow.ibt
+[FILE] Scenari/Flow/PROPOSTE/Proposta TCM con  Dichiarazione persona politicamente esposta Flow.rpt , [FILE] Scenari/Flow/RE/Agricoltura/08E Agricoltore sereno Raiff.iabatpkt
+[FILE] Scenari/Flow/RE/Agricoltura/08E Agricoltore sereno Raiff.ibt , [FILE] Scenari/Flow/RE/Casa/1PE RC Sciatore Raiffeisen.ibt , [FILE] Scenari/Flow/RE/Casa/1PE RC Sciatore Raiffeisen.rpt
+[FILE] Scenari/Flow/RE/Casa/48E Protezione Mutuo Incendio Flow.ibt , [FILE] Scenari/Flow/RE/Casa/48E Protezione Mutuo Incendio Flow.rpt , [FILE] Scenari/Flow/RE/Casa/65E Fotovoltaico protetto.ibt
+[FILE] Scenari/Flow/RE/Casa/65E Fotovoltaico protetto.rpt , [FILE] Scenari/Flow/RE/Casa/67E MULTIRISCHI FOTOVOLTAICO.ibt , [FILE] Scenari/Flow/RE/Casa/67E MULTIRISCHI FOTOVOLTAICO.rpt
+[FILE] Scenari/Flow/RE/Casa/78E MULTIRISCHI ABITAZIONE FLOW.ibt , [FILE] Scenari/Flow/RE/Casa/78E MULTIRISCHI ABITAZIONE FLOW.rpt , [FILE] Scenari/Flow/RE/Casa/82E ProtezioneWeb Raiff.ibt
+[FILE] Scenari/Flow/RE/Casa/82E ProtezioneWeb Raiff.rpt , [FILE] Scenari/Flow/RE/Casa/83E Casa fam confort coop.ibt , [FILE] Scenari/Flow/RE/Casa/83E Casa Famiglia Confort Coop Allegato.ibt
+[FILE] Scenari/Flow/RE/Casa/83E Casa Famiglia Confort Coop Allegato.rpt , [FILE] Scenari/Flow/RE/Casa/84E Protezione Mutuo Incendio con Polizza Terremoto Flow.ibt
+[FILE] Scenari/Flow/RE/Casa/86E Casa Fam Confort Agenzie Raiff Flow.ibt , [FILE] Scenari/Flow/RE/Casa/86E Casa Fam Confort Agenzie Raiff Flow.rpt
+[FILE] Scenari/Flow/RE/Casa/92E Mamma mia Flow.ibt , [FILE] Scenari/Flow/RE/Casa/92E Mamma mia Flow.rpt , [FILE] Scenari/Flow/RE/Casa/94E Globale Fabbricati con Allegato New.ibt
+[FILE] Scenari/Flow/RE/Casa/94E Globale Fabbricati con Allegato New.rpt , [FILE] Scenari/Flow/RE/Casa/Flow 84E Casa Famiglia Confort Agenzia.ibt
+[FILE] Scenari/Flow/RE/Casa/Flow 84E Casa Famiglia Confort Agenzia.rpt , [FILE] Scenari/Flow/RE/Casa/Flow 88E Protezione Web.ibt , [FILE] Scenari/Flow/RE/Casa/Flow 88E Protezione Web.rpt
+[FILE] Scenari/Flow/RE/Infortuni/05E Autotutela Conducente New.ibt , [FILE] Scenari/Flow/RE/Infortuni/05E Autotutela Conducente New.rpt
+[FILE] Scenari/Flow/RE/Infortuni/05E autotutela conduncente raiff new.ibt , [FILE] Scenari/Flow/RE/Infortuni/05E autotutela conduncente raiff new.rpt
+[FILE] Scenari/Flow/RE/Infortuni/14E Raccolta frutta ortaggi new.ibt , [FILE] Scenari/Flow/RE/Infortuni/14E Raccolta frutta ortaggi new.rpt
 [FILE] Scenari/Flow/RE/Infortuni/14E Raccolta Frutta Ortaggi.iabatpkt , [FILE] Scenari/Flow/RE/Infortuni/1LE ETICAPRO INFORTUNI ASSIMOCO New.ibt
-[FILE] Scenari/Flow/RE/Infortuni/1ME infortuni economia solidale 2022 new.ibt , [FILE] Scenari/Flow/RE/Infortuni/45E autotuela conducente targa New.ibt
-[FILE] Scenari/Flow/RE/Infortuni/62E DIFESA INFORTUNI WEB.ibt , [FILE] Scenari/Flow/RE/Infortuni/81E INFORTUNI ECONOMIA SOLIDALE.ibt
-[FILE] Scenari/Flow/RE/Infortuni/85E Più Protetto Infortuni Flow BCC ROMA.ibt , [FILE] Scenari/Flow/RE/Infortuni/85E Più Protetto Infortuni Flow.ibt
-[FILE] Scenari/Flow/RE/Infortuni/Flow 1OE Assiyou.ibt , [FILE] Scenari/Flow/RE/Infortuni/Flow 2BE INFORTUNI RAIFFEISEN.ibt , [FILE] Scenari/Flow/RE/Pet/11E Amici per la zampa.iabatpkt
-[FILE] Scenari/Flow/RE/Pet/11E Amici per la zampa.ibt , [FILE] Scenari/Flow/RE/Pmi/06E Incendio Ro Standard New.ibt , [FILE] Scenari/Flow/RE/Pmi/09E Cinque Stelle New.ibt
-[FILE] Scenari/Flow/RE/Pmi/13E RC Professionale medici new.ibt , [FILE] Scenari/Flow/RE/Pmi/18E RC Prof Liberali Tecniche New.ibt , [FILE] Scenari/Flow/RE/Pmi/1BE Impresa con te Artigiani New.ibt
-[FILE] Scenari/Flow/RE/Pmi/1CE Impresa con te commercio New.ibt , [FILE] Scenari/Flow/RE/Pmi/1De Impresa con te Uffici New.ibt , [FILE] Scenari/Flow/RE/Pmi/1FE Impresa Con Te Fabbricati.ibt
-[FILE] Scenari/Flow/RE/Pmi/1IE RC RAIFFEISEN 2021 Emissione.ibt , [FILE] Scenari/Flow/RE/Pmi/1JE Car Raiffaeisen New.ibt , [FILE] Scenari/Flow/RE/Pmi/1ke Protezione Impresa Raiffeisen New.ibt
-[FILE] Scenari/Flow/RE/Pmi/1SE All is One.ibt , [FILE] Scenari/Flow/RE/Pmi/32E Rc Artigiani BZ New.ibt , [FILE] Scenari/Flow/RE/Pmi/51E Rc Economia Solidale 2020 New.ibt
-[FILE] Scenari/Flow/RE/Pmi/59E RC Manifestazioni BZ New.ibt , [FILE] Scenari/Flow/RE/Pmi/68E Impresa Confort Flow New.ibt , [FILE] Scenari/Flow/RE/Pmi/70E Rc Generale Standard Flow New.ibt
-[FILE] Scenari/Flow/RE/Pmi/73E Incendio Rischi Civili New.ibt , [FILE] Scenari/Flow/RE/Pmi/74E ALBERGO CONFORT RAIFFEISEN FLOW.ibt , [FILE] Scenari/Flow/RE/Pmi/89E AGRICOLTU ASSIMOCO FLOW.ibt
-[FILE] Scenari/Flow/RE/Pmi/99E Tutela Multirischi Volontaria New.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 15E Incendio Rischi Ordinari Emissione.ibt
-[FILE] Scenari/Flow/RE/Pmi/Flow 19E RC IMPRESA INDUTRIA EDILI.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 21E Assicurazione Incendio Parrocchie Raiff.ibt
-[FILE] Scenari/Flow/RE/Pmi/Flow 23E RC GENERALE.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 24E Rc Parrocchie.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 2CE Assimoco Catastrofi Naturali Impresa.ibt
-[FILE] Scenari/Flow/RE/Pmi/Flow 44E TUTELA MULTIRISCHI DANNI.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 52E RC PRODOTTI.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 55E RC Cooperative.ibt
-[FILE] Scenari/Flow/RE/Pmi/Flow 56E RC Committenza.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 99E Tutela Multirischi Volontaria.ibt
-[FILE] Scenari/Flow/RE/Salute/16E Rimborso Spese Mediche Singola Flow.ibt , [FILE] Scenari/Flow/RE/Salute/17E Indennità di Degenza Singola Flow.ibt
-[FILE] Scenari/Flow/RE/Salute/1GE Indennità di degenza Flow.ibt , [FILE] Scenari/Flow/RE/Salute/1HE Rimborso Spese Mediche.ibt
-[FILE] Scenari/Flow/RE/Salute/1ZE SANITARIA RAIFFEISEN PER SOCI New.ibt , [FILE] Scenari/Flow/RE/Salute/27E PROTETTO MALATTIA New.ibt
-[FILE] Scenari/Flow/RE/Salute/61E SANITARIA SOCI RAIFF NEW.ibt , [FILE] Scenari/Flow/RE/Salute/79E PRIMA DI TUTTO SALUTE NON SOCI New.ibt
-[FILE] Scenari/Flow/RE/Salute/80E PRIMADITUTTO SALUTE SOCI New.ibt , [FILE] Scenari/Flow/TCM/22V TUTELALI ASSIMOCO FORMULA CLIENTI.ibt
-[FILE] Scenari/Flow/TCM/23V TUTELALI ASSIMOCO FORMULA AGEVOLATA.ibt , [FILE] Scenari/Flow/TCM/24V Tutelali Assimoco Formula Dipendenti.ibt
-[FILE] Scenari/Flow/TCM/27V GRUPPO MORTE E INVADILITA'.ibt , [FILE] Scenari/Flow/TCM/Flow 01V Più Protezione BANCA ETICA.ibt , [FILE] Scenari/Flow/TCM/Flow 01V Più Protezione.ibt
-[FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO - 215E.iabatpkt , [FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO - 216E.iabatpkt
-[FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO - 225E.iabatpkt , [FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO-226E.iabatpkt
-[FILE] Scenari/Flow/TCM/TCM 22V Tutelali Assimoco Formula Clienti.iabatpkt , [FILE] Scenari/Flow/TCM/TCM 23V Tutelali Assimoco Formula Agevolata.iabatpkt
-[FILE] Scenari/Flow/TCM/TCM 30V Mutuo Protetto Special.iabatpkt , [FILE] Scenari/Flow Auto/Flow AUTO Altri Settori - Macchina Agricola BZ.ibt
-[FILE] Scenari/Flow Auto/Flow Auto Annullo in giornata.iabatpkt , [FILE] Scenari/Flow Auto/Flow AUTO autocarro BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO autocarro.ibt
-[FILE] Scenari/Flow Auto/Flow AUTO Autovettura BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Autovettura.ibt
+[FILE] Scenari/Flow/RE/Infortuni/1LE ETICAPRO INFORTUNI ASSIMOCO New.rpt , [FILE] Scenari/Flow/RE/Infortuni/1ME infortuni economia solidale 2022 new.ibt
+[FILE] Scenari/Flow/RE/Infortuni/1ME infortuni economia solidale 2022 new.rpt , [FILE] Scenari/Flow/RE/Infortuni/45E autotuela conducente targa New.ibt
+[FILE] Scenari/Flow/RE/Infortuni/45E autotuela conducente targa New.rpt , [FILE] Scenari/Flow/RE/Infortuni/62E DIFESA INFORTUNI WEB.ibt
+[FILE] Scenari/Flow/RE/Infortuni/62E DIFESA INFORTUNI WEB.rpt , [FILE] Scenari/Flow/RE/Infortuni/81E INFORTUNI ECONOMIA SOLIDALE.ibt
+[FILE] Scenari/Flow/RE/Infortuni/81E INFORTUNI ECONOMIA SOLIDALE.rpt , [FILE] Scenari/Flow/RE/Infortuni/85E Più Protetto Infortuni Flow BCC ROMA.ibt
+[FILE] Scenari/Flow/RE/Infortuni/85E Più Protetto Infortuni Flow BCC ROMA.rpt , [FILE] Scenari/Flow/RE/Infortuni/85E Più Protetto Infortuni Flow.ibt
+[FILE] Scenari/Flow/RE/Infortuni/85E Più Protetto Infortuni Flow.rpt , [FILE] Scenari/Flow/RE/Infortuni/Flow 1OE Assiyou.ibt , [FILE] Scenari/Flow/RE/Infortuni/Flow 1OE Assiyou.rpt
+[FILE] Scenari/Flow/RE/Infortuni/Flow 2BE INFORTUNI RAIFFEISEN.ibt , [FILE] Scenari/Flow/RE/Pet/11E Amici per la zampa.iabatpkt , [FILE] Scenari/Flow/RE/Pet/11E Amici per la zampa.ibt
+[FILE] Scenari/Flow/RE/Pmi/06E Incendio Ro Standard New.ibt , [FILE] Scenari/Flow/RE/Pmi/06E Incendio Ro Standard New.rpt , [FILE] Scenari/Flow/RE/Pmi/09E Cinque Stelle New.ibt
+[FILE] Scenari/Flow/RE/Pmi/09E Cinque Stelle New.rpt , [FILE] Scenari/Flow/RE/Pmi/13E RC Professionale medici new.ibt , [FILE] Scenari/Flow/RE/Pmi/13E RC Professionale medici new.rpt
+[FILE] Scenari/Flow/RE/Pmi/18E RC Prof Liberali Tecniche New.ibt , [FILE] Scenari/Flow/RE/Pmi/18E RC Prof Liberali Tecniche New.rpt , [FILE] Scenari/Flow/RE/Pmi/1BE Impresa con te Artigiani New.ibt
+[FILE] Scenari/Flow/RE/Pmi/1BE Impresa con te Artigiani New.rpt , [FILE] Scenari/Flow/RE/Pmi/1CE Impresa con te commercio New.ibt , [FILE] Scenari/Flow/RE/Pmi/1CE Impresa con te commercio New.rpt
+[FILE] Scenari/Flow/RE/Pmi/1De Impresa con te Uffici New.ibt , [FILE] Scenari/Flow/RE/Pmi/1De Impresa con te Uffici New.rpt , [FILE] Scenari/Flow/RE/Pmi/1FE Impresa Con Te Fabbricati.ibt
+[FILE] Scenari/Flow/RE/Pmi/1FE Impresa Con Te Fabbricati.rpt , [FILE] Scenari/Flow/RE/Pmi/1IE RC RAIFFEISEN 2021 Emissione.ibt , [FILE] Scenari/Flow/RE/Pmi/1IE Rc RAIFFEISEN 2021 EMISSIONE.rpt
+[FILE] Scenari/Flow/RE/Pmi/1JE Car Raiffaeisen New.ibt , [FILE] Scenari/Flow/RE/Pmi/1JE Car Raiffaeisen New.rpt , [FILE] Scenari/Flow/RE/Pmi/1ke Protezione Impresa Raiffeisen New.ibt
+[FILE] Scenari/Flow/RE/Pmi/1ke Protezione Impresa Raiffeisen New.rpt , [FILE] Scenari/Flow/RE/Pmi/1SE All is One.ibt , [FILE] Scenari/Flow/RE/Pmi/1SE All is One.rpt
+[FILE] Scenari/Flow/RE/Pmi/32E Rc Artigiani BZ New.ibt , [FILE] Scenari/Flow/RE/Pmi/32E Rc Artigiani BZ New.rpt , [FILE] Scenari/Flow/RE/Pmi/51E Rc Economia Solidale 2020 New.ibt
+[FILE] Scenari/Flow/RE/Pmi/51E Rc Economia Solidale 2020 New.rpt , [FILE] Scenari/Flow/RE/Pmi/59E RC Manifestazioni BZ New.ibt , [FILE] Scenari/Flow/RE/Pmi/59E RC Manifestazioni BZ New.rpt
+[FILE] Scenari/Flow/RE/Pmi/68E Impresa Confort Flow New.ibt , [FILE] Scenari/Flow/RE/Pmi/68E Impresa Confort Flow New.rpt , [FILE] Scenari/Flow/RE/Pmi/70E Rc Generale Standard Flow New.ibt
+[FILE] Scenari/Flow/RE/Pmi/70E Rc Generale Standard Flow New.rpt , [FILE] Scenari/Flow/RE/Pmi/73E Incendio Rischi Civili New.ibt , [FILE] Scenari/Flow/RE/Pmi/73E Incendio Rischi Civili New.rpt
+[FILE] Scenari/Flow/RE/Pmi/74E ALBERGO CONFORT RAIFFEISEN FLOW.ibt , [FILE] Scenari/Flow/RE/Pmi/74E ALBERGO CONFORT RAIFFEISEN FLOW.rpt , [FILE] Scenari/Flow/RE/Pmi/89E AGRICOLTU ASSIMOCO FLOW.ibt
+[FILE] Scenari/Flow/RE/Pmi/89E AGRICOLTU ASSIMOCO FLOW.rpt , [FILE] Scenari/Flow/RE/Pmi/99E Tutela Multirischi Volontaria New.ibt
+[FILE] Scenari/Flow/RE/Pmi/Flow 15E Incendio Rischi Ordinari Emissione.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 15E Incendio Rischi Ordinari Emissione.rpt
+[FILE] Scenari/Flow/RE/Pmi/Flow 19E RC IMPRESA INDUTRIA EDILI.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 19E RC IMPRESA INDUTRIA EDILI.rpt
+[FILE] Scenari/Flow/RE/Pmi/Flow 21E Assicurazione Incendio Parrocchie Raiff.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 21E Assicurazione Incendio Parrocchie Raiff.rpt
+[FILE] Scenari/Flow/RE/Pmi/Flow 23E RC GENERALE.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 23E RC GENERALE.rpt , [FILE] Scenari/Flow/RE/Pmi/Flow 24E Rc Parrocchie.ibt
+[FILE] Scenari/Flow/RE/Pmi/Flow 24E Rc Parrocchie.rpt , [FILE] Scenari/Flow/RE/Pmi/Flow 2CE Assimoco Catastrofi Naturali Impresa.ibt
+[FILE] Scenari/Flow/RE/Pmi/Flow 2CE Assimoco Catastrofi Naturali Impresa.rpt , [FILE] Scenari/Flow/RE/Pmi/Flow 44E TUTELA MULTIRISCHI DANNI.ibt
+[FILE] Scenari/Flow/RE/Pmi/Flow 44E TUTELA MULTIRISCHI DANNI.rpt , [FILE] Scenari/Flow/RE/Pmi/Flow 52E RC PRODOTTI.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 52E RC PRODOTTI.rpt
+[FILE] Scenari/Flow/RE/Pmi/Flow 55E RC Cooperative.ibt , [FILE] Scenari/Flow/RE/Pmi/Flow 55E RC Cooperative.rpt , [FILE] Scenari/Flow/RE/Pmi/Flow 56E RC Committenza.ibt
+[FILE] Scenari/Flow/RE/Pmi/Flow 56E RC Committenza.rpt , [FILE] Scenari/Flow/RE/Pmi/Flow 99E Tutela Multirischi Volontaria.ibt
+[FILE] Scenari/Flow/RE/Salute/16E Rimborso Spese Mediche Singola Flow.ibt , [FILE] Scenari/Flow/RE/Salute/16E Rimborso Spese Mediche Singola Flow.rpt
+[FILE] Scenari/Flow/RE/Salute/17E Indennità di Degenza Singola Flow.ibt , [FILE] Scenari/Flow/RE/Salute/17E Indennità di Degenza Singola Flow.rpt
+[FILE] Scenari/Flow/RE/Salute/1GE Indennità di degenza Flow.ibt , [FILE] Scenari/Flow/RE/Salute/1GE Indennità di degenza Flow.rpt , [FILE] Scenari/Flow/RE/Salute/1HE Rimborso Spese Mediche.ibt
+[FILE] Scenari/Flow/RE/Salute/1HE Rimborso Spese Mediche.rpt , [FILE] Scenari/Flow/RE/Salute/1ZE SANITARIA RAIFFEISEN PER SOCI New.ibt
+[FILE] Scenari/Flow/RE/Salute/1ZE SANITARIA RAIFFEISEN PER SOCI New.rpt , [FILE] Scenari/Flow/RE/Salute/27E PROTETTO MALATTIA New.ibt , [FILE] Scenari/Flow/RE/Salute/27E PROTETTO MALATTIA New.rpt
+[FILE] Scenari/Flow/RE/Salute/61E SANITARIA SOCI RAIFF NEW.ibt , [FILE] Scenari/Flow/RE/Salute/61E SANITARIA SOCI RAIFF NEW.rpt
+[FILE] Scenari/Flow/RE/Salute/79E PRIMA DI TUTTO SALUTE NON SOCI New.ibt , [FILE] Scenari/Flow/RE/Salute/79E PRIMA DI TUTTO SALUTE NON SOCI New.rpt
+[FILE] Scenari/Flow/RE/Salute/80E PRIMADITUTTO SALUTE SOCI New.ibt , [FILE] Scenari/Flow/RE/Salute/80E PRIMADITUTTO SALUTE SOCI New.rpt
+[FILE] Scenari/Flow/TCM/22V TUTELALI ASSIMOCO FORMULA CLIENTI.ibt , [FILE] Scenari/Flow/TCM/23V TUTELALI ASSIMOCO FORMULA AGEVOLATA.ibt
+[FILE] Scenari/Flow/TCM/24V Tutelali Assimoco Formula Dipendenti.ibt , [FILE] Scenari/Flow/TCM/27V GRUPPO MORTE E INVADILITA'.ibt , [FILE] Scenari/Flow/TCM/Flow 01V Più Protezione BANCA ETICA.ibt
+[FILE] Scenari/Flow/TCM/Flow 01V Più Protezione.ibt , [FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO - 215E.iabatpkt
+[FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO - 216E.iabatpkt , [FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO - 225E.iabatpkt
+[FILE] Scenari/Flow/TCM/TCM 01V PIU PROTEZIONE ASSIMOCO-226E.iabatpkt , [FILE] Scenari/Flow/TCM/TCM 22V Tutelali Assimoco Formula Clienti.iabatpkt
+[FILE] Scenari/Flow/TCM/TCM 23V Tutelali Assimoco Formula Agevolata.iabatpkt , [FILE] Scenari/Flow/TCM/TCM 30V Mutuo Protetto Special.iabatpkt
+[FILE] Scenari/Flow Auto/Flow AUTO Altri Settori - Macchina Agricola BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Altri Settori - Macchina Agricola BZ.rpt
+[FILE] Scenari/Flow Auto/Flow Auto Annullo in giornata.iabatpkt , [FILE] Scenari/Flow Auto/Flow AUTO autocarro BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO autocarro BZ.rpt
+[FILE] Scenari/Flow Auto/Flow AUTO autocarro.ibt , [FILE] Scenari/Flow Auto/Flow AUTO autocarro.rpt , [FILE] Scenari/Flow Auto/Flow AUTO Autovettura BZ.ibt
+[FILE] Scenari/Flow Auto/Flow AUTO Autovettura BZ.rpt , [FILE] Scenari/Flow Auto/Flow AUTO Autovettura.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Autovettura.rpt
 [FILE] Scenari/Flow Auto/Flow auto emissione Altri Settori - Macchina Agricola BZ.iabatpkt , [FILE] Scenari/Flow Auto/Flow auto emissione Altri Settori - Macchina Agricola.iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto emissione autocarro BZ.iabatpkt , [FILE] Scenari/Flow Auto/Flow Auto emissione autocarro.iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto emissione Motocicli BZ.iabatpkt , [FILE] Scenari/Flow Auto/Flow Auto emissione Natante BZ.iabatpkt , [FILE] Scenari/Flow Auto/Flow Auto emissione Natante.iabatpkt
-[FILE] Scenari/Flow Auto/Flow AUTO MACCHINA AGRICOLA.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Motocicli BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Motocicli.ibt
-[FILE] Scenari/Flow Auto/Flow AUTO Natante BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Natante.ibt
-[FILE] Scenari/Flow Auto/Flow Auto Prima Imm. Bersani da altro veicolo del prop.stessa Comp Flow.iabatpkt
+[FILE] Scenari/Flow Auto/Flow AUTO MACCHINA AGRICOLA.ibt , [FILE] Scenari/Flow Auto/Flow AUTO MACCHINA AGRICOLA.rpt , [FILE] Scenari/Flow Auto/Flow AUTO Motocicli BZ.ibt
+[FILE] Scenari/Flow Auto/Flow AUTO Motocicli BZ.rpt , [FILE] Scenari/Flow Auto/Flow AUTO Motocicli.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Motocicli.rpt
+[FILE] Scenari/Flow Auto/Flow AUTO Natante BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Natante BZ.rpt , [FILE] Scenari/Flow Auto/Flow AUTO Natante.ibt
+[FILE] Scenari/Flow Auto/Flow AUTO Natante.rpt , [FILE] Scenari/Flow Auto/Flow Auto Prima Imm. Bersani da altro veicolo del prop.stessa Comp Flow.iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto Prima Imm. Bersani da altro veicolo del prop.stessa Comp Flow.ibt
 [FILE] Scenari/Flow Auto/Flow Auto Prima Imm. Bersani da altro veicolo di fam stessa Comp Flow..iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto Prima Imm. Bersani da altro veicolo di fam stessa Comp Flow..ibt , [FILE] Scenari/Flow Auto/Flow Auto Prima Imm.Bersani da altro veicolo del prop.Folw.iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto Prima Imm.Bersani da altro veicolo del prop.Folw.ibt , [FILE] Scenari/Flow Auto/Flow Auto Prima Imm.Bersani da altro veicolo di fam.Convivente Flow.iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto Prima Imm.Bersani da altro veicolo di fam.Convivente Flow.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Rimorchi BZ.ibt
-[FILE] Scenari/Flow Auto/Flow AUTO Rimorchi.ibt , [FILE] Scenari/Flow Auto/Flow Auto Sostituzione Cambio Targa.iabatpkt , [FILE] Scenari/Flow Auto/Flow AUTO Targa Prova BZ.ibt
-[FILE] Scenari/Flow Auto/Flow AUTO Targa Prova.ibt , [FILE] Scenari/Flow Auto/Flow Auto Voltura Bersani da altro veicolo del prop Flow.iabatpkt
+[FILE] Scenari/Flow Auto/Flow AUTO Rimorchi BZ.rpt , [FILE] Scenari/Flow Auto/Flow AUTO Rimorchi.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Rimorchi.rpt
+[FILE] Scenari/Flow Auto/Flow Auto Sostituzione Cambio Targa.iabatpkt , [FILE] Scenari/Flow Auto/Flow AUTO Targa Prova BZ.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Targa Prova BZ.rpt
+[FILE] Scenari/Flow Auto/Flow AUTO Targa Prova.ibt , [FILE] Scenari/Flow Auto/Flow AUTO Targa Prova.rpt , [FILE] Scenari/Flow Auto/Flow Auto Voltura Bersani da altro veicolo del prop Flow.iabatpkt
 [FILE] Scenari/Flow Auto/Flow Auto Voltura Bersani da altro veicolo del prop Flow.ibt , [FILE] Scenari/Flow Auto/Flow AUTO.ibt , [FILE] Scenari/Flow Auto/Flow emissione auto BZ.iabatpkt
 [FILE] Scenari/Flow Auto/Flow emissione auto Rimorchi BZ.iabatpkt , [FILE] Scenari/Flow Auto/Flow emissione auto Rimorchi.iabatpkt
 [FILE] Scenari/Flow Auto/Flow emissione auto Targa Prova BZ.iabatpkt , [FILE] Scenari/Flow Auto/Flow emissione auto Targa Prova.iabatpkt , [FILE] Scenari/Flow Auto/Flow_Auto_emissione moto.iabatpkt
@@ -383,26 +482,28 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/Flow BCC/ANAGRAFICA BCC/Flow Inserimento anagrafica PG BCC.ibt , [FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO B1A Autovettura.ibt
 [FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO B4A Autocarro.ibt , [FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO B5A Motocicli e Ciclomotori.ibt
 [FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO BAA Altri Settori.ibt , [FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO BNA Natanti.ibt , [FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO BPA Targhe Prova.ibt
-[FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO BRA Rimorchi.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP2 Formula Prestito PG.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP2 PERSONA FISICA.ibt
-[FILE] Scenari/Flow BCC/CPI BCC/Flow BP4 Formula Mutuo 3.0 PF.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP4 Formula Mutuo al sicuro PG.ibt
-[FILE] Scenari/Flow BCC/CPI BCC/Flow BP5 Formula Tutela Reddito PF.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP5 Formula Tutela Reddito PG.ibt
-[FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Rettifica ATR BCC.ibt , [FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Sospensione BCC.ibt
-[FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Sostituzione AUTO.ibt , [FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Variazione Dati Comuni - Nodo di gestione e dati di pagamento BCC.ibt
+[FILE] Scenari/Flow BCC/AUTO BCC/Flow AUTO BRA Rimorchi.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP2 Formula Prestito PG.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP2 Formula Prestito PG.rpt
+[FILE] Scenari/Flow BCC/CPI BCC/Flow BP2 PERSONA FISICA.ibt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP2 PERSONA FISICA.rpt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP4 Formula Mutuo 3.0 PF.ibt
+[FILE] Scenari/Flow BCC/CPI BCC/Flow BP4 Formula Mutuo 3.0 PF.rpt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP4 Formula Mutuo al sicuro PG.ibt
+[FILE] Scenari/Flow BCC/CPI BCC/Flow BP4 Formula Mutuo al sicuro PG.rpt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP5 Formula Tutela Reddito PF.ibt
+[FILE] Scenari/Flow BCC/CPI BCC/Flow BP5 Formula Tutela Reddito PF.rpt , [FILE] Scenari/Flow BCC/CPI BCC/Flow BP5 Formula Tutela Reddito PG.ibt
+[FILE] Scenari/Flow BCC/CPI BCC/Flow BP5 Formula Tutela Reddito PG.rpt , [FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Rettifica ATR BCC.ibt
+[FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Sospensione BCC.ibt , [FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Sostituzione AUTO.ibt
+[FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Variazione Dati Comuni - Nodo di gestione e dati di pagamento BCC.ibt
 [FILE] Scenari/Flow BCC/POST VENDITA AUTO BCC/Flow Variazione Dati Comuni - Storno Movimento BCC.ibt , [FILE] Scenari/Flow BCC/POST VENDITA CPI BCC/Collaudo BCC Appendice Dichiarativa CPI.ibt
 [FILE] Scenari/Flow BCC/POST VENDITA CPI BCC/Collaudo BCC Estinzione Anticipata totale CPI.ibt
 [FILE] Scenari/Flow BCC/POST VENDITA CPI BCC/Collaudo bcc estinzione anticipata totale premio forzato cpi.ibt , [FILE] Scenari/Flow BCC/POST VENDITA CPI BCC/Collaudo BCC Trasferimento CPI.ibt
-[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Collaudo B10 pro fabbricato Preventivo Anagrafato e acquisto.ibt
-[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Collaudo b14 preventivo anonimo trasformazione in polizza.ibt
+[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B10 Preventivo Anagrafato e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B14 Preventivo Anagrafato e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B19 Preventivo Anagrafato e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B19 Preventivo Anonimo e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B14 Preventivo Anonimo e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B20 Preventivo Anagrafato e Trasformazione In Polizza.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B20 Preventivo Anonimo e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B76 Preventivo Anagrafato e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B76 Preventivo Anonimo e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B77 Preventivo Anagrafato e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B77 Preventivo Anonimo e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B78 Preventivo Anagrafato.ibt
-[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B80 Preventivo Anonimo.ibt
+[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B77 Preventivo Anonimo e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B78 Preventivo Anagrafato e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B78 Preventivo Anonimo e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow B80 Preventivo Anonimo.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow BP2 Preventivo Anonimo Trasformazione in Polizza e MP.ibt
@@ -412,62 +513,112 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow BP5 Preventivo Anonimo Trasformazione in Polizza e MP.ibt
 [FILE] Scenari/Flow BCC/PREVENTIVI BCC/Flow Preventivo Auto B1A e Trasformazione in Polizza.ibt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B14 Autorizzazione e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B19 Autorizzazione e Trasformazione in Polizza Annullamento.ibt , [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B1O Bcc Pro Fabbricato.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B14 Autorizzazione e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B19 Autorizzazione e Trasformazione in Polizza Annullamento.rpt , [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B1O Bcc Pro Fabbricato.ibt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B20 Autorizzazione e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B20 Autorizzazione e Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B76 D&O PG Trasfornazione in Polizza e Annullo.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B76 D&O PG Trasfornazione in Polizza e Annullo.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B77 Autorizzazione e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B77 Autorizzazione e Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B78 Autorizzazione Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B78 Autorizzazione Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B80 Autorizzazione Trasformazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta B80 Autorizzazione Trasformazione in Polizza Annullamento.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP2 PG Autorizzazione Trasformazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP2 PG Autorizzazione Trasformazione in Polizza Annullamento.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.rpt
 [FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP5 PF Autorizzazione Trasformazione in Polizza e Annullamento.ibt
-[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP5 PG Autorizzazione Trasformazione in Polizza e Annullamento.ibt , [FILE] Scenari/Flow BCC/RE BCC/CASA/Flow B77 CASA PROTETTA.ibt
-[FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B14 Infortuni Cliente.ibt , [FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B19 Formula Persona.ibt
-[FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B80 Infortuni Protetto.ibt , [FILE] Scenari/Flow BCC/RE BCC/PMI/b10 BCC PRO FABBRICATO.ibt
-[FILE] Scenari/Flow BCC/RE BCC/PMI/B76 D&O DIRECTOR & OFFICER.ibt , [FILE] Scenari/Flow BCC/RE BCC/PMI/B78 Impresa Protetta.ibt , [FILE] Scenari/Flow BCC/RE BCC/SALUTE/B20 FORMULA SALUTE.ibt
-[FILE] Scenari/Flow BCC Patch/ANAGRAFICA BCC/Patch Inserimento Anagrafica PF BCC.ibt , [FILE] Scenari/Flow BCC Patch/ANAGRAFICA BCC/Patch Inserimento Anagrafica PG BCC.ibt
-[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B1A Autovetture.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B2A Autocarro.ibt
-[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B5A Motocicli e Ciclomotori.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BAA Altri Settori.ibt
-[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BNA Natanti.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BPA Targhe Prova.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BRA Rimorchi.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP5 PF Autorizzazione Trasformazione in Polizza e Annullamento.rpt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP5 PG Autorizzazione Trasformazione in Polizza e Annullamento.ibt
+[FILE] Scenari/Flow BCC/PROPOSTE BCC/Flow Proposta BP5 PG Autorizzazione Trasformazione in Polizza e Annullamento.rpt , [FILE] Scenari/Flow BCC/RE BCC/CASA/Flow B77 CASA PROTETTA.ibt
+[FILE] Scenari/Flow BCC/RE BCC/CASA/Flow B77 CASA PROTETTA.rpt , [FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B14 Infortuni Cliente.ibt
+[FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B14 Infortuni Cliente.rpt , [FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B19 Formula Persona.rpt
+[FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B80 Infortuni Protetto.ibt , [FILE] Scenari/Flow BCC/RE BCC/INFORTUNI/B80 Infortuni Protetto.rpt
+[FILE] Scenari/Flow BCC/RE BCC/PMI/b10 BCC PRO FABBRICATO.ibt , [FILE] Scenari/Flow BCC/RE BCC/PMI/B76 D&O DIRECTOR & OFFICER.ibt , [FILE] Scenari/Flow BCC/RE BCC/PMI/B76 D&O DIRECTOR & OFFICER.rpt
+[FILE] Scenari/Flow BCC/RE BCC/PMI/B78 Impresa Protetta.ibt , [FILE] Scenari/Flow BCC/RE BCC/PMI/B78 Impresa Protetta.rpt , [FILE] Scenari/Flow BCC/RE BCC/SALUTE/B20 FORMULA SALUTE.ibt
+[FILE] Scenari/Flow BCC/RE BCC/SALUTE/B20 FORMULA SALUTE.rpt , [FILE] Scenari/Flow BCC Patch/ANAGRAFICA BCC/Patch Inserimento Anagrafica PF BCC.ibt
+[FILE] Scenari/Flow BCC Patch/ANAGRAFICA BCC/Patch Inserimento Anagrafica PF BCC.rpt , [FILE] Scenari/Flow BCC Patch/ANAGRAFICA BCC/Patch Inserimento Anagrafica PG BCC.ibt
+[FILE] Scenari/Flow BCC Patch/ANAGRAFICA BCC/Patch Inserimento Anagrafica PG BCC.rpt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B1A Autovetture.ibt
+[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B1A Autovetture.rpt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B2A Autocarro.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B2A Autocarro.rpt
+[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B5A Motocicli e Ciclomotori.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO B5A Motocicli e Ciclomotori.rpt
+[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BAA Altri Settori.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BAA Altri Settori.rpt
+[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BNA Natanti.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BNA Natanti.rpt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BPA Targhe Prova.ibt
+[FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BPA Targhe Prova.rpt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BRA Rimorchi.ibt , [FILE] Scenari/Flow BCC Patch/AUTO/Patch AUTO BRA Rimorchi.rpt
 [FILE] Scenari/Flow BCC Patch/CPI/PATCH BP2 FORMULA PRESTITO AL SICURO 1.0 PF.ibt , [FILE] Scenari/Flow BCC Patch/CPI/Patch BP2 Formula Prestito PG.ibt
 [FILE] Scenari/Flow BCC Patch/CPI/Patch BP4 Formula Mutuo Persona Giuridica.ibt , [FILE] Scenari/Flow BCC Patch/CPI/Patch BP4 PERSONA FISICA.ibt
-[FILE] Scenari/Flow BCC Patch/CPI/Patch BP5 Formula Tutela PG.ibt , [FILE] Scenari/Flow BCC Patch/CPI/Patch BP5 Formula Tutela Reddito PF.ibt
-[FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Rettifica ATR BCC.ibt , [FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Sosituzione AUTO.ibt
-[FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Sospensione Auto BCC.ibt , [FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Variazione Dati Comuni - Dati di pagamento BCC.ibt
+[FILE] Scenari/Flow BCC Patch/CPI/Patch BP4 PERSONA FISICA.rpt , [FILE] Scenari/Flow BCC Patch/CPI/Patch BP5 Formula Tutela PG.ibt
+[FILE] Scenari/Flow BCC Patch/CPI/Patch BP5 Formula Tutela Reddito PF.ibt , [FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Rettifica ATR BCC.ibt
+[FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Rettifica ATR BCC.rpt , [FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Sosituzione AUTO.ibt
+[FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Sosituzione AUTO.rpt , [FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Sospensione Auto BCC.ibt
+[FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Variazione Dati Comuni - Dati di pagamento BCC.ibt
+[FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Variazione Dati Comuni - Dati di pagamento BCC.rpt
 [FILE] Scenari/Flow BCC Patch/POST VENDITA AUTO BCC/Patch Variazione Dati Comuni - Storno Movimento BCC.ibt
 [FILE] Scenari/Flow BCC Patch/POST VENDITA CPI BCC/Patch BCC Appendice Dichiarativa CPI.ibt , [FILE] Scenari/Flow BCC Patch/POST VENDITA CPI BCC/Patch BCC Estinzione Anticipata Totale CPI.ibt
 [FILE] Scenari/Flow BCC Patch/POST VENDITA CPI BCC/Patch BCC Estinzione Anticipata Totale Premio Forzato CPI.ibt
 [FILE] Scenari/Flow BCC Patch/POST VENDITA CPI BCC/Patch BCC Recesso Premio Forzato cpi.ibt , [FILE] Scenari/Flow BCC Patch/POST VENDITA CPI BCC/Patch BCC Trasferimento CPI.ibt
 [FILE] Scenari/Flow BCC Patch/POST VENDITA RE BCC/Patch Sostituzione RE BCC.ibt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B14 Preventivo Anagrafato e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B14 Preventivo Anonimo.ibt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B19 Preventivo Anagrafato e Acquisto Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B14 Preventivo Anagrafato e Trasformazione in Polizza.rpt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B14 Preventivo Anonimo.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B14 Preventivo Anonimo.rpt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B19 Preventivo Anagrafato e Acquisto Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B19 Preventivo Anagrafato e Acquisto Polizza.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B19 Preventivo Anonimo e Trasfromazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B19 Preventivo Anonimo e Trasfromazione in Polizza.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B20 Preventivo Anagrfato e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B20 Preventivo Anonimo e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B75 Preventivo Anagrafato.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B20 Preventivo Anagrfato e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B20 Preventivo Anonimo e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B20 Preventivo Anonimo e Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B76 Preventivo Anagrafato e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B76 Preventivo Anagrafato e Trasformazione in Polizza.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B77 Preventivo Anagrafato e Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B77 Preventivo Anonimo e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B77 Preventivo Anonimo.ibt
-[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B78 Preventivo Anagrafato.ibt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B80 Preventivo Anonimo.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B77 Preventivo Anagrafato e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B77 Preventivo Anonimo e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B78 Preventivo Anagrafato e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B78 Preventivo Anonimo e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch B80 Preventivo Anonimo.ibt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP2 Preventivo Anonimo Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP2 Preventivo Anonimo Trasformazione in Polizza e MP.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP4 Preventivo Anagrafato BP4 Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP4 Preventivo Anagrafato BP4 Trasformazione in Polizza e MP.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP4 Preventivo Anonimo Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP4 Preventivo Anonimo Trasformazione in Polizza e MP.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.rpt
 [FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP5 Preventivo Anonimo Trasformazione in Polizza e MP.ibt
-[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch Preventivo Auto B1A e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B10 BCC Pro Fabbricato PROPOSTA.ibt
-[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B14 Proposta Autorizzazione Trasformazione in Polizza.ibt
-[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B19 Proposta Autorizzazione e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B20 Formula Persona PROPOSTA.ibt
-[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B75 BCC Catastrofi Naturali Proposta.ibt , [FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B76 B&O Director & Officer PROPOSTA.ibt
-[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B77 Proposta Autorizzazione e Trasformazione in Polizza.ibt , [FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch B78 Impresa Protetta PROPOSTA.ibt
-[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch BP2 Formula Prestito al sicuro PROPOSTA.ibt , [FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch BP4 Formula Mutuo PROPOSTA.ibt
-[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch bp4 PG Proposta Acquisto Annullo.ibt , [FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch BP5 Formula Tutela Reddito PROPOSTA.ibt
-[FILE] Scenari/Flow BCC Patch/RE/Casa/Patch B77 Casa Protetta.ibt , [FILE] Scenari/Flow BCC Patch/RE/Infortuni/Patch B14 Infortuni Cliente.ibt
-[FILE] Scenari/Flow BCC Patch/RE/Infortuni/Patch B19 Formula Persona.ibt , [FILE] Scenari/Flow BCC Patch/RE/Infortuni/Patch B80 Infortuni Protetto.ibt
-[FILE] Scenari/Flow BCC Patch/RE/Pmi/Patch B10 Pro Fabbricato.ibt , [FILE] Scenari/Flow BCC Patch/RE/Pmi/Patch B76 D&O DIRECTOR & OFFICER.ibt
-[FILE] Scenari/Flow BCC Patch/RE/Pmi/Patch B78 Impresa Protetta.ibt , [FILE] Scenari/Flow BCC Patch/RE/Salute/Patch B20 Formula Salute.ibt , [FILE] Scenari/IBIPS/DUO/DUO.ibt
-[FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimoco.ibt , [FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimocoAltro.zip , [FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimoco_beneficiario_morte_nominativo.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch BP5 Preventivo Anonimo Trasformazione in Polizza e MP.rpt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch Preventivo Auto B1A e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PREVENTIVI BCC/Patch Preventivo Auto B1A e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B10 Autorizzazione Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B10 Autorizzazione Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B14 Autorizzazione Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B14 Autorizzazione Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B19 Autorizzazione Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B19 Autorizzazione Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B20 Autorizzazione e Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B20 Autorizzazione e Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B76 Autorizzazione Trasformazione in Polizza e Annullo.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B76 Autorizzazione Trasformazione in Polizza e Annullo.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B77 Autorizzazione Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B77 Autorizzazione Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B78 Autorizzazione Trasformazione in Polizza.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta B78 Autorizzazione Trasformazione in Polizza.rpt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta BP2 PG Autorizzazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.ibt
+[FILE] Scenari/Flow BCC Patch/PROPOSTE BCC/Patch Proposta BP5 PG Autorizzazione Trasformazione in Polizza e Annullamento.ibt , [FILE] Scenari/Flow BCC Patch/RE/Casa/Patch B77 Casa Protetta.ibt
+[FILE] Scenari/Flow BCC Patch/RE/Infortuni/Patch B14 Infortuni Cliente.ibt , [FILE] Scenari/Flow BCC Patch/RE/Infortuni/Patch B19 Formula Persona.ibt
+[FILE] Scenari/Flow BCC Patch/RE/Infortuni/Patch B80 Infortuni Protetto.ibt , [FILE] Scenari/Flow BCC Patch/RE/Pmi/Patch B10 Pro Fabbricato.ibt
+[FILE] Scenari/Flow BCC Patch/RE/Pmi/Patch B76 D&O DIRECTOR & OFFICER.ibt , [FILE] Scenari/Flow BCC Patch/RE/Pmi/Patch B78 Impresa Protetta.ibt
+[FILE] Scenari/Flow BCC Patch/RE/Salute/Patch B20 Formula Salute.ibt , [FILE] Scenari/IBIPS/DUO/DUO.ibt , [FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimoco.ibt
+[FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimocoAltro.zip , [FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimoco_beneficiario_morte_nominativo.ibt
 [FILE] Scenari/IBIPS/MultiAssimoco/MultiAssimoco_beneficiario_morte_nominativo.zip , [FILE] Scenari/IBIPS/Nuovo Valore Assimoco/Nuovo Valore Assimoco.ibt
 [FILE] Scenari/IBIPS/Triplo/Triplo Assimoco982.ibt , [FILE] Scenari/IBIPS/Triplo/Triplo Assimoco982.zip , [FILE] Scenari/IBIPS/Triplo/Triplo Assimoco983.ibt
 [FILE] Scenari/MOD Questionario Medico/Assicredit extra long giuridico mod quest medico.ibt , [FILE] Scenari/MOD Questionario Medico/Assicredit extra long mod quest medico.ibt
@@ -573,10 +724,10 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/auto garanzie accessorie cristalli.json , [FILE] Moduli/auto garanzie accessorie grandine - Copy.json , [FILE] Moduli/auto garanzie accessorie grandine.json
 [FILE] Moduli/auto garanzie accessorie kasko - Copy.json , [FILE] Moduli/auto garanzie accessorie kasko.json , [FILE] Moduli/auto garanzie accessorie vittime strada - Copy.json
 [FILE] Moduli/auto garanzie accessorie vittime strada.json , [FILE] Moduli/AUTOTUTELA CONDUCENTE.json , [FILE] Moduli/b10 bcc pro fabbricato.json , [FILE] Moduli/B14 Infortuni Cliente.json
-[FILE] Moduli/B19 Formula Persona.json , [FILE] Moduli/b20 formula salute.json , [FILE] Moduli/B76 D&O DIRECTOR & OFFICER.json , [FILE] Moduli/B78 Impresa Protetta.json
-[FILE] Moduli/B80 Infortuni Protetto.json , [FILE] Moduli/bcc aggiungi coinvolto.json , [FILE] Moduli/bcc denuncia re infortuni.json , [FILE] Moduli/bcc denuncia re pmi.json
-[FILE] Moduli/bcc denuncia re salute.json , [FILE] Moduli/bcc incarico fiduciario auto cls bolzano.xlsx.json , [FILE] Moduli/bcc incarico fiduciario auto tty creo.xlsx.json
-[FILE] Moduli/bcc incarico fiduciario auto windflow.xlsx.json , [FILE] Moduli/bcc incarico fiduciario medico cls bolzano.xlsx.json , [FILE] Moduli/bcc incarico fiduciario medico tty creo.xlsx.json
+[FILE] Moduli/b20 formula salute.json , [FILE] Moduli/B76 D&O DIRECTOR & OFFICER.json , [FILE] Moduli/B78 Impresa Protetta.json , [FILE] Moduli/B80 Infortuni Protetto.json
+[FILE] Moduli/bcc aggiungi coinvolto.json , [FILE] Moduli/bcc denuncia re infortuni.json , [FILE] Moduli/bcc denuncia re pmi.json , [FILE] Moduli/bcc denuncia re salute.json
+[FILE] Moduli/bcc incarico fiduciario auto cls bolzano.xlsx.json , [FILE] Moduli/bcc incarico fiduciario auto tty creo.xlsx.json , [FILE] Moduli/bcc incarico fiduciario auto windflow.xlsx.json
+[FILE] Moduli/bcc incarico fiduciario medico cls bolzano.xlsx.json , [FILE] Moduli/bcc incarico fiduciario medico tty creo.xlsx.json
 [FILE] Moduli/bcc incarico fiduciario medico windflow.xlsx.json , [FILE] Moduli/bcc incarico fiduciario re  windflow.xlsx.json
 [FILE] Moduli/bcc incarico fiduciario re perizia a pagamento.xlsx.json , [FILE] Moduli/bcc incarico fiduciario re perizia semplice.xlsx.json
 [FILE] Moduli/bcc incarico fiduciario re tty creo.xlsx.json , [FILE] Moduli/bcc modifica responsabilita.xlsx.json , [FILE] Moduli/bcc trasferimento ispettorato.json
@@ -601,11 +752,9 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/caricamento bollettini delega.xlsx.json , [FILE] Moduli/casa fam confort coop flow.json , [FILE] Moduli/Casa.json , [FILE] Moduli/chiusura sinistro.xlsx.json
 [FILE] Moduli/citazione.xlsx.json , [FILE] Moduli/collacollaudo bcc estinzione anticipata totale cpi.json , [FILE] Moduli/collacollaudo estinzione anticipata totale cpi.json
 [FILE] Moduli/collaudo 1he rimborso spese mediche emissione.json , [FILE] Moduli/collaudo 36v long term care raiffeisen.json , [FILE] Moduli/collaudo annullo riscatto parziale ibips.json
-[FILE] Moduli/collaudo appendice dichiarativa cpi.json , [FILE] Moduli/collaudo b10 pro fabbricato preventivo anagrafato e acquisto.json
-[FILE] Moduli/collaudo b14 preventivo anonimo trasformazione in polizza.json , [FILE] Moduli/collaudo bcc appendice dichiarativa cpi.json
-[FILE] Moduli/collaudo bcc estinzione anticipata totale premio forzato cpi.json , [FILE] Moduli/collaudo bcc trasferimento cpi.json
-[FILE] Moduli/collaudo preventivo anagrafato cpi e trasformazione in polizza.json , [FILE] Moduli/collaudo trasferimento cpi.json , [FILE] Moduli/Commento in polizza Flow patch.json
-[FILE] Moduli/Commento in polizza Flow.json , [FILE] Moduli/cpii flow.json , [FILE] Moduli/demo  83e casa fam confort coop flow con allegato.json
+[FILE] Moduli/collaudo appendice dichiarativa cpi.json , [FILE] Moduli/collaudo bcc appendice dichiarativa cpi.json , [FILE] Moduli/collaudo bcc estinzione anticipata totale premio forzato cpi.json
+[FILE] Moduli/collaudo bcc trasferimento cpi.json , [FILE] Moduli/collaudo preventivo anagrafato cpi e trasformazione in polizza.json , [FILE] Moduli/collaudo trasferimento cpi.json
+[FILE] Moduli/Commento in polizza Flow patch.json , [FILE] Moduli/Commento in polizza Flow.json , [FILE] Moduli/cpii flow.json , [FILE] Moduli/demo  83e casa fam confort coop flow con allegato.json
 [FILE] Moduli/DEMO 01V PIU' PROTEZIONE ASSIMOCO FLOW.json , [FILE] Moduli/demo 05v assolo moderato 2 ed02-2019.json , [FILE] Moduli/demo 06e incendio ro standard.json
 [FILE] Moduli/demo 09e cinque stelle.json , [FILE] Moduli/DEMO 11E AMICI PER LA ZAMPA.json , [FILE] Moduli/DEMO 13E RC PROFESSIONALE MEDICI FLOW.json
 [FILE] Moduli/demo 14e raccolta frutta ortaggi.json , [FILE] Moduli/demo 14v assicurate persona fisica.json , [FILE] Moduli/DEMO 16E RIMBORSO SPESE MEDICHE SINGOLA.json
@@ -647,38 +796,37 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/Flow Auto emissione auto Prima Imm.Bersani Fam. Conviventi.json , [FILE] Moduli/Flow Auto emissione auto Prima Immatricolazione Bersani.json
 [FILE] Moduli/Flow Auto emissione auto Voltura Bersani.json , [FILE] Moduli/Flow AUTO MACCHINA AGRICOLA.json , [FILE] Moduli/Flow AUTO Motocicli BZ.json , [FILE] Moduli/Flow AUTO Motocicli.json
 [FILE] Moduli/Flow AUTO Natante BZ.json , [FILE] Moduli/Flow AUTO Natante.json , [FILE] Moduli/Flow AUTO Rimorchi BZ.json , [FILE] Moduli/Flow AUTO Rimorchi.json
-[FILE] Moduli/Flow AUTO Targa Prova BZ.json , [FILE] Moduli/Flow AUTO Targa Prova.json , [FILE] Moduli/Flow AUTO.json , [FILE] Moduli/Flow B14 Preventivo Anagrafato e Trasformazione in Polizza.json
-[FILE] Moduli/Flow B19 Preventivo Anagrafato e Trasformazione in Polizza.json , [FILE] Moduli/Flow B19 Preventivo Anonimo e Trasformazione in Polizza.json
+[FILE] Moduli/Flow AUTO Targa Prova BZ.json , [FILE] Moduli/Flow AUTO Targa Prova.json , [FILE] Moduli/Flow AUTO.json , [FILE] Moduli/Flow B10 Preventivo Anagrafato e Trasformazione in Polizza.json
+[FILE] Moduli/Flow B14 Preventivo Anagrafato e Trasformazione in Polizza.json , [FILE] Moduli/Flow B14 Preventivo Anonimo e Trasformazione in Polizza.json
 [FILE] Moduli/Flow B20 Preventivo Anagrafato e Trasformazione In Polizza.json , [FILE] Moduli/Flow B20 Preventivo Anonimo e Trasformazione in Polizza.json
 [FILE] Moduli/Flow B76 Preventivo Anagrafato e Trasformazione in Polizza.json , [FILE] Moduli/Flow B76 Preventivo Anonimo e Trasformazione in Polizza.json
 [FILE] Moduli/Flow B77 CASA PROTETTA.json , [FILE] Moduli/Flow B77 Preventivo Anagrafato e Trasformazione in Polizza.json
-[FILE] Moduli/Flow B77 Preventivo Anonimo e Trasformazione in Polizza.json , [FILE] Moduli/Flow B78 Preventivo Anagrafato.json , [FILE] Moduli/Flow B80 Preventivo Anonimo.json
-[FILE] Moduli/Flow BP2 Formula Prestito PG.json , [FILE] Moduli/Flow BP2 PERSONA FISICA.json
-[FILE] Moduli/Flow BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.json , [FILE] Moduli/Flow BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.json
-[FILE] Moduli/Flow BP2 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/Flow BP4 Formula Mutuo 3.json , [FILE] Moduli/Flow BP4 Formula Mutuo al sicuro PG.json
-[FILE] Moduli/Flow BP4 Preventivo Anagrafato Trasformazione in Polizze e MP.json , [FILE] Moduli/Flow BP4 Preventivo Anonimo Trasformazione in Polizza e MP.json
-[FILE] Moduli/Flow BP5 Formula Tutela Reddito PF.json , [FILE] Moduli/Flow BP5 Formula Tutela Reddito PG.json , [FILE] Moduli/Flow BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.json
-[FILE] Moduli/Flow BP5 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/flow denuncia re agricoltura.json , [FILE] Moduli/flow denuncia re casa.json
-[FILE] Moduli/flow denuncia re infortuni.json , [FILE] Moduli/flow denuncia re pet.json , [FILE] Moduli/flow denuncia re pmi.json , [FILE] Moduli/flow denuncia re salute.json
-[FILE] Moduli/flow incarico fiduciario auto cls bolzano.xlsx.json , [FILE] Moduli/flow incarico fiduciario auto tty creo.xlsx.json , [FILE] Moduli/flow incarico fiduciario auto windflow.xlsx.json
-[FILE] Moduli/flow incarico fiduciario medico cls bolzano.xlsx.json , [FILE] Moduli/flow incarico fiduciario medico windflow.xlsx.json
-[FILE] Moduli/flow incarico fiduciario re  windflow.xlsx.json , [FILE] Moduli/flow incarico fiduciario re perizia a pagamento.xlsx.json
-[FILE] Moduli/flow incarico fiduciario re perizia semplice.xlsx.json , [FILE] Moduli/flow incarico fiduciario re tty creo.xlsx.json
-[FILE] Moduli/flow incarico fiduciariom medico tty creo.xlsx.json , [FILE] Moduli/Flow Inserimento anagrafica PF BCC.json , [FILE] Moduli/Flow Inserimento anagrafica PG BCC.json
-[FILE] Moduli/flow modifica responsabilita.xlsx.json , [FILE] Moduli/Flow Preventivo Anagrafato RE e Trasformazione in Polizza.json
+[FILE] Moduli/Flow B77 Preventivo Anonimo e Trasformazione in Polizza.json , [FILE] Moduli/Flow B78 Preventivo Anagrafato e Trasformazione in Polizza.json
+[FILE] Moduli/Flow B78 Preventivo Anonimo e Trasformazione in Polizza.json , [FILE] Moduli/Flow B80 Preventivo Anonimo.json , [FILE] Moduli/Flow BP2 Formula Prestito PG.json
+[FILE] Moduli/Flow BP2 PERSONA FISICA.json , [FILE] Moduli/Flow BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.json
+[FILE] Moduli/Flow BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.json , [FILE] Moduli/Flow BP2 Preventivo Anonimo Trasformazione in Polizza e MP.json
+[FILE] Moduli/Flow BP4 Formula Mutuo 3.json , [FILE] Moduli/Flow BP4 Formula Mutuo al sicuro PG.json , [FILE] Moduli/Flow BP4 Preventivo Anagrafato Trasformazione in Polizze e MP.json
+[FILE] Moduli/Flow BP4 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/Flow BP5 Formula Tutela Reddito PF.json , [FILE] Moduli/Flow BP5 Formula Tutela Reddito PG.json
+[FILE] Moduli/Flow BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.json , [FILE] Moduli/Flow BP5 Preventivo Anonimo Trasformazione in Polizza e MP.json
+[FILE] Moduli/flow denuncia re agricoltura.json , [FILE] Moduli/flow denuncia re casa.json , [FILE] Moduli/flow denuncia re infortuni.json , [FILE] Moduli/flow denuncia re pet.json
+[FILE] Moduli/flow denuncia re pmi.json , [FILE] Moduli/flow denuncia re salute.json , [FILE] Moduli/flow incarico fiduciario auto cls bolzano.xlsx.json
+[FILE] Moduli/flow incarico fiduciario auto tty creo.xlsx.json , [FILE] Moduli/flow incarico fiduciario auto windflow.xlsx.json , [FILE] Moduli/flow incarico fiduciario medico cls bolzano.xlsx.json
+[FILE] Moduli/flow incarico fiduciario medico windflow.xlsx.json , [FILE] Moduli/flow incarico fiduciario re  windflow.xlsx.json
+[FILE] Moduli/flow incarico fiduciario re perizia a pagamento.xlsx.json , [FILE] Moduli/flow incarico fiduciario re perizia semplice.xlsx.json
+[FILE] Moduli/flow incarico fiduciario re tty creo.xlsx.json , [FILE] Moduli/flow incarico fiduciariom medico tty creo.xlsx.json , [FILE] Moduli/Flow Inserimento anagrafica PF BCC.json
+[FILE] Moduli/Flow Inserimento anagrafica PG BCC.json , [FILE] Moduli/flow modifica responsabilita.xlsx.json , [FILE] Moduli/Flow Preventivo Anagrafato RE e Trasformazione in Polizza.json
 [FILE] Moduli/Flow Preventivo Anonimo RE e Trasformazione in Polizza.json , [FILE] Moduli/Flow Preventivo Auto B1A e Trasformazione in Polizza.json
 [FILE] Moduli/Flow Preventivo AUTO Trasformazione in Polizza e MP.json , [FILE] Moduli/Flow Preventivo TCM e Trasformazione in Polizza.json
 [FILE] Moduli/Flow Proposta 01V per risposte fornite al questionario sanitario e Trasformazione in Polizza.json
 [FILE] Moduli/Flow Proposta 1HE Rimborso Spese Mediche e Trasformazione in Polizza.json , [FILE] Moduli/Flow Proposta B14 Autorizzazione e Trasformazione in Polizza.json
-[FILE] Moduli/Flow Proposta B19 Autorizzazione e Trasformazione in Polizza Annullamento.json , [FILE] Moduli/Flow Proposta B1O Bcc Pro Fabbricato.json
-[FILE] Moduli/Flow Proposta B20 Autorizzazione e Trasformazione in Polizza.json , [FILE] Moduli/flow proposta b76 d&o pg trasfornazione in polizza e annullo.json
-[FILE] Moduli/Flow Proposta B77 Autorizzazione e Trasformazione in Polizza.json , [FILE] Moduli/Flow Proposta B78 Autorizzazione Trasformazione in Polizza.json
-[FILE] Moduli/Flow Proposta B80 Autorizzazione Trasformazione in Polizza Annullamento.json , [FILE] Moduli/Flow Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.json
-[FILE] Moduli/Flow Proposta BP2 PG Autorizzazione Trasformazione in Polizza Annullamento.json , [FILE] Moduli/Flow Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.json
-[FILE] Moduli/Flow Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.json , [FILE] Moduli/flow proposta bp5 pf autorizzazione trasformazione in polizza e annullamento.json
-[FILE] Moduli/Flow Proposta BP5 PG Autorizzazione Trasformazione in Polizza e Annullamento.json , [FILE] Moduli/Flow Proposta CPI Autorizzazione e Trasformazione in Polizza.json
-[FILE] Moduli/Flow Rettifica ATR BCC.json , [FILE] Moduli/Flow Rettifica ATR.json , [FILE] Moduli/Flow Sospensione BCC.json
-[FILE] Moduli/Flow Sospensione Veicolo assicurato ancora di proprietà del cliente.json , [FILE] Moduli/Flow Sostituzione Auto per aggiunta garanzia.json
+[FILE] Moduli/Flow Proposta B1O Bcc Pro Fabbricato.json , [FILE] Moduli/Flow Proposta B20 Autorizzazione e Trasformazione in Polizza.json
+[FILE] Moduli/flow proposta b76 d&o pg trasfornazione in polizza e annullo.json , [FILE] Moduli/Flow Proposta B77 Autorizzazione e Trasformazione in Polizza.json
+[FILE] Moduli/Flow Proposta B78 Autorizzazione Trasformazione in Polizza.json , [FILE] Moduli/Flow Proposta B80 Autorizzazione Trasformazione in Polizza Annullamento.json
+[FILE] Moduli/Flow Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.json , [FILE] Moduli/Flow Proposta BP2 PG Autorizzazione Trasformazione in Polizza Annullamento.json
+[FILE] Moduli/Flow Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.json , [FILE] Moduli/Flow Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.json
+[FILE] Moduli/flow proposta bp5 pf autorizzazione trasformazione in polizza e annullamento.json , [FILE] Moduli/Flow Proposta BP5 PG Autorizzazione Trasformazione in Polizza e Annullamento.json
+[FILE] Moduli/Flow Proposta CPI Autorizzazione e Trasformazione in Polizza.json , [FILE] Moduli/Flow Rettifica ATR BCC.json , [FILE] Moduli/Flow Rettifica ATR.json
+[FILE] Moduli/Flow Sospensione BCC.json , [FILE] Moduli/Flow Sospensione Veicolo assicurato ancora di proprietà del cliente.json , [FILE] Moduli/Flow Sostituzione Auto per aggiunta garanzia.json
 [FILE] Moduli/Flow Sostituzione Auto per Cambio Bene.json , [FILE] Moduli/Flow Sostituzione AUTO.json , [FILE] Moduli/flow trasferimento ispettorato.json
 [FILE] Moduli/flow trasferimento liquidatore.xlsx.json , [FILE] Moduli/Flow Variazione Dati Comuni - Nodo di gestione e dati di pagamento BCC.json
 [FILE] Moduli/Flow Variazione Dati Comuni - Storno Movimento BCC.json , [FILE] Moduli/flow_auto card concorsuale 1 firma.json , [FILE] Moduli/flow_auto card concorsuale 2 firme.json
@@ -755,25 +903,21 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/Patch Auto Prima Imm. Bersani da altro veicolo del prop.Stessa Comp.FLow.json , [FILE] Moduli/Patch Auto Voltura Bersani da altro veicolo di fam.Convivente Flow.json
 [FILE] Moduli/Patch Auto Voltura Bersani da altro veicolo di fam.stessa Comp. Flow.json , [FILE] Moduli/PATCH AUTORIZZAZIONE PROPOSTA RE.json , [FILE] Moduli/Patch Autorizzazione Proposta.json
 [FILE] Moduli/Patch Autotuela conducente targa Flow.json , [FILE] Moduli/Patch Autotutela Conducente Flow.json , [FILE] Moduli/Patch Autotutela conduncente Raiff Flow.json
-[FILE] Moduli/Patch B10 BCC Pro Fabbricato PROPOSTA.json , [FILE] Moduli/Patch B10 Pro Fabbricato.json , [FILE] Moduli/Patch B14 Infortuni Cliente.json
-[FILE] Moduli/Patch B14 Preventivo Anagrafato e Trasformazione in Polizza.json , [FILE] Moduli/patch b14 preventivo anonimo.json
-[FILE] Moduli/Patch B14 Proposta Autorizzazione Trasformazione in Polizza.json , [FILE] Moduli/Patch B19 Formula Persona.json , [FILE] Moduli/Patch B19 Preventivo Anagrafato e Acquisto Polizza.json
-[FILE] Moduli/Patch B19 Preventivo Anonimo e Trasfromazione in Polizza.json , [FILE] Moduli/Patch B19 Proposta Autorizzazione e Trasformazione in Polizza.json
-[FILE] Moduli/Patch B20 Formula Persona PROPOSTA.json , [FILE] Moduli/Patch B20 Formula Salute.json , [FILE] Moduli/Patch B20 Preventivo Anagrfato e Trasformazione in Polizza.json
-[FILE] Moduli/Patch B20 Preventivo Anonimo e Trasformazione in Polizza.json , [FILE] Moduli/Patch B75 BCC Catastrofi Naturali Proposta.json , [FILE] Moduli/Patch B75 Preventivo Anagrafato.json
-[FILE] Moduli/Patch B76 B&O Director & Officer PROPOSTA.json , [FILE] Moduli/Patch B76 D&O DIRECTOR & OFFICER.json , [FILE] Moduli/Patch B76 Preventivo Anagrafato e Trasformazione in Polizza.json
-[FILE] Moduli/Patch B77 Casa Protetta.json , [FILE] Moduli/Patch B77 Preventivo Anagrafato e Trasformazione in Polizza.json
-[FILE] Moduli/Patch B77 Preventivo Anonimo e Trasformazione in Polizza.json , [FILE] Moduli/Patch B77 Preventivo Anonimo.json
-[FILE] Moduli/Patch B77 Proposta Autorizzazione e Trasformazione in Polizza.json , [FILE] Moduli/Patch B78 Impresa Protetta PROPOSTA.json , [FILE] Moduli/Patch B78 Impresa Protetta.json
-[FILE] Moduli/Patch B78 Preventivo Anagrafato.json , [FILE] Moduli/Patch B80 Infortuni Protetto.json , [FILE] Moduli/Patch B80 Preventivo Anonimo.json
+[FILE] Moduli/Patch B10 Pro Fabbricato.json , [FILE] Moduli/Patch B14 Infortuni Cliente.json , [FILE] Moduli/Patch B14 Preventivo Anagrafato e Trasformazione in Polizza.json
+[FILE] Moduli/patch b14 preventivo anonimo.json , [FILE] Moduli/Patch B19 Formula Persona.json , [FILE] Moduli/Patch B19 Preventivo Anagrafato e Acquisto Polizza.json
+[FILE] Moduli/Patch B19 Preventivo Anonimo e Trasfromazione in Polizza.json , [FILE] Moduli/Patch B20 Formula Salute.json
+[FILE] Moduli/Patch B20 Preventivo Anagrfato e Trasformazione in Polizza.json , [FILE] Moduli/Patch B20 Preventivo Anonimo e Trasformazione in Polizza.json
+[FILE] Moduli/Patch B76 D&O DIRECTOR & OFFICER.json , [FILE] Moduli/Patch B76 Preventivo Anagrafato e Trasformazione in Polizza.json , [FILE] Moduli/Patch B77 Casa Protetta.json
+[FILE] Moduli/Patch B77 Preventivo Anagrafato e Trasformazione in Polizza.json , [FILE] Moduli/Patch B77 Preventivo Anonimo e Trasformazione in Polizza.json
+[FILE] Moduli/Patch B78 Impresa Protetta.json , [FILE] Moduli/Patch B78 Preventivo Anagrafato e Trasformazione in Polizza.json
+[FILE] Moduli/Patch B78 Preventivo Anonimo e Trasformazione in Polizza.json , [FILE] Moduli/Patch B80 Infortuni Protetto.json , [FILE] Moduli/Patch B80 Preventivo Anonimo.json
 [FILE] Moduli/patch bcc appendice dichiarativa cpi.json , [FILE] Moduli/patch bcc estinzione anticipata totale cpi.json
 [FILE] Moduli/patch bcc estinzione anticipata totale premio forzato cpi.json , [FILE] Moduli/patch bcc recesso premio forzato cpi.json , [FILE] Moduli/patch bcc trasferimento cpi.json
-[FILE] Moduli/PATCH BP2 FORMULA PRESTITO AL SICURO 1.json , [FILE] Moduli/Patch BP2 Formula Prestito al sicuro PROPOSTA.json , [FILE] Moduli/Patch BP2 Formula Prestito PG.json
+[FILE] Moduli/PATCH BP2 FORMULA PRESTITO AL SICURO 1.json , [FILE] Moduli/Patch BP2 Formula Prestito PG.json
 [FILE] Moduli/Patch BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.json , [FILE] Moduli/Patch BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.json
-[FILE] Moduli/Patch BP2 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/Patch BP4 Formula Mutuo Persona Giuridica.json , [FILE] Moduli/Patch BP4 Formula Mutuo PROPOSTA.json
-[FILE] Moduli/Patch BP4 PERSONA FISICA.json , [FILE] Moduli/patch bp4 pg  proposta e acquisto.json , [FILE] Moduli/Patch BP4 Preventivo Anagrafato BP4 Trasformazione in Polizza e MP.json
-[FILE] Moduli/Patch BP4 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/Patch BP5 Formula Tutela PG.json , [FILE] Moduli/Patch BP5 Formula Tutela Reddito PF.json
-[FILE] Moduli/Patch BP5 Formula Tutela Reddito PROPOSTA.json , [FILE] Moduli/Patch BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.json
+[FILE] Moduli/Patch BP2 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/Patch BP4 Formula Mutuo Persona Giuridica.json , [FILE] Moduli/Patch BP4 PERSONA FISICA.json
+[FILE] Moduli/Patch BP4 Preventivo Anagrafato BP4 Trasformazione in Polizza e MP.json , [FILE] Moduli/Patch BP4 Preventivo Anonimo Trasformazione in Polizza e MP.json
+[FILE] Moduli/Patch BP5 Formula Tutela PG.json , [FILE] Moduli/Patch BP5 Formula Tutela Reddito PF.json , [FILE] Moduli/Patch BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.json
 [FILE] Moduli/Patch BP5 Preventivo Anonimo Trasformazione in Polizza e MP.json , [FILE] Moduli/Patch Cambio Contraenza IBIPS.json , [FILE] Moduli/Patch Cambio Contraenza TCM.json
 [FILE] Moduli/Patch casa fam confort agenzie flow.json , [FILE] Moduli/Patch casa fam confort agenzie Raiff flow.json , [FILE] Moduli/Patch casa fam confort coop flow.json
 [FILE] Moduli/Patch Correzione ATR.json , [FILE] Moduli/Patch emissione auto BZ Flow.json , [FILE] Moduli/Patch emissione auto x Bersani altro veicolo prop.json
@@ -784,7 +928,13 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/Patch Preventivo Anagrafato CPI e Trasformazione in Polizza.json , [FILE] Moduli/Patch Preventivo Anagrafato RE e Trasformazione in Polizza.json
 [FILE] Moduli/Patch Preventivo Anonimo RE e Trasformazione in Polizza.json , [FILE] Moduli/Patch Preventivo Auto B1A e Trasformazione in Polizza.json
 [FILE] Moduli/Patch Preventivo Auto e Trasformazione in Polizza.json , [FILE] Moduli/Patch Preventivo TCM e Trasformazione in Polizza.json
-[FILE] Moduli/patch proposta 16v rate protette fisico flow.json , [FILE] Moduli/Patch Proposta CPI Autorizzazione e Trasformazione in Polizza.json
+[FILE] Moduli/patch proposta 16v rate protette fisico flow.json , [FILE] Moduli/Patch Proposta B10 Autorizzazione Trasformazione in Polizza.json
+[FILE] Moduli/Patch Proposta B14 Autorizzazione Trasformazione in Polizza.json , [FILE] Moduli/Patch Proposta B19 Autorizzazione Trasformazione in Polizza.json
+[FILE] Moduli/Patch Proposta B20 Autorizzazione e Trasformazione in Polizza.json , [FILE] Moduli/Patch Proposta B76 Autorizzazione Trasformazione in Polizza e Annullo.json
+[FILE] Moduli/Patch Proposta B77 Autorizzazione Trasformazione in Polizza.json , [FILE] Moduli/Patch Proposta B78 Autorizzazione Trasformazione in Polizza.json
+[FILE] Moduli/Patch Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.json , [FILE] Moduli/Patch Proposta BP2 PG Autorizzazione in Polizza Annullamento.json
+[FILE] Moduli/Patch Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.json , [FILE] Moduli/Patch Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.json
+[FILE] Moduli/patch proposta bp5 pg autorizzazione trasformazione in polizza e annullamento.json , [FILE] Moduli/Patch Proposta CPI Autorizzazione e Trasformazione in Polizza.json
 [FILE] Moduli/Patch Proposta TCM a seguito delle risposte fornite al questionario sanitario.json , [FILE] Moduli/Patch Proposta TCM con  Dichiarazione persona politicamente esposta.json
 [FILE] Moduli/Patch Proposta TCM risposte fornite al questionario sanitario e Trasformazione in Polizza e Mancato Perfezionamento.json , [FILE] Moduli/Patch Protetto Infortuni Flow.json
 [FILE] Moduli/Patch Protezione Web  Assimoco Flow.json , [FILE] Moduli/Patch Recesso IBIPS.json , [FILE] Moduli/Patch Recesso TCM.json , [FILE] Moduli/Patch Rescissione TCM.json
@@ -882,27 +1032,25 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/auto garanzia eventi naturali.mask , [FILE] Fogli Excel/auto garanzia eventi sociopolitici.mask , [FILE] Fogli Excel/auto garanzia furto.mask
 [FILE] Fogli Excel/auto garanzia incendio.mask , [FILE] Fogli Excel/auto garanzia infortuni conducente.mask , [FILE] Fogli Excel/auto garanzia tutela legale.mask
 [FILE] Fogli Excel/auto garanzie accessorie cristalli.mask , [FILE] Fogli Excel/auto garanzie accessorie grandine.mask , [FILE] Fogli Excel/auto garanzie accessorie kasko.mask
-[FILE] Fogli Excel/b10 bcc pro fabbricato.mask , [FILE] Fogli Excel/B14 Infortuni Cliente.mask , [FILE] Fogli Excel/B19 Formula Persona.mask , [FILE] Fogli Excel/b20 formula salute.mask
-[FILE] Fogli Excel/B76 D&O DIRECTOR & OFFICER.mask , [FILE] Fogli Excel/B78 Impresa Protetta.mask , [FILE] Fogli Excel/B80 Infortuni Protetto.mask , [FILE] Fogli Excel/bcc aggiungi coinvolto.mask
-[FILE] Fogli Excel/bcc denuncia re infortuni.mask , [FILE] Fogli Excel/bcc denuncia re pmi.mask , [FILE] Fogli Excel/bcc denuncia re salute.mask
-[FILE] Fogli Excel/bcc incarico fiduciario auto cls bolzano.mask , [FILE] Fogli Excel/bcc incarico fiduciario auto tty creo.mask , [FILE] Fogli Excel/bcc incarico fiduciario auto windflow.mask
-[FILE] Fogli Excel/bcc incarico fiduciario medico cls bolzano.mask , [FILE] Fogli Excel/bcc incarico fiduciario medico tty creo.mask
-[FILE] Fogli Excel/bcc incarico fiduciario medico windflow.mask , [FILE] Fogli Excel/bcc incarico fiduciario re perizia a pagamento.mask
-[FILE] Fogli Excel/bcc incarico fiduciario re perizia semplice.mask , [FILE] Fogli Excel/bcc incarico fiduciario re tty creo.mask , [FILE] Fogli Excel/bcc incarico fiduciario re windflow.mask
-[FILE] Fogli Excel/bcc modifica responsabilita.mask , [FILE] Fogli Excel/bcc trasferimento ispettorato.mask , [FILE] Fogli Excel/bcc trasferimento liquidatore.mask
-[FILE] Fogli Excel/bcc_auto card concorsuale 1 firma.mask , [FILE] Fogli Excel/BCC_auto card concorsuale 2 firme.mask , [FILE] Fogli Excel/bcc_auto card non responsabile 1 firme.mask
-[FILE] Fogli Excel/bcc_auto card non responsabile 2 firme.mask , [FILE] Fogli Excel/bcc_auto card responsabile 2 firme.mask , [FILE] Fogli Excel/bcc_auto card responsabile in verifica.mask
-[FILE] Fogli Excel/bcc_auto cristalli.mask , [FILE] Fogli Excel/bcc_auto garanzia furto.mask , [FILE] Fogli Excel/bcc_auto garanzia incendio.mask
-[FILE] Fogli Excel/bcc_auto garanzie assistenza.mask , [FILE] Fogli Excel/bcc_auto garanzie atti vandalici.mask , [FILE] Fogli Excel/bcc_auto garanzie eventi naturali.mask
-[FILE] Fogli Excel/bcc_auto garanzie infortuni conducente.mask , [FILE] Fogli Excel/bcc_auto garanzie kasco.mask , [FILE] Fogli Excel/bcc_auto garanzie tutela legale.mask
-[FILE] Fogli Excel/bcc_auto rca ordinario 2 veicoli senza contatto firma.mask , [FILE] Fogli Excel/bcc_auto rca ordinario non responsabile 1 firma.mask
-[FILE] Fogli Excel/bcc_auto rca ordinario responsabile 1 firma.mask , [FILE] Fogli Excel/bcc_auto rca ordinario responsabile cose.mask , [FILE] Fogli Excel/Cambio Contraenza IBIPS Flow.mask
-[FILE] Fogli Excel/Cambio Contraenza TCM Flow.mask , [FILE] Fogli Excel/card concorsuale 2  firme.mask , [FILE] Fogli Excel/card concorsuale1 firma.mask
-[FILE] Fogli Excel/CARD Non Responsabile 1 firma.mask , [FILE] Fogli Excel/CARD Non Responsabile 2 firme.mask , [FILE] Fogli Excel/CARD Responsabile 1 firma.mask
-[FILE] Fogli Excel/card responsabile 2 firme.mask , [FILE] Fogli Excel/card responsabile in verifica.mask , [FILE] Fogli Excel/casa fam confort coop flow.mask
-[FILE] Fogli Excel/collaudo 1he rimborso spese mediche emissione.mask , [FILE] Fogli Excel/collaudo 36v long term care raiffeisen.mask
-[FILE] Fogli Excel/collaudo annullo riscatto parziale ibips.mask , [FILE] Fogli Excel/collaudo appendice dichiarativa cpi.mask
-[FILE] Fogli Excel/collaudo b10 pro fabbricato preventivo anagrafato e acquisto.mask , [FILE] Fogli Excel/collaudo b14 preventivo anonimo e trasformazione in polizza.mask
+[FILE] Fogli Excel/b10 bcc pro fabbricato.mask , [FILE] Fogli Excel/B14 Infortuni Cliente.mask , [FILE] Fogli Excel/b20 formula salute.mask , [FILE] Fogli Excel/B76 D&O DIRECTOR & OFFICER.mask
+[FILE] Fogli Excel/B78 Impresa Protetta.mask , [FILE] Fogli Excel/B80 Infortuni Protetto.mask , [FILE] Fogli Excel/bcc aggiungi coinvolto.mask , [FILE] Fogli Excel/bcc denuncia re infortuni.mask
+[FILE] Fogli Excel/bcc denuncia re pmi.mask , [FILE] Fogli Excel/bcc denuncia re salute.mask , [FILE] Fogli Excel/bcc incarico fiduciario auto cls bolzano.mask
+[FILE] Fogli Excel/bcc incarico fiduciario auto tty creo.mask , [FILE] Fogli Excel/bcc incarico fiduciario auto windflow.mask , [FILE] Fogli Excel/bcc incarico fiduciario medico cls bolzano.mask
+[FILE] Fogli Excel/bcc incarico fiduciario medico tty creo.mask , [FILE] Fogli Excel/bcc incarico fiduciario medico windflow.mask
+[FILE] Fogli Excel/bcc incarico fiduciario re perizia a pagamento.mask , [FILE] Fogli Excel/bcc incarico fiduciario re perizia semplice.mask
+[FILE] Fogli Excel/bcc incarico fiduciario re tty creo.mask , [FILE] Fogli Excel/bcc incarico fiduciario re windflow.mask , [FILE] Fogli Excel/bcc modifica responsabilita.mask
+[FILE] Fogli Excel/bcc trasferimento ispettorato.mask , [FILE] Fogli Excel/bcc trasferimento liquidatore.mask , [FILE] Fogli Excel/bcc_auto card concorsuale 1 firma.mask
+[FILE] Fogli Excel/BCC_auto card concorsuale 2 firme.mask , [FILE] Fogli Excel/bcc_auto card non responsabile 1 firme.mask , [FILE] Fogli Excel/bcc_auto card non responsabile 2 firme.mask
+[FILE] Fogli Excel/bcc_auto card responsabile 2 firme.mask , [FILE] Fogli Excel/bcc_auto card responsabile in verifica.mask , [FILE] Fogli Excel/bcc_auto cristalli.mask
+[FILE] Fogli Excel/bcc_auto garanzia furto.mask , [FILE] Fogli Excel/bcc_auto garanzia incendio.mask , [FILE] Fogli Excel/bcc_auto garanzie assistenza.mask
+[FILE] Fogli Excel/bcc_auto garanzie atti vandalici.mask , [FILE] Fogli Excel/bcc_auto garanzie eventi naturali.mask , [FILE] Fogli Excel/bcc_auto garanzie infortuni conducente.mask
+[FILE] Fogli Excel/bcc_auto garanzie kasco.mask , [FILE] Fogli Excel/bcc_auto garanzie tutela legale.mask , [FILE] Fogli Excel/bcc_auto rca ordinario 2 veicoli senza contatto firma.mask
+[FILE] Fogli Excel/bcc_auto rca ordinario non responsabile 1 firma.mask , [FILE] Fogli Excel/bcc_auto rca ordinario responsabile 1 firma.mask
+[FILE] Fogli Excel/bcc_auto rca ordinario responsabile cose.mask , [FILE] Fogli Excel/Cambio Contraenza IBIPS Flow.mask , [FILE] Fogli Excel/Cambio Contraenza TCM Flow.mask
+[FILE] Fogli Excel/card concorsuale 2  firme.mask , [FILE] Fogli Excel/card concorsuale1 firma.mask , [FILE] Fogli Excel/CARD Non Responsabile 1 firma.mask
+[FILE] Fogli Excel/CARD Non Responsabile 2 firme.mask , [FILE] Fogli Excel/CARD Responsabile 1 firma.mask , [FILE] Fogli Excel/card responsabile 2 firme.mask
+[FILE] Fogli Excel/card responsabile in verifica.mask , [FILE] Fogli Excel/casa fam confort coop flow.mask , [FILE] Fogli Excel/collaudo 1he rimborso spese mediche emissione.mask
+[FILE] Fogli Excel/collaudo 36v long term care raiffeisen.mask , [FILE] Fogli Excel/collaudo annullo riscatto parziale ibips.mask , [FILE] Fogli Excel/collaudo appendice dichiarativa cpi.mask
 [FILE] Fogli Excel/collaudo bcc appendice dichiarativa cpi.mask , [FILE] Fogli Excel/collaudo bcc estinzione anticipata totale premio forzato cpi.mask
 [FILE] Fogli Excel/collaudo bcc stinzione anticipata totale cpi.mask , [FILE] Fogli Excel/collaudo bcc trasferimento cpi.mask , [FILE] Fogli Excel/collaudo estinzione anticipata totale cpi.mask
 [FILE] Fogli Excel/collaudo preventivo anagrafato cpi e trasformazione in polizza.mask , [FILE] Fogli Excel/collaudo trasferimento cpi.mask , [FILE] Fogli Excel/Commento in polizza Flow patch.mask
@@ -947,15 +1095,16 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Flow Auto emissione auto Voltura Bersani.mask , [FILE] Fogli Excel/Flow AUTO MACCHINA AGRICOLA.mask , [FILE] Fogli Excel/Flow AUTO Motocicli BZ.mask
 [FILE] Fogli Excel/Flow AUTO Motocicli.mask , [FILE] Fogli Excel/Flow AUTO Natante BZ.mask , [FILE] Fogli Excel/Flow AUTO Natante.mask , [FILE] Fogli Excel/Flow AUTO Rimorchi BZ.mask
 [FILE] Fogli Excel/Flow AUTO Rimorchi.mask , [FILE] Fogli Excel/Flow Auto sostituzione con cambio targa.mask , [FILE] Fogli Excel/Flow AUTO Targa Prova BZ.mask
-[FILE] Fogli Excel/Flow AUTO Targa Prova.mask , [FILE] Fogli Excel/Flow AUTO.mask , [FILE] Fogli Excel/Flow B14 Preventivo Anagrafato e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Flow B19 Preventivo Anagrafato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow B19 Preventivo Anonimo e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Flow AUTO Targa Prova.mask , [FILE] Fogli Excel/Flow AUTO.mask , [FILE] Fogli Excel/Flow B10 Preventivo Anagrafato e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Flow B14 Preventivo Anagrafato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow B14 Preventivo Anonimo e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Flow B20 Preventivo Anagrafato e Trasformazione In Polizza.mask , [FILE] Fogli Excel/Flow B20 Preventivo Anonimo e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Flow B76 Preventivo Anagrafato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow B76 Preventivo Anonimo e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Flow B77 CASA PROTETTA.mask , [FILE] Fogli Excel/Flow B77 Preventivo Anagrafato e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Flow B77 Preventivo Anonimo e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow B78 Preventivo Anagrafato.mask , [FILE] Fogli Excel/Flow B80 Preventivo Anonimo.mask
-[FILE] Fogli Excel/Flow BP2 Formula Prestito PG.mask , [FILE] Fogli Excel/Flow BP2 PERSONA FISICA.mask
-[FILE] Fogli Excel/Flow BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Flow BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.mask
-[FILE] Fogli Excel/Flow BP2 Preventivo Anonimo Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Flow BP4 Formula Mutuo 3.mask , [FILE] Fogli Excel/Flow BP4 Formula Mutuo al sicuro PG.mask
+[FILE] Fogli Excel/Flow B77 Preventivo Anonimo e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow B78 Preventivo Anagrafato e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Flow B78 Preventivo Anonimo e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow B80 Preventivo Anonimo.mask , [FILE] Fogli Excel/Flow BP2 Formula Prestito PG.mask
+[FILE] Fogli Excel/Flow BP2 PERSONA FISICA.mask , [FILE] Fogli Excel/Flow BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.mask
+[FILE] Fogli Excel/Flow BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Flow BP2 Preventivo Anonimo Trasformazione in Polizza e MP.mask
+[FILE] Fogli Excel/Flow BP4 Formula Mutuo 3.mask , [FILE] Fogli Excel/Flow BP4 Formula Mutuo al sicuro PG.mask
 [FILE] Fogli Excel/Flow BP4 Preventivo Anagrafato Trasformazione in Polizze e MP.mask , [FILE] Fogli Excel/Flow BP4 Preventivo Anonimo Trasformazione in Polizza e MP.mask
 [FILE] Fogli Excel/Flow BP5 Formula Tutela Reddito PF.mask , [FILE] Fogli Excel/Flow BP5 Formula Tutela Reddito PG.mask
 [FILE] Fogli Excel/Flow BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Flow BP5 Preventivo Anonimo Trasformazione in Polizza e MP.mask
@@ -970,10 +1119,10 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Flow Preventivo Auto B1A e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow Preventivo AUTO Trasformazione in Polizza e MP.mask
 [FILE] Fogli Excel/Flow Preventivo TCM e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow Proposta 01V per risposte fornite al questionario sanitario e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Flow Proposta 1HE Rimborso Spese Mediche e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow Proposta B14 Autorizzazione e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Flow Proposta B19 Autorizzazione e Trasformazione in Polizza Annullamento.mask , [FILE] Fogli Excel/Flow Proposta B1O Bcc Pro Fabbricato.mask
-[FILE] Fogli Excel/Flow Proposta B20 Autorizzazione e Trasformazione in Polizza.mask , [FILE] Fogli Excel/flow proposta b76 d&o pg trasfornazione in polizza e annullo.mask
-[FILE] Fogli Excel/Flow Proposta B77 Autorizzazione e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow Proposta B78 Autorizzazione Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Flow Proposta B80 Autorizzazione Trasformazione in Polizza Annullamento.mask , [FILE] Fogli Excel/Flow Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.mask
+[FILE] Fogli Excel/Flow Proposta B1O Bcc Pro Fabbricato.mask , [FILE] Fogli Excel/Flow Proposta B20 Autorizzazione e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/flow proposta b76 d&o pg trasfornazione in polizza e annullo.mask , [FILE] Fogli Excel/Flow Proposta B77 Autorizzazione e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Flow Proposta B78 Autorizzazione Trasformazione in Polizza.mask , [FILE] Fogli Excel/Flow Proposta B80 Autorizzazione Trasformazione in Polizza Annullamento.mask
+[FILE] Fogli Excel/Flow Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.mask
 [FILE] Fogli Excel/Flow Proposta BP2 PG Autorizzazione Trasformazione in Polizza Annullamento.mask
 [FILE] Fogli Excel/Flow Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.mask
 [FILE] Fogli Excel/Flow Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.mask
@@ -1043,27 +1192,23 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Patch Auto emissione Targa Prova Flow.mask , [FILE] Fogli Excel/Patch Auto Prima Imm. Bersani da altro veicolo del prop.Stessa Comp.FLow.mask
 [FILE] Fogli Excel/Patch Auto Voltura Bersani da altro veicolo di fam.Convivente Flow.mask , [FILE] Fogli Excel/Patch Auto Voltura Bersani da altro veicolo di fam.stessa Comp. Flow.mask
 [FILE] Fogli Excel/PATCH AUTORIZZAZIONE PROPOSTA RE.mask , [FILE] Fogli Excel/Patch Autorizzazione Proposta.mask , [FILE] Fogli Excel/Patch Autotuela conducente targa Flow.mask
-[FILE] Fogli Excel/Patch Autotutela Conducente Flow.mask , [FILE] Fogli Excel/Patch Autotutela conduncente Raiff Flow.mask , [FILE] Fogli Excel/Patch B10 BCC Pro Fabbricato PROPOSTA.mask
-[FILE] Fogli Excel/Patch B10 Pro Fabbricato.mask , [FILE] Fogli Excel/Patch B14 Infortuni Cliente.mask , [FILE] Fogli Excel/Patch B14 Preventivo Anagrafato e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/patch b14 preventivo anonimo.mask , [FILE] Fogli Excel/Patch B14 Proposta Autorizzazione Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch B19 Formula Persona.mask
-[FILE] Fogli Excel/Patch B19 Preventivo Anagrafato e Acquisto Polizza.mask , [FILE] Fogli Excel/Patch B19 Preventivo Anonimo e Trasfromazione in Polizza.mask
-[FILE] Fogli Excel/Patch B19 Proposta Autorizzazione e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch B20 Formula Persona PROPOSTA.mask , [FILE] Fogli Excel/Patch B20 Formula Salute.mask
+[FILE] Fogli Excel/Patch Autotutela Conducente Flow.mask , [FILE] Fogli Excel/Patch Autotutela conduncente Raiff Flow.mask , [FILE] Fogli Excel/Patch B10 Pro Fabbricato.mask
+[FILE] Fogli Excel/Patch B14 Infortuni Cliente.mask , [FILE] Fogli Excel/Patch B14 Preventivo Anagrafato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/patch b14 preventivo anonimo.mask
+[FILE] Fogli Excel/Patch B19 Formula Persona.mask , [FILE] Fogli Excel/Patch B19 Preventivo Anagrafato e Acquisto Polizza.mask
+[FILE] Fogli Excel/Patch B19 Preventivo Anonimo e Trasfromazione in Polizza.mask , [FILE] Fogli Excel/Patch B20 Formula Salute.mask
 [FILE] Fogli Excel/Patch B20 Preventivo Anagrfato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch B20 Preventivo Anonimo e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Patch B75 BCC Catastrofi Naturali Proposta.mask , [FILE] Fogli Excel/Patch B75 Preventivo Anagrafato.mask , [FILE] Fogli Excel/Patch B76 B&O Director & Officer PROPOSTA.mask
 [FILE] Fogli Excel/Patch B76 D&O DIRECTOR & OFFICER.mask , [FILE] Fogli Excel/Patch B76 Preventivo Anagrafato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch B77 Casa Protetta.mask
 [FILE] Fogli Excel/Patch B77 Preventivo Anagrafato e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch B77 Preventivo Anonimo e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Patch B77 Preventivo Anonimo.mask , [FILE] Fogli Excel/Patch B77 Proposta Autorizzazione e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/Patch B78 Impresa Protetta PROPOSTA.mask , [FILE] Fogli Excel/Patch B78 Impresa Protetta.mask , [FILE] Fogli Excel/Patch B78 Preventivo Anagrafato.mask
-[FILE] Fogli Excel/Patch B80 Infortuni Protetto.mask , [FILE] Fogli Excel/Patch B80 Preventivo Anonimo.mask , [FILE] Fogli Excel/patch bcc appendice dichiarativa cpi.mask
-[FILE] Fogli Excel/patch bcc estinzione anticipata totale cpi.mask , [FILE] Fogli Excel/patch bcc estinzione anticipata totale premio forzato cpi.mask
-[FILE] Fogli Excel/patch bcc recesso premio forzato cpi.mask , [FILE] Fogli Excel/patch bcc trasferimento cpi.mask , [FILE] Fogli Excel/PATCH BP2 FORMULA PRESTITO AL SICURO 1.mask
-[FILE] Fogli Excel/Patch BP2 Formula Prestito al sicuro PROPOSTA.mask , [FILE] Fogli Excel/Patch BP2 Formula Prestito PG.mask
+[FILE] Fogli Excel/Patch B78 Impresa Protetta.mask , [FILE] Fogli Excel/Patch B78 Preventivo Anagrafato e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Patch B78 Preventivo Anonimo e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch B80 Infortuni Protetto.mask , [FILE] Fogli Excel/Patch B80 Preventivo Anonimo.mask
+[FILE] Fogli Excel/patch bcc appendice dichiarativa cpi.mask , [FILE] Fogli Excel/patch bcc estinzione anticipata totale cpi.mask
+[FILE] Fogli Excel/patch bcc estinzione anticipata totale premio forzato cpi.mask , [FILE] Fogli Excel/patch bcc recesso premio forzato cpi.mask
+[FILE] Fogli Excel/patch bcc trasferimento cpi.mask , [FILE] Fogli Excel/PATCH BP2 FORMULA PRESTITO AL SICURO 1.mask , [FILE] Fogli Excel/Patch BP2 Formula Prestito PG.mask
 [FILE] Fogli Excel/Patch BP2 Preventivo Anagrafato su PG con Assicurato Pg Trasformazione in Polizza e MP.mask
 [FILE] Fogli Excel/Patch BP2 Preventivo Anagrafato Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Patch BP2 Preventivo Anonimo Trasformazione in Polizza e MP.mask
-[FILE] Fogli Excel/Patch BP4 Formula Mutuo Persona Giuridica.mask , [FILE] Fogli Excel/Patch BP4 Formula Mutuo PROPOSTA.mask , [FILE] Fogli Excel/Patch BP4 PERSONA FISICA.mask
-[FILE] Fogli Excel/patch bp4 pg  proposta e acquisto.mask , [FILE] Fogli Excel/Patch BP4 Preventivo Anagrafato BP4 Trasformazione in Polizza e MP.mask
-[FILE] Fogli Excel/Patch BP4 Preventivo Anonimo Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Patch BP5 Formula Tutela PG.mask
-[FILE] Fogli Excel/Patch BP5 Formula Tutela Reddito PF.mask , [FILE] Fogli Excel/Patch BP5 Formula Tutela Reddito PROPOSTA.mask
+[FILE] Fogli Excel/Patch BP4 Formula Mutuo Persona Giuridica.mask , [FILE] Fogli Excel/Patch BP4 PERSONA FISICA.mask
+[FILE] Fogli Excel/Patch BP4 Preventivo Anagrafato BP4 Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Patch BP4 Preventivo Anonimo Trasformazione in Polizza e MP.mask
+[FILE] Fogli Excel/Patch BP5 Formula Tutela PG.mask , [FILE] Fogli Excel/Patch BP5 Formula Tutela Reddito PF.mask
 [FILE] Fogli Excel/Patch BP5 Preventivo Anagrafato Trasformazione in Polizza e MP.mask , [FILE] Fogli Excel/Patch BP5 Preventivo Anonimo Trasformazione in Polizza e MP.mask
 [FILE] Fogli Excel/Patch Cambio Contraenza IBIPS.mask , [FILE] Fogli Excel/Patch Cambio Contraenza TCM.mask , [FILE] Fogli Excel/Patch casa fam confort agenzie flow.mask
 [FILE] Fogli Excel/Patch casa fam confort agenzie Raiff Flow.mask , [FILE] Fogli Excel/Patch casa fam confort coop flow.mask , [FILE] Fogli Excel/Patch Correzione ATR.mask
@@ -1075,7 +1220,14 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Patch Preventivo Anagrafato CPI e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch Preventivo Anagrafato RE e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Patch Preventivo Anonimo RE e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch Preventivo Auto B1A e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Patch Preventivo Auto e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch Preventivo TCM e Trasformazione in Polizza.mask
-[FILE] Fogli Excel/patch proposta 16v rate protette fisico flow.mask , [FILE] Fogli Excel/Patch Proposta CPI Autorizzazione e Trasformazione in Polizza.mask
+[FILE] Fogli Excel/patch proposta 16v rate protette fisico flow.mask , [FILE] Fogli Excel/Patch Proposta B10 Autorizzazione Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Patch Proposta B14 Autorizzazione Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch Proposta B19 Autorizzazione Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Patch Proposta B20 Autorizzazione e Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch Proposta B76 Autorizzazione Trasformazione in Polizza e Annullo.mask
+[FILE] Fogli Excel/Patch Proposta B77 Autorizzazione Trasformazione in Polizza.mask , [FILE] Fogli Excel/Patch Proposta B78 Autorizzazione Trasformazione in Polizza.mask
+[FILE] Fogli Excel/Patch Proposta BP2 PF Autorizzazione Trasformazione in Polizza Annullamento.mask , [FILE] Fogli Excel/Patch Proposta BP2 PG Autorizzazione in Polizza Annullamento.mask
+[FILE] Fogli Excel/Patch Proposta BP4 PF Autorizzazione Trasformazione in Polizza e Annullamento.mask
+[FILE] Fogli Excel/Patch Proposta BP4 PG Autorizzazione Trasformazione in Polizza Annullamento.mask
+[FILE] Fogli Excel/patch proposta bp5 pg autorizzazione trasformazione in polizza e annullamento.mask , [FILE] Fogli Excel/Patch Proposta CPI Autorizzazione e Trasformazione in Polizza.mask
 [FILE] Fogli Excel/Patch Proposta TCM a seguito delle risposte fornite al questionario sanitario.mask , [FILE] Fogli Excel/Patch Proposta TCM con  Dichiarazione persona politicamente esposta.mask
 [FILE] Fogli Excel/Patch Proposta TCM risposte fornite al questionario sanitario e Trasformazione in Polizza e Mancato Perfezionamento.mask , [FILE] Fogli Excel/Patch Protetto Infortuni Flow.mask
 [FILE] Fogli Excel/Patch Protezione Web  Assimoco Flow.mask , [FILE] Fogli Excel/Patch Recesso IBIPS.mask , [FILE] Fogli Excel/Patch Recesso TCM.mask , [FILE] Fogli Excel/Patch Rescissione TCM.mask
