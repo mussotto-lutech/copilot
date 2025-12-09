@@ -56,7 +56,9 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.ibt
 [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.ibt
 [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.ibt , [FILE] Scenari/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.ibt
-[FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/Quitenanziamento.ibt , [FILE] Scenari/NON UTILIZZATI/Incasso Annuale TR - Sospensione e Annullo per Vendita.ibt
+[FILE] Scenari/MUSSOTTO-SVILUPPO/Emissione - FinalizzaAPP_DEMO.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/Incasso Digitale Vipera_DEMO.ibt
+[FILE] Scenari/MUSSOTTO-SVILUPPO/Incasso PTP e PNT su nodi off line - CTA_DEMO.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/LibreriaUefa.ibt , [FILE] Scenari/MUSSOTTO-SVILUPPO/Quitenanziamento.ibt
+[FILE] Scenari/MUSSOTTO-SVILUPPO/Revisione Tariffaria Classi BM_DEMO.ibt , [FILE] Scenari/NON UTILIZZATI/Incasso Annuale TR - Sospensione e Annullo per Vendita.ibt
 [FILE] Scenari/NON UTILIZZATI/Inserimento assicurato Prodotti Fast RE.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.ibt
 [FILE] Scenari/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.rpt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.ibt , [FILE] Scenari/POSTRIBALTAMENTO/Post Ribaltamento.rpt
 [FILE] Scenari/ROBOT/Appendice Titolo Contabile.ibt , [FILE] Scenari/ROBOT/Appendice Titolo Contabile.rpt , [FILE] Scenari/ROBOT/Autorizza cedole.ibt , [FILE] Scenari/ROBOT/Autorizza cedole.rpt
@@ -133,7 +135,7 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM - Fast.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast.rpt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Auto HDI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019 - Fast.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM.ibt
@@ -405,25 +407,26 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - Settori Minori - WSO2.rpt
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - Settori Minori.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - WSO2.rpt
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive - WSO2.rpt
-[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito.ibt
-[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore.ibt
-[FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - CTA.ibt , [FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - WSO2.rpt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito - WSO2.rpt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore - WSO2.rpt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore.ibt , [FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - CTA.ibt
+[FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - WSO2.rpt
 
 Le sottocartelle della cartella Moduli sono:
-[DIR] Moduli/ELABORAZIONI_VARIE , [DIR] Moduli/MIGRAZIONE , [DIR] Moduli/MODULI COMUNI , [DIR] Moduli/NON UTILIZZATI , [DIR] Moduli/POSTRIBALTAMENTO , [DIR] Moduli/ROBOT
-[DIR] Moduli/SCENARI COMUNI , [DIR] Moduli/STAMPE , [DIR] Moduli/UEFA , [DIR] Moduli/UNICO , [DIR] Moduli/WSO2 , [DIR] Moduli/MIGRAZIONE/CAUZIONI , [DIR] Moduli/MIGRAZIONE/MIG DANNI AUTO
-[DIR] Moduli/MIGRAZIONE/MIG DANNI RE , [DIR] Moduli/MODULI COMUNI/ANAGRAFICA , [DIR] Moduli/MODULI COMUNI/CONTROLLI CONTABILI , [DIR] Moduli/MODULI COMUNI/DANNI , [DIR] Moduli/MODULI COMUNI/FAST
-[DIR] Moduli/MODULI COMUNI/ROBOT , [DIR] Moduli/MODULI COMUNI/VITA , [DIR] Moduli/ROBOT/PICO , [DIR] Moduli/ROBOT/PICO/ROBOT , [DIR] Moduli/ROBOT/PICO/ROBOT/PICO , [DIR] Moduli/UEFA/ANAGRAFICA
-[DIR] Moduli/UEFA/CONTROLLI CONTABILI , [DIR] Moduli/UEFA/DANNI , [DIR] Moduli/UEFA/VITA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI
-[DIR] Moduli/UEFA/DANNI/EMISSIONI , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST , [DIR] Moduli/UEFA/DANNI/POSTVENDITA , [DIR] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA
-[DIR] Moduli/UEFA/DANNI/SOSTITUZIONI , [DIR] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST/UEFA , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST/UEFA/DANNI
-[DIR] Moduli/UEFA/DANNI/EMISSIONI FAST/UEFA/DANNI/EMISSIONI FAST , [DIR] Moduli/UEFA/VITA/CEDOLE , [DIR] Moduli/UEFA/VITA/EMISSIONI , [DIR] Moduli/UEFA/VITA/POSTVENDITA
-[DIR] Moduli/UEFA/VITA/EMISSIONI/CBA , [DIR] Moduli/UEFA/VITA/EMISSIONI/HDI , [DIR] Moduli/UNICO/ANAGRAFICA , [DIR] Moduli/UNICO/CONTROLLI CONTABILI , [DIR] Moduli/UNICO/DANNI
-[DIR] Moduli/UNICO/ELABORAZIONI MASSIVE , [DIR] Moduli/UNICO/VITA , [DIR] Moduli/UNICO/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Moduli/UNICO/CONTROLLI CONTABILI/INCASSI
-[DIR] Moduli/UNICO/CONTROLLI CONTABILI/TITOLI , [DIR] Moduli/UNICO/DANNI/EMISSIONI , [DIR] Moduli/UNICO/DANNI/POSTVENDITA , [DIR] Moduli/UNICO/DANNI/SOSTITUZIONI , [DIR] Moduli/UNICO/VITA/CEDOLE
-[DIR] Moduli/UNICO/VITA/EMISSIONI , [DIR] Moduli/UNICO/VITA/POSTVENDITA , [DIR] Moduli/UNICO/VITA/Supernova , [DIR] Moduli/UNICO/VITA/XML BANCA SELLA , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA
-[DIR] Moduli/UNICO/VITA/EMISSIONI/HDI , [DIR] Moduli/WSO2/DANNI , [DIR] Moduli/WSO2/VITA , [DIR] Moduli/WSO2/DANNI/EMISSIONI , [DIR] Moduli/WSO2/DANNI/POSTVENDITA
-[DIR] Moduli/WSO2/VITA/EMISSIONI , [DIR] Moduli/WSO2/VITA/EMISSIONI/HDI
+[DIR] Moduli/ELABORAZIONI_VARIE , [DIR] Moduli/MIGRAZIONE , [DIR] Moduli/MODULI COMUNI , [DIR] Moduli/MUSSOTTO-SVILUPPO , [DIR] Moduli/NON UTILIZZATI , [DIR] Moduli/POSTRIBALTAMENTO
+[DIR] Moduli/ROBOT , [DIR] Moduli/SCENARI COMUNI , [DIR] Moduli/STAMPE , [DIR] Moduli/UEFA , [DIR] Moduli/UNICO , [DIR] Moduli/WSO2 , [DIR] Moduli/MIGRAZIONE/CAUZIONI
+[DIR] Moduli/MIGRAZIONE/MIG DANNI AUTO , [DIR] Moduli/MIGRAZIONE/MIG DANNI RE , [DIR] Moduli/MODULI COMUNI/ANAGRAFICA , [DIR] Moduli/MODULI COMUNI/CONTROLLI CONTABILI
+[DIR] Moduli/MODULI COMUNI/DANNI , [DIR] Moduli/MODULI COMUNI/FAST , [DIR] Moduli/MODULI COMUNI/ROBOT , [DIR] Moduli/MODULI COMUNI/VITA , [DIR] Moduli/ROBOT/PICO , [DIR] Moduli/ROBOT/PICO/ROBOT
+[DIR] Moduli/ROBOT/PICO/ROBOT/PICO , [DIR] Moduli/UEFA/ANAGRAFICA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI , [DIR] Moduli/UEFA/DANNI , [DIR] Moduli/UEFA/VITA
+[DIR] Moduli/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Moduli/UEFA/CONTROLLI CONTABILI/INCASSI , [DIR] Moduli/UEFA/DANNI/EMISSIONI , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST
+[DIR] Moduli/UEFA/DANNI/POSTVENDITA , [DIR] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA , [DIR] Moduli/UEFA/DANNI/SOSTITUZIONI , [DIR] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA
+[DIR] Moduli/UEFA/DANNI/EMISSIONI FAST/UEFA , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST/UEFA/DANNI , [DIR] Moduli/UEFA/DANNI/EMISSIONI FAST/UEFA/DANNI/EMISSIONI FAST , [DIR] Moduli/UEFA/VITA/CEDOLE
+[DIR] Moduli/UEFA/VITA/EMISSIONI , [DIR] Moduli/UEFA/VITA/POSTVENDITA , [DIR] Moduli/UEFA/VITA/EMISSIONI/CBA , [DIR] Moduli/UEFA/VITA/EMISSIONI/HDI , [DIR] Moduli/UNICO/ANAGRAFICA
+[DIR] Moduli/UNICO/CONTROLLI CONTABILI , [DIR] Moduli/UNICO/DANNI , [DIR] Moduli/UNICO/ELABORAZIONI MASSIVE , [DIR] Moduli/UNICO/VITA , [DIR] Moduli/UNICO/CONTROLLI CONTABILI/FOGLI CASSA
+[DIR] Moduli/UNICO/CONTROLLI CONTABILI/INCASSI , [DIR] Moduli/UNICO/CONTROLLI CONTABILI/TITOLI , [DIR] Moduli/UNICO/DANNI/EMISSIONI , [DIR] Moduli/UNICO/DANNI/POSTVENDITA
+[DIR] Moduli/UNICO/DANNI/SOSTITUZIONI , [DIR] Moduli/UNICO/VITA/CEDOLE , [DIR] Moduli/UNICO/VITA/EMISSIONI , [DIR] Moduli/UNICO/VITA/POSTVENDITA , [DIR] Moduli/UNICO/VITA/Supernova
+[DIR] Moduli/UNICO/VITA/XML BANCA SELLA , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA , [DIR] Moduli/UNICO/VITA/EMISSIONI/HDI , [DIR] Moduli/WSO2/DANNI , [DIR] Moduli/WSO2/VITA
+[DIR] Moduli/WSO2/DANNI/EMISSIONI , [DIR] Moduli/WSO2/DANNI/POSTVENDITA , [DIR] Moduli/WSO2/VITA/EMISSIONI , [DIR] Moduli/WSO2/VITA/EMISSIONI/HDI
 I file presenti nella cartella Moduli e sottocartelle sono : 
 [FILE] Moduli/fine estinzione polizze.copiacomeexe , [FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/LibreriaUefa.json , [FILE] Moduli/Newtonsoft.Json.copiacomedll
 [FILE] Moduli/Newtonsoft.Json.dll , [FILE] Moduli/Protezione Media Impresa - WSO2.json , [FILE] Moduli/Quitenanziamento.json , [FILE] Moduli/Repertorio Gare - WSO2.json
@@ -442,20 +445,21 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/MODULI COMUNI/DANNI/DelegatoTitolareAssicurato.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaFisica.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaGiuridica.json
 [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - WSO2.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json
 [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDDSos.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettofisico2.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettogiuridico.json
-[FILE] Moduli/MODULI COMUNI/ROBOT/HAWK Persona Fisica.json , [FILE] Moduli/MODULI COMUNI/VITA/HAWK Persona Fisica.json
-[FILE] Moduli/NON UTILIZZATI/Incasso Annuale TR - Sospensione e Annullo per Vendita.json , [FILE] Moduli/NON UTILIZZATI/Inserimento assicurato Prodotti Fast RE.json
-[FILE] Moduli/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.json , [FILE] Moduli/POSTRIBALTAMENTO/Post Ribaltamento.json , [FILE] Moduli/ROBOT/Appendice Titolo Contabile.json
-[FILE] Moduli/ROBOT/campus.json , [FILE] Moduli/ROBOT/Conferma Riscatto.json , [FILE] Moduli/ROBOT/Estinzione Anticipata TCM.json , [FILE] Moduli/ROBOT/Liquidazione Cedola (autorizza).json
-[FILE] Moduli/ROBOT/robottini-Scadenze.json , [FILE] Moduli/ROBOT/versamenti aggiuntivi premi periodici.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Finanziarie.json
-[FILE] Moduli/ROBOT/PICO/Estinzioni Parziali Sella.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Totali Sella.json , [FILE] Moduli/ROBOT/PICO/ROBOT/PICO/PICO_Finanziaria.json
-[FILE] Moduli/SCENARI COMUNI/Chiusura FC - UEFA.json , [FILE] Moduli/SCENARI COMUNI/chiusura fc.json , [FILE] Moduli/SCENARI COMUNI/Chiusura Foglio Cassa - UEFA.json
-[FILE] Moduli/SCENARI COMUNI/Completamento Anagrafica.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json
-[FILE] Moduli/SCENARI COMUNI/DemandsAndNeeds.json , [FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json
-[FILE] Moduli/SCENARI COMUNI/ModificaAnagrafica.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - WSO2.json
-[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDDSos.json , [FILE] Moduli/SCENARI COMUNI/Questionario Sanitario.json
-[FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso maggiore di 5000.json , [FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso minore di 5000.json
-[FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo Movimento.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo.json , [FILE] Moduli/SCENARI COMUNI/Storno FC.json
-[FILE] Moduli/STAMPE/Ristampa Documenti Danni - UEFA.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni.json , [FILE] Moduli/STAMPE/Ristampe.json
+[FILE] Moduli/MODULI COMUNI/ROBOT/HAWK Persona Fisica.json , [FILE] Moduli/MODULI COMUNI/VITA/HAWK Persona Fisica.json , [FILE] Moduli/MUSSOTTO-SVILUPPO/Emissione - FinalizzaAPP_DEMO.json
+[FILE] Moduli/MUSSOTTO-SVILUPPO/Incasso Digitale Vipera_DEMO.json , [FILE] Moduli/MUSSOTTO-SVILUPPO/Incasso PTP e PNT su nodi off line - CTA_DEMO.json
+[FILE] Moduli/MUSSOTTO-SVILUPPO/Revisione Tariffaria Classi BM_DEMO.json , [FILE] Moduli/NON UTILIZZATI/Incasso Annuale TR - Sospensione e Annullo per Vendita.json
+[FILE] Moduli/NON UTILIZZATI/Inserimento assicurato Prodotti Fast RE.json , [FILE] Moduli/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.json
+[FILE] Moduli/POSTRIBALTAMENTO/Post Ribaltamento.json , [FILE] Moduli/ROBOT/Appendice Titolo Contabile.json , [FILE] Moduli/ROBOT/campus.json , [FILE] Moduli/ROBOT/Conferma Riscatto.json
+[FILE] Moduli/ROBOT/Estinzione Anticipata TCM.json , [FILE] Moduli/ROBOT/Liquidazione Cedola (autorizza).json , [FILE] Moduli/ROBOT/robottini-Scadenze.json
+[FILE] Moduli/ROBOT/versamenti aggiuntivi premi periodici.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Finanziarie.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Parziali Sella.json
+[FILE] Moduli/ROBOT/PICO/Estinzioni Totali Sella.json , [FILE] Moduli/ROBOT/PICO/ROBOT/PICO/PICO_Finanziaria.json , [FILE] Moduli/SCENARI COMUNI/Chiusura FC - UEFA.json
+[FILE] Moduli/SCENARI COMUNI/chiusura fc.json , [FILE] Moduli/SCENARI COMUNI/Chiusura Foglio Cassa - UEFA.json , [FILE] Moduli/SCENARI COMUNI/Completamento Anagrafica.json
+[FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json , [FILE] Moduli/SCENARI COMUNI/DemandsAndNeeds.json
+[FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json , [FILE] Moduli/SCENARI COMUNI/ModificaAnagrafica.json
+[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - WSO2.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json
+[FILE] Moduli/SCENARI COMUNI/PortafoglioIDDSos.json , [FILE] Moduli/SCENARI COMUNI/Questionario Sanitario.json , [FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso maggiore di 5000.json
+[FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso minore di 5000.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo Movimento.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo.json
+[FILE] Moduli/SCENARI COMUNI/Storno FC.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni - UEFA.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni.json , [FILE] Moduli/STAMPE/Ristampe.json
 [FILE] Moduli/STAMPE/Servlet Stampe Firma Digitale.json , [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Digitalizzazione Consensi.json
 [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento.json , [FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto FISICO.json
 [FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto GIURIDICO.json , [FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica soggetto FISICO.json
@@ -634,14 +638,14 @@ Le sottocartelle della cartella Fogli Excel sono:
 [DIR] Fogli Excel/DATI/UNICO/DANNI/POSTVENDITA , [DIR] Fogli Excel/DATI/UNICO/DANNI/SOSTITUZIONI , [DIR] Fogli Excel/DATI/UNICO/VITA/CEDOLE , [DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI
 [DIR] Fogli Excel/DATI/UNICO/VITA/POSTVENDITA , [DIR] Fogli Excel/DATI/UNICO/VITA/XML BANCA SELLA , [DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI/CBA
 [DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI/HDI , [DIR] Fogli Excel/Definizioni/Definizioni , [DIR] Fogli Excel/Definizioni/ELABORAZIONI_VARIE , [DIR] Fogli Excel/Definizioni/MIGRAZIONE
-[DIR] Fogli Excel/Definizioni/MODULI COMUNI , [DIR] Fogli Excel/Definizioni/NON UTILIZZATI , [DIR] Fogli Excel/Definizioni/POSTRIBALTAMENTO , [DIR] Fogli Excel/Definizioni/ROBOT
-[DIR] Fogli Excel/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/STAMPE , [DIR] Fogli Excel/Definizioni/UEFA , [DIR] Fogli Excel/Definizioni/UNICO , [DIR] Fogli Excel/Definizioni/WSO2
-[DIR] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI
-[DIR] Fogli Excel/Definizioni/Definizioni/UEFA/VITA , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/EMISSIONI , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/POSTVENDITA
-[DIR] Fogli Excel/Definizioni/Definizioni/UEFA/VITA/POSTVENDITA , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI AUTO
-[DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE , [DIR] Fogli Excel/Definizioni/ROBOT/PICO , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni
-[DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT/PICO , [DIR] Fogli Excel/Definizioni/UEFA/ANAGRAFICA
-[DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI , [DIR] Fogli Excel/Definizioni/UEFA/VITA
+[DIR] Fogli Excel/Definizioni/MODULI COMUNI , [DIR] Fogli Excel/Definizioni/MUSSOTTO-SVILUPPO , [DIR] Fogli Excel/Definizioni/NON UTILIZZATI , [DIR] Fogli Excel/Definizioni/POSTRIBALTAMENTO
+[DIR] Fogli Excel/Definizioni/ROBOT , [DIR] Fogli Excel/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/STAMPE , [DIR] Fogli Excel/Definizioni/UEFA , [DIR] Fogli Excel/Definizioni/UNICO
+[DIR] Fogli Excel/Definizioni/WSO2 , [DIR] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA
+[DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/VITA , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/EMISSIONI
+[DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/POSTVENDITA , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/VITA/POSTVENDITA , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI
+[DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI AUTO , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE , [DIR] Fogli Excel/Definizioni/ROBOT/PICO
+[DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT/PICO
+[DIR] Fogli Excel/Definizioni/UEFA/ANAGRAFICA , [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI , [DIR] Fogli Excel/Definizioni/UEFA/VITA
 [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI
 [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA
 [DIR] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni
@@ -682,10 +686,10 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni (Def).mask
 [FILE] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni (Def).mask
 [FILE] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni (Def).mask , [FILE] Fogli Excel/Definizioni/MODULI COMUNI/Login.mask
-[FILE] Fogli Excel/Definizioni/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento (def).mask , [FILE] Fogli Excel/Definizioni/POSTRIBALTAMENTO/Post Ribaltamento (Def).mask
-[FILE] Fogli Excel/Definizioni/ROBOT/Appendice Titolo Contabile (Def).mask , [FILE] Fogli Excel/Definizioni/ROBOT/campus.mask , [FILE] Fogli Excel/Definizioni/ROBOT/Conferma Riscatto.mask
-[FILE] Fogli Excel/Definizioni/ROBOT/Estinzione Anticipata TCM.mask , [FILE] Fogli Excel/Definizioni/ROBOT/estinzione polizza.mask
-[FILE] Fogli Excel/Definizioni/ROBOT/Liquidazioni Cedola-Autorizza.mask , [FILE] Fogli Excel/Definizioni/ROBOT/robottini-scadenze.mask
+[FILE] Fogli Excel/Definizioni/MUSSOTTO-SVILUPPO/Revisione Tariffaria Classi BM_DEMO.mask , [FILE] Fogli Excel/Definizioni/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento (def).mask
+[FILE] Fogli Excel/Definizioni/POSTRIBALTAMENTO/Post Ribaltamento (Def).mask , [FILE] Fogli Excel/Definizioni/ROBOT/Appendice Titolo Contabile (Def).mask
+[FILE] Fogli Excel/Definizioni/ROBOT/campus.mask , [FILE] Fogli Excel/Definizioni/ROBOT/Conferma Riscatto.mask , [FILE] Fogli Excel/Definizioni/ROBOT/Estinzione Anticipata TCM.mask
+[FILE] Fogli Excel/Definizioni/ROBOT/estinzione polizza.mask , [FILE] Fogli Excel/Definizioni/ROBOT/Liquidazioni Cedola-Autorizza.mask , [FILE] Fogli Excel/Definizioni/ROBOT/robottini-scadenze.mask
 [FILE] Fogli Excel/Definizioni/ROBOT/versamenti aggiuntivi premi periodici.mask , [FILE] Fogli Excel/Definizioni/ROBOT/PICO/Estinzioni Finanziarie.mask
 [FILE] Fogli Excel/Definizioni/ROBOT/PICO/Estinzioni Parziali Sella.mask , [FILE] Fogli Excel/Definizioni/ROBOT/PICO/Estinzioni Totali Sella.mask
 [FILE] Fogli Excel/Definizioni/ROBOT/PICO/PICO_Finanziaria.mask , [FILE] Fogli Excel/Definizioni/ROBOT/PICO/PICO_Sella_Parziali.mask
@@ -717,10 +721,11 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa off-line (def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Digitale Vipera - UEFA (Def).mask
-[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - CTA.mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Digitale Vipera_DEMO.mask , [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - CTA.mask
-[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico.mask
-[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Verifica Retrodatazione Incasso Titoli.mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - CTA.mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - CTA_DEMO.mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico.mask , [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Verifica Retrodatazione Incasso Titoli.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Casa e Famiglia - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Cauzioni - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Circolazione Sicura - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI/Fabbricato HDI - CTA.mask
@@ -735,15 +740,17 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/A2A Emissione Polizza.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI - FastMotor (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI - FastMotor - Recupero Dati Veicolo - Dati non coerenti (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI - FastMotor - TF 1108 (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI_DEMO.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP (Def).mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP_DEMO.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale PMI.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Auto HDI.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/nn (def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Premio Polizza.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Preventivatore CRI.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Preventivatore Prodotti Fast (Def).mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Revisione Tariffaria Classi BM.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Valore Auto - FastMotor (Def).mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Verifica Inserimento Date.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Revisione Tariffaria Classi BM.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Revisione Tariffaria Classi BM_DEMO.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Valore Auto - FastMotor (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Verifica Inserimento Date.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Verifica Soglia Sconto.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA/Annullo Conto Vendita - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA/Annullo Full UEFA Effettivo - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA/Annullo Generico - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA/Annullo Salva Rimborso - CTA.mask
