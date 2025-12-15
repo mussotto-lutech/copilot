@@ -100,17 +100,21 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto - CTA.rpt
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Storno Tecnico.ibt
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Storno Tecnico.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Controllo Incasso Quietanza di Rinnovo in arretrato da più di 15gg.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Controllo Incasso Quietanza di Rinnovo in arretrato da più di 15gg.rpt
 [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Annuale TR - Sospensione e Annullo per Vendita - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Danni.ibt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Vita.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - CTA.ibt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Digitale Vipera.ibt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - CTA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.rpt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - CTA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.rpt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - CTA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.rpt
-[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Verifica Retrodatazione Incasso Titoli.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - CTA.ibt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - CTA.ibt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Casa e Famiglia - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Casa e Famiglia - UEFA.rpt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI/Cauzioni - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Cauzioni - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Circolazione Sicura - CTA.ibt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Fabbricato HDI - CTA.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Danni.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Vita.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Vita.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - CTA.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - CTA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso di rimessa - UEFA.rpt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Digitale Vipera.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Digitale Vipera.rpt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - CTA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - CTA.rpt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso documenti - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - CTA.ibt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - CTA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso limite pagamento contante - UEFA.rpt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - CTA.ibt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso PTP e PNT su nodi off line - CTA.rpt
+[FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Storno Tecnico - UEFA.rpt , [FILE] Scenari/UEFA/CONTROLLI CONTABILI/INCASSI/Verifica Retrodatazione Incasso Titoli.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Auto HDI Agenzia Autorizzazione - UEFA.rpt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/C.A.R. Merloni - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Casa e Famiglia - CTA.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI/Casa e Famiglia - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Cauzioni - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Cauzioni - UEFA.rpt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI/Circolazione Sicura - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Circolazione Sicura - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Fabbricato HDI - CTA.ibt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA.iabatpkt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Fabbricato HDI - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Globale Casa 2019 - CTA.ibt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI/Globale Casa 2019 - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Globale Infortuni e IPM - CTA.ibt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI/Globale Infortuni e IPM - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Globale Salute - CTA.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI/Globale Salute - UEFA.rpt
@@ -406,11 +410,11 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.ibt
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - Settori Minori - WSO2.rpt
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - Settori Minori.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - WSO2.rpt
-[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive - WSO2.rpt
-[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito - WSO2.rpt
-[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore - WSO2.rpt
-[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore.ibt , [FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - CTA.ibt
-[FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - WSO2.rpt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling.rpt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.ibt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.rpt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Recapito.ibt
+[FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore.ibt
+[FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - CTA.ibt , [FILE] Scenari/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - WSO2.rpt
 
 Le sottocartelle della cartella Moduli sono:
 [DIR] Moduli/ELABORAZIONI_VARIE , [DIR] Moduli/MIGRAZIONE , [DIR] Moduli/MODULI COMUNI , [DIR] Moduli/MUSSOTTO-SVILUPPO , [DIR] Moduli/NON UTILIZZATI , [DIR] Moduli/POSTRIBALTAMENTO
@@ -740,11 +744,11 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/A2A Emissione Polizza.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI - FastMotor (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI - FastMotor - Recupero Dati Veicolo - Dati non coerenti (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI - FastMotor - TF 1108 (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI_DEMO.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP (Def).mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP_DEMO.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale PMI.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Auto HDI.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Auto HDI_DEMO.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Consultazione Documenti Firma Digitale.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Emissione - FinalizzaAPP_DEMO.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Globale PMI.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Auto HDI.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/nn (def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Premio Polizza.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Preventivatore CRI.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Preventivatore Prodotti Fast (Def).mask
