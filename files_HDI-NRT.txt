@@ -199,12 +199,12 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI/Sostituzione Polizze Auto Vodafone - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI/Sostituzione Polizze con Ratino - CTA.ibt
 [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI/Sostituzione Scadenza Auto Blocco Autorizzativo - CTA.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI/Sostituzione Scadenza Auto Blocco Autorizzativo - UEFA.rpt
 [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI/Telefono ed email Sostituzione Vodafone - CTA.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI/Telefono ed email Sostituzione Vodafone - UEFA.rpt
-[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.rpt
-[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa.rpt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione.ibt
-[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto - Full Uefa.rpt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto.ibt
-[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Valore Auto.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto - Full UEFA.rpt
-[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo - Full UEFA.rpt
-[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa Vecchio Nuovo Prodotto.ibt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.rpt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione - Full Uefa.rpt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto - Full Uefa.rpt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Valore Auto.ibt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto - Full UEFA.rpt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto.ibt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo - Full UEFA.rpt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo.ibt
+[FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa 2019.ibt , [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa Vecchio Nuovo Prodotto.ibt
 [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Incendio Mutui Globale Casa 2019.ibt
 [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM - Full UEFA.rpt
 [FILE] Scenari/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM.ibt
@@ -517,10 +517,10 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Sostituzione Infrannuali Auto Blocco Autorizzativo - CTA.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Sostituzione Infrannuali MioCamper - CTA.json
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Sostituzione Infrannuali Natanti - CTA.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Sostituzione Polizze Auto Vodafone - CTA.json
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Sostituzione Polizze con Ratino - CTA.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Sostituzione Scadenza Auto Blocco Autorizzativo - CTA.json
-[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Telefono ed email Sostituzione Vodafone - CTA.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.json
-[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto.json
-[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Valore Auto.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto.json
-[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa Vecchio Nuovo Prodotto.json
+[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI/Telefono ed email Sostituzione Vodafone - CTA.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione.json
+[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Valore Auto.json
+[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo.json
+[FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa 2019.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa Vecchio Nuovo Prodotto.json
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Incendio Mutui Globale Casa 2019.json
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM.json
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione infrannuale Auto altra Compagnia altra targa.json
@@ -790,11 +790,11 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI/Sostituzione Polizze con Ratino - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI/Sostituzione Scadenza Auto Blocco Autorizzativo - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI/Telefono ed email Sostituzione Vodafone - CTA.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Globale Casa 2019 - Sostituzione - Full Uefa.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Infortuni e IPM - Sostituzione.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Polizza Auto.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Riattivazione Valore Auto.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione a scadenza Auto.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Auto Blocco Autorizzativo.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa 2019.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Globale Casa Vecchio Nuovo Prodotto.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Incendio Mutui Globale Casa 2019.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzione Infortuni Vecchio Nuovo Prodotto Globale Infortuni e IPM.mask
