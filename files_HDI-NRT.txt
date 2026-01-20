@@ -139,11 +139,12 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Casa 2019.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM - Fast.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale Infortuni e IPM.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione - Fast.rpt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.rpt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Auto HDI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019 - Fast.rpt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.rpt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM.ibt
-[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI Autorizzazione.rpt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Globale PMI.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Auto HDI.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019 - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.ibt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Casa 2019.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM - Fast.rpt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Globale Infortuni e IPM.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI - Fast.rpt
+[FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - PMI.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Modifica Proposta - Valore Auto - FastMotor.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Premio Polizza.ibt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Preventivatore CRI.ibt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Preventivatore CRI.rpt
 [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Preventivatore YouQuote - Fast.rpt , [FILE] Scenari/UEFA/DANNI/EMISSIONI FAST/Revisione Tariffaria Classi BM - Fast.rpt
@@ -171,7 +172,7 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/DANNI/POSTVENDITA/Stampa e Ristampe Soggetto - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA/Variazione Quietanza - CTA.ibt
 [FILE] Scenari/UEFA/DANNI/POSTVENDITA/Variazione Quietanza - UEFA.rpt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Annullo-Riattivazione Full UEFA Effettivo.rpt
 [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Annullo-Riattivazione.ibt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Cessione Contratto - Full UEFA.rpt
-[FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Cessione Contratto.ibt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia - Fast.ibt
+[FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Cessione Contratto.ibt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia.ibt
 [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Dashboard Quietanziamento Agenziale.rpt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Riclassificazione RCA Agenzia - Full Uefa.rpt
 [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Riclassificazione RCA Agenzia.ibt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Decreto - Full UEFA.rpt
 [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Decreto.ibt , [FILE] Scenari/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Valore Auto.ibt
@@ -218,69 +219,69 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/F86 - Obiettivo Futuro PAC - PF - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/F86 - Obiettivo Futuro PAC - PF - UEFA.rpt
 [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Agenzia - UEFA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Agenzia - UEFA.rpt
 [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Direzione - UEFA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Direzione - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Progetto Investimento Flex - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Progetto Investimento Flex - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Programma Accumulo Futuro - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Programma Accumulo Futuro - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Proteggi il Domani - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Proteggi il Domani - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Scelta di Valore - UEFA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Scelta di Valore - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/TCM Vita Facile a Premio Annuo - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/TCM Vita Facile a Premio Annuo - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Vita Intera Fondo Futuro - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Vita Intera Fondo Futuro - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Rata - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Rata - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Recesso - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Recesso - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Parziale - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Parziale - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale Garanzia - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale Garanzia - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Sinistro Morte - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Sinistro Morte - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Storno Altre Cause - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Storno Altre Cause - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Pegno - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Pegno - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Vincolo - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Vincolo - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza Soggetto Giuridico - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza Soggetto Giuridico - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Coordinate Bancarie - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Coordinate Bancarie - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Filiale - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Filiale - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio modalita' pagamento - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio modalita' pagamento - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Recapito Polizza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Recapito Polizza - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Residenza Contraente - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Residenza Contraente - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Pegno - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Pegno - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Vincolo - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Vincolo - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Concessione Prestito - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Concessione Prestito - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Consultazione Polizze Vita - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Consultazione Polizze Vita - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Elimina Figura Anagrafica - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Elimina Figura Anagrafica - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Gestione Autorizzazioni - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Gestione Autorizzazioni - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Incasso Cliente - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Incasso Cliente Vita - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Insolvenza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Insolvenza - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Mancato Perfezionamento - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Mancato Perfezionamento - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica dati documento - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica dati documento - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica Figure Anagrafiche - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica Figure Anagrafiche - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Recesso - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Recesso - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Revoca Incasso - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Revoca Incasso - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione da Insolvenza - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione da Insolvenza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione Riduzione - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione Riduzione - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riduzione - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riduzione - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Rimborso Prestito - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Rimborso Prestito - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Agenzia - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Agenzia - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Direzione - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Direzione - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale Direzione - HDI Azienda TFM - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale Direzione - HDI Azienda TFM - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Quiescenza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Quiescenza - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Agenzia - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Agenzia - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Direzione - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Direzione - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale Garanzia - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale Garanzia - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Scelta Opzione Scadenza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Scelta Opzione Scadenza - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Morte - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Morte - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Senza Seguito - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Senza Seguito - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Sospensione-Riattivazione Pagamento Premi - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Sospensione-Riattivazione Pagamento Premi - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Storno altre Cause - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Storno altre Cause - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Trasferimento Polizza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Trasferimento Polizza - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Beneficiari - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Beneficiari - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Frazionamento - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Frazionamento - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Premio e Periodicita - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Premio e Periodicita - UEFA.rpt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - HDI Azienda TFM - CTA.ibt
-[FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - HDI Azienda TFM - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - UEFA.rpt
-[FILE] Scenari/UNICO/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento.ibt , [FILE] Scenari/UNICO/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento.rpt
-[FILE] Scenari/UNICO/ANAGRAFICA/Inserimento Anagrafica.ibt , [FILE] Scenari/UNICO/ANAGRAFICA/Inserimento Anagrafica.rpt
-[FILE] Scenari/UNICO/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni.ibt , [FILE] Scenari/UNICO/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni.rpt
-[FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - Adeguata Verifica Rafforzata - CTA.ibt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Progetto Investimento Flex - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Progetto Investimento Flex - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Programma Accumulo Futuro - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Programma Accumulo Futuro - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Proteggi il Domani - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Proteggi il Domani - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Scelta di Valore - UEFA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Scelta di Valore - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/TCM Vita Facile a Premio Annuo - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/TCM Vita Facile a Premio Annuo - UEFA.rpt , [FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Vita Intera Fondo Futuro - CTA.ibt
+[FILE] Scenari/UEFA/VITA/EMISSIONI/HDI/Vita Intera Fondo Futuro - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Rata - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Rata - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Recesso - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Recesso - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Parziale - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Parziale - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale Garanzia - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale Garanzia - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Sinistro Morte - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Sinistro Morte - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Storno Altre Cause - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Annullo Storno Altre Cause - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Pegno - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Pegno - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Vincolo - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Apertura Vincolo - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza Soggetto Giuridico - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Contraenza Soggetto Giuridico - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Coordinate Bancarie - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Coordinate Bancarie - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Filiale - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Filiale - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio modalita' pagamento - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio modalita' pagamento - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Recapito Polizza - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Recapito Polizza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Residenza Contraente - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Cambio Residenza Contraente - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Pegno - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Pegno - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Vincolo - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Chiusura Vincolo - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Concessione Prestito - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Concessione Prestito - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Consultazione Polizze Vita - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Consultazione Polizze Vita - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Elimina Figura Anagrafica - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Elimina Figura Anagrafica - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Gestione Autorizzazioni - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Gestione Autorizzazioni - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Incasso Cliente - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Incasso Cliente Vita - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Insolvenza - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Insolvenza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Mancato Perfezionamento - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Mancato Perfezionamento - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica dati documento - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica dati documento - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica Figure Anagrafiche - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Modifica Figure Anagrafiche - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Recesso - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Recesso - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Revoca Incasso - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Revoca Incasso - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione da Insolvenza - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione da Insolvenza - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione Riduzione - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riattivazione Riduzione - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riduzione - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riduzione - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Rimborso Prestito - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Rimborso Prestito - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Agenzia - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Agenzia - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Direzione - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale - Direzione - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale Direzione - HDI Azienda TFM - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Parziale Direzione - HDI Azienda TFM - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Quiescenza - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Quiescenza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Agenzia - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Agenzia - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Direzione - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale - Direzione - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale Garanzia - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Riscatto Totale Garanzia - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Scelta Opzione Scadenza - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Scelta Opzione Scadenza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Morte - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Morte - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Senza Seguito - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Sinistro Senza Seguito - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Sospensione-Riattivazione Pagamento Premi - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Sospensione-Riattivazione Pagamento Premi - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Storno altre Cause - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Storno altre Cause - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Trasferimento Polizza - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Trasferimento Polizza - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Beneficiari - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Beneficiari - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Frazionamento - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Frazionamento - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Premio e Periodicita - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Variazione Premio e Periodicita - UEFA.rpt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - CTA.ibt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - HDI Azienda TFM - CTA.ibt , [FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - HDI Azienda TFM - UEFA.rpt
+[FILE] Scenari/UEFA/VITA/POSTVENDITA/Versamento Aggiuntivo - UEFA.rpt , [FILE] Scenari/UNICO/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento.ibt
+[FILE] Scenari/UNICO/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento.rpt , [FILE] Scenari/UNICO/ANAGRAFICA/Inserimento Anagrafica.ibt
+[FILE] Scenari/UNICO/ANAGRAFICA/Inserimento Anagrafica.rpt , [FILE] Scenari/UNICO/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni.ibt
+[FILE] Scenari/UNICO/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni.rpt , [FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto.ibt
 [FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto.rpt , [FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Storno a foglio cassa aperto.ibt
 [FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Storno a foglio cassa aperto.rpt , [FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Storno contabile con mese contabile aperto-chiuso.ibt
 [FILE] Scenari/UNICO/CONTROLLI CONTABILI/FOGLI CASSA/Storno contabile con mese contabile aperto-chiuso.rpt
@@ -404,7 +405,7 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/UNICO/VITA/POSTVENDITA/Variazione Frazionamento.ibt , [FILE] Scenari/UNICO/VITA/POSTVENDITA/Variazione Frazionamento.rpt
 [FILE] Scenari/UNICO/VITA/POSTVENDITA/Variazione Premio e Periodicita.ibt , [FILE] Scenari/UNICO/VITA/POSTVENDITA/Variazione Premio e Periodicita.rpt
 [FILE] Scenari/UNICO/VITA/POSTVENDITA/Versamento Aggiuntivo.ibt , [FILE] Scenari/UNICO/VITA/POSTVENDITA/Versamento Aggiuntivo.rpt , [FILE] Scenari/UNICO/VITA/Supernova/Conferma.ibt
-[FILE] Scenari/UNICO/VITA/XML BANCA SELLA/XML Banca Sella.ibt , [FILE] Scenari/UNICO/VITA/XML BANCA SELLA/XML Banca Sella.rpt , [FILE] Scenari/WSO2/DANNI/Repertorio Gare - WSO2.ibt
+[FILE] Scenari/UNICO/VITA/XML BANCA SELLA/XML Banca Sella.ibt , [FILE] Scenari/UNICO/VITA/XML BANCA SELLA/XML Banca Sella.rpt , [FILE] Scenari/WSO2/DANNI/Repertorio Gare.ibt
 [FILE] Scenari/WSO2/DANNI/EMISSIONI/Protezione Media Impresa - WSO2.ibt , [FILE] Scenari/WSO2/DANNI/EMISSIONI/Valore Auto - FastMotor - SubSet - WSO2.ibt
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Appendice Dichiarativa - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Appendice Dichiarativa.ibt
 [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale - WSO2.rpt , [FILE] Scenari/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.ibt
@@ -432,38 +433,39 @@ Le sottocartelle della cartella Moduli sono:
 [DIR] Moduli/UNICO/VITA/XML BANCA SELLA , [DIR] Moduli/UNICO/VITA/EMISSIONI/CBA , [DIR] Moduli/UNICO/VITA/EMISSIONI/HDI , [DIR] Moduli/WSO2/DANNI , [DIR] Moduli/WSO2/VITA
 [DIR] Moduli/WSO2/DANNI/EMISSIONI , [DIR] Moduli/WSO2/DANNI/POSTVENDITA , [DIR] Moduli/WSO2/VITA/EMISSIONI , [DIR] Moduli/WSO2/VITA/EMISSIONI/HDI
 I file presenti nella cartella Moduli e sottocartelle sono : 
-[FILE] Moduli/fine estinzione polizze.copiacomeexe , [FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/LibreriaUefa.json , [FILE] Moduli/Newtonsoft.Json.copiacomedll
-[FILE] Moduli/Newtonsoft.Json.dll , [FILE] Moduli/Protezione Media Impresa - WSO2.json , [FILE] Moduli/Quitenanziamento.json , [FILE] Moduli/Repertorio Gare - WSO2.json
-[FILE] Moduli/Schedulazione Avvio Processo Short Vita.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.json
-[FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Annullo Generico.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.json
-[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.json
-[FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto.json
-[FILE] Moduli/MODULI COMUNI/DANNI/DelegatoTitolareAssicurato.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaFisica.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaGiuridica.json
-[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - WSO2.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json
-[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDDSos.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettofisico2.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettogiuridico.json
-[FILE] Moduli/MODULI COMUNI/ROBOT/HAWK Persona Fisica.json , [FILE] Moduli/MODULI COMUNI/VITA/HAWK Persona Fisica.json , [FILE] Moduli/MUSSOTTO-SVILUPPO/Emissione - FinalizzaAPP_DEMO.json
-[FILE] Moduli/MUSSOTTO-SVILUPPO/Incasso Digitale Vipera_DEMO.json , [FILE] Moduli/MUSSOTTO-SVILUPPO/Incasso PTP e PNT su nodi off line - CTA_DEMO.json
-[FILE] Moduli/MUSSOTTO-SVILUPPO/Revisione Tariffaria Classi BM_DEMO.json , [FILE] Moduli/NON UTILIZZATI/Incasso Annuale TR - Sospensione e Annullo per Vendita.json
-[FILE] Moduli/NON UTILIZZATI/Inserimento assicurato Prodotti Fast RE.json , [FILE] Moduli/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.json
-[FILE] Moduli/POSTRIBALTAMENTO/Post Ribaltamento.json , [FILE] Moduli/ROBOT/Appendice Titolo Contabile.json , [FILE] Moduli/ROBOT/campus.json , [FILE] Moduli/ROBOT/Conferma Riscatto.json
-[FILE] Moduli/ROBOT/Estinzione Anticipata TCM.json , [FILE] Moduli/ROBOT/Liquidazione Cedola (autorizza).json , [FILE] Moduli/ROBOT/robottini-Scadenze.json
-[FILE] Moduli/ROBOT/versamenti aggiuntivi premi periodici.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Finanziarie.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Parziali Sella.json
-[FILE] Moduli/ROBOT/PICO/Estinzioni Totali Sella.json , [FILE] Moduli/ROBOT/PICO/ROBOT/PICO/PICO_Finanziaria.json , [FILE] Moduli/SCENARI COMUNI/Chiusura FC - UEFA.json
-[FILE] Moduli/SCENARI COMUNI/chiusura fc.json , [FILE] Moduli/SCENARI COMUNI/Chiusura Foglio Cassa - UEFA.json , [FILE] Moduli/SCENARI COMUNI/Completamento Anagrafica.json
-[FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json , [FILE] Moduli/SCENARI COMUNI/DemandsAndNeeds.json
-[FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json , [FILE] Moduli/SCENARI COMUNI/ModificaAnagrafica.json
-[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - WSO2.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json
-[FILE] Moduli/SCENARI COMUNI/PortafoglioIDDSos.json , [FILE] Moduli/SCENARI COMUNI/Questionario Sanitario.json , [FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso maggiore di 5000.json
-[FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso minore di 5000.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo Movimento.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo.json
-[FILE] Moduli/SCENARI COMUNI/Storno FC.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni - UEFA.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni.json , [FILE] Moduli/STAMPE/Ristampe.json
+[FILE] Moduli/fine estinzione polizze.copiacomeexe , [FILE] Moduli/fine estinzione polizze.exe , [FILE] Moduli/HDI Accumulo Flex - Adeguata Verifica Rafforzata - CTA.json
+[FILE] Moduli/LibreriaUefa.json , [FILE] Moduli/Newtonsoft.Json.copiacomedll , [FILE] Moduli/Newtonsoft.Json.dll , [FILE] Moduli/Protezione Media Impresa - WSO2.json
+[FILE] Moduli/Quitenanziamento.json , [FILE] Moduli/Schedulazione Avvio Processo Short Vita.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json
+[FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/CAUZIONI/Riattivazione Polizze Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Storno Titolo Incassato Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Ante Data Scadenza Cauzioni - MIG.json , [FILE] Moduli/MIGRAZIONE/CAUZIONI/Svincolo Polizza Data Scadenza Cauzioni - MIG.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sospensione Valore Auto - MIG.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI AUTO/Sostituzione a scadenza Auto - MIG.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Annullo Generico.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Dichiarativa MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Appendice Titolo Contabile MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Disdetta Direzione a Scadenza.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Storno Movimento MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Cambio Contraente MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Provvigioni MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Recapito MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Modifica Residenza MigDanni.json , [FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Proroga Polizza MigDanni.json
+[FILE] Moduli/MIGRAZIONE/MIG DANNI RE/Variazione Trasferimento MigDanni.json , [FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto - UEFA.json
+[FILE] Moduli/MODULI COMUNI/DANNI/DatiTecniciValoreAuto.json , [FILE] Moduli/MODULI COMUNI/DANNI/DelegatoTitolareAssicurato.json , [FILE] Moduli/MODULI COMUNI/DANNI/PersonaFisica.json
+[FILE] Moduli/MODULI COMUNI/DANNI/PersonaGiuridica.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD - WSO2.json
+[FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDDSos.json , [FILE] Moduli/MODULI COMUNI/DANNI/soggettofisico2.json
+[FILE] Moduli/MODULI COMUNI/DANNI/soggettogiuridico.json , [FILE] Moduli/MODULI COMUNI/ROBOT/HAWK Persona Fisica.json , [FILE] Moduli/MODULI COMUNI/VITA/HAWK Persona Fisica.json
+[FILE] Moduli/MUSSOTTO-SVILUPPO/Emissione - FinalizzaAPP_DEMO.json , [FILE] Moduli/MUSSOTTO-SVILUPPO/Incasso Digitale Vipera_DEMO.json
+[FILE] Moduli/MUSSOTTO-SVILUPPO/Incasso PTP e PNT su nodi off line - CTA_DEMO.json , [FILE] Moduli/MUSSOTTO-SVILUPPO/Revisione Tariffaria Classi BM_DEMO.json
+[FILE] Moduli/NON UTILIZZATI/Incasso Annuale TR - Sospensione e Annullo per Vendita.json , [FILE] Moduli/NON UTILIZZATI/Inserimento assicurato Prodotti Fast RE.json
+[FILE] Moduli/POSTRIBALTAMENTO/Amministrazione Post Ribaltamento.json , [FILE] Moduli/POSTRIBALTAMENTO/Post Ribaltamento.json , [FILE] Moduli/ROBOT/Appendice Titolo Contabile.json
+[FILE] Moduli/ROBOT/campus.json , [FILE] Moduli/ROBOT/Conferma Riscatto.json , [FILE] Moduli/ROBOT/Estinzione Anticipata TCM.json , [FILE] Moduli/ROBOT/Liquidazione Cedola (autorizza).json
+[FILE] Moduli/ROBOT/robottini-Scadenze.json , [FILE] Moduli/ROBOT/versamenti aggiuntivi premi periodici.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Finanziarie.json
+[FILE] Moduli/ROBOT/PICO/Estinzioni Parziali Sella.json , [FILE] Moduli/ROBOT/PICO/Estinzioni Totali Sella.json , [FILE] Moduli/ROBOT/PICO/ROBOT/PICO/PICO_Finanziaria.json
+[FILE] Moduli/SCENARI COMUNI/Chiusura FC - UEFA.json , [FILE] Moduli/SCENARI COMUNI/chiusura fc.json , [FILE] Moduli/SCENARI COMUNI/Chiusura Foglio Cassa - UEFA.json
+[FILE] Moduli/SCENARI COMUNI/Completamento Anagrafica.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto - UEFA.json , [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json
+[FILE] Moduli/SCENARI COMUNI/DemandsAndNeeds.json , [FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json
+[FILE] Moduli/SCENARI COMUNI/ModificaAnagrafica.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - UEFA.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDD - WSO2.json
+[FILE] Moduli/SCENARI COMUNI/PortafoglioIDD.json , [FILE] Moduli/SCENARI COMUNI/PortafoglioIDDSos.json , [FILE] Moduli/SCENARI COMUNI/Questionario Sanitario.json
+[FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso maggiore di 5000.json , [FILE] Moduli/SCENARI COMUNI/Ricerca o Storno Incasso minore di 5000.json
+[FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo Movimento.json , [FILE] Moduli/SCENARI COMUNI/Storno FC e Annullo.json , [FILE] Moduli/SCENARI COMUNI/Storno FC.json
+[FILE] Moduli/STAMPE/Ristampa Documenti Danni - UEFA.json , [FILE] Moduli/STAMPE/Ristampa Documenti Danni.json , [FILE] Moduli/STAMPE/Ristampe.json
 [FILE] Moduli/STAMPE/Servlet Stampe Firma Digitale.json , [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Digitalizzazione Consensi.json
 [FILE] Moduli/UEFA/ANAGRAFICA/Controllo Obbligatorieta Stampa e Upload Documento.json , [FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto FISICO.json
 [FILE] Moduli/UEFA/ANAGRAFICA/Eliminazione anagrafica soggetto GIURIDICO.json , [FILE] Moduli/UEFA/ANAGRAFICA/Inserimento Anagrafica soggetto FISICO.json
@@ -504,7 +506,7 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/UEFA/DANNI/POSTVENDITA/Stampa e Ristampe - UEFA.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA/Stampa e Ristampe Lista Operativa - CTA.json
 [FILE] Moduli/UEFA/DANNI/POSTVENDITA/Stampa e Ristampe Soggetto - CTA.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA/Variazione Quietanza - CTA.json
 [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Annullo-Riattivazione.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Cessione Contratto.json
-[FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia - Fast.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Riclassificazione RCA Agenzia.json
+[FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Riclassificazione RCA Agenzia.json
 [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Decreto.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Valore Auto.json
 [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Trasferimento Polizza.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Generica Auto e RE.json
 [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza - Autorizzazione.json , [FILE] Moduli/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Quietanza.json
@@ -528,17 +530,17 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzioni Auto.json , [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzioni polizze Auto No Vodafone.json
 [FILE] Moduli/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzioni Polizze con Ratino.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/F81 - Obiettivo Futuro PAR - PF - CTA.json
 [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/F86 - Obiettivo Futuro PAC - PF - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Agenzia - UEFA.json
-[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Direzione - UEFA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - CTA.json
-[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.json
-[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA.json
-[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Progetto Investimento Flex - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Programma Accumulo Futuro - CTA.json
-[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Proteggi il Domani - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Scelta di Valore - UEFA.json
-[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/TCM Vita Facile a Premio Annuo - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Vita Intera Fondo Futuro - CTA.json
-[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Rata - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Recesso - CTA.json
-[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Riscatto Parziale - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale - CTA.json
-[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale Garanzia - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Sinistro Morte - CTA.json
-[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Storno Altre Cause - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Apertura Pegno - CTA.json
-[FILE] Moduli/UEFA/VITA/POSTVENDITA/Apertura Vincolo - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Contraenza - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Direzione - UEFA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - Adeguata Verifica Rafforzata - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Progetto Investimento Flex - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Programma Accumulo Futuro - CTA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Proteggi il Domani - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Scelta di Valore - UEFA.json , [FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/TCM Vita Facile a Premio Annuo - CTA.json
+[FILE] Moduli/UEFA/VITA/EMISSIONI/HDI/Vita Intera Fondo Futuro - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Rata - CTA.json
+[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Recesso - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Riscatto Parziale - CTA.json
+[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Riscatto Totale Garanzia - CTA.json
+[FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Sinistro Morte - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Annullo Storno Altre Cause - CTA.json
+[FILE] Moduli/UEFA/VITA/POSTVENDITA/Apertura Pegno - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Apertura Vincolo - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Contraenza - CTA.json
 [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Contraenza Soggetto Giuridico - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Coordinate Bancarie - CTA.json
 [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Filiale - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio modalita' pagamento - CTA.json
 [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Recapito Polizza - CTA.json , [FILE] Moduli/UEFA/VITA/POSTVENDITA/Cambio Residenza Contraente - CTA.json
@@ -625,7 +627,7 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/UNICO/VITA/POSTVENDITA/Storno altre Cause.json , [FILE] Moduli/UNICO/VITA/POSTVENDITA/Trasferimento Polizza.json , [FILE] Moduli/UNICO/VITA/POSTVENDITA/Variazione Beneficiari.json
 [FILE] Moduli/UNICO/VITA/POSTVENDITA/Variazione Frazionamento.json , [FILE] Moduli/UNICO/VITA/POSTVENDITA/Variazione Premio e Periodicita.json
 [FILE] Moduli/UNICO/VITA/POSTVENDITA/Versamento Aggiuntivo.json , [FILE] Moduli/UNICO/VITA/Supernova/Conferma Riscatto.json , [FILE] Moduli/UNICO/VITA/XML BANCA SELLA/XML Banca Sella.json
-[FILE] Moduli/WSO2/DANNI/EMISSIONI/Valore Auto - FastMotor - WSO2.json , [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Appendice Dichiarativa.json
+[FILE] Moduli/WSO2/DANNI/Repertorio Gare.json , [FILE] Moduli/WSO2/DANNI/EMISSIONI/Valore Auto - FastMotor - WSO2.json , [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Appendice Dichiarativa.json
 [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.json , [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - Settori Minori.json
 [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling.json , [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.json
 [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Variazione Recapito.json , [FILE] Moduli/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore.json , [FILE] Moduli/WSO2/VITA/EMISSIONI/HDI/HDI Azienda TFM - CTA.json
@@ -641,18 +643,16 @@ Le sottocartelle della cartella Fogli Excel sono:
 [DIR] Fogli Excel/DATI/UNICO/CONTROLLI CONTABILI/INCASSI , [DIR] Fogli Excel/DATI/UNICO/CONTROLLI CONTABILI/TITOLI , [DIR] Fogli Excel/DATI/UNICO/DANNI/EMISSIONI
 [DIR] Fogli Excel/DATI/UNICO/DANNI/POSTVENDITA , [DIR] Fogli Excel/DATI/UNICO/DANNI/SOSTITUZIONI , [DIR] Fogli Excel/DATI/UNICO/VITA/CEDOLE , [DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI
 [DIR] Fogli Excel/DATI/UNICO/VITA/POSTVENDITA , [DIR] Fogli Excel/DATI/UNICO/VITA/XML BANCA SELLA , [DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI/CBA
-[DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI/HDI , [DIR] Fogli Excel/Definizioni/Definizioni , [DIR] Fogli Excel/Definizioni/ELABORAZIONI_VARIE , [DIR] Fogli Excel/Definizioni/MIGRAZIONE
-[DIR] Fogli Excel/Definizioni/MODULI COMUNI , [DIR] Fogli Excel/Definizioni/MUSSOTTO-SVILUPPO , [DIR] Fogli Excel/Definizioni/NON UTILIZZATI , [DIR] Fogli Excel/Definizioni/POSTRIBALTAMENTO
-[DIR] Fogli Excel/Definizioni/ROBOT , [DIR] Fogli Excel/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/STAMPE , [DIR] Fogli Excel/Definizioni/UEFA , [DIR] Fogli Excel/Definizioni/UNICO
-[DIR] Fogli Excel/Definizioni/WSO2 , [DIR] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA
-[DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/VITA , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/EMISSIONI
-[DIR] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/POSTVENDITA , [DIR] Fogli Excel/Definizioni/Definizioni/UEFA/VITA/POSTVENDITA , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI
-[DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI AUTO , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE , [DIR] Fogli Excel/Definizioni/ROBOT/PICO
-[DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT/PICO
-[DIR] Fogli Excel/Definizioni/UEFA/ANAGRAFICA , [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI , [DIR] Fogli Excel/Definizioni/UEFA/VITA
-[DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA , [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI
-[DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA
-[DIR] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni
+[DIR] Fogli Excel/DATI/UNICO/VITA/EMISSIONI/HDI , [DIR] Fogli Excel/Definizioni/ELABORAZIONI_VARIE , [DIR] Fogli Excel/Definizioni/MIGRAZIONE , [DIR] Fogli Excel/Definizioni/MODULI COMUNI
+[DIR] Fogli Excel/Definizioni/MUSSOTTO-SVILUPPO , [DIR] Fogli Excel/Definizioni/NON UTILIZZATI , [DIR] Fogli Excel/Definizioni/POSTRIBALTAMENTO , [DIR] Fogli Excel/Definizioni/ROBOT
+[DIR] Fogli Excel/Definizioni/SCENARI COMUNI , [DIR] Fogli Excel/Definizioni/STAMPE , [DIR] Fogli Excel/Definizioni/UEFA , [DIR] Fogli Excel/Definizioni/UNICO , [DIR] Fogli Excel/Definizioni/WSO2
+[DIR] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI AUTO , [DIR] Fogli Excel/Definizioni/MIGRAZIONE/MIG DANNI RE
+[DIR] Fogli Excel/Definizioni/ROBOT/PICO , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni , [DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT
+[DIR] Fogli Excel/Definizioni/ROBOT/PICO/Definizioni/ROBOT/PICO , [DIR] Fogli Excel/Definizioni/UEFA/ANAGRAFICA , [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI
+[DIR] Fogli Excel/Definizioni/UEFA/DANNI , [DIR] Fogli Excel/Definizioni/UEFA/VITA , [DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA
+[DIR] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST
+[DIR] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI
+[DIR] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni
 [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni/UEFA , [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni/UEFA/DANNI
 [DIR] Fogli Excel/Definizioni/UEFA/DANNI/EMISSIONI FAST/Definizioni/UEFA/DANNI/EMISSIONI FAST , [DIR] Fogli Excel/Definizioni/UEFA/VITA/CEDOLE , [DIR] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI
 [DIR] Fogli Excel/Definizioni/UEFA/VITA/POSTVENDITA , [DIR] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/CBA , [DIR] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI
@@ -666,12 +666,8 @@ Le sottocartelle della cartella Fogli Excel sono:
 [DIR] Fogli Excel/Definizioni/WSO2/VITA/EMISSIONI , [DIR] Fogli Excel/Definizioni/WSO2/VITA/EMISSIONI/HDI
 I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella Fogli Excel e sottocartelle sono : 
 [FILE] Fogli Excel/LibreriaUefa.mask , [FILE] Fogli Excel/Protezione Media Impresa - WSO2 (Def).mask , [FILE] Fogli Excel/Protezione Media Impresa - WSO2.mask
-[FILE] Fogli Excel/Quitenanziamento.mask , [FILE] Fogli Excel/Repertorio Gare - WSO2.mask , [FILE] Fogli Excel/Schedulazione Avvio Processo Short Vita (Def).mask
-[FILE] Fogli Excel/Sospensione Valore Auto - Full UEFA.mask , [FILE] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI/DatiTecniciValoreAuto (Def).mask
-[FILE] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI/HawkPersonaFisica (Def).mask , [FILE] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI/Login UEFA_WSO2 (Def).mask
-[FILE] Fogli Excel/Definizioni/Definizioni/SCENARI COMUNI/PortafoglioIDD - UEFA (Def).mask , [FILE] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/EMISSIONI/Valore Auto - UEFA (Def).mask
-[FILE] Fogli Excel/Definizioni/Definizioni/UEFA/DANNI/POSTVENDITA/Stampa e Ristampe - UEFA (Def).mask
-[FILE] Fogli Excel/Definizioni/Definizioni/UEFA/VITA/POSTVENDITA/Variazione Beneficiari - UEFA (Def).mask , [FILE] Fogli Excel/Definizioni/ELABORAZIONI_VARIE/CyberMail (Def).mask
+[FILE] Fogli Excel/Quitenanziamento.mask , [FILE] Fogli Excel/Schedulazione Avvio Processo Short Vita (Def).mask , [FILE] Fogli Excel/Sospensione Valore Auto - Full UEFA.mask
+[FILE] Fogli Excel/Definizioni/HDI Accumulo Flex - Adeguata Verifica Rafforzata - CTA.mask , [FILE] Fogli Excel/Definizioni/ELABORAZIONI_VARIE/CyberMail (Def).mask
 [FILE] Fogli Excel/Definizioni/ELABORAZIONI_VARIE/CyberMailLogin (Def).mask , [FILE] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI/Annullo Polizza Cauzioni - MIG (Def).mask
 [FILE] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI/Appendice Voltura Cauzioni - MIG (Def).mask
 [FILE] Fogli Excel/Definizioni/MIGRAZIONE/CAUZIONI/Incasso Titolo in Arretrato Cauzioni - MIG (Def).mask
@@ -719,6 +715,7 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni soggetto GIURIDICO.mask
 [FILE] Fogli Excel/Definizioni/UEFA/ANAGRAFICA/Variazione numero cellulare in consensi-adesioni.mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Incasso e Storno Titolo a foglio cassa aperto - CTA.mask
+[FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/FOGLI CASSA/Storno Tecnico.mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Controllo Incasso Quietanza di Rinnovo in arretrato da più di 15gg.mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Annuale TR - Sospensione e Annullo per Vendita.mask
 [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Danni.mask , [FILE] Fogli Excel/Definizioni/UEFA/CONTROLLI CONTABILI/INCASSI/Incasso Cliente Vita.mask
@@ -769,8 +766,7 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA/Stampa e Ristampe Soggetto - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA/Variazione Quietanza - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Annullo-Riattivazione.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Cessione Contratto.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Consultazione Documenti Firma Digitale - UEFA.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Consultazione Documenti Firma Digitale.mask
-[FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia - Fast (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia - Fast.mask
+[FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Consultazione Documenti Firma Digitale.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Crea Copia.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Riclassificazione RCA Agenzia.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Decreto.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Sospensione Valore Auto.mask , [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Trasferimento Polizza.mask
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/POSTVENDITA FULL UEFA/Variazione Generica Auto e RE.mask
@@ -805,8 +801,9 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UEFA/DANNI/SOSTITUZIONI FULL UEFA/Sostituzioni Polizze con Ratino.mask
 [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/F81 - Obiettivo Futuro PAR - PF - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/F86 - Obiettivo Futuro PAC - PF - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Agenzia - UEFA (Def).mask
-[FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Direzione - UEFA (Def).mask , [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - CTA.mask
-[FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - CTA.mask
+[FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/F95 - Obiettivo Crescita Direzione - UEFA (Def).mask
+[FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - Adeguata Verifica Rafforzata - CTA.mask
+[FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Accumulo Flex - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia - CTA.mask
 [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Agenzia Autorizzazione - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto AgenziaAutorizzazione - UEFA (Def).mask
 [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/HDI Capitale Protetto Direzione - CTA.mask , [FILE] Fogli Excel/Definizioni/UEFA/VITA/EMISSIONI/HDI/Obiettivo Investimento - UEFA (Def).mask
@@ -929,8 +926,9 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/Definizioni/UNICO/VITA/POSTVENDITA/Trasferimento Polizza (Def).mask , [FILE] Fogli Excel/Definizioni/UNICO/VITA/POSTVENDITA/Variazione Beneficiari (Def).mask
 [FILE] Fogli Excel/Definizioni/UNICO/VITA/POSTVENDITA/Variazione Frazionamento (Def).mask , [FILE] Fogli Excel/Definizioni/UNICO/VITA/POSTVENDITA/Variazione Premio e Periodicita (Def).mask
 [FILE] Fogli Excel/Definizioni/UNICO/VITA/POSTVENDITA/Versamento Aggiuntivo (Def).mask , [FILE] Fogli Excel/Definizioni/UNICO/VITA/XML BANCA SELLA/XML Banca Sella (def).mask
-[FILE] Fogli Excel/Definizioni/WSO2/DANNI/EMISSIONI/Protezione Media Impresa - WSO2 (Def).mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/EMISSIONI/Valore Auto - FastMotor - WSO2 (Def).mask
-[FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Appendice Dichiarativa.mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.mask
+[FILE] Fogli Excel/Definizioni/WSO2/DANNI/Repertorio Gare.mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/EMISSIONI/Protezione Media Impresa - WSO2 (Def).mask
+[FILE] Fogli Excel/Definizioni/WSO2/DANNI/EMISSIONI/Valore Auto - FastMotor - WSO2 (Def).mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Appendice Dichiarativa.mask
+[FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Dashboard Quietanziamento Agenziale.mask
 [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling - Settori Minori.mask
 [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Dashboard UpSelling CrossSelling.mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Deroghe Assuntive.mask
 [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Variazione Recapito.mask , [FILE] Fogli Excel/Definizioni/WSO2/DANNI/POSTVENDITA/Variazione Segnalatore.mask
