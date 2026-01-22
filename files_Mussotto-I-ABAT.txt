@@ -68,10 +68,10 @@ I file presenti nella cartella Scenari e sottocartelle sono :
 [FILE] Scenari/DANNI/PostVendita/Variazione Quietanza.rpt , [FILE] Scenari/debug/bene.ibt , [FILE] Scenari/debug/debug_mhtml.ibt , [FILE] Scenari/debug/debug_mhtml.rpt
 [FILE] Scenari/debug/testrecord.ibt , [FILE] Scenari/DEMO/CBA MONETA - Parziale.ibt , [FILE] Scenari/DEMO/CBA MONETA - Parziale.rpt , [FILE] Scenari/DEMO/CBA MONETA - Totale.ibt
 [FILE] Scenari/DEMO/checkCondizioniJs.ibt , [FILE] Scenari/DEMO/HDI - Stampa quietanze.ibt , [FILE] Scenari/DEMO/HDI - Stampa quietanze.rpt , [FILE] Scenari/DEMO/I-ACAD.rpt
-[FILE] Scenari/DEMO/I-ACAD_PDF_EMBED.ibt , [FILE] Scenari/DEMO/nuovo.rpt , [FILE] Scenari/DEMO/SwagLab.ibt , [FILE] Scenari/DEMO/TestAlert.ibt , [FILE] Scenari/DEMO/testCachedXpath.ibt
-[FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.iabatpkt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt
-[FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.rpt , [FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica fisico.ibt , [FILE] Scenari/HDI-GENERICI/FastMotor.ibt
-[FILE] Scenari/HDI-GENERICI/MENU PASS.ibt , [FILE] Scenari/HDI-GENERICI/produzione.ibt , [FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.ibt
+[FILE] Scenari/DEMO/I-ACAD_PDF_EMBED.ibt , [FILE] Scenari/DEMO/nuovo.rpt , [FILE] Scenari/DEMO/SwagLab.ibt , [FILE] Scenari/DEMO/Tabelle.ibt , [FILE] Scenari/DEMO/TestAlert.ibt
+[FILE] Scenari/DEMO/testCachedXpath.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMail.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.iabatpkt
+[FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.ibt , [FILE] Scenari/ELABORAZIONI_VARIE/CyberMailLogin.rpt , [FILE] Scenari/Flow/ANAGRAFICA/Inserimento anagrafica fisico.ibt
+[FILE] Scenari/HDI-GENERICI/FastMotor.ibt , [FILE] Scenari/HDI-GENERICI/MENU PASS.ibt , [FILE] Scenari/HDI-GENERICI/produzione.ibt , [FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.ibt
 [FILE] Scenari/Personali/Aumenta le visualizzazioni di raffa.rpt , [FILE] Scenari/Personali/garmin.ibt , [FILE] Scenari/Personali/garmin.rpt , [FILE] Scenari/Personali/IM.ibt
 [FILE] Scenari/Personali/IM.rpt , [FILE] Scenari/Personali/sara.ibt , [FILE] Scenari/Personali/strava.ibt , [FILE] Scenari/Personali/Strava.rpt
 [FILE] Scenari/Produzione/Modifica Anagrafica togli spazio.ibt , [FILE] Scenari/Produzione/Modifica Anagrafica togli spazio.rpt , [FILE] Scenari/Produzione/Produzione 30V Mutuo Protetto Special.ibt
@@ -249,7 +249,7 @@ I file presenti nella cartella Moduli e sottocartelle sono :
 [FILE] Moduli/DANNI/Emissioni/Valore Auto - NFE - FastMotor.json , [FILE] Moduli/DANNI/Emissioni/Valore Auto.json , [FILE] Moduli/DANNI/PostVendita/Consultazione Polizza RCA.json
 [FILE] Moduli/DANNI/PostVendita/Ristampa Documenti Danni.json , [FILE] Moduli/DANNI/PostVendita/Servlet Stampe Firma Digitale.json , [FILE] Moduli/DANNI/PostVendita/Variazione Quietanza.json
 [FILE] Moduli/de/ScintillaNET_FindReplaceDialog.resources.dll , [FILE] Moduli/Debug/Bene.json , [FILE] Moduli/DEMO/Bene.json , [FILE] Moduli/DEMO/checkcondizionijs.json
-[FILE] Moduli/DEMO/I-ACAD.json , [FILE] Moduli/DEMO/i-acad_pdf_embed.json , [FILE] Moduli/DEMO/swaglab.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json
+[FILE] Moduli/DEMO/I-ACAD.json , [FILE] Moduli/DEMO/i-acad_pdf_embed.json , [FILE] Moduli/DEMO/swaglab.json , [FILE] Moduli/DEMO/tabelle.json , [FILE] Moduli/ELABORAZIONI_VARIE/CyberMail.json
 [FILE] Moduli/ELABORAZIONI_VARIE/CyberMailLogin.json , [FILE] Moduli/MODULI COMUNI/DANNI/PortafoglioIDD.json , [FILE] Moduli/Nuovi (As)/CBA - Riscatto Parziale (AS).json
 [FILE] Moduli/Nuovi (As)/DatiTecniciValoreAuto (AS).json , [FILE] Moduli/Nuovi (As)/GIANOS - Persona Fisica (AS).json , [FILE] Moduli/Nuovi (As)/Valore Auto (AS).json
 [FILE] Moduli/SCENARI COMUNI/DatiTecniciValoreAuto.json , [FILE] Moduli/SCENARI COMUNI/HawkPersonaFisica.json , [FILE] Moduli/SCENARI COMUNI/Login UEFA_WSO2.json
@@ -342,7 +342,7 @@ I file .mask (per ogni .mask esiste un .xlsx con lo stesso nome) nella cartella 
 [FILE] Fogli Excel/test.mask , [FILE] Fogli Excel/TestAlert.mask , [FILE] Fogli Excel/vuoto.mask , [FILE] Fogli Excel/webserverinterno_demoricercaavanzata.mask , [FILE] Fogli Excel/xxx.mask
 [FILE] Fogli Excel/yolo.mask , [FILE] Fogli Excel/Debug/debug.mask , [FILE] Fogli Excel/DEFINIZIONI/RistampaPolizzaNEW.mask , [FILE] Fogli Excel/DEFINIZIONI/testCachedXpath.mask
 [FILE] Fogli Excel/DEFINIZIONI/CONTROLLI CONTABILI/Incassi/Incasso Annuale (TR) + Annullo per Vendita - Nodo 0109 (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/DEMO/checkCondizioniJs.mask
-[FILE] Fogli Excel/DEFINIZIONI/DEMO/SwagLab.mask , [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMail (Def).mask
+[FILE] Fogli Excel/DEFINIZIONI/DEMO/SwagLab.mask , [FILE] Fogli Excel/DEFINIZIONI/DEMO/Tabelle.mask , [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMail (Def).mask
 [FILE] Fogli Excel/DEFINIZIONI/ELABORAZIONI_VARIE/CyberMailLogin (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/DatiTecniciValoreAuto (Def).mask
 [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/HawkPersonaFisica (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/Login UEFA_WSO2 (Def).mask
 [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD (Def).mask , [FILE] Fogli Excel/DEFINIZIONI/SCENARI COMUNI/PortafoglioIDD - UEFA (Def).mask
